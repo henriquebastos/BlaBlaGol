@@ -1,14 +1,29 @@
 ---
 import Arquivo from '../../layouts/Arquivo.astro';
 import Lista from '../../components/Lista.astro';
-import {posts, pageKey} from '../../acervo.mjs';
+import {people, pageKey, postPath, commentPath} from '../../acervo.mjs';
 export function getStaticPaths() {
-  const authors = [...new Set(posts.map(post => post.author).filter(Boolean))];
-  return authors.map(name => ({params:{id:pageKey(name)},props:{name,entries:posts.filter(post => post.author === name)}}));
+  return people.map(person => ({params:{id:pageKey(person.name)},props:{person}}));
 }
-const {name,entries} = Astro.props;
+const {person} = Astro.props;
+const {name,entries,comments} = person;
+const base = import.meta.env.BASE_URL;
+const grouped = new Map();
+for (const entry of comments) {
+  if (!grouped.has(entry.post.id)) grouped.set(entry.post.id,[]);
+  grouped.get(entry.post.id).push(entry);
+}
 ---
 <Arquivo title={name}>
 <h1>{name}</h1>
-<Lista entries={entries} />
+<h2>Posts</h2>
+{entries.length ? <Lista entries={entries} /> : <p class="minor">Nenhum post assinado com este nome.</p>}
+<h2>Comentários</h2>
+{comments.length ? <ul class="atividades">{[...grouped.values()].map(items => <li>
+  <a href={postPath(items[0].post.id,base)}>{items[0].post.title}</a>
+  <ul>{items.map(({post,id,date}) => <li><a href={commentPath(post.id,id,base)}>#{id}</a> <small>{date}</small></li>)}</ul>
+</li>)}</ul> : <p class="minor">Nenhum comentário assinado com este nome.</p>}
 </Arquivo>
+<style>
+  .atividades{list-style:none;padding:0}.atividades>li{padding:.65rem 0;border-bottom:1px solid var(--line)}
+</style>

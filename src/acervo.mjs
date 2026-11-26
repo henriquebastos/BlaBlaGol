@@ -11,6 +11,17 @@ const imageName = /^[a-zA-Z0-9][a-zA-Z0-9._-]*\.(?:png|jpe?g|gif|webp|avif)$/i;
 const assetPath = (name) => imageName.test(name) && existsSync(join(source, 'Anexos', name));
 const textWiki = (s) => String(s || '').replace(wiki, (_, bang, target, label) => label || target.split('/').at(-1));
 
+function cleanPostBody(body) {
+  const lines = body.trim().split('\n');
+  if (/^Link(?:[ \t]+Link)+$/i.test(lines[0])) lines.shift();
+  return lines.filter((line, i) => {
+    if (/^\[\d+\s*Coment[aá]rios?\]/i.test(line) && line.includes('Enviar por e-mail') && line.includes('/wp-content/plugins/wp-email/')) return false;
+    const asset = /^!\[\[Anexos\/([^|\]]+)/.exec(lines[i-1] || '')?.[1];
+    if (asset && assetPath(asset) && /^\[[^\]]+ \(original\)\]\(<https?:\/\/[^>]+\/wp-content\/uploads\/[^>]+>\)[ \t]*$/i.test(line)) return false;
+    return true;
+  }).join('\n').trim();
+}
+
 function parsePost(name) {
   const input = readFileSync(join(source, 'Posts', name), 'utf8');
   const parts = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/.exec(input);
@@ -23,8 +34,8 @@ function parsePost(name) {
   const raw = (/^# /.test(first) ? rest.join('\n') : parts[2]).trim();
   const [body, ...sections] = raw.split(/^# Comentários\s*$/m);
   const date = /^\d{4}-\d{2}-\d{2}$/.test(data.publicado_em) ? String(data.publicado_em) : '';
-  return {id, title, date, year: date.slice(0,4) || 'sem-data', author: textWiki(data.autor),
-    catalogOnly: data.registro_historico === true, themes: Array.isArray(data.temas) ? data.temas.map(textWiki) : [], body: body.trim(),
+  return {id, title, date, year: date.slice(0,4) || 'sem-data', author: (/\[\[Pessoas\/([^\]|]+)/.exec(data.autor || '')?.[1] || textWiki(data.autor)).normalize('NFC'),
+    catalogOnly: data.registro_historico === true, themes: Array.isArray(data.temas) ? data.temas.map(textWiki) : [], body: cleanPostBody(body),
     comments: sections.join('\n# Comentários\n').trim()};
 }
 
@@ -38,7 +49,29 @@ export const years = [...new Set(posts.map((post) => post.year))];
 export const labelYear = (year) => year === 'sem-data' ? 'Sem data' : year;
 export const postPath = (id, base) => base.replace(/\/$/, '') + '/posts/' + id + '/';
 export const yearPath = (year, base) => base.replace(/\/$/, '') + '/ano/' + year + '/';
-export const pageKey = (name) => createHash('sha256').update(name).digest('hex').slice(0,16);
+export function commentEntries(input) {
+  return [...input.matchAll(/^## ([^\n]*?) #(\d+)(?: \^comentario-\d+)?[ \t]*$/gm)].map(([,title,id]) => {
+    const profile = /\[\[Pessoas\/([^\]|]+)(?:\|([^\]]+))?\]\]/.exec(title);
+    return {id, name: profile ? profile[1].normalize('NFC') : '', date: title.split(' - ',1)[0]};
+  });
+}
+const peopleMap = new Map();
+function person(name) {
+  name = name.normalize('NFC');
+  if (!peopleMap.has(name)) peopleMap.set(name,{name,entries:[],comments:[]});
+  return peopleMap.get(name);
+}
+for (const post of posts) {
+  if (post.author) person(post.author).entries.push(post);
+  for (const entry of commentEntries(post.comments)) {
+    if (entry.name && !(post.id==='2492' && entry.id==='25500')) {
+      person(entry.name).comments.push({post, id:entry.id, date:entry.date});
+    }
+  }
+}
+export const people = [...peopleMap.values()].sort((a,b) => a.name.localeCompare(b.name,'pt-BR'));
+export const commentPath = (id,comment,base) => postPath(id,base)+'#comentario-'+comment;
+export const pageKey = (name) => createHash('sha256').update(name.normalize('NFC')).digest('hex').slice(0,16);
 export const authorPath = (name,base) => base.replace(/\/$/,'')+'/autor/'+pageKey(name)+'/';
 export const themePath = (name,base) => base.replace(/\/$/,'')+'/tema/'+pageKey(name)+'/';
 export const dateLabel = (date) => date ? date.split('-').reverse().join('/') : 'Sem data confirmada';
@@ -62,7 +95,10 @@ export function renderMarkdown(input, base, {comments = false, postId = ''} = {}
       return '![' + (label || 'Imagem da publicação').replace(/[\[\]]/g,'') + '](' + url + ')';
     }
     const postId = target.match(/^(?:Posts\/)?(\d+)(?: - .*?)?(?:#\^comentario-(\d+))?$/);
-    const visible = (label || target.split('/').at(-1)).replace(/[\[\]]/g,'');
+    const visible = (label || target.split('/').at(-1)).replace(/[\[\]]/g,'').replaceAll('\\','\\\\');
+    if (!bang && target.startsWith('Pessoas/') && peopleMap.has(target.slice(8).normalize('NFC'))) {
+      return '[' + visible + '](' + authorPath(target.slice(8),base) + ')';
+    }
     if (!bang && postId && ids.has(postId[1])) {
       return '[' + visible + '](' + postPath(postId[1], base) + (postId[2] ? '#comentario-' + postId[2] : '') + ')';
     }
@@ -84,7 +120,7 @@ function serialize(node, assets, prefix) {
   const p = node.properties || {};
   if (tag === 'a') {
     const href = String(p.href || '');
-    const match = href.startsWith(prefix) && /^posts\/\d+\/(#comentario-\d+)?$/.test(href.slice(prefix.length));
+    const match = href.startsWith(prefix) && /^(?:posts\/\d+\/(#comentario-\d+)?|autor\/[a-f0-9]{16}\/)$/.test(href.slice(prefix.length));
     if (match || /^#comentario-\d+$/.test(href)) return '<a href="' + clean(href) + '">' + content + '</a>';
     if (!local && /^https:\/\/web\.archive\.org\/web\/\d{14}\//i.test(href)) {
       return '<a rel="noreferrer" href="' + clean(href) + '">' + content + '</a>';

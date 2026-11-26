@@ -1,0 +1,27 @@
+---
+import Arquivo from '../../layouts/Arquivo.astro';
+import {people,authorPath} from '../../acervo.mjs';
+const base = import.meta.env.BASE_URL;
+const groups = new Map();
+for (const person of people) {
+  const initial = person.name.normalize('NFD').replace(/\p{M}/gu,'')[0]?.toUpperCase() || '#';
+  const key = /^[A-Z]$/.test(initial) ? initial : '#';
+  if (!groups.has(key)) groups.set(key,[]);
+  groups.get(key).push(person);
+}
+const letters = [...groups.keys()].sort();
+---
+<Arquivo title="Pessoas">
+  <h1>Pessoas</h1>
+  <p>Quem escreveu e comentou no BlaBlaGol.</p>
+  <nav aria-label="Nomes por inicial">
+    <ul class="anual">{letters.map(letter => <li><a href={'#letra-'+(letter === '#' ? 'outros' : letter)}>{letter}</a></li>)}</ul>
+  </nav>
+  {letters.map(letter => <section id={'letra-'+(letter === '#' ? 'outros' : letter)}>
+    <h2>{letter}</h2>
+    <ul class="pessoas">{groups.get(letter).map(person => <li><a href={authorPath(person.name,base)}>{person.name}</a></li>)}</ul>
+  </section>)}
+</Arquivo>
+<style>
+  .pessoas{display:grid;grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));gap:.4rem 1rem;list-style:none;padding:0}
+</style>

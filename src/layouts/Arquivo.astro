@@ -13,7 +13,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
 </head>
 <body>
   <a class="skip" href="#conteudo">Ir para o conteúdo</a>
-  <header><div class="frame mast"><a class="marca" href={base}>BlaBlaGol<span>.</span></a><span class="selo">{local ? 'Prévia local' : 'Futebol e conversa'}</span></div></header>
+  <header><div class="frame mast"><a class="marca" href={base}>BlaBlaGol<span>.</span></a><nav class="selo" aria-label="Navegação principal"><a href={base}>Posts</a><a href={base + 'pessoas/'}>Pessoas</a>{local && <span>Prévia local</span>}</nav></div></header>
   <main class="frame" id="conteudo"><slot /></main>
   <footer class="frame">BlaBlaGol</footer>
 </body>
@@ -28,8 +28,9 @@ header{color:var(--paper);background:var(--pitch);border-bottom:5px solid var(--
 .frame{width:min(100% - 2rem,60rem);margin-inline:auto}
 .mast{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:4.5rem}
 .marca{color:inherit;font:bold 1.62rem Georgia,serif;text-decoration:none}
+.selo a{color:inherit}
 .marca span{color:var(--accent)}
-.selo{font-size:.83rem;letter-spacing:.03em}
+.selo{display:flex;gap:1rem;align-items:center;font-size:.83rem;letter-spacing:.03em}
 main{padding:clamp(2rem,5vw,4rem) 0}
 footer{border-top:1px solid var(--line);color:var(--minor);padding:1.3rem 0 2rem;font-size:.85rem}
 h1,h2,h3{line-height:1.12}
