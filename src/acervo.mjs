@@ -4,6 +4,10 @@ import {join, resolve} from 'node:path';
 import {load, JSON_SCHEMA} from 'js-yaml';
 import {markdownToHast} from 'satteri';
 
+import excludedPosts from './posts-fora-do-site.json' with {type: 'json'};
+
+const excluded = new Set(excludedPosts);
+
 export const local = process.env.BBG_LOCAL === '1';
 const source = resolve(process.cwd(), local ? '../conteudo' : 'edicao');
 const wiki = /(!?)\[\[([^\]|\n]+)(?:\|([^\]\n]+))?\]\]/g;
@@ -43,6 +47,7 @@ function parsePost(name) {
 export const posts = readdirSync(join(source, 'Posts'), {withFileTypes:true})
   .filter((entry) => entry.isFile() && entry.name.endsWith('.md'))
   .map((entry) => parsePost(entry.name))
+  .filter((post) => local || !excluded.has(post.id))
   .sort((a,b) => b.date.localeCompare(a.date) || Number(b.id) - Number(a.id));
 const ids = new Set(posts.map((post) => post.id));
 if (ids.size !== posts.length) throw Error('IDs de publicação repetidos');
