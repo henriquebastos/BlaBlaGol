@@ -11,7 +11,7 @@ temas: ["[[Temas/Tema 012ae15b4607|Futebol]]","[[Temas/Tema abb643110980|Vasco]]
 
 Apesar da confiança do Renatão, após a sólida vitória de ontem, o avião pode dar ré sim.
 
-[pesquisei](<https://web.archive.org/web/20090106160935/http://www.aerovirtual.org/forum/lofiversion/index.php/t95018.html> "Endereço original: http://www.aerovirtual.org/forum/lofiversion/index.php/t95018.html") ([imagem 1 no Wayback](<https://web.archive.org/web/20110815121937im_/http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/KLM_777_pushback.jpg/200px-KLM_777_pushback.jpg>)) rapidamente aqui na internet e descobri que aviões de verdade podem dar ré sim, apesar de não ser habitual e bláblábláblágol.
+[pesquisei](<https://web.archive.org/web/20090106160935/http://www.aerovirtual.org/forum/lofiversion/index.php/t95018.html> "Endereço original: http://www.aerovirtual.org/forum/lofiversion/index.php/t95018.html") rapidamente aqui na internet e descobri que aviões de verdade podem dar ré sim, apesar de não ser habitual e bláblábláblágol.
 
 Já no caso do time do Vasco, vinha engrenando e finalmente tivemos uma apresentação realmente convincente. É suficiente pra escapar? Não sei. Acho que não. Mas pelo menos, dessa maneira, não ficaremos com a sensação de que o time era um bando de safado que não corria e não fazia por onde pra vencer, entregues e sendo chutados como vadios. Perder faz parte do jogo e o futebol é um jogo. Azar ou Sorte conta, mas no caso do Vasco o problema era outro. Aparentemente, esse problema o Renato ajustou e o time se entregou ontem.
 
@@ -119,7 +119,7 @@ Show de bola as seções em outras línguas no site do Vasco.
 
 \*\*\*\*
 
-Gaburah que vai curtir o [perfil do Tulio em italiano](<https://web.archive.org/web/20210122183226/http://futbolandia.ilcannocchiale.it/2008/09/30/la_meraviglia_della_segundona.html> "Endereço original: http://futbolandia.ilcannocchiale.it/2008/09/30/la_meraviglia_della_segundona.html") ([imagem 1 no Wayback](<https://web.archive.org/web/20210122171306im_/http://futbolandia.ilcannocchiale.it/mediamanager/sys.user/49136/tulio1.jpg>), [imagem 2 no Wayback](<https://web.archive.org/web/20210122171324im_/http://futbolandia.ilcannocchiale.it/mediamanager/sys.user/49136/tulioetacabrasileiro1995.jpg>))
+Gaburah que vai curtir o [perfil do Tulio em italiano](<https://web.archive.org/web/20210122183226/http://futbolandia.ilcannocchiale.it/2008/09/30/la_meraviglia_della_segundona.html> "Endereço original: http://futbolandia.ilcannocchiale.it/2008/09/30/la_meraviglia_della_segundona.html")
 
 ## 12/04/2009 14:55 - [[Pessoas/vanesssa de souza barbosa|vanesssa de souza barbosa]] - #31664 ^comentario-31664
 
