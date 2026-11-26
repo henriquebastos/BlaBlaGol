@@ -6,11 +6,11 @@ const base = import.meta.env.BASE_URL;
 <Arquivo title="BlaBlaGol">
   <div class="eyebrow">Memória do futebol</div>
   <h1>O arquivo do BlaBlaGol</h1>
-  {local ? <p class="minor">{posts.length.toLocaleString('pt-BR')} registros no cofre, incluindo publicações com lacunas.</p> : null}
+  {local ? <p class="minor">{posts.length.toLocaleString('pt-BR')} registros no cofre, incluindo publicações com lacunas.</p> : <p class="quadro">Um blog de futebol visto da arquibancada. Esta primeira edição abre uma seleção de registros históricos. Os textos, comentários e fotos ficam fora até a revisão para republicação.</p>}
   {posts.length ? <>
     <h2>Por ano</h2>
     <ul class="anual">{years.map((year) => <li><a href={yearPath(year, base)}>{labelYear(year)}</a></li>)}</ul>
-    <h2>Últimas publicações do acervo</h2>
+    <h2>{local ? 'Últimas publicações do acervo' : 'Seleção do acervo'}</h2>
     <ul class="lista">{posts.slice(0, 24).map(post => <li><time datetime={post.date || undefined}>{dateLabel(post.date)}</time><a href={postPath(post.id,base)}>{post.title}</a></li>)}</ul>
   </> : <p>As publicações ainda não foram liberadas para a edição web.</p>}
 </Arquivo>

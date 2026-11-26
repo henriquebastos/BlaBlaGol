@@ -15,7 +15,7 @@ const comments = renderMarkdown(post.comments, base, {comments:true,postId:post.
     <h1>{post.title}</h1>
     <p class="minor"><time datetime={post.date || undefined}>{dateLabel(post.date)}</time>{post.author && ' · ' + post.author}</p>
     {post.themes.length > 0 && <p class="minor">{post.themes.join(' · ')}</p>}
-    <div class="prosa" set:html={body} />
+    {post.catalogOnly ? <p>Esta página registra o título e a data da publicação original. O texto e os comentários ainda não fazem parte da edição web.</p> : <div class="prosa" set:html={body} />}
     {comments && <section class="comentarios"><h2>Comentários</h2><div class="prosa" set:html={comments} /></section>}
   </article>
 </Arquivo>

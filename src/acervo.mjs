@@ -23,7 +23,7 @@ function parsePost(name) {
   const [body, ...sections] = raw.split(/^# Comentários\s*$/m);
   const date = /^\d{4}-\d{2}-\d{2}$/.test(data.publicado_em) ? String(data.publicado_em) : '';
   return {id, title, date, year: date.slice(0,4) || 'sem-data', author: textWiki(data.autor),
-    themes: Array.isArray(data.temas) ? data.temas.map(textWiki) : [], body: body.trim(),
+    catalogOnly: data.registro_historico === true, themes: Array.isArray(data.temas) ? data.temas.map(textWiki) : [], body: body.trim(),
     comments: sections.join('\n# Comentários\n').trim()};
 }
 
