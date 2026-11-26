@@ -1,0 +1,21 @@
+---
+import Arquivo from '../../layouts/Arquivo.astro';
+import {posts, renderMarkdown, dateLabel, yearPath, labelYear} from '../../acervo.mjs';
+export function getStaticPaths() {
+  return posts.map(post => ({params:{id:post.id},props:{post}}));
+}
+const {post} = Astro.props;
+const base = import.meta.env.BASE_URL;
+const body = renderMarkdown(post.body, base);
+const comments = renderMarkdown(post.comments, base, {comments:true,postId:post.id});
+---
+<Arquivo title={post.title}>
+  <article class="quadro">
+    <p class="eyebrow"><a href={yearPath(post.year,base)}>{labelYear(post.year)}</a> / #{post.id}</p>
+    <h1>{post.title}</h1>
+    <p class="minor"><time datetime={post.date || undefined}>{dateLabel(post.date)}</time>{post.author && ' · ' + post.author}</p>
+    {post.themes.length > 0 && <p class="minor">{post.themes.join(' · ')}</p>}
+    <div class="prosa" set:html={body} />
+    {comments && <section class="comentarios"><h2>Comentários</h2><div class="prosa" set:html={comments} /></section>}
+  </article>
+</Arquivo>

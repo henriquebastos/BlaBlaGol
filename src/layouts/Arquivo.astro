@@ -1,0 +1,55 @@
+---
+import {local} from '../acervo.mjs';
+const {title} = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+---
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {local && <meta name="robots" content="noindex, nofollow">}
+  <title>{title === 'BlaBlaGol' ? title : title + ' · BlaBlaGol'}</title>
+</head>
+<body>
+  <a class="skip" href="#conteudo">Ir para o conteúdo</a>
+  <header><div class="frame mast"><a class="marca" href={base}>BlaBlaGol<span>.</span></a><span class="selo">Arquivo do blog{local ? ' · Local' : ''}</span></div></header>
+  <main class="frame" id="conteudo"><slot /></main>
+  <footer class="frame">BlaBlaGol · Acervo histórico</footer>
+</body>
+</html>
+<style is:global>
+:root{color-scheme:light;--paper:#fcfaf3;--ink:#262821;--minor:#505649;--line:#d9dacb;--pitch:#174333;--accent:#b8d095;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif}
+a{color:var(--pitch);text-underline-offset:.2em}
+a:focus-visible{outline:2px solid #88631b;outline-offset:4px}
+header{color:var(--paper);background:var(--pitch);border-bottom:5px solid var(--accent)}
+.frame{width:min(100% - 2rem,60rem);margin-inline:auto}
+.mast{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:4.5rem}
+.marca{color:inherit;font:bold 1.62rem Georgia,serif;text-decoration:none}
+.marca span{color:var(--accent)}
+.selo{font-size:.83rem;letter-spacing:.03em}
+main{padding:clamp(2rem,5vw,4rem) 0}
+footer{border-top:1px solid var(--line);color:var(--minor);padding:1.3rem 0 2rem;font-size:.85rem}
+h1,h2,h3{line-height:1.12}
+h1{font:700 clamp(2.35rem,6vw,4.5rem)/1.02 Georgia,serif;letter-spacing:-.045em;margin:.35em 0}
+h2{font-size:1.43rem}
+p{margin:1em 0}
+.eyebrow{color:var(--minor);font-size:.82rem;letter-spacing:.07em;text-transform:uppercase}
+.anual{display:flex;flex-wrap:wrap;gap:.5rem;padding:0;list-style:none}
+.anual a{display:block;padding:.35rem .69rem;border:1px solid var(--line);border-radius:2px}
+.lista{padding:0;list-style:none;border-top:1px solid var(--line)}
+.lista li{display:grid;grid-template-columns:7.5rem 1fr;gap:.5rem;padding:.55rem 0;border-bottom:1px solid var(--line)}
+small,time,.minor{color:var(--minor);font-size:.82rem}
+.quadro{max-width:46rem}
+.prosa{font:1.15rem/1.65 Georgia,serif;overflow-wrap:anywhere}
+.prosa img{display:block;max-width:100%;height:auto;margin:1rem auto}
+.prosa pre,.prosa table{display:block;overflow-x:auto}
+.prosa blockquote{margin-inline:0;padding-left:1rem;border-left:3px solid var(--accent)}
+.comentarios{margin-top:3rem;border-top:2px solid var(--pitch)}
+.comentarios h3{font:650 .88rem/1.5 system-ui,sans-serif;border-top:1px solid var(--line);padding-top:1rem;margin-top:1.7rem}
+.skip{position:absolute;left:1rem;top:-5rem;background:var(--paper);padding:.35rem}
+.skip:focus{top:.1rem}
+@media(max-width:500px){.lista li{grid-template-columns:1fr;gap:0}.mast{min-height:3.5rem}}
+</style>
