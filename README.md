@@ -1,5 +1,7 @@
 # BlaBlaGol
 
+[**Ver o blog publicado**](https://henriquebastos.github.io/BlaBlaGol/)
+
 O blog e o cofre do Obsidian vivem neste repositório. O Astro lê os mesmos posts em Markdown que o Obsidian.
 
 ## Abrir no Obsidian
