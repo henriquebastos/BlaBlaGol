@@ -749,7 +749,9 @@ a torcida do framengo comemora qq merda q qq jornaleco publica.
 
 duhhhhh
 
-## 23/02/2011 0:25 - [[Pessoas/Bender|Bender]] - #87094 ^comentario-870[telefone omitido] 1983 1987\* 1992 2009
+## 23/02/2011 0:25 - [[Pessoas/Bender|Bender]] - #87094 ^comentario-87094
+
+1980 1982 1983 1987\* 1992 2009
 
 \***[EU JÁ SABIA](<http://www.blablagol.com.br/a-historia-de-1987-988>) [[Posts/988 - A História de 1987|no acervo]]**
 

@@ -13,7 +13,7 @@ Link  Link  Link  Link
 
 Para aqueles que passaram o último mês em Marte, registramos que orgulhosamente acontecerá amanhã – 21/05/2011 – o ***1° Congresso Mundial Blablagoliano***, oportunidade inédita em que promover-se-á o encontro entre editores, colaboradores e leitores do [blog de futebol mais inteligente, bacana e modesto da paróquia.](<http://www.blablagol.com.br/>)
 
-Não tem muita formalidade não. É só o cidadão comparecer por volta das 20h à sede histórica do Blá Blá Gol, conhecida também pelo nome de **Steak House**, sito à Rua Gavião Peixoto 176 – Icaraí – Niterói (tel: 2610-0820). Chegando lá, podem se dirigir à mesa que dispensará maiores indicações. Ou na dúvida procurem o ilustríssimo **Zé Mário** – o [Jarvis](<https://web.archive.org/web/*/http://en.wikipedia.org/wiki/Edwin_Jarvis> "Captura ainda não verificada. Endereço original: http://en.wikipedia.org/wiki/Edwin_Jarvis")blablagoliano. Ele indica a galera.
+Não tem muita formalidade não. É só o cidadão comparecer por volta das 20h à sede histórica do Blá Blá Gol, conhecida também pelo nome de **Steak House**, sito à Rua Gavião Peixoto 176 – Icaraí – Niterói (tel: [telefone omitido]). Chegando lá, podem se dirigir à mesa que dispensará maiores indicações. Ou na dúvida procurem o ilustríssimo **Zé Mário** – o [Jarvis](<https://web.archive.org/web/*/http://en.wikipedia.org/wiki/Edwin_Jarvis> "Captura ainda não verificada. Endereço original: http://en.wikipedia.org/wiki/Edwin_Jarvis")blablagoliano. Ele indica a galera.
 
 **IMPORTANTE:**  cada um paga a sua conta. Não tem caô de pendura nem cortesia.
 

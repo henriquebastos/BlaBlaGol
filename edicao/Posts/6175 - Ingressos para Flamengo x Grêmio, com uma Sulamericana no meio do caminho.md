@@ -97,7 +97,7 @@ Vai saber qualé o esquema…
 ## [[Pessoas/Cerlom|Cerlom]] - #44160 ^comentario-44160
 
 Compro ingressos para o Jogo Flamengo x Grêmio no Maracanã.  
- Tel.: [telefone omitido] [telefone omitido]
+ Tel.: [telefone omitido]
 
 ## Nome não exibido - #44164
 

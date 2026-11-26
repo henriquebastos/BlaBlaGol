@@ -114,7 +114,9 @@ então o tetra não seria inédito? foda-se… vou torcer pro Neymar.
 
 *Nessa época aí apenas #bosta e flor jogavam o estadual. Não conta.*
 
-## 15/02/2013 18:43 - Nome não exibido - #1497[telefone omitido] o merdão já tava na ativa. Vá estudar!
+## 15/02/2013 18:43 - Nome não exibido - #149704
+
+1916-1919 o merdão já tava na ativa. Vá estudar!
 
 ## 17/02/2013 22:19 - Nome não exibido - #149859
 

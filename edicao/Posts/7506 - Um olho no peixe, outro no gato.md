@@ -96,7 +96,9 @@ SAIR DO CAMPEÃO PRA IR PRO VICE? VAI A MERDA JOEL PUTO!
 
 Alguém tem o telefone do Autuori aí?
 
-## 24/04/2010 13:41 - Nome não exibido - #557[telefone omitido]
+## 24/04/2010 13:41 - Nome não exibido - #55718
+
+0812-1995
 
 ## 24/04/2010 18:49 - Nome não exibido - #55726
 

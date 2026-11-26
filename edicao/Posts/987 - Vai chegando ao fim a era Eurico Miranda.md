@@ -88,7 +88,7 @@ Bom dia a todos. Meu nome é Carlos Roberto Margoto, compositor e fiz uma músic
 Tenho ela gravada em CD e DVD  
  Me passem o e-mail que anexo a música
 
-Meu tel (27)9992-95[telefone omitido]
+Meu tel [telefone omitido]
 
 Compositor: Carlos Roberto Margoto
 

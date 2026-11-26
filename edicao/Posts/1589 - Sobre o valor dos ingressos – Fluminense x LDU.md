@@ -208,7 +208,7 @@ Eu venho sistemáticamente condenando o Fluminense por conta da bagunça dos ing
 
 ## 25/06/2008 19:18 - [[Pessoas/oswaldo|oswaldo]] - #20628 ^comentario-20628
 
-eu não vou mais ao jogo e estou vendendo o ingresso a quem interressar contato no tel 97322711
+eu não vou mais ao jogo e estou vendendo o ingresso a quem interressar contato no tel [telefone omitido]
 
 ## 29/06/2008 14:00 - [[Pessoas/Israel|israel]] - #20817 ^comentario-20817
 

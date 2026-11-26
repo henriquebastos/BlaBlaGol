@@ -509,7 +509,9 @@ Sem dúvida, esse blog, que é do Sanchotene, é o melhor qualificador de títul
 
 Coisa linda. Emocionei-me só de escrever.
 
-## 5/08/2010 17:32 - Nome não exibido - #659[telefone omitido]-1964-1966-1968-1995
+## 5/08/2010 17:32 - Nome não exibido - #65983
+
+1931-1962-1964-1966-1968-1995
 
 É HEXAAAAAA.. CHUPA FLAMENGO,CHUPA BRASIL…CORRE ATRÁS!
 

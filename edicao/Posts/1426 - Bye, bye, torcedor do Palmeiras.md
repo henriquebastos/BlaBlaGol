@@ -35,7 +35,7 @@ Paulinho,
 
 não sei se isso aqui é verdade, gostaria até que você ou Flávio que tem o sócio-torcedor dissessem se sabem algo à respeito:
 
-> ***A EBN está com um novo projeto para o Campeonato Brasileiro de 2008: A utilização de um cartão inteligente, que dará acesso para todos os jogos ou eventos realizados no Engenhão. O esquema é o seguinte: você compra o cartão por R$ 4,99, liga para o telefone (2122-8020) e recarrega ele para o jogo que você quiser assistir. O pagamento é feito pelo cartão de crédito.***
+> ***A EBN está com um novo projeto para o Campeonato Brasileiro de 2008: A utilização de um cartão inteligente, que dará acesso para todos os jogos ou eventos realizados no Engenhão. O esquema é o seguinte: você compra o cartão por R$ 4,99, liga para o telefone [telefone omitido]) e recarrega ele para o jogo que você quiser assistir. O pagamento é feito pelo cartão de crédito.***
 > 
 >   
 > 
@@ -71,7 +71,7 @@ Desta forma, você não precisaria ser torcedor oficial, pagar por todos os jogo
 
 \*\*\*\*
 
-Em tempo, este telefone (2122-8020) é real. De fato é o do Disque-Botafogo. No site do clube está anunciado.  
+Em tempo, este telefone [telefone omitido]) é real. De fato é o do Disque-Botafogo. No site do clube está anunciado.  
  Infelizmente o site do Botafogo é um cocô. Vários links que não levam a lugar nenhum, e anúncio para vendas de pacote para o Campeonato Carioca de 2008. Nem perdi meu tempo procurando pelo do Brasileiro.
 
 De qualquer forma, se você ou Flávio souberem alguma coisa, interessa-me bastante saber.

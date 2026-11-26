@@ -162,7 +162,7 @@ Ainda não tenho as informações sobre preço e locais de venda, mas devem divu
 
 **VENDA ANTECIPADA: (meia-entrada e inteira)**
 
-Site Oficial do Botafogo, General Severiano (vendas também sábado e domingo), Caio Martins (venda somente até o sábado), bilheteria Norte do Stadium Rio, Site da Ingresso Mais, postos credenciados e Call Center [telefone omitido])
+Site Oficial do Botafogo, General Severiano (vendas também sábado e domingo), Caio Martins (venda somente até o sábado), bilheteria Norte do Stadium Rio, Site da Ingresso Mais, postos credenciados e Call Center ([telefone omitido])
 
 **POSTOS CREDENCIADOS:**
 

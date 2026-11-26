@@ -253,7 +253,7 @@ Conseguindo ambos, a chance de LUCRAR com a bagaça é grande.
 > 
 >   
 > 
-> Se tiver alguma dúvida a respeito da sua aplicação de ingressos clique no link “Contate-nos” à esquerda desta comunicação ou através do telefone 0300 021 2014
+> Se tiver alguma dúvida a respeito da sua aplicação de ingressos clique no link “Contate-nos” à esquerda desta comunicação ou através do telefone [telefone omitido]
 > 
 >   
 > 

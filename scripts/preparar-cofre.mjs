@@ -8,11 +8,13 @@ for (const dir of ['Posts','Pessoas','Anexos','Temas','Cronologia','.obsidian'])
 
 const email = /\b[A-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Z0-9-]+(?:\.[A-Z0-9-]+)+\b/gi;
 const cpf = /\b\d{3}\.\d{3}\.\d{3}-\d{2}\b/g;
-const telefone = /(?:\+55\s*)?\(?\d{2}\)?\s+9?\d{4}[ .-]\d{4}\b/g;
+const telefone = /(?<!\d)(?:\+55[ \t]*)?(?:\(\d{2}\)[ \t]*|\d{2}[ \t]+)9?\d{4}[ .-]\d{4}\b/g;
 let redacoes = 0;
 function dados(texto) {
   return String(texto || '').replace(email, () => { redacoes++; return '[e-mail omitido]'; })
-    .replace(cpf,'[documento omitido]').replace(telefone,'[telefone omitido]');
+    .replace(cpf,'[documento omitido]')
+    .replace(/\b((?:tel(?:efone)?|fone|celular|whatsapp)(?:[ \t]+(?:de casa|do trabalho))?[ \t:.-]*)(?:\+?[\d(). -]{6,}\d)/gi,'$1[telefone omitido]')
+    .replace(telefone,'[telefone omitido]');
 }
 const sensivel = /carol[\s._%/-]*miranda|carolin[a-z]*[\s._%/-]*dieckmann|nudez[\s._%/-]*censurada|(?:foto|vídeo|video)[s]?[\s._%/-]+(?:íntim|intim|vazad)|(?:redtube|xvideos|pornhub|xhamster|thefappening)\./i;
 const antigos = readFileSync(join(original,'Mídia.md'),'utf8');

@@ -309,7 +309,8 @@ Campeonato Brasileiro de Futebol – Médias anuais de público
  1975 15984  
  1976 17010  
  1977 16472  
- 1978 105[telefone omitido]  
+ 1978 10539  
+ 1979 9136  
  1980 20792  
  1981 17545  
  1982 19808  
@@ -333,7 +334,8 @@ Campeonato Brasileiro de Futebol – Médias anuais de público
  2000 11546  
  2001 11400  
  2002 12886  
- 2003 104[telefone omitido]  
+ 2003 10468  
+ 2004 8805  
  2005 13765  
  2006 12342  
  2007 17471  

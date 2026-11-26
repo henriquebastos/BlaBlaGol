@@ -1511,7 +1511,8 @@ Outras honras
 1988 – Vice Campeão – Europeu Sub-17  
  1988 – Vice Campeão – Europeu Sub-19  
  1989 – 3º Classificado – Mundial Sub-17  
- 1990 – Vice Campeão – Europeu Sub-[telefone omitido] – Vice-campeão – Liga Portuguesa (Sporting CP)  
+ 1990 – Vice Campeão – Europeu Sub-19  
+ 1994-1995 – Vice-campeão – Liga Portuguesa (Sporting CP)  
  1995-1996 – Vice-campeão – Major League Soccer (MetroStars)  
  2002-2003 – Finalista Vencido – Taça da Liga Inglesa (Manchester United)adjunto  
  2005-2006 – Finalista Vencido – Taça de Inglaterra (Manchester United)adjunto  

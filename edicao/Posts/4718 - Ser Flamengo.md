@@ -891,7 +891,7 @@ Ser Flamengo é enganar o guarda, é roubar o beijo. É bailar sempre para distr
 
 É crer, é ser, é vibrar. É vencer. É correr para; jamais correr de. É seiva, é salva; é vastidão. É frente, é franco, é forte, é furacão. É flor que quebra o muro, mão que faz o trabalho, povo que faz país.”
 
-Por isso que se ferrem os botafoguenses eles sao uma porcaria ne nao gente flamenguista que gosto sou louro e branco alto e magro namora comigo falo as gatas flamenguistas tenho 16 vcs sao nobs botafoguenses meu tel:43548576 de casa telefone 34438294 a sou do rio de janeiro valeu genteee e mengoooooo
+Por isso que se ferrem os botafoguenses eles sao uma porcaria ne nao gente flamenguista que gosto sou louro e branco alto e magro namora comigo falo as gatas flamenguistas tenho 16 vcs sao nobs botafoguenses meu tel:[telefone omitido] de casa telefone [telefone omitido] a sou do rio de janeiro valeu genteee e mengoooooo
 
 ## 16/12/2011 8:22 - [[Pessoas/mariana|mariana]] - #114783 ^comentario-114783
 
