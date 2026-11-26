@@ -1,0 +1,10 @@
+---
+import {authorPath,dateLabel,postPath} from '../acervo.mjs';
+const {entries} = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<ul class="lista">{entries.map(post => <li>
+  <time datetime={post.date || undefined}>{dateLabel(post.date)}</time>
+  <div><a href={postPath(post.id,base)}>{post.title}</a>
+  {post.author && <small> · <a href={authorPath(post.author,base)}>{post.author}</a></small>}</div>
+</li>)}</ul>

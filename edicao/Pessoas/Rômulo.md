@@ -1,0 +1,15 @@
+# Rômulo
+
+- [[Posts/10991 - Mano segue passos disciplinadores de Dunga|#10991]] - Mano segue passos disciplinadores de Dunga · [[Posts/10991 - Mano segue passos disciplinadores de Dunga#^comentario-71265|#71265]]
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4 · [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4#^comentario-74567|#74567]]
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4 · [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4#^comentario-74595|#74595]]
+- [[Posts/11758 - Um domingo sem futebol|#11758]] - Um domingo sem futebol · [[Posts/11758 - Um domingo sem futebol#^comentario-76090|#76090]]
+- [[Posts/11959 - O Fluminense deveria ser rebaixado em 2009|#11959]] - O Fluminense deveria ser rebaixado em 2009 · [[Posts/11959 - O Fluminense deveria ser rebaixado em 2009#^comentario-77342|#77342]]
+- [[Posts/12033 - 2010 – Quem subiu, quem desceu|#12033]] - 2010 – Quem subiu, quem desceu · [[Posts/12033 - 2010 – Quem subiu, quem desceu#^comentario-78418|#78418]]
+- [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8|#12158]] - 1, 2, 3, 4, 5, 6, 7, 8 · [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8#^comentario-79413|#79413]]
+- [[Posts/12542 - Recursos humanos fazem parte da estrutura|#12542]] - Recursos humanos fazem parte da estrutura · [[Posts/12542 - Recursos humanos fazem parte da estrutura#^comentario-84246|#84246]]
+- [[Posts/15852 - Um Jogaço|#15852]] - Um Jogaço · [[Posts/15852 - Um Jogaço#^comentario-113290|#113290]]
+- [[Posts/16045 - Barcelona Practical Parreirism for Dummies|#16045]] - Barcelona: Practical Parreirism for Dummies · [[Posts/16045 - Barcelona Practical Parreirism for Dummies#^comentario-115405|#115405]]
+- [[Posts/6289 - Fluminense 2009 A dívida está paga|#6289]] - Fluminense 2009: A dívida está paga · [[Posts/6289 - Fluminense 2009 A dívida está paga#^comentario-46147|#46147]]
+- [[Posts/6687 - O Mistério de Xerém|#6687]] - O Mistério de Xerém · [[Posts/6687 - O Mistério de Xerém#^comentario-47408|#47408]]
+- [[Posts/8152 - O Globo está certo O Fluminense acabou|#8152]] - O Globo está certo: O Fluminense acabou · [[Posts/8152 - O Globo está certo O Fluminense acabou#^comentario-54908|#54908]]

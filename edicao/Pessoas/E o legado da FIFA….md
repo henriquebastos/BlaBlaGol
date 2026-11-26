@@ -1,0 +1,3 @@
+# E o legado da FIFA…
+
+- [[Posts/11047 - Imprensa esportiva discute o legado de Ricardo Teixeira para o futebol brasileiro|#11047]] - Imprensa esportiva discute o legado de Ricardo Teixeira para o futebol brasileiro · [[Posts/11047 - Imprensa esportiva discute o legado de Ricardo Teixeira para o futebol brasileiro#^comentario-71766|#71766]]

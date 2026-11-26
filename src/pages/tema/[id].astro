@@ -1,0 +1,14 @@
+---
+import Arquivo from '../../layouts/Arquivo.astro';
+import Lista from '../../components/Lista.astro';
+import {posts, pageKey} from '../../acervo.mjs';
+export function getStaticPaths() {
+  const themes = [...new Set(posts.flatMap(post => post.themes).filter(Boolean))];
+  return themes.map(name => ({params:{id:pageKey(name)},props:{name,entries:posts.filter(post => post.themes.includes(name))}}));
+}
+const {name,entries} = Astro.props;
+---
+<Arquivo title={name}>
+<h1>{name}</h1>
+<Lista entries={entries} />
+</Arquivo>

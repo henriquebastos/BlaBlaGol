@@ -1,23 +1,19 @@
 # BlaBlaGol
 
-Este repositório guarda o site Astro e a edição web do acervo. O cofre completo do Obsidian fica em `../conteudo/`, fora deste repositório.
+O blog e o cofre do Obsidian vivem neste repositório. O Astro lê os mesmos posts em Markdown que o Obsidian.
 
-## Ler o acervo local
+## Abrir no Obsidian
 
-1. Instale as dependências com `pnpm install --frozen-lockfile`.
-2. Rode `pnpm acervo` no Azgard.
-3. Abra `http://127.0.0.1:4321/` no Azgard.
+Clone o repositório. No Obsidian, escolha **Abrir pasta como cofre** e abra `edicao/`. As pastas **Posts**, **Pessoas**, **Cronologia** e **Temas** levam ao conteúdo. **Anexos** guarda os arquivos exibidos nos posts e comentários.
 
-A leitura local oferece cronologia, páginas por publicação, imagens locais e âncoras nos comentários. O Obsidian segue como referência para fichas de pessoas, fontes e metadados. O site não modifica o cofre.
+## Abrir no navegador
 
-## Preparar a edição web
+Use Node 24 e pnpm. Rode `pnpm install --frozen-lockfile` e `pnpm dev`. Abra `http://127.0.0.1:4321/`.
 
-Copie para `edicao/Posts/` apenas as publicações revisadas para republicação. Remova dados pessoais e links sensíveis da cópia. Ponha em `edicao/Anexos/` apenas imagens cuja publicação foi autorizada. Não copie o cofre inteiro nem anexos marcados como backup local. Revise os metadados das imagens antes de subir os arquivos.
+Para publicar, rode **Publicar no GitHub Pages** na aba Actions. Só esse workflow manual atualiza o site.
 
-`pnpm dev` mostra a edição web. Ela lê só `edicao/`. O comando `pnpm acervo:build` cria `dist-local/`. Nunca publique `dist-local/`.
+## Limites da edição
 
-## Publicar
+Esta edição tem 3.279 registros de posts. Alguns sobreviveram sem o texto ou sem parte dos comentários. Não inclui e-mails, metadados privados nem material restrito a backup local.
 
-Em Settings → Pages, selecione GitHub Actions como fonte. Rode o workflow **Publicar no GitHub Pages** na branch `main`. Ele só roda manualmente e exige pelo menos uma publicação aprovada. A validação detecta alguns campos de risco, mas não substitui revisão editorial e permissão de republicação.
-
-O endereço padrão é `https://<conta>.github.io/BlaBlaGol/`. Nenhum domínio próprio é necessário.
+A cópia original do cofre não está neste repositório. Em um computador com o cofre original em `../conteudo/`, `pnpm acervo` abre uma prévia local. Nunca publique a saída de `pnpm acervo:build`.

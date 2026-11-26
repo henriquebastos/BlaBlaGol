@@ -1,0 +1,3 @@
+# Tem gente que não bebe e tá morrendo…
+
+- [[Posts/1425 - Bye, bye, Cerveja|#1425]] - Bye, bye, Cerveja · [[Posts/1425 - Bye, bye, Cerveja#^comentario-28506|#28506]]

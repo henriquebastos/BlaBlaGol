@@ -1,15 +1,15 @@
 ---
 import Arquivo from '../../layouts/Arquivo.astro';
-import {posts, years, labelYear, dateLabel, postPath} from '../../acervo.mjs';
+import Lista from '../../components/Lista.astro';
+import {posts, years, labelYear} from '../../acervo.mjs';
 export function getStaticPaths() {
   return years.map(year => ({params:{ano:year},props:{year, entries:posts.filter(post => post.year === year)}}));
 }
 const {year, entries} = Astro.props;
-const base = import.meta.env.BASE_URL;
 ---
 <Arquivo title={labelYear(year)}>
   <div class="eyebrow">Cronologia</div>
   <h1>{labelYear(year)}</h1>
   <p class="minor">{entries.length} publicações</p>
-  <ul class="lista">{entries.map(post => <li><time datetime={post.date || undefined}>{dateLabel(post.date)}</time><a href={postPath(post.id,base)}>{post.title}</a></li>)}</ul>
+  <Lista entries={entries} />
 </Arquivo>

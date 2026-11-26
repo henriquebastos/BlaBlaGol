@@ -1,3 +1,4 @@
+import {createHash} from 'node:crypto';
 import {existsSync, readFileSync, readdirSync} from 'node:fs';
 import {join, resolve} from 'node:path';
 import {load, JSON_SCHEMA} from 'js-yaml';
@@ -37,6 +38,9 @@ export const years = [...new Set(posts.map((post) => post.year))];
 export const labelYear = (year) => year === 'sem-data' ? 'Sem data' : year;
 export const postPath = (id, base) => base.replace(/\/$/, '') + '/posts/' + id + '/';
 export const yearPath = (year, base) => base.replace(/\/$/, '') + '/ano/' + year + '/';
+export const pageKey = (name) => createHash('sha256').update(name).digest('hex').slice(0,16);
+export const authorPath = (name,base) => base.replace(/\/$/,'')+'/autor/'+pageKey(name)+'/';
+export const themePath = (name,base) => base.replace(/\/$/,'')+'/tema/'+pageKey(name)+'/';
 export const dateLabel = (date) => date ? date.split('-').reverse().join('/') : 'Sem data confirmada';
 
 export function renderMarkdown(input, base, {comments = false, postId = ''} = {}) {

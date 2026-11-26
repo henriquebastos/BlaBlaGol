@@ -1,0 +1,118 @@
+# Campeonato Brasileiro 2009
+
+- [[Posts/11950 - Essa é muito boa|#11950]] - Essa é muito boa
+- [[Posts/11959 - O Fluminense deveria ser rebaixado em 2009|#11959]] - O Fluminense deveria ser rebaixado em 2009
+- [[Posts/13578 - Meus 3 minutos de campeonato inglês|#13578]] - Meus 3 minutos de campeonato inglês
+- [[Posts/13868 - A fila andou|#13868]] - A fila andou
+- [[Posts/3787 - Palpites para o Brasileirão 2009|#3787]] - Palpites para o Brasileirão 2009
+- [[Posts/3860 - Bota-Teima|#3860]] - Bota-Teima
+- [[Posts/3910 - 0×0|#3910]] - 0×0
+- [[Posts/3915 - Troféu Josiel 2009|#3915]] - Troféu Josiel 2009
+- [[Posts/4074 - Quanta diferença!|#4074]] - Quanta diferença!
+- [[Posts/4162 - Chuta que é macumba|#4162]] - Chuta que é macumba
+- [[Posts/4170 - Virou circo|#4170]] - Virou circo?
+- [[Posts/4206 - Jucilei é Seleção|#4206]] - Jucilei é Seleção
+- [[Posts/4383 - Fluminense embalado|#4383]] - Fluminense embalado
+- [[Posts/4386 - G4, G5, G6|#4386]] - G4, G5, G6
+- [[Posts/4445 - Inter 4×2 Flu|#4445]] - Inter 4×2 Flu
+- [[Posts/4476 - Fim de semana para os cariocas|#4476]] - Fim de semana para os cariocas
+- [[Posts/4533 - Fluminense 1×1 Cruzeiro|#4533]] - Fluminense 1×1 Cruzeiro
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade
+- [[Posts/4549 - Vasco x Fortaleza – Perigo à vista|#4549]] - Vasco x Fortaleza – Perigo à vista?
+- [[Posts/4574 - Noite de Alex Teixeira – Vasco 2×1 Fortaleza|#4574]] - Noite de Alex Teixeira – Vasco 2×1 Fortaleza
+- [[Posts/4582 - Nauticozinho|#4582]] - Nauticozinho
+- [[Posts/4589 - O adeus de um ÍDOLO!|#4589]] - O adeus de um ÍDOLO!
+- [[Posts/4609 - Andrade é treinador|#4609]] - Andrade é treinador?
+- [[Posts/4611 - Flumineco|#4611]] - Flumineco
+- [[Posts/4617 - Valeu Léo Moura|#4617]] - Valeu Léo Moura
+- [[Posts/4621 - Fla empata com o lanterna|#4621]] - Fla empata com o lanterna
+- [[Posts/4633 - Nem Pet foi páreo para o Goiás|#4633]] - Nem Pet foi páreo para o Goiás
+- [[Posts/4637 - Dr. Botafogo|#4637]] - Dr. Botafogo
+- [[Posts/4656 - Roni matou o Leão|#4656]] - Roni matou o Leão
+- [[Posts/4675 - O post que não estava lá|#4675]] - O post que não estava lá
+- [[Posts/4684 - O Fluminense tem um time|#4684]] - O Fluminense tem um time
+- [[Posts/4692 - Coritiba x Cruzeiro|#4692]] - Coritiba x Cruzeiro
+- [[Posts/4758 - Placar irreal|#4758]] - Placar irreal
+- [[Posts/4788 - A rodada do SPFC|#4788]] - A rodada do SPFC
+- [[Posts/4806 - E começa ( ) o Campeonato Brasileiro para o Botafogo|#4806]] - E começa (?) o Campeonato Brasileiro para o Botafogo
+- [[Posts/4815 - Flamengo jogou|#4815]] - Flamengo jogou?
+- [[Posts/4852 - A Segundona não será doce para o Fluminense|#4852]] - A Segundona não será doce para o Fluminense
+- [[Posts/4902 - Correr pra quê|#4902]] - Correr pra quê?
+- [[Posts/4929 - Bi-campeão Carioca|#4929]] - Bi-campeão Carioca?
+- [[Posts/4933 - Botafogo 3X3 Grêmio – em imagens|#4933]] - Botafogo 3X3 Grêmio – em imagens
+- [[Posts/4942 - Para melhorar o astral do Fluminense|#4942]] - Para melhorar o astral do Fluminense
+- [[Posts/4987 - Decisões Antecipadas|#4987]] - Decisões Antecipadas
+- [[Posts/5014 - Um time safado!|#5014]] - Um time safado!
+- [[Posts/5047 - Um time Safado – Parte 2|#5047]] - Um time Safado – Parte 2
+- [[Posts/5132 - Revolta desnecessária|#5132]] - Revolta desnecessária
+- [[Posts/5167 - Cruzeiro x Palmeiras – Pré-Jogo|#5167]] - Cruzeiro x Palmeiras – Pré-Jogo
+- [[Posts/5174 - Responda por… Vagner Love|#5174]] - Responda por… Vagner Love
+- [[Posts/5214 - Barueri 0×1 Cruzeiro|#5214]] - Barueri 0×1 Cruzeiro.
+- [[Posts/5217 - O Avaí garoteou|#5217]] - O Avaí garoteou
+- [[Posts/5248 - São Paulo 1×1 Corinthians – ponto para Dunga|#5248]] - São Paulo 1×1 Corinthians – ponto para Dunga
+- [[Posts/5255 - Implosão|#5255]] - Implosão
+- [[Posts/5267 - Chuva 1×0 Jogo|#5267]] - Chuva 1×0 Jogo
+- [[Posts/5294 - Agora é fora Dorival|#5294]] - Agora é fora Dorival
+- [[Posts/5306 - Conversa ao pé do ouvido|#5306]] - Conversa ao pé do ouvido
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão
+- [[Posts/5427 - Botafogo 3×1 Atlético-MG|#5427]] - Botafogo 3×1 Atlético-MG
+- [[Posts/5458 - Saudades da infância|#5458]] - Saudades da infância
+- [[Posts/5478 - Botafogo 2×2 Avaí|#5478]] - Botafogo 2×2 Avaí
+- [[Posts/5506 - O Botafogo não aprende|#5506]] - O Botafogo não aprende
+- [[Posts/5522 - Processem o Botafogo|#5522]] - Processem o Botafogo
+- [[Posts/5534 - Fred sente dor na coxa e preocupa para partida contra o Internacional|#5534]] - Fred sente dor na coxa e preocupa para partida contra o Internacional
+- [[Posts/5544 - Palmeiras x Flamengo|#5544]] - Palmeiras x Flamengo
+- [[Posts/5566 - Nada como um turno após o outro!|#5566]] - Nada como um turno após o outro!
+- [[Posts/5581 - Continua a saga…|#5581]] - Continua a saga….
+- [[Posts/5611 - Palmeiras balança|#5611]] - Palmeiras balança
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo
+- [[Posts/5629 - Pet, 2 atos|#5629]] - Pet, 2 atos
+- [[Posts/5644 - O Sentimento não pode parar|#5644]] - O Sentimento não pode parar
+- [[Posts/5653 - Obrigado 31ª|#5653]] - Obrigado 31ª
+- [[Posts/5660 - Comendo pelas beiradas|#5660]] - Comendo pelas beiradas.
+- [[Posts/5674 - A opinião botafoguense|#5674]] - A opinião botafoguense
+- [[Posts/5703 - Dia do Torcedor Flamenguista|#5703]] - Dia do Torcedor Flamenguista
+- [[Posts/5710 - DePEnTência Barueri 2 x 0 Flamengo|#5710]] - DePEnTência? Barueri 2 x 0 Flamengo
+- [[Posts/5711 - Noite de redenção|#5711]] - Noite de redenção.
+- [[Posts/5735 - A paradinha de Fred|#5735]] - A paradinha de Fred
+- [[Posts/5752 - A 33º rodada|#5752]] - A 33º rodada
+- [[Posts/5773 - Ah… aquele pontinho perdido|#5773]] - Ah… aquele pontinho perdido
+- [[Posts/5796 - Alguma coisa está fora da ordem|#5796]] - Alguma coisa está fora da ordem
+- [[Posts/5832 - Criando dificuldades para vender facilidades|#5832]] - Criando dificuldades para vender facilidades
+- [[Posts/5842 - Eu, contraventor|#5842]] - Eu, contraventor
+- [[Posts/5863 - Vai que Dá! Mengão é o Rio no Brasileirão!|#5863]] - Vai que Dá! Mengão é o Rio no Brasileirão!
+- [[Posts/5874 - Cadê o CT da soneca|#5874]] - Cadê o CT da soneca?
+- [[Posts/5883 - E agora, Belluzzo|#5883]] - E agora, Belluzzo?
+- [[Posts/5897 - Nivelamento e dispersão|#5897]] - Nivelamento e dispersão
+- [[Posts/5929 - Que tal Flamengo x Grêmio em Volta Redonda|#5929]] - Que tal Flamengo x Grêmio em Volta Redonda?
+- [[Posts/5983 - Palmeiras balança 2|#5983]] - Palmeiras balança 2
+- [[Posts/6002 - Botafogo X São Paulo – pré-jogo|#6002]] - Botafogo X São Paulo – pré-jogo
+- [[Posts/6029 - O Craque do Campeonato – Triagem|#6029]] - O Craque do Campeonato – Triagem
+- [[Posts/6036 - É o tipo da coisa do tal negócio…|#6036]] - É o tipo da coisa do tal negócio…
+- [[Posts/6044 - Minutos fora da zona na vitória bônus|#6044]] - Minutos fora da zona na vitória bônus
+- [[Posts/6045 - Para o bem ou para o mal Botafogo 3×2 São Paulo|#6045]] - Para o bem ou para o mal: Botafogo 3×2 São Paulo
+- [[Posts/6060 - Pfiu – Anticlímax|#6060]] - Pfiu – Anticlímax
+- [[Posts/6086 - Flamengo sentiu a pressão da torcida – diz Bruno|#6086]] - Flamengo sentiu a pressão da torcida – diz Bruno
+- [[Posts/6097 - Seleção do Brasileirão|#6097]] - Seleção do Brasileirão
+- [[Posts/6132 - Contra a Quanti e a Quali|#6132]] - Contra a Quanti e a Quali
+- [[Posts/6146 - Jogos de hoje – Brasileirão|#6146]] - Jogos de hoje – Brasileirão
+- [[Posts/6148 - Resumo resumido da penúltima rodada do Brasileirão|#6148]] - Resumo resumido da penúltima rodada do Brasileirão
+- [[Posts/6155 - Enfim, líder|#6155]] - Enfim, líder
+- [[Posts/6162 - E viva a isenção!|#6162]] - E viva a isenção!
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho
+- [[Posts/6191 - Flamengo e Mídia|#6191]] - Flamengo e Mídia
+- [[Posts/6206 - Raspem a poupança|#6206]] - Raspem a poupança
+- [[Posts/6231 - A Derradeira|#6231]] - A Derradeira
+- [[Posts/6289 - Fluminense 2009 A dívida está paga|#6289]] - Fluminense 2009: A dívida está paga
+- [[Posts/6303 - Cruzeiro 2009 para o bem e para o mal|#6303]] - Cruzeiro 2009: para o bem e para o mal.
+- [[Posts/6304 - Programa de domingo ser Campeão Brasileiro|#6304]] - Programa de domingo: ser Campeão Brasileiro
+- [[Posts/6337 - Flamengo – 17 anos depois|#6337]] - Flamengo – 17 anos depois
+- [[Posts/6358 - Santos 2009 O medo da figuração|#6358]] - Santos 2009: O medo da figuração
+- [[Posts/6382 - Grêmio 2009 o Planejamento foi pro saco|#6382]] - Grêmio 2009: o Planejamento foi pro saco
+- [[Posts/6411 - Impossible is Nothing|#6411]] - Impossible is Nothing
+- [[Posts/6474 - Corinthians 2009 Arrumando a casa para 2010|#6474]] - Corinthians 2009: Arrumando a casa para 2010
+- [[Posts/6572 - Palmeiras 2009 Muita promessa pra um fim amargo|#6572]] - Palmeiras 2009: Muita promessa pra um fim amargo
+- [[Posts/6605 - Portuguesa 2009 Dois quintos lugares e cinco treinadores|#6605]] - Portuguesa 2009: Dois quintos lugares e cinco treinadores
+- [[Posts/6764 - E se o Flamengo não fosse o Campeão Brasileiro 2009|#6764]] - E se o Flamengo não fosse o Campeão Brasileiro 2009
+- [[Posts/7086 - Atlético Mineiro 2009 O Galo existe|#7086]] - Atlético Mineiro 2009: O Galo existe
+- [[Posts/8224 - Não faz sentido sacarem Cuca do Fluminense|#8224]] - Não faz sentido sacarem Cuca do Fluminense

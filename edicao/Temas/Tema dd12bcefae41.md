@@ -1,0 +1,23 @@
+# Coritiba
+
+- [[Posts/13515 - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade|#13515]] - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade
+- [[Posts/13710 - Porque o Coritiba não será um novo Avaí|#13710]] - Porque o Coritiba não será um novo Avaí
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2
+- [[Posts/13845 - Vasco Campeão da Copa do Brasil 2011 – A maldição acabou|#13845]] - Vasco Campeão da Copa do Brasil 2011 – A maldição acabou.
+- [[Posts/13911 - Botafogo 3X1 Coritiba – alguém cale, por favor!|#13911]] - Botafogo 3X1 Coritiba – alguém cale, por favor!
+- [[Posts/14192 - Papai Joel, o estrelado|#14192]] - Papai Joel, o estrelado
+- [[Posts/15679 - Os caras assistem – Coritiba 2 x 0 Flamengo|#15679]] - Os caras assistem – Coritiba 2 x 0 Flamengo
+- [[Posts/16823 - Copa do Brasil 2012 Oitavas de Final|#16823]] - Copa do Brasil 2012: Oitavas de Final
+- [[Posts/17086 - Copa do Brasil 2012 Quartas de Final|#17086]] - Copa do Brasil 2012: Quartas de Final
+- [[Posts/17241 - Coritiba 2X3 Botafogo – Mudou a zaga, mudou o time|#17241]] - Coritiba 2X3 Botafogo – Mudou a zaga, mudou o time
+- [[Posts/17352 - Copa do Brasil 2012 Semi-Finais|#17352]] - Copa do Brasil 2012: Semi-Finais
+- [[Posts/17558 - Copa do Brasil 2012 Final|#17558]] - Copa do Brasil 2012: Final
+- [[Posts/20548 - Sheikira|#20548]] - Sheikira
+- [[Posts/20642 - HIGHuri|#20642]] - HIGHuri
+- [[Posts/21835 - H@H@H@H@H@H@H@H@|#21835]] - H@H@H@H@H@H@H@H@
+- [[Posts/22300 - O Campeonato Gaúcho é o mais tradicional do Brasil|#22300]] - O Campeonato Gaúcho é o mais tradicional do Brasil
+- [[Posts/4077 - A dois passos…|#4077]] - A dois passos…
+- [[Posts/4162 - Chuta que é macumba|#4162]] - Chuta que é macumba
+- [[Posts/4170 - Virou circo|#4170]] - Virou circo?
+- [[Posts/4692 - Coritiba x Cruzeiro|#4692]] - Coritiba x Cruzeiro
+- [[Posts/6411 - Impossible is Nothing|#6411]] - Impossible is Nothing

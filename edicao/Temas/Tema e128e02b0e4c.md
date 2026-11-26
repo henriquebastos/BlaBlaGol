@@ -1,0 +1,70 @@
+# Campeonato Brasileiro 2012
+
+- [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí|#17141]] - HERRERA \>\>\>\> Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí
+- [[Posts/17241 - Coritiba 2X3 Botafogo – Mudou a zaga, mudou o time|#17241]] - Coritiba 2X3 Botafogo – Mudou a zaga, mudou o time
+- [[Posts/17312 - A arte da surpresa|#17312]] - A arte da surpresa
+- [[Posts/17330 - Uma estreia padrão|#17330]] - Uma estreia padrão
+- [[Posts/17362 - O investimento de Ibson|#17362]] - O investimento de Ibson
+- [[Posts/17395 - Noche de Locura|#17395]] - Noche de Locura
+- [[Posts/17438 - Pro Vasco, o Kfourão 2012, é bão!|#17438]] - Pro Vasco, o Kfourão 2012, é bão!
+- [[Posts/17447 - 15 minutos de vibe Kfourista no Kfourão 2012|#17447]] - 15 minutos de vibe Kfourista no Kfourão 2012
+- [[Posts/17511 - A Escolha de Saulo|#17511]] - A Escolha de Saulo
+- [[Posts/17539 - Gracias, Hermano!|#17539]] - Gracias, Hermano!
+- [[Posts/17553 - Acabou a festa das Sardinhas|#17553]] - Acabou a festa das Sardinhas
+- [[Posts/17579 - O Fluminense x Flamengo da 8ª rodada|#17579]] - O Fluminense x Flamengo da 8ª rodada
+- [[Posts/17637 - Pênalti Claro|#17637]] - Pênalti Claro
+- [[Posts/17640 - BR2012 – 10ª Rodada|#17640]] - BR2012 – 10ª Rodada
+- [[Posts/17665 - QUEREMOS CLÁSSICOS VAZIOS|#17665]] - QUEREMOS CLÁSSICOS VAZIOS
+- [[Posts/17681 - BR2012 – 11ª Rodada|#17681]] - BR2012 – 11ª Rodada
+- [[Posts/17682 - BR2012 – 12ª Rodada|#17682]] - BR2012 – 12ª Rodada
+- [[Posts/17683 - BR2012 – 13ª Rodada|#17683]] - BR2012 – 13ª Rodada
+- [[Posts/17684 - BR2012 – 14ª Rodada|#17684]] - BR2012 – 14ª Rodada
+- [[Posts/17686 - BR2012 – 15ª Rodada|#17686]] - BR2012 – 15ª Rodada
+- [[Posts/17687 - BR2012 – 16ª Rodada|#17687]] - BR2012 – 16ª Rodada
+- [[Posts/17688 - BR2012 – 17ª Rodada|#17688]] - BR2012 – 17ª Rodada
+- [[Posts/17689 - BR2012 – 18ª Rodada|#17689]] - BR2012 – 18ª Rodada
+- [[Posts/17690 - BR2012 – 19ª Rodada|#17690]] - BR2012 – 19ª Rodada
+- [[Posts/17782 - E o Vasco Continua…|#17782]] - E o Vasco Continua…
+- [[Posts/17794 - E no Flamengo da Patricinha, Joel caiu|#17794]] - E no Flamengo da Patricinha, Joel caiu
+- [[Posts/17844 - Candonga x Galo|#17844]] - Candonga x Galo
+- [[Posts/17856 - Que Botafogo 1X0 Figueirense FORAOSWALDO|#17856]] - Que #Botafogo 1X0 Figueirense? #FORAOSWALDO
+- [[Posts/17869 - Fluminense 1×0 Atlético-MG Gol de Fred, ponto, acabou|#17869]] - Fluminense 1×0 Atlético-MG: Gol de Fred, ponto, acabou
+- [[Posts/17900 - Vasco cede, Flu agradece, e Fla comemora|#17900]] - Vasco cede, Flu agradece, e Fla comemora
+- [[Posts/18062 - BR2012 – 20ª Rodada|#18062]] - BR2012 – 20ª Rodada
+- [[Posts/18064 - BR2012 – 21ª Rodada|#18064]] - BR2012 – 21ª Rodada
+- [[Posts/18065 - BR2012 – 22ª Rodada|#18065]] - BR2012 – 22ª Rodada
+- [[Posts/18066 - BR2012 – 23ª Rodada|#18066]] - BR2012 – 23ª Rodada
+- [[Posts/18068 - BR2012 – 25ª Rodada|#18068]] - BR2012 – 25ª Rodada
+- [[Posts/18069 - BR2012 – 26ª Rodada|#18069]] - BR2012 – 26ª Rodada
+- [[Posts/18117 - Crise no relacionamento|#18117]] - Crise no relacionamento
+- [[Posts/18162 - A punição é pra quem|#18162]] - A punição é pra quem?
+- [[Posts/18180 - Vasco 0×4 Bahia. Já vi esse filme…|#18180]] - Vasco 0×4 Bahia. Já vi esse filme…
+- [[Posts/18197 - Pegue seu banquinho ou saia de fininho|#18197]] - Pegue seu banquinho ou saia de fininho
+- [[Posts/18214 - BR2012 – 24ª Rodada|#18214]] - BR2012 – 24ª Rodada
+- [[Posts/18220 - O pequeno polegar tricolor|#18220]] - O pequeno polegar tricolor
+- [[Posts/18280 - Juninho e Felipe juntos, pode ser|#18280]] - Juninho e Felipe juntos, pode ser?
+- [[Posts/18328 - BR2012 – 27ª Rodada|#18328]] - BR2012 – 27ª Rodada
+- [[Posts/18342 - Basta rezar para o jogo acabar sem mais nada acontecer|#18342]] - Basta rezar para o jogo acabar sem mais nada acontecer
+- [[Posts/18376 - BR2012 – 28ª Rodada|#18376]] - BR2012 – 28ª Rodada
+- [[Posts/18397 - Fluminense 2008, 2010 e 2012|#18397]] - Fluminense 2008, 2010 e 2012
+- [[Posts/18416 - BR2012 – 29ª Rodada|#18416]] - BR2012 – 29ª Rodada
+- [[Posts/18427 - BR2012 – 30ª Rodada|#18427]] - BR2012 – 30ª Rodada
+- [[Posts/18432 - Fluminense Campeão Brasileiro 2012|#18432]] - Fluminense Campeão Brasileiro 2012
+- [[Posts/18451 - Fluminense 2×1 Ponte Preta o castigo ao antijogo|#18451]] - Fluminense 2×1 Ponte Preta: o castigo ao antijogo
+- [[Posts/18468 - BR2012 – 31ª Rodada|#18468]] - BR2012 – 31ª Rodada
+- [[Posts/18475 - Parem tudo que hoje tem Botafogo x Vasco pelo Brasileirão|#18475]] - Parem tudo que hoje tem Botafogo x Vasco pelo Brasileirão
+- [[Posts/18488 - BR2012 – 32ª Rodada|#18488]] - BR2012 – 32ª Rodada
+- [[Posts/18493 - Atlético Mineiro 3×2 Fluminense “Fluminense em Estado Puro, amigo”|#18493]] - Atlético Mineiro 3×2 Fluminense: “Fluminense em Estado Puro, amigo”
+- [[Posts/18533 - BR2012 – 33ª Rodada|#18533]] - BR2012 – 33ª Rodada
+- [[Posts/18550 - O roubo do Beira-Rio|#18550]] - O roubo do Beira-Rio
+- [[Posts/18561 - Botafogo 4×0 Atlético-GO – Dark Side of the Moon|#18561]] - Botafogo 4×0 Atlético-GO – Dark Side of the Moon
+- [[Posts/18604 - BR2012 – 34ª Rodada|#18604]] - BR2012 – 34ª Rodada
+- [[Posts/18612 - O dedo de Juninho e expediente que se encerra 21h no Marca Brasil|#18612]] - O dedo de Juninho e expediente que se encerra 21h no Marca Brasil
+- [[Posts/18650 - BR2012 – 35ª Rodada|#18650]] - BR2012 – 35ª Rodada
+- [[Posts/18699 - BR2012 – 36ª rodada|#18699]] - BR2012 – 36ª rodada
+- [[Posts/18704 - DALETIGRE!!|#18704]] - #DALETIGRE!!
+- [[Posts/18709 - O melancólico fim chegou para o Botafogo 2012|#18709]] - O melancólico fim chegou para o #Botafogo 2012
+- [[Posts/18764 - O BBG avisou, O BBG falou|#18764]] - O BBG avisou, O BBG falou
+- [[Posts/18863 - A Diferença entre Fluminense e Vasco|#18863]] - A Diferença entre Fluminense e Vasco
+- [[Posts/18885 - Copa Eugenia 2012 Maldito Palmeiras|#18885]] - Copa Eugenia 2012: Maldito Palmeiras
+- [[Posts/18890 - BR2012 – 38ª rodada|#18890]] - BR2012 – 38ª rodada

@@ -1,0 +1,117 @@
+# Cruzeiro
+
+- [[Posts/10014 - 3-5-2 na Berlinda|#10014]] - 3-5-2 na Berlinda
+- [[Posts/10194 - Uma derrota na conta do Luxerlei|#10194]] - Uma derrota na conta do Luxerlei
+- [[Posts/10531 - Palhaços no ataque|#10531]] - Palhaços no ataque
+- [[Posts/10669 - A menor goleada da história|#10669]] - A menor goleada da história
+- [[Posts/10822 - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER|#10822]] - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER
+- [[Posts/10916 - O torcedor finalmente entendeu os Pontos Corridos|#10916]] - O torcedor finalmente entendeu os Pontos Corridos
+- [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena|#11128]] - Cruzeiro 3×0 Atlético-GO – Passeio na Arena
+- [[Posts/11163 - Todos iguais mas uns mais iguais que os outros|#11163]] - Todos iguais mas uns mais iguais que os outros
+- [[Posts/11229 - Flamengo goleou! 2×0|#11229]] - Flamengo goleou! 2×0
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense?
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4
+- [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube|#11579]] - Parabéns ao Cruzeiro Esporte Clube
+- [[Posts/11614 - A perna de volta do Cruzeiro|#11614]] - A perna de volta do Cruzeiro
+- [[Posts/11678 - O Cruzeiro acredita|#11678]] - O Cruzeiro acredita
+- [[Posts/11696 - Tite, Felipão e Felipe (ou… se fode aí Cruzeiro)|#11696]] - Tite, Felipão e Felipe (ou… se fode aí Cruzeiro)
+- [[Posts/11948 - Obrigado, meu pai. Obrigado, Cruzeiro|#11948]] - Obrigado, meu pai. Obrigado, Cruzeiro.
+- [[Posts/12092 - AS MELHORES TORCIDAS DO BRASIL|#12092]] - AS MELHORES TORCIDAS DO BRASIL
+- [[Posts/12220 - Previsões Sergilianas para 2011|#12220]] - Previsões Sergilianas para 2011
+- [[Posts/12451 - Cruzeiro 3×0 Caldense – A torcida tem que saber o que quer|#12451]] - Cruzeiro 3×0 Caldense – A torcida tem que saber o que quer
+- [[Posts/12608 - A sorte de Lazaro Ramos|#12608]] - A sorte de Lazaro Ramos
+- [[Posts/12653 - O que tem o Cruzeiro pra Libertadores|#12653]] - O que tem o Cruzeiro pra Libertadores
+- [[Posts/12669 - Walter Montillo Produções apresenta Um show do melhor meio-campo do Brasil|#12669]] - Walter Montillo Produções apresenta: Um show do melhor meio-campo do Brasil
+- [[Posts/12743 - As aparências enganam|#12743]] - As aparências enganam
+- [[Posts/12887 - Classificação garantida ou seu dinheiro de volta|#12887]] - Classificação garantida ou seu dinheiro de volta
+- [[Posts/12945 - Um valor justo (ou “Transparência não faz mal a ninguém. Ou faz ”)|#12945]] - Um valor justo (ou “Transparência não faz mal a ninguém. Ou faz?”)
+- [[Posts/13172 - O Vasco embala no fim da temporada|#13172]] - O Vasco embala no fim da temporada
+- [[Posts/13198 - A Piquetzice do Sada-Cruzeiro|#13198]] - A Piquetzice do Sada-Cruzeiro
+- [[Posts/13405 - Victoria Quæ Sera Tamen|#13405]] - Victoria Quæ Sera Tamen
+- [[Posts/13493 - ♫ Bonde da eliminação sem freio ♪ Bonde da… ♫ Bonde da eliminação sem freio ♪|#13493]] - ♫ Bonde da eliminação sem freio ♪ Bonde da… ♫ Bonde da eliminação sem freio ♪
+- [[Posts/13522 - Os clássicos estão aí para quem quiser ver|#13522]] - Os clássicos estão aí para quem quiser ver
+- [[Posts/13605 - As lições que a bola dá|#13605]] - As lições que a bola dá
+- [[Posts/14043 - O fim da era “Vai vendo…”|#14043]] - O fim da era “Vai vendo…”
+- [[Posts/14192 - Papai Joel, o estrelado|#14192]] - Papai Joel, o estrelado
+- [[Posts/14255 - Noite de gala|#14255]] - Noite de gala
+- [[Posts/14504 - Cruzeiro 2×1 Bahia Joel pescou sardinha|#14504]] - Cruzeiro 2×1 Bahia: Joel pescou sardinha
+- [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso|#14666]] - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso
+- [[Posts/14719 - Uma singela pesquisa de opinião cruzeirense|#14719]] - Uma singela pesquisa de opinião cruzeirense
+- [[Posts/14760 - Fla cirúrgico Júnior César e Alex Silva|#14760]] - Fla cirúrgico: Júnior César e Alex Silva
+- [[Posts/14835 - E quando faltam os títulos secundários ao Cruzeiro|#14835]] - E quando faltam os títulos secundários ao Cruzeiro?
+- [[Posts/14858 - Cruzeiro 5×0 Avaí – Em busca da regularidade perdida|#14858]] - Cruzeiro 5×0 Avaí – Em busca da regularidade perdida
+- [[Posts/14892 - O buraco azul (e alguns outros) é mais embaixo|#14892]] - O buraco azul (e alguns outros) é mais embaixo
+- [[Posts/15034 - Se a Vida do Cruzeiro é Difícil, Imagina a do Ceará|#15034]] - Se a Vida do Cruzeiro é Difícil, Imagina a do Ceará
+- [[Posts/15243 - Bendito Diego Souza|#15243]] - Bendito Diego Souza
+- [[Posts/15547 - Botafogo 1X0 Cruzeiro – Porque não é sempre assim E porque é sempre assim|#15547]] - Botafogo 1X0 Cruzeiro – Porque não é sempre assim? E porque é sempre assim?
+- [[Posts/15614 - Fala, Fabrício|#15614]] - Fala, Fabrício
+- [[Posts/15970 - Cruzeiro, Atlético-MG, rivalidade e rebaixamento em O Amanhã Nunca Morre|#15970]] - Cruzeiro, Atlético-MG, rivalidade e rebaixamento em: O Amanhã Nunca Morre
+- [[Posts/16769 - Enfim começa a Copa do Brasil|#16769]] - Enfim começa a Copa do Brasil
+- [[Posts/16823 - Copa do Brasil 2012 Oitavas de Final|#16823]] - Copa do Brasil 2012: Oitavas de Final
+- [[Posts/17312 - A arte da surpresa|#17312]] - A arte da surpresa
+- [[Posts/17517 - Independência, ainda que tardia|#17517]] - Independência, ainda que tardia
+- [[Posts/18255 - Tenório contra o Cruzeiro Gol regular ou irregular|#18255]] - Tenório contra o Cruzeiro: Gol regular ou irregular?
+- [[Posts/18598 - O Torcedor|#18598]] - O Torcedor
+- [[Posts/19233 - Faltam 6 horas. Seis|#19233]] - Faltam 6 horas. Seis.
+- [[Posts/19945 - ROUBOLA – OS JOGOS MAIS ROUBADOS|#19945]] - ROUBOLA – OS JOGOS MAIS ROUBADOS
+- [[Posts/20343 - Golaço anti-pseudofairplayrização|#20343]] - Golaço anti-pseudofairplayrização
+- [[Posts/20925 - Obrigado e Parabéns!|#20925]] - Obrigado e Parabéns!
+- [[Posts/20944 - Everton Ribeiro|#20944]] - Everton Ribeiro
+- [[Posts/21164 - TINGA MACACO|#21164]] - TINGA MACACO
+- [[Posts/21743 - Sobre o Tempo e as Obras de Arte|#21743]] - Sobre o Tempo e as Obras de Arte
+- [[Posts/21785 - Feliz aniversário! O Futebol te deu o presente|#21785]] - Feliz aniversário! O Futebol te deu o presente
+- [[Posts/21817 - PREVISÕES FUTEBOLÍSTICAS 2015|#21817]] - PREVISÕES FUTEBOLÍSTICAS 2015
+- [[Posts/21901 - Eliminações precoces em Libertadores|#21901]] - Eliminações precoces em Libertadores
+- [[Posts/22300 - O Campeonato Gaúcho é o mais tradicional do Brasil|#22300]] - O Campeonato Gaúcho é o mais tradicional do Brasil
+- [[Posts/3787 - Palpites para o Brasileirão 2009|#3787]] - Palpites para o Brasileirão 2009
+- [[Posts/4013 - Rococó x Bauhaus|#4013]] - Rococó x Bauhaus
+- [[Posts/4032 - Valeu o ingresso!|#4032]] - Valeu o ingresso!
+- [[Posts/4068 - Cruzeiro contrata Ronaldinho Gaúcho|#4068]] - Cruzeiro contrata Ronaldinho Gaúcho
+- [[Posts/4162 - Chuta que é macumba|#4162]] - Chuta que é macumba
+- [[Posts/4255 - Un pasito!|#4255]] - Un pasito!
+- [[Posts/4336 - Cantilena gremista|#4336]] - Cantilena gremista
+- [[Posts/4338 - À FINAL!!!|#4338]] - À FINAL!!!
+- [[Posts/4432 - O Cruzeiro amarelou|#4432]] - O Cruzeiro amarelou
+- [[Posts/4472 - Um último tango em BH…|#4472]] - Um último tango em BH…
+- [[Posts/4533 - Fluminense 1×1 Cruzeiro|#4533]] - Fluminense 1×1 Cruzeiro
+- [[Posts/4589 - O adeus de um ÍDOLO!|#4589]] - O adeus de um ÍDOLO!
+- [[Posts/4692 - Coritiba x Cruzeiro|#4692]] - Coritiba x Cruzeiro
+- [[Posts/4902 - Correr pra quê|#4902]] - Correr pra quê?
+- [[Posts/4929 - Bi-campeão Carioca|#4929]] - Bi-campeão Carioca?
+- [[Posts/5014 - Um time safado!|#5014]] - Um time safado!
+- [[Posts/5047 - Um time Safado – Parte 2|#5047]] - Um time Safado – Parte 2
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!!
+- [[Posts/5129 - Cruzeiro contrata Roberto Carlos|#5129]] - Cruzeiro contrata Roberto Carlos
+- [[Posts/5132 - Revolta desnecessária|#5132]] - Revolta desnecessária
+- [[Posts/5167 - Cruzeiro x Palmeiras – Pré-Jogo|#5167]] - Cruzeiro x Palmeiras – Pré-Jogo
+- [[Posts/5174 - Responda por… Vagner Love|#5174]] - Responda por… Vagner Love
+- [[Posts/5181 - Cruzeiro x Palmeiras em um sentimento|#5181]] - Cruzeiro x Palmeiras em um sentimento.
+- [[Posts/5214 - Barueri 0×1 Cruzeiro|#5214]] - Barueri 0×1 Cruzeiro.
+- [[Posts/5394 - A Volta Do Que Não Veio|#5394]] - A Volta Do Que Não Veio
+- [[Posts/5566 - Nada como um turno após o outro!|#5566]] - Nada como um turno após o outro!
+- [[Posts/5711 - Noite de redenção|#5711]] - Noite de redenção.
+- [[Posts/5773 - Ah… aquele pontinho perdido|#5773]] - Ah… aquele pontinho perdido
+- [[Posts/6036 - É o tipo da coisa do tal negócio…|#6036]] - É o tipo da coisa do tal negócio…
+- [[Posts/6303 - Cruzeiro 2009 para o bem e para o mal|#6303]] - Cruzeiro 2009: para o bem e para o mal.
+- [[Posts/6548 - O último ato – Adeus Sorin|#6548]] - O último ato – Adeus Sorin
+- [[Posts/6822 - Pão-De-Queijão 10 saindo do forno|#6822]] - Pão-De-Queijão/10 saindo do forno
+- [[Posts/6848 - Mostrando a que veio|#6848]] - Mostrando a que veio
+- [[Posts/7001 - La Copa se mira!|#7001]] - La Copa se mira!
+- [[Posts/7030 - Real Potosí 1×1 Cruzeiro|#7030]] - Real Potosí 1×1 Cruzeiro
+- [[Posts/7107 - Cruzeiro 7 x 0 Real Potosí|#7107]] - Cruzeiro 7 x 0 Real Potosí
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa
+- [[Posts/7264 - Vélez 2×0 Cruzeiro|#7264]] - Vélez 2×0 Cruzeiro
+- [[Posts/7372 - Um bom começo de ano|#7372]] - Um bom começo de ano.
+- [[Posts/7386 - Aonde vai o chororô|#7386]] - Aonde vai o chororô?
+- [[Posts/7402 - Libertadores 2010 – Estreias e recuperação|#7402]] - Libertadores 2010 – Estreias e recuperação
+- [[Posts/7455 - É Libertadores, amigo|#7455]] - É Libertadores, amigo
+- [[Posts/7481 - Vida de gado|#7481]] - Vida de gado
+- [[Posts/7593 - Nos embalos do Obination|#7593]] - Nos embalos do Obination
+- [[Posts/7689 - Time bobo, cara-pálida Qual|#7689]] - Time bobo, cara-pálida? Qual?
+- [[Posts/7842 - Matemática na Libertadores|#7842]] - Matemática na Libertadores
+- [[Posts/7949 - Com uma pulga (de nada) atrás da orelha|#7949]] - Com uma pulga (de nada) atrás da orelha
+- [[Posts/8044 - Classificação encaminhada|#8044]] - Classificação encaminhada
+- [[Posts/8212 - “Daquele Jeito”|#8212]] - “Daquele Jeito”
+- [[Posts/8287 - A Libertadores que interessa|#8287]] - A Libertadores que interessa
+- [[Posts/8490 - Início azul no TEIXEIRÃO 2010|#8490]] - Início azul no TEIXEIRÃO/2010
+- [[Posts/8791 - O problema do futebol mineiro|#8791]] - O problema do futebol mineiro

@@ -13,9 +13,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
 </head>
 <body>
   <a class="skip" href="#conteudo">Ir para o conteúdo</a>
-  <header><div class="frame mast"><a class="marca" href={base}>BlaBlaGol<span>.</span></a><span class="selo">Arquivo do blog{local ? ' · Local' : ''}</span></div></header>
+  <header><div class="frame mast"><a class="marca" href={base}>BlaBlaGol<span>.</span></a><span class="selo">{local ? 'Prévia local' : 'Futebol e conversa'}</span></div></header>
   <main class="frame" id="conteudo"><slot /></main>
-  <footer class="frame">BlaBlaGol · Acervo histórico</footer>
+  <footer class="frame">BlaBlaGol</footer>
 </body>
 </html>
 <style is:global>

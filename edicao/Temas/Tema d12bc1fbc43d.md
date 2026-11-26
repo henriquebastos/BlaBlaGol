@@ -1,0 +1,44 @@
+# Patrocinado
+
+- [[Posts/10398 - Kitesurf em João Pessoa|#10398]] - Kitesurf em João Pessoa
+- [[Posts/10435 - Uma tarde futebolista em Madrid|#10435]] - Uma tarde futebolista em Madrid
+- [[Posts/10440 - Football Manager|#10440]] - Football Manager
+- [[Posts/11021 - Partiu pro Karate|#11021]] - Partiu pro Karate
+- [[Posts/11090 - Peladeiro|#11090]] - Peladeiro
+- [[Posts/11278 - Hattrick|#11278]] - Hattrick
+- [[Posts/11379 - Conheça o Engenhão|#11379]] - Conheça o Engenhão
+- [[Posts/11395 - Blogues que amamos (ou odiamos)|#11395]] - Blogues que amamos (ou odiamos)
+- [[Posts/12119 - FIFA.com|#12119]] - FIFA.com
+- [[Posts/12563 - Vivo Dicas bebendo na fonte|#12563]] - Vivo Dicas: bebendo na fonte
+- [[Posts/13983 - Bolão Chefsfischer BBG BR2011 Antes tarde do que nunca|#13983]] - Bolão Chefsfischer BBG BR2011: Antes tarde do que nunca
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada
+- [[Posts/14468 - Bolão Chef’s Fischer BBG BR2011 – 10ª rodada|#14468]] - Bolão Chef’s Fischer BBG BR2011 – 10ª rodada
+- [[Posts/14615 - Bolão Chef’s Fischer BBG BR2011 – 12ª rodada|#14615]] - Bolão Chef’s Fischer BBG BR2011 – 12ª rodada
+- [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada|#14655]] - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada
+- [[Posts/14688 - Bolão Chef’s Fischer BBG BR2011 – 14ª rodada|#14688]] - Bolão Chef’s Fischer BBG BR2011 – 14ª rodada
+- [[Posts/14871 - Bolão Chef’s Fischer BBG BR2011 – 17ª rodada|#14871]] - Bolão Chef’s Fischer BBG BR2011 – 17ª rodada
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada
+- [[Posts/14950 - Bolão Chef’s Fischer BBG BR2011 – 19ª rodada|#14950]] - Bolão Chef’s Fischer BBG BR2011 – 19ª rodada
+- [[Posts/15008 - Bolão Chef’s Fischer BBG BR2011 – 20ª rodada começa o returno|#15008]] - Bolão Chef’s Fischer BBG BR2011 – 20ª rodada: começa o returno
+- [[Posts/15044 - Bolão Chef’s Fischer BBG BR2011 – 21ª rodada Preliminar da Selemano|#15044]] - Bolão Chef’s Fischer BBG BR2011 – 21ª rodada: Preliminar da Selemano
+- [[Posts/15070 - Bolão Chef’s Fischer BBG BR2011 – 22ª rodada Tem jogo crucial|#15070]] - Bolão Chef’s Fischer BBG BR2011 – 22ª rodada: Tem jogo crucial?
+- [[Posts/15114 - Bolão Chef’s Fischer BBG BR2011 – 23ª rodada|#15114]] - Bolão Chef’s Fischer BBG BR2011 – 23ª rodada
+- [[Posts/15157 - Bolão Chef’s Fischer BBG BR2011 – 24ª rodada|#15157]] - Bolão Chef’s Fischer BBG BR2011 – 24ª rodada
+- [[Posts/15195 - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada Vasco na ponta|#15195]] - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada: Vasco na ponta
+- [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada|#15217]] - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada
+- [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada|#15280]] - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada
+- [[Posts/15317 - Bolão Chef’s Fischer BBG BR2011 – 28ª rodada Rebaixem logo o Cruzeiro|#15317]] - Bolão Chef’s Fischer BBG BR2011 – 28ª rodada: Rebaixem logo o Cruzeiro
+- [[Posts/15371 - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada|#15371]] - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada
+- [[Posts/15406 - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada|#15406]] - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada
+- [[Posts/15428 - Bolão Chef’s Fischer BBG BR2011 Desempenhos da 6ª a 30ª rodada|#15428]] - Bolão Chef’s Fischer BBG BR2011: Desempenhos da 6ª a 30ª rodada
+- [[Posts/15479 - Bolão Chef’s Fischer BBG BR2011 – 31ª rodada Mesmo número de jogos|#15479]] - Bolão Chef’s Fischer BBG BR2011 – 31ª rodada: Mesmo número de jogos
+- [[Posts/15538 - Bolão Chef’s Fischer BBG BR2011 – 32ª rodada Tem Galo x Porco|#15538]] - Bolão Chef’s Fischer BBG BR2011 – 32ª rodada: Tem Galo x Porco
+- [[Posts/15603 - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada Corinthians em casa|#15603]] - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada: Corinthians em casa?
+- [[Posts/15649 - Bolão Chef’s Fischer BBG BR2011 – 34ª rodada|#15649]] - Bolão Chef’s Fischer BBG BR2011 – 34ª rodada
+- [[Posts/15701 - Bolão Chef’s Fischer BBG BR2011 – 35ª rodada|#15701]] - Bolão Chef’s Fischer BBG BR2011 – 35ª rodada
+- [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada|#15712]] - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada
+- [[Posts/15764 - A louca felicidade de torcer|#15764]] - A louca felicidade de torcer
+- [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV|#15807]] - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada: Acompanhe pela TV
+- [[Posts/15910 - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada 50% de jogos-treino|#15910]] - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada: 50% de jogos-treino
+- [[Posts/16523 - Botafogo X Vasco – Erreteie HelenoVive e concorra a um par de ingressos|#16523]] - Botafogo X Vasco – Erreteie #HelenoVive e concorra a um par de ingressos
+- [[Posts/247 - Aikido – Harmonia e Hematomas|#247]] - Aikido – Harmonia e Hematomas

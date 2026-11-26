@@ -1,0 +1,15 @@
+# Fernando Gonzaga
+
+- [[Posts/11263 - Boas Novas em São Januário|#11263]] - Boas Novas em São Januário · [[Posts/11263 - Boas Novas em São Januário#^comentario-72928|#72928]]
+- [[Posts/11293 - Fluminense 0×0 Botafogo – empate, de novo|#11293]] - Fluminense 0×0 Botafogo – empate, de novo · [[Posts/11293 - Fluminense 0×0 Botafogo – empate, de novo#^comentario-73114|#73114]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73327|#73327]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73331|#73331]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73342|#73342]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73357|#73357]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73372|#73372]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73375|#73375]]
+- [[Posts/11507 - Washington carregado no colo|#11507]] - Washington carregado no colo · [[Posts/11507 - Washington carregado no colo#^comentario-74343|#74343]]
+- [[Posts/11535 - Ceará 2X2 Botafogo – Loco em dose tripla|#11535]] - Ceará 2X2 Botafogo – Loco em dose tripla · [[Posts/11535 - Ceará 2X2 Botafogo – Loco em dose tripla#^comentario-74504|#74504]]
+- [[Posts/11940 - Grêmio 3×0 Botafogo – fim-de-festa|#11940]] - Grêmio 3×0 Botafogo – fim-de-festa · [[Posts/11940 - Grêmio 3×0 Botafogo – fim-de-festa#^comentario-76981|#76981]]
+- [[Posts/11946 - Parabéns ao Fluminense|#11946]] - Parabéns ao Fluminense. · [[Posts/11946 - Parabéns ao Fluminense#^comentario-77016|#77016]]
+- [[Posts/11950 - Essa é muito boa|#11950]] - Essa é muito boa · [[Posts/11950 - Essa é muito boa#^comentario-77032|#77032]]

@@ -1,0 +1,4745 @@
+# Victor
+
+- [[Posts/10 - Viva o Torcedor|#10]] - Viva o Torcedor
+- [[Posts/100 - Pra que torcedor profissional|#100]] - Pra que torcedor profissional?
+- [[Posts/10004 - O Gordinho sabe porque apanhou|#10004]] - O Gordinho sabe porque apanhou
+- [[Posts/1001 - Quiz do Fluzão|#1001]] - Quiz do Fluzão · [[Posts/1001 - Quiz do Fluzão#^comentario-7040|#7040]]
+- [[Posts/1001 - Quiz do Fluzão|#1001]] - Quiz do Fluzão · [[Posts/1001 - Quiz do Fluzão#^comentario-7066|#7066]]
+- [[Posts/1001 - Quiz do Fluzão|#1001]] - Quiz do Fluzão · [[Posts/1001 - Quiz do Fluzão#^comentario-7089|#7089]]
+- [[Posts/1001 - Quiz do Fluzão|#1001]] - Quiz do Fluzão
+- [[Posts/10014 - 3-5-2 na Berlinda|#10014]] - 3-5-2 na Berlinda · [[Posts/10014 - 3-5-2 na Berlinda#^comentario-64683|#64683]]
+- [[Posts/10014 - 3-5-2 na Berlinda|#10014]] - 3-5-2 na Berlinda · [[Posts/10014 - 3-5-2 na Berlinda#^comentario-64687|#64687]]
+- [[Posts/10014 - 3-5-2 na Berlinda|#10014]] - 3-5-2 na Berlinda · [[Posts/10014 - 3-5-2 na Berlinda#^comentario-65424|#65424]]
+- [[Posts/10014 - 3-5-2 na Berlinda|#10014]] - 3-5-2 na Berlinda
+- [[Posts/10019 - Agora é Muricy|#10019]] - Agora é Muricy · [[Posts/10019 - Agora é Muricy#^comentario-64723|#64723]]
+- [[Posts/10019 - Agora é Muricy|#10019]] - Agora é Muricy · [[Posts/10019 - Agora é Muricy#^comentario-64732|#64732]]
+- [[Posts/10019 - Agora é Muricy|#10019]] - Agora é Muricy · [[Posts/10019 - Agora é Muricy#^comentario-64734|#64734]]
+- [[Posts/10019 - Agora é Muricy|#10019]] - Agora é Muricy · [[Posts/10019 - Agora é Muricy#^comentario-73969|#73969]]
+- [[Posts/10019 - Agora é Muricy|#10019]] - Agora é Muricy
+- [[Posts/10025 - Agora é Mano|#10025]] - Agora é Mano
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7065|#7065]]
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7079|#7079]]
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7093|#7093]]
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7101|#7101]]
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7104|#7104]]
+- [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………|#1003]] - Huahauhauhauahuahauhauhauhaaha……… · [[Posts/1003 - Huahauhauhauahuahauhauhauhaaha………#^comentario-7105|#7105]]
+- [[Posts/10033 - 11ª rodada ainda com técnico da Seleção|#10033]] - 11ª rodada ainda com técnico da Seleção · [[Posts/10033 - 11ª rodada ainda com técnico da Seleção#^comentario-64796|#64796]]
+- [[Posts/10033 - 11ª rodada ainda com técnico da Seleção|#10033]] - 11ª rodada ainda com técnico da Seleção · [[Posts/10033 - 11ª rodada ainda com técnico da Seleção#^comentario-64872|#64872]]
+- [[Posts/10033 - 11ª rodada ainda com técnico da Seleção|#10033]] - 11ª rodada ainda com técnico da Seleção
+- [[Posts/10044 - Processo Criativo do Logo Brasil 2014|#10044]] - Processo Criativo do Logo: Brasil 2014 · [[Posts/10044 - Processo Criativo do Logo Brasil 2014#^comentario-65368|#65368]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7076|#7076]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7102|#7102]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7152|#7152]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7153|#7153]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7182|#7182]]
+- [[Posts/1005 - Brasil x Itália|#1005]] - Brasil x Itália · [[Posts/1005 - Brasil x Itália#^comentario-7183|#7183]]
+- [[Posts/10051 - THIS is ridiculous, Señor Alonso|#10051]] - THIS is ridiculous, Señor Alonso · [[Posts/10051 - THIS is ridiculous, Señor Alonso#^comentario-64931|#64931]]
+- [[Posts/10051 - THIS is ridiculous, Señor Alonso|#10051]] - THIS is ridiculous, Señor Alonso · [[Posts/10051 - THIS is ridiculous, Señor Alonso#^comentario-64940|#64940]]
+- [[Posts/10061 - A primeira convocação de Mano|#10061]] - A primeira convocação de Mano · [[Posts/10061 - A primeira convocação de Mano#^comentario-65099|#65099]]
+- [[Posts/10061 - A primeira convocação de Mano|#10061]] - A primeira convocação de Mano · [[Posts/10061 - A primeira convocação de Mano#^comentario-65676|#65676]]
+- [[Posts/10061 - A primeira convocação de Mano|#10061]] - A primeira convocação de Mano
+- [[Posts/10069 - Um voto pelo LingerieDay – 28 07 2010|#10069]] - Um voto pelo LingerieDay – 28/07/2010 · [[Posts/10069 - Um voto pelo LingerieDay – 28 07 2010#^comentario-65045|#65045]]
+- [[Posts/101 - Perguntinhas rápidas|#101]] - Perguntinhas rápidas
+- [[Posts/10100 - Mais do Mesmo|#10100]] - Mais do Mesmo · [[Posts/10100 - Mais do Mesmo#^comentario-65216|#65216]]
+- [[Posts/10103 - Coração Valente de volta ao Fluminense|#10103]] - Coração Valente de volta ao Fluminense · [[Posts/10103 - Coração Valente de volta ao Fluminense#^comentario-65330|#65330]]
+- [[Posts/10103 - Coração Valente de volta ao Fluminense|#10103]] - Coração Valente de volta ao Fluminense · [[Posts/10103 - Coração Valente de volta ao Fluminense#^comentario-65515|#65515]]
+- [[Posts/10103 - Coração Valente de volta ao Fluminense|#10103]] - Coração Valente de volta ao Fluminense
+- [[Posts/10105 - Recolhendo-nos à nossa insignificância|#10105]] - Recolhendo-nos à nossa insignificância · [[Posts/10105 - Recolhendo-nos à nossa insignificância#^comentario-70128|#70128]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65212|#65212]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65259|#65259]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65264|#65264]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65265|#65265]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65267|#65267]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65269|#65269]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65274|#65274]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65275|#65275]]
+- [[Posts/10107 - Quem sabe, sabe|#10107]] - Quem sabe, sabe · [[Posts/10107 - Quem sabe, sabe#^comentario-65276|#65276]]
+- [[Posts/10109 - O Santos sobra na turma|#10109]] - O Santos sobra na turma
+- [[Posts/1014 - Isso sim é enfado|#1014]] - Isso sim é enfado
+- [[Posts/10148 - Renato Mauricio Prado x Fred|#10148]] - Renato Mauricio Prado x Fred
+- [[Posts/1015 - De dentro do Caio Martins (do ginásio)|#1015]] - De dentro do Caio Martins (do ginásio) · [[Posts/1015 - De dentro do Caio Martins (do ginásio)#^comentario-7225|#7225]]
+- [[Posts/1015 - De dentro do Caio Martins (do ginásio)|#1015]] - De dentro do Caio Martins (do ginásio) · [[Posts/1015 - De dentro do Caio Martins (do ginásio)#^comentario-7229|#7229]]
+- [[Posts/1015 - De dentro do Caio Martins (do ginásio)|#1015]] - De dentro do Caio Martins (do ginásio) · [[Posts/1015 - De dentro do Caio Martins (do ginásio)#^comentario-7232|#7232]]
+- [[Posts/1016 - Dá-lhe Boston|#1016]] - Dá-lhe Boston · [[Posts/1016 - Dá-lhe Boston#^comentario-7285|#7285]]
+- [[Posts/10165 - Vitória 1X3 Botafogo em três minutos|#10165]] - Vitória 1X3 Botafogo em três minutos · [[Posts/10165 - Vitória 1X3 Botafogo em três minutos#^comentario-65554|#65554]]
+- [[Posts/10173 - “Don’t call me coach. You can call me Sensei”|#10173]] - “Don’t call me coach. You can call me Sensei”
+- [[Posts/10176 - É foda não ter ataque|#10176]] - É foda não ter ataque · [[Posts/10176 - É foda não ter ataque#^comentario-65610|#65610]]
+- [[Posts/1018 - Brasil x Uruguai|#1018]] - Brasil x Uruguai · [[Posts/1018 - Brasil x Uruguai#^comentario-7277|#7277]]
+- [[Posts/1018 - Brasil x Uruguai|#1018]] - Brasil x Uruguai · [[Posts/1018 - Brasil x Uruguai#^comentario-7280|#7280]]
+- [[Posts/10181 - Eu também gasto mais com ração para o meu cachorro|#10181]] - Eu também gasto mais com ração para o meu cachorro
+- [[Posts/1019 - Dunga em foco|#1019]] - Dunga em foco · [[Posts/1019 - Dunga em foco#^comentario-7289|#7289]]
+- [[Posts/1019 - Dunga em foco|#1019]] - Dunga em foco · [[Posts/1019 - Dunga em foco#^comentario-7299|#7299]]
+- [[Posts/10194 - Uma derrota na conta do Luxerlei|#10194]] - Uma derrota na conta do Luxerlei · [[Posts/10194 - Uma derrota na conta do Luxerlei#^comentario-65809|#65809]]
+- [[Posts/102 - Grêmio|#102]] - Grêmio
+- [[Posts/10201 - SPFC ou Inter no Mundial|#10201]] - SPFC ou Inter no Mundial · [[Posts/10201 - SPFC ou Inter no Mundial#^comentario-65807|#65807]]
+- [[Posts/10201 - SPFC ou Inter no Mundial|#10201]] - SPFC ou Inter no Mundial · [[Posts/10201 - SPFC ou Inter no Mundial#^comentario-65811|#65811]]
+- [[Posts/10201 - SPFC ou Inter no Mundial|#10201]] - SPFC ou Inter no Mundial · [[Posts/10201 - SPFC ou Inter no Mundial#^comentario-65814|#65814]]
+- [[Posts/10201 - SPFC ou Inter no Mundial|#10201]] - SPFC ou Inter no Mundial · [[Posts/10201 - SPFC ou Inter no Mundial#^comentario-66056|#66056]]
+- [[Posts/10208 - Se não fosse a bandeira amarela…|#10208]] - Se não fosse a bandeira amarela… · [[Posts/10208 - Se não fosse a bandeira amarela…#^comentario-66347|#66347]]
+- [[Posts/10208 - Se não fosse a bandeira amarela…|#10208]] - Se não fosse a bandeira amarela… · [[Posts/10208 - Se não fosse a bandeira amarela…#^comentario-66348|#66348]]
+- [[Posts/10209 - Santos Campeão da Copa do Brasil 2010|#10209]] - Santos Campeão da Copa do Brasil 2010
+- [[Posts/1021 - Aonde está Meghan – Blá Blá Games|#1021]] - Aonde está Meghan? – Blá Blá Games · [[Posts/1021 - Aonde está Meghan – Blá Blá Games#^comentario-7329|#7329]]
+- [[Posts/1021 - Aonde está Meghan – Blá Blá Games|#1021]] - Aonde está Meghan? – Blá Blá Games · [[Posts/1021 - Aonde está Meghan – Blá Blá Games#^comentario-7338|#7338]]
+- [[Posts/1021 - Aonde está Meghan – Blá Blá Games|#1021]] - Aonde está Meghan? – Blá Blá Games · [[Posts/1021 - Aonde está Meghan – Blá Blá Games#^comentario-7345|#7345]]
+- [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo|#10227]] - Campanha Vista Gaburah como um ‘Loco’ – parte 2: O Fogo Amigo\* · [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo#^comentario-66072|#66072]]
+- [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo|#10227]] - Campanha Vista Gaburah como um ‘Loco’ – parte 2: O Fogo Amigo\* · [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo#^comentario-66127|#66127]]
+- [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo|#10227]] - Campanha Vista Gaburah como um ‘Loco’ – parte 2: O Fogo Amigo\* · [[Posts/10227 - Campanha Vista Gaburah como um ‘Loco’ – parte 2 O Fogo Amigo#^comentario-66428|#66428]]
+- [[Posts/10242 - Botafogo 3×0 Atlético-MG|#10242]] - Botafogo 3×0 Atlético-MG · [[Posts/10242 - Botafogo 3×0 Atlético-MG#^comentario-66345|#66345]]
+- [[Posts/10242 - Botafogo 3×0 Atlético-MG|#10242]] - Botafogo 3×0 Atlético-MG · [[Posts/10242 - Botafogo 3×0 Atlético-MG#^comentario-66497|#66497]]
+- [[Posts/10249 - Francesca Piccinini em quadra|#10249]] - Francesca Piccinini em quadra
+- [[Posts/1025 - Basta! É muita babaquice!|#1025]] - Basta! É muita babaquice! · [[Posts/1025 - Basta! É muita babaquice!#^comentario-7336|#7336]]
+- [[Posts/1025 - Basta! É muita babaquice!|#1025]] - Basta! É muita babaquice! · [[Posts/1025 - Basta! É muita babaquice!#^comentario-7343|#7343]]
+- [[Posts/1025 - Basta! É muita babaquice!|#1025]] - Basta! É muita babaquice! · [[Posts/1025 - Basta! É muita babaquice!#^comentario-7344|#7344]]
+- [[Posts/10259 - O Vasco não é Carlos Alberto|#10259]] - O Vasco não é Carlos Alberto
+- [[Posts/10273 - Boa estreia do Brasil de Dorival|#10273]] - Boa estreia do Brasil de Dorival · [[Posts/10273 - Boa estreia do Brasil de Dorival#^comentario-66771|#66771]]
+- [[Posts/10273 - Boa estreia do Brasil de Dorival|#10273]] - Boa estreia do Brasil de Dorival
+- [[Posts/10278 - W. S. ‘El Loco’ Abreu G|#10278]] - W. S. ‘El Loco’ Abreu G. · [[Posts/10278 - W. S. ‘El Loco’ Abreu G#^comentario-66805|#66805]]
+- [[Posts/10278 - W. S. ‘El Loco’ Abreu G|#10278]] - W. S. ‘El Loco’ Abreu G. · [[Posts/10278 - W. S. ‘El Loco’ Abreu G#^comentario-71200|#71200]]
+- [[Posts/10278 - W. S. ‘El Loco’ Abreu G|#10278]] - W. S. ‘El Loco’ Abreu G. · [[Posts/10278 - W. S. ‘El Loco’ Abreu G#^comentario-74665|#74665]]
+- [[Posts/10278 - W. S. ‘El Loco’ Abreu G|#10278]] - W. S. ‘El Loco’ Abreu G. · [[Posts/10278 - W. S. ‘El Loco’ Abreu G#^comentario-85038|#85038]]
+- [[Posts/10278 - W. S. ‘El Loco’ Abreu G|#10278]] - W. S. ‘El Loco’ Abreu G. · [[Posts/10278 - W. S. ‘El Loco’ Abreu G#^comentario-98763|#98763]]
+- [[Posts/1028 - De dentro do Maraca|#1028]] - De dentro do Maraca · [[Posts/1028 - De dentro do Maraca#^comentario-7354|#7354]]
+- [[Posts/1028 - De dentro do Maraca|#1028]] - De dentro do Maraca · [[Posts/1028 - De dentro do Maraca#^comentario-7355|#7355]]
+- [[Posts/1028 - De dentro do Maraca|#1028]] - De dentro do Maraca · [[Posts/1028 - De dentro do Maraca#^comentario-7376|#7376]]
+- [[Posts/1028 - De dentro do Maraca|#1028]] - De dentro do Maraca · [[Posts/1028 - De dentro do Maraca#^comentario-7377|#7377]]
+- [[Posts/1028 - De dentro do Maraca|#1028]] - De dentro do Maraca · [[Posts/1028 - De dentro do Maraca#^comentario-7389|#7389]]
+- [[Posts/10287 - Portaluppi e Grêmio não combinam|#10287]] - Portaluppi e Grêmio não combinam · [[Posts/10287 - Portaluppi e Grêmio não combinam#^comentario-77676|#77676]]
+- [[Posts/10287 - Portaluppi e Grêmio não combinam|#10287]] - Portaluppi e Grêmio não combinam · [[Posts/10287 - Portaluppi e Grêmio não combinam#^comentario-77680|#77680]]
+- [[Posts/10287 - Portaluppi e Grêmio não combinam|#10287]] - Portaluppi e Grêmio não combinam
+- [[Posts/10313 - Atlético-GO 0X2 Botafogo|#10313]] - Atlético-GO 0X2 Botafogo · [[Posts/10313 - Atlético-GO 0X2 Botafogo#^comentario-67115|#67115]]
+- [[Posts/10313 - Atlético-GO 0X2 Botafogo|#10313]] - Atlético-GO 0X2 Botafogo · [[Posts/10313 - Atlético-GO 0X2 Botafogo#^comentario-67745|#67745]]
+- [[Posts/10323 - Fluminense 3×0 Internacional O Melhor Elenco do Brasileirão|#10323]] - Fluminense 3×0 Internacional: O Melhor Elenco do Brasileirão · [[Posts/10323 - Fluminense 3×0 Internacional O Melhor Elenco do Brasileirão#^comentario-67424|#67424]]
+- [[Posts/10323 - Fluminense 3×0 Internacional O Melhor Elenco do Brasileirão|#10323]] - Fluminense 3×0 Internacional: O Melhor Elenco do Brasileirão
+- [[Posts/10329 - Traduzindo a Lancepress|#10329]] - Traduzindo a Lancepress
+- [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil|#1033]] - Estádios prontos para a Copa de 2014 no Brasil · [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil#^comentario-7383|#7383]]
+- [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil|#1033]] - Estádios prontos para a Copa de 2014 no Brasil · [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil#^comentario-7395|#7395]]
+- [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil|#1033]] - Estádios prontos para a Copa de 2014 no Brasil · [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil#^comentario-7408|#7408]]
+- [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil|#1033]] - Estádios prontos para a Copa de 2014 no Brasil · [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil#^comentario-7501|#7501]]
+- [[Posts/1033 - Estádios prontos para a Copa de 2014 no Brasil|#1033]] - Estádios prontos para a Copa de 2014 no Brasil
+- [[Posts/10345 - Vasco x Fluminense – Ingressos|#10345]] - Vasco x Fluminense – Ingressos · [[Posts/10345 - Vasco x Fluminense – Ingressos#^comentario-67686|#67686]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-67493|#67493]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-67563|#67563]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-67594|#67594]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-67738|#67738]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-67743|#67743]]
+- [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)|#10354]] - A verdadeira mentalidade que ajuda(ria)\* · [[Posts/10354 - A verdadeira mentalidade que ajuda(ria)#^comentario-68023|#68023]]
+- [[Posts/10374 - Internacional Bicampeão da Libertadores|#10374]] - Internacional Bicampeão da Libertadores · [[Posts/10374 - Internacional Bicampeão da Libertadores#^comentario-67758|#67758]]
+- [[Posts/10381 - O Pirão de Conca|#10381]] - O Pirão de Conca
+- [[Posts/10389 - Eu fico!|#10389]] - Eu fico! · [[Posts/10389 - Eu fico!#^comentario-67801|#67801]]
+- [[Posts/10389 - Eu fico!|#10389]] - Eu fico! · [[Posts/10389 - Eu fico!#^comentario-67803|#67803]]
+- [[Posts/10398 - Kitesurf em João Pessoa|#10398]] - Kitesurf em João Pessoa · [[Posts/10398 - Kitesurf em João Pessoa#^comentario-69599|#69599]]
+- [[Posts/10398 - Kitesurf em João Pessoa|#10398]] - Kitesurf em João Pessoa · [[Posts/10398 - Kitesurf em João Pessoa#^comentario-69620|#69620]]
+- [[Posts/1041 - Gol do Fantástico (na íntegra)|#1041]] - Gol do Fantástico (na íntegra) · [[Posts/1041 - Gol do Fantástico (na íntegra)#^comentario-7483|#7483]]
+- [[Posts/1041 - Gol do Fantástico (na íntegra)|#1041]] - Gol do Fantástico (na íntegra) · [[Posts/1041 - Gol do Fantástico (na íntegra)#^comentario-7684|#7684]]
+- [[Posts/1041 - Gol do Fantástico (na íntegra)|#1041]] - Gol do Fantástico (na íntegra)
+- [[Posts/10421 - Museu do Futebol de SP|#10421]] - Museu do Futebol de SP · [[Posts/10421 - Museu do Futebol de SP#^comentario-79705|#79705]]
+- [[Posts/10435 - Uma tarde futebolista em Madrid|#10435]] - Uma tarde futebolista em Madrid · [[Posts/10435 - Uma tarde futebolista em Madrid#^comentario-70589|#70589]]
+- [[Posts/1044 - A politica debaixo da trave do Fluminense|#1044]] - A politica debaixo da trave do Fluminense
+- [[Posts/10460 - Diretoria e Torcida do Botafogo x Hienas Hard|#10460]] - Diretoria e Torcida do Botafogo x Hienas Hard
+- [[Posts/10468 - Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo|#10468]] - Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo
+- [[Posts/1048 - E o Botafogo, hein|#1048]] - E o Botafogo, hein? · [[Posts/1048 - E o Botafogo, hein#^comentario-7443|#7443]]
+- [[Posts/1048 - E o Botafogo, hein|#1048]] - E o Botafogo, hein? · [[Posts/1048 - E o Botafogo, hein#^comentario-7451|#7451]]
+- [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense|#10483]] - Festa e Melancolia – Vasco 2 x 2 Fluminense · [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense#^comentario-68085|#68085]]
+- [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense|#10483]] - Festa e Melancolia – Vasco 2 x 2 Fluminense · [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense#^comentario-68087|#68087]]
+- [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense|#10483]] - Festa e Melancolia – Vasco 2 x 2 Fluminense · [[Posts/10483 - Festa e Melancolia – Vasco 2 x 2 Fluminense#^comentario-68141|#68141]]
+- [[Posts/10497 - Luxemburgo, quais as garantias|#10497]] - Luxemburgo, quais as garantias? · [[Posts/10497 - Luxemburgo, quais as garantias#^comentario-68347|#68347]]
+- [[Posts/10497 - Luxemburgo, quais as garantias|#10497]] - Luxemburgo, quais as garantias?
+- [[Posts/10503 - O Dia D do Botafogo|#10503]] - O Dia D do Botafogo · [[Posts/10503 - O Dia D do Botafogo#^comentario-68302|#68302]]
+- [[Posts/10503 - O Dia D do Botafogo|#10503]] - O Dia D do Botafogo · [[Posts/10503 - O Dia D do Botafogo#^comentario-68303|#68303]]
+- [[Posts/10503 - O Dia D do Botafogo|#10503]] - O Dia D do Botafogo · [[Posts/10503 - O Dia D do Botafogo#^comentario-68311|#68311]]
+- [[Posts/10503 - O Dia D do Botafogo|#10503]] - O Dia D do Botafogo · [[Posts/10503 - O Dia D do Botafogo#^comentario-68312|#68312]]
+- [[Posts/10517 - E-mail para livro|#10517]] - E-mail para livro · [[Posts/10517 - E-mail para livro#^comentario-68316|#68316]]
+- [[Posts/10531 - Palhaços no ataque|#10531]] - Palhaços no ataque
+- [[Posts/10563 - Grupos da UEFA Champions League 2010 2011|#10563]] - Grupos da UEFA Champions League 2010/2011 · [[Posts/10563 - Grupos da UEFA Champions League 2010 2011#^comentario-78266|#78266]]
+- [[Posts/10563 - Grupos da UEFA Champions League 2010 2011|#10563]] - Grupos da UEFA Champions League 2010/2011
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7455|#7455]]
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7464|#7464]]
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7466|#7466]]
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7494|#7494]]
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7497|#7497]]
+- [[Posts/1057 - Isso sim é final que todo mundo torce|#1057]] - Isso sim é final que todo mundo torce · [[Posts/1057 - Isso sim é final que todo mundo torce#^comentario-7528|#7528]]
+- [[Posts/10571 - Assim é que se fala|#10571]] - Assim é que se fala · [[Posts/10571 - Assim é que se fala#^comentario-68456|#68456]]
+- [[Posts/10571 - Assim é que se fala|#10571]] - Assim é que se fala · [[Posts/10571 - Assim é que se fala#^comentario-68490|#68490]]
+- [[Posts/10571 - Assim é que se fala|#10571]] - Assim é que se fala · [[Posts/10571 - Assim é que se fala#^comentario-68531|#68531]]
+- [[Posts/10571 - Assim é que se fala|#10571]] - Assim é que se fala · [[Posts/10571 - Assim é que se fala#^comentario-68576|#68576]]
+- [[Posts/10571 - Assim é que se fala|#10571]] - Assim é que se fala · [[Posts/10571 - Assim é que se fala#^comentario-69495|#69495]]
+- [[Posts/10581 - O Luxo do Lixo|#10581]] - O Luxo do Lixo · [[Posts/10581 - O Luxo do Lixo#^comentario-68527|#68527]]
+- [[Posts/10581 - O Luxo do Lixo|#10581]] - O Luxo do Lixo · [[Posts/10581 - O Luxo do Lixo#^comentario-68552|#68552]]
+- [[Posts/10581 - O Luxo do Lixo|#10581]] - O Luxo do Lixo
+- [[Posts/106 - Comemorando com a torcida…|#106]] - Comemorando com a torcida…
+- [[Posts/10600 - 300 vezes Barrichello|#10600]] - 300 vezes Barrichello · [[Posts/10600 - 300 vezes Barrichello#^comentario-69156|#69156]]
+- [[Posts/10603 - Dedé, O Gigante da Colina|#10603]] - Dedé, O Gigante da Colina · [[Posts/10603 - Dedé, O Gigante da Colina#^comentario-68666|#68666]]
+- [[Posts/10612 - Zico, o Ombudsman|#10612]] - Zico, o Ombudsman
+- [[Posts/10624 - Projeto de Lei 215 2007 – Código Federal de Bem-Estar Animal|#10624]] - Projeto de Lei 215/2007 – Código Federal de Bem-Estar Animal · [[Posts/10624 - Projeto de Lei 215 2007 – Código Federal de Bem-Estar Animal#^comentario-68732|#68732]]
+- [[Posts/10627 - Calendário Farroupilha|#10627]] - Calendário Farroupilha · [[Posts/10627 - Calendário Farroupilha#^comentario-68797|#68797]]
+- [[Posts/10627 - Calendário Farroupilha|#10627]] - Calendário Farroupilha
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7570|#7570]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7576|#7576]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7583|#7583]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7584|#7584]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7586|#7586]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7599|#7599]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7602|#7602]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7604|#7604]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7609|#7609]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7656|#7656]]
+- [[Posts/1063 - Como torcer às 16 00h|#1063]] - Como torcer às 16:00h · [[Posts/1063 - Como torcer às 16 00h#^comentario-7657|#7657]]
+- [[Posts/10633 - O emocionante EUA 70×68 Brasil|#10633]] - O emocionante EUA 70×68 Brasil · [[Posts/10633 - O emocionante EUA 70×68 Brasil#^comentario-68869|#68869]]
+- [[Posts/10633 - O emocionante EUA 70×68 Brasil|#10633]] - O emocionante EUA 70×68 Brasil
+- [[Posts/10642 - Centenário|#10642]] - Centenário · [[Posts/10642 - Centenário#^comentario-68923|#68923]]
+- [[Posts/10642 - Centenário|#10642]] - Centenário
+- [[Posts/10646 - Ayrton Senna, em breve|#10646]] - Ayrton Senna, em breve · [[Posts/10646 - Ayrton Senna, em breve#^comentario-68988|#68988]]
+- [[Posts/10649 - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras|#10649]] - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras · [[Posts/10649 - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras#^comentario-68997|#68997]]
+- [[Posts/10649 - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras|#10649]] - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras · [[Posts/10649 - Grêmio Prudente 0×1 Botafogo; Fluminense 1×1 Palmeiras#^comentario-69031|#69031]]
+- [[Posts/1065 - Viva o Campeão Brasileiro 2007!|#1065]] - Viva o Campeão Brasileiro 2007! · [[Posts/1065 - Viva o Campeão Brasileiro 2007!#^comentario-7564|#7564]]
+- [[Posts/1065 - Viva o Campeão Brasileiro 2007!|#1065]] - Viva o Campeão Brasileiro 2007! · [[Posts/1065 - Viva o Campeão Brasileiro 2007!#^comentario-7571|#7571]]
+- [[Posts/1065 - Viva o Campeão Brasileiro 2007!|#1065]] - Viva o Campeão Brasileiro 2007! · [[Posts/1065 - Viva o Campeão Brasileiro 2007!#^comentario-7573|#7573]]
+- [[Posts/10697 - Despedida em zero a zero|#10697]] - Despedida em zero a zero · [[Posts/10697 - Despedida em zero a zero#^comentario-69652|#69652]]
+- [[Posts/107 - Terminou|#107]] - Terminou?
+- [[Posts/10703 - Hermanos 93 x 89 Brazucas|#10703]] - Hermanos 93 x 89 Brazucas · [[Posts/10703 - Hermanos 93 x 89 Brazucas#^comentario-69987|#69987]]
+- [[Posts/10709 - Fluriado|#10709]] - Fluriado
+- [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO|#10729]] - Santos 0×1 Botafogo – O ÍDOLO · [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO#^comentario-69547|#69547]]
+- [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO|#10729]] - Santos 0×1 Botafogo – O ÍDOLO · [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO#^comentario-69549|#69549]]
+- [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO|#10729]] - Santos 0×1 Botafogo – O ÍDOLO · [[Posts/10729 - Santos 0×1 Botafogo – O ÍDOLO#^comentario-69550|#69550]]
+- [[Posts/10741 - Fred x Michel Simoni|#10741]] - Fred x Michel Simoni · [[Posts/10741 - Fred x Michel Simoni#^comentario-70142|#70142]]
+- [[Posts/10741 - Fred x Michel Simoni|#10741]] - Fred x Michel Simoni · [[Posts/10741 - Fred x Michel Simoni#^comentario-70255|#70255]]
+- [[Posts/10741 - Fred x Michel Simoni|#10741]] - Fred x Michel Simoni
+- [[Posts/1075 - Que parada, Cruzeiro|#1075]] - Que parada, Cruzeiro. · [[Posts/1075 - Que parada, Cruzeiro#^comentario-7613|#7613]]
+- [[Posts/1075 - Que parada, Cruzeiro|#1075]] - Que parada, Cruzeiro. · [[Posts/1075 - Que parada, Cruzeiro#^comentario-7629|#7629]]
+- [[Posts/1075 - Que parada, Cruzeiro|#1075]] - Que parada, Cruzeiro. · [[Posts/1075 - Que parada, Cruzeiro#^comentario-7630|#7630]]
+- [[Posts/1075 - Que parada, Cruzeiro|#1075]] - Que parada, Cruzeiro. · [[Posts/1075 - Que parada, Cruzeiro#^comentario-7658|#7658]]
+- [[Posts/1075 - Que parada, Cruzeiro|#1075]] - Que parada, Cruzeiro.
+- [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão|#10766]] - Palmas no Engenhão, palmas para o Fogão · [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão#^comentario-69840|#69840]]
+- [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão|#10766]] - Palmas no Engenhão, palmas para o Fogão · [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão#^comentario-69875|#69875]]
+- [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão|#10766]] - Palmas no Engenhão, palmas para o Fogão · [[Posts/10766 - Palmas no Engenhão, palmas para o Fogão#^comentario-69884|#69884]]
+- [[Posts/10773 - O Dia do Dragão|#10773]] - O Dia do Dragão · [[Posts/10773 - O Dia do Dragão#^comentario-69862|#69862]]
+- [[Posts/10773 - O Dia do Dragão|#10773]] - O Dia do Dragão
+- [[Posts/10780 - Fernando Henrique e Rafael recebem o carinho da torcida|#10780]] - Fernando Henrique e Rafael recebem o carinho da torcida · [[Posts/10780 - Fernando Henrique e Rafael recebem o carinho da torcida#^comentario-69885|#69885]]
+- [[Posts/10780 - Fernando Henrique e Rafael recebem o carinho da torcida|#10780]] - Fernando Henrique e Rafael recebem o carinho da torcida
+- [[Posts/10782 - Fluminense x Corinthians – decisão|#10782]] - Fluminense x Corinthians – decisão?
+- [[Posts/10796 - Escárnio|#10796]] - Escárnio · [[Posts/10796 - Escárnio#^comentario-69909|#69909]]
+- [[Posts/10796 - Escárnio|#10796]] - Escárnio · [[Posts/10796 - Escárnio#^comentario-70161|#70161]]
+- [[Posts/1080 - Romário, novo velho técnico do Vasco|#1080]] - Romário, novo velho técnico do Vasco · [[Posts/1080 - Romário, novo velho técnico do Vasco#^comentario-7639|#7639]]
+- [[Posts/1080 - Romário, novo velho técnico do Vasco|#1080]] - Romário, novo velho técnico do Vasco · [[Posts/1080 - Romário, novo velho técnico do Vasco#^comentario-7640|#7640]]
+- [[Posts/1080 - Romário, novo velho técnico do Vasco|#1080]] - Romário, novo velho técnico do Vasco · [[Posts/1080 - Romário, novo velho técnico do Vasco#^comentario-7671|#7671]]
+- [[Posts/10806 - Juca Kfoury lamenta pelo Santa Cruz|#10806]] - Juca Kfoury lamenta pelo Santa Cruz · [[Posts/10806 - Juca Kfoury lamenta pelo Santa Cruz#^comentario-70006|#70006]]
+- [[Posts/10806 - Juca Kfoury lamenta pelo Santa Cruz|#10806]] - Juca Kfoury lamenta pelo Santa Cruz · [[Posts/10806 - Juca Kfoury lamenta pelo Santa Cruz#^comentario-70144|#70144]]
+- [[Posts/10806 - Juca Kfoury lamenta pelo Santa Cruz|#10806]] - Juca Kfoury lamenta pelo Santa Cruz
+- [[Posts/10822 - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER|#10822]] - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER · [[Posts/10822 - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER#^comentario-70663|#70663]]
+- [[Posts/10822 - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER|#10822]] - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER · [[Posts/10822 - Botafogo 2×2 Cruzeiro – serviço, transporte, Mercosul e HÉBER#^comentario-70664|#70664]]
+- [[Posts/10838 - Mascote come cheerleader em campo|#10838]] - Mascote come cheerleader em campo · [[Posts/10838 - Mascote come cheerleader em campo#^comentario-70609|#70609]]
+- [[Posts/1084 - E o Bolão chegou ao fim|#1084]] - E o Bolão chegou ao fim · [[Posts/1084 - E o Bolão chegou ao fim#^comentario-7733|#7733]]
+- [[Posts/10844 - Val Baiano MERECE mais chances|#10844]] - Val Baiano MERECE mais chances
+- [[Posts/10847 - Goiás 4X1 Botafogo – a hora e a vez de Saulo Paixão|#10847]] - Goiás 4X1 Botafogo – a hora e a vez de Saulo Paixão · [[Posts/10847 - Goiás 4X1 Botafogo – a hora e a vez de Saulo Paixão#^comentario-70260|#70260]]
+- [[Posts/10855 - René Simões é o cara. Sempre foi|#10855]] - René Simões é o cara. Sempre foi · [[Posts/10855 - René Simões é o cara. Sempre foi#^comentario-70274|#70274]]
+- [[Posts/10855 - René Simões é o cara. Sempre foi|#10855]] - René Simões é o cara. Sempre foi · [[Posts/10855 - René Simões é o cara. Sempre foi#^comentario-70315|#70315]]
+- [[Posts/10855 - René Simões é o cara. Sempre foi|#10855]] - René Simões é o cara. Sempre foi
+- [[Posts/1086 - Uniforme do Fluminense para a Libertadores 2008|#1086]] - Uniforme do Fluminense para a Libertadores 2008 · [[Posts/1086 - Uniforme do Fluminense para a Libertadores 2008#^comentario-7715|#7715]]
+- [[Posts/1086 - Uniforme do Fluminense para a Libertadores 2008|#1086]] - Uniforme do Fluminense para a Libertadores 2008
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido · [[Posts/10862 - Muricy está perdido#^comentario-70281|#70281]]
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido · [[Posts/10862 - Muricy está perdido#^comentario-70282|#70282]]
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido · [[Posts/10862 - Muricy está perdido#^comentario-70321|#70321]]
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido · [[Posts/10862 - Muricy está perdido#^comentario-70336|#70336]]
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido · [[Posts/10862 - Muricy está perdido#^comentario-70353|#70353]]
+- [[Posts/10862 - Muricy está perdido|#10862]] - Muricy está perdido
+- [[Posts/10870 - Alívio no final do show de horror|#10870]] - Alívio no final do show de horror · [[Posts/10870 - Alívio no final do show de horror#^comentario-70319|#70319]]
+- [[Posts/10884 - Erros e mais erros|#10884]] - Erros e mais erros · [[Posts/10884 - Erros e mais erros#^comentario-70449|#70449]]
+- [[Posts/10895 - Fernando, Fernando! Get out the way!|#10895]] - Fernando, Fernando! Get out the way! · [[Posts/10895 - Fernando, Fernando! Get out the way!#^comentario-70511|#70511]]
+- [[Posts/10905 - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|#10905]] - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom! · [[Posts/10905 - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!#^comentario-70845|#70845]]
+- [[Posts/10916 - O torcedor finalmente entendeu os Pontos Corridos|#10916]] - O torcedor finalmente entendeu os Pontos Corridos
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7744|#7744]]
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7746|#7746]]
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7758|#7758]]
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7765|#7765]]
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7795|#7795]]
+- [[Posts/1092 - A força da marca Flamengo|#1092]] - A força da marca Flamengo · [[Posts/1092 - A força da marca Flamengo#^comentario-7796|#7796]]
+- [[Posts/10930 - Violência|#10930]] - Violência · [[Posts/10930 - Violência#^comentario-70734|#70734]]
+- [[Posts/10930 - Violência|#10930]] - Violência
+- [[Posts/10937 - Eu apóio futebol às segundas|#10937]] - Eu apóio futebol às segundas
+- [[Posts/10953 - Dorival Junior demitido do Santos|#10953]] - Dorival Junior demitido do Santos · [[Posts/10953 - Dorival Junior demitido do Santos#^comentario-70875|#70875]]
+- [[Posts/10953 - Dorival Junior demitido do Santos|#10953]] - Dorival Junior demitido do Santos · [[Posts/10953 - Dorival Junior demitido do Santos#^comentario-70876|#70876]]
+- [[Posts/10953 - Dorival Junior demitido do Santos|#10953]] - Dorival Junior demitido do Santos · [[Posts/10953 - Dorival Junior demitido do Santos#^comentario-70878|#70878]]
+- [[Posts/1096 - Mico Preto|#1096]] - Mico Preto · [[Posts/1096 - Mico Preto#^comentario-7779|#7779]]
+- [[Posts/1096 - Mico Preto|#1096]] - Mico Preto
+- [[Posts/10963 - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones|#10963]] - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones · [[Posts/10963 - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones#^comentario-71038|#71038]]
+- [[Posts/10963 - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones|#10963]] - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones · [[Posts/10963 - Botafogo 2X2 Vasco, digo, Vasco 2X2 Botafogo – o jogo dos cojones#^comentario-71045|#71045]]
+- [[Posts/10974 - Santos 2×3 Corinthians um time atabalhoado x um time|#10974]] - Santos 2×3 Corinthians: um time atabalhoado x um time
+- [[Posts/1099 - Mundial de Clubes 2007|#1099]] - Mundial de Clubes 2007 · [[Posts/1099 - Mundial de Clubes 2007#^comentario-7798|#7798]]
+- [[Posts/1099 - Mundial de Clubes 2007|#1099]] - Mundial de Clubes 2007 · [[Posts/1099 - Mundial de Clubes 2007#^comentario-7800|#7800]]
+- [[Posts/1099 - Mundial de Clubes 2007|#1099]] - Mundial de Clubes 2007 · [[Posts/1099 - Mundial de Clubes 2007#^comentario-7817|#7817]]
+- [[Posts/1099 - Mundial de Clubes 2007|#1099]] - Mundial de Clubes 2007 · [[Posts/1099 - Mundial de Clubes 2007#^comentario-7824|#7824]]
+- [[Posts/1099 - Mundial de Clubes 2007|#1099]] - Mundial de Clubes 2007 · [[Posts/1099 - Mundial de Clubes 2007#^comentario-7827|#7827]]
+- [[Posts/10991 - Mano segue passos disciplinadores de Dunga|#10991]] - Mano segue passos disciplinadores de Dunga
+- [[Posts/10992 - Leo Moura, de novo|#10992]] - Leo Moura, de novo · [[Posts/10992 - Leo Moura, de novo#^comentario-71188|#71188]]
+- [[Posts/11 - Líder|#11]] - Líder
+- [[Posts/110 - E se der Grêmio|#110]] - E se der Grêmio?
+- [[Posts/1100 - Vasco fecha com Alfredo Sampaio|#1100]] - Vasco fecha com Alfredo Sampaio
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7867|#7867]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7869|#7869]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7881|#7881]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7885|#7885]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7889|#7889]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7906|#7906]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2 · [[Posts/1101 - O Santos entrou na onda 8-2-2#^comentario-7908|#7908]]
+- [[Posts/1101 - O Santos entrou na onda 8-2-2|#1101]] - O Santos entrou na onda: 8-2-2
+- [[Posts/11012 - Fluminense, o degolador|#11012]] - Fluminense, o degolador · [[Posts/11012 - Fluminense, o degolador#^comentario-71421|#71421]]
+- [[Posts/11012 - Fluminense, o degolador|#11012]] - Fluminense, o degolador · [[Posts/11012 - Fluminense, o degolador#^comentario-84223|#84223]]
+- [[Posts/11012 - Fluminense, o degolador|#11012]] - Fluminense, o degolador
+- [[Posts/1103 - Abre o olho, Botafogo!|#1103]] - Abre o olho, Botafogo! · [[Posts/1103 - Abre o olho, Botafogo!#^comentario-7836|#7836]]
+- [[Posts/1103 - Abre o olho, Botafogo!|#1103]] - Abre o olho, Botafogo! · [[Posts/1103 - Abre o olho, Botafogo!#^comentario-7839|#7839]]
+- [[Posts/1103 - Abre o olho, Botafogo!|#1103]] - Abre o olho, Botafogo! · [[Posts/1103 - Abre o olho, Botafogo!#^comentario-7864|#7864]]
+- [[Posts/1103 - Abre o olho, Botafogo!|#1103]] - Abre o olho, Botafogo! · [[Posts/1103 - Abre o olho, Botafogo!#^comentario-7874|#7874]]
+- [[Posts/1103 - Abre o olho, Botafogo!|#1103]] - Abre o olho, Botafogo! · [[Posts/1103 - Abre o olho, Botafogo!#^comentario-7886|#7886]]
+- [[Posts/11033 - Guarani 1×0 Vasco|#11033]] - Guarani 1×0 Vasco · [[Posts/11033 - Guarani 1×0 Vasco#^comentario-71485|#71485]]
+- [[Posts/11040 - Muricy em ‘A Vida Como Ela É’|#11040]] - Muricy em ‘A Vida Como Ela É’ · [[Posts/11040 - Muricy em ‘A Vida Como Ela É’#^comentario-71499|#71499]]
+- [[Posts/11040 - Muricy em ‘A Vida Como Ela É’|#11040]] - Muricy em ‘A Vida Como Ela É’
+- [[Posts/11044 - Botafogo Delivery|#11044]] - Botafogo Delivery · [[Posts/11044 - Botafogo Delivery#^comentario-71498|#71498]]
+- [[Posts/11047 - Imprensa esportiva discute o legado de Ricardo Teixeira para o futebol brasileiro|#11047]] - Imprensa esportiva discute o legado de Ricardo Teixeira para o futebol brasileiro
+- [[Posts/11053 - Bolão BBG BR2010 – 27ª rodada|#11053]] - Bolão BBG BR2010 – 27ª rodada
+- [[Posts/1106 - Bla Bla Quiz|#1106]] - Bla Bla Quiz · [[Posts/1106 - Bla Bla Quiz#^comentario-7855|#7855]]
+- [[Posts/11065 - Lexotan|#11065]] - Lexotan · [[Posts/11065 - Lexotan#^comentario-71572|#71572]]
+- [[Posts/11065 - Lexotan|#11065]] - Lexotan · [[Posts/11065 - Lexotan#^comentario-71641|#71641]]
+- [[Posts/11071 - A Gávea virou circo mesmo|#11071]] - A Gávea virou circo mesmo
+- [[Posts/1108 - Jogador x Clube|#1108]] - Jogador x Clube · [[Posts/1108 - Jogador x Clube#^comentario-7894|#7894]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7917|#7917]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7918|#7918]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7926|#7926]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7955|#7955]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7967|#7967]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-7989|#7989]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-8040|#8040]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-8047|#8047]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-8050|#8050]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-8060|#8060]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento · [[Posts/1109 - Não diga por aí que foi sem o consentimento#^comentario-8066|#8066]]
+- [[Posts/1109 - Não diga por aí que foi sem o consentimento|#1109]] - Não diga por aí que foi sem o consentimento
+- [[Posts/11090 - Peladeiro|#11090]] - Peladeiro
+- [[Posts/111 - Até pelada tem emoção|#111]] - Até pelada tem emoção
+- [[Posts/11102 - Fluminense voltou a jogar em casa|#11102]] - Fluminense voltou a jogar em casa
+- [[Posts/1111 - Futebol de Play-Station|#1111]] - Futebol de Play-Station · [[Posts/1111 - Futebol de Play-Station#^comentario-7956|#7956]]
+- [[Posts/1111 - Futebol de Play-Station|#1111]] - Futebol de Play-Station
+- [[Posts/11113 - E o legado da FIFA…|#11113]] - E o legado da FIFA… · [[Posts/11113 - E o legado da FIFA…#^comentario-71787|#71787]]
+- [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena|#11128]] - Cruzeiro 3×0 Atlético-GO – Passeio na Arena · [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena#^comentario-71833|#71833]]
+- [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena|#11128]] - Cruzeiro 3×0 Atlético-GO – Passeio na Arena · [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena#^comentario-71835|#71835]]
+- [[Posts/11138 - Correu|#11138]] - Correu · [[Posts/11138 - Correu#^comentario-71965|#71965]]
+- [[Posts/11138 - Correu|#11138]] - Correu · [[Posts/11138 - Correu#^comentario-71970|#71970]]
+- [[Posts/11138 - Correu|#11138]] - Correu · [[Posts/11138 - Correu#^comentario-72385|#72385]]
+- [[Posts/11138 - Correu|#11138]] - Correu · [[Posts/11138 - Correu#^comentario-72654|#72654]]
+- [[Posts/1114 - Dida teve culpa|#1114]] - Dida teve culpa?
+- [[Posts/11163 - Todos iguais mas uns mais iguais que os outros|#11163]] - Todos iguais mas uns mais iguais que os outros · [[Posts/11163 - Todos iguais mas uns mais iguais que os outros#^comentario-72159|#72159]]
+- [[Posts/11163 - Todos iguais mas uns mais iguais que os outros|#11163]] - Todos iguais mas uns mais iguais que os outros
+- [[Posts/11168 - Vergonha e tristeza|#11168]] - Vergonha e tristeza · [[Posts/11168 - Vergonha e tristeza#^comentario-72169|#72169]]
+- [[Posts/11168 - Vergonha e tristeza|#11168]] - Vergonha e tristeza · [[Posts/11168 - Vergonha e tristeza#^comentario-74318|#74318]]
+- [[Posts/1117 - Feliz Natal pra todos! Feliz Natal!|#1117]] - Feliz Natal pra todos! Feliz Natal! · [[Posts/1117 - Feliz Natal pra todos! Feliz Natal!#^comentario-8185|#8185]]
+- [[Posts/11173 - Silas caiu|#11173]] - Silas caiu · [[Posts/11173 - Silas caiu#^comentario-72309|#72309]]
+- [[Posts/11173 - Silas caiu|#11173]] - Silas caiu · [[Posts/11173 - Silas caiu#^comentario-72333|#72333]]
+- [[Posts/1118 - De dentro do Garden Center (Inside Jardim Central)|#1118]] - De dentro do Garden Center (Inside Jardim Central) · [[Posts/1118 - De dentro do Garden Center (Inside Jardim Central)#^comentario-8202|#8202]]
+- [[Posts/11185 - BR2010 28ª rodada|#11185]] - BR2010 28ª rodada · [[Posts/11185 - BR2010 28ª rodada#^comentario-72528|#72528]]
+- [[Posts/11185 - BR2010 28ª rodada|#11185]] - BR2010 28ª rodada · [[Posts/11185 - BR2010 28ª rodada#^comentario-72562|#72562]]
+- [[Posts/11185 - BR2010 28ª rodada|#11185]] - BR2010 28ª rodada
+- [[Posts/11196 - O “Mito” Neymar já era|#11196]] - O “Mito” Neymar já era · [[Posts/11196 - O “Mito” Neymar já era#^comentario-72481|#72481]]
+- [[Posts/112 - Alguém conhece|#112]] - Alguém conhece?
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8266|#8266]]
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8303|#8303]]
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8330|#8330]]
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8343|#8343]]
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8441|#8441]]
+- [[Posts/1120 - Depois não vá dizer que é implicância|#1120]] - Depois não vá dizer que é implicância · [[Posts/1120 - Depois não vá dizer que é implicância#^comentario-8656|#8656]]
+- [[Posts/11201 - Camarões no Mundial de Vôlei|#11201]] - Camarões no Mundial de Vôlei
+- [[Posts/11205 - Guarani 1X1 Botafogo – qual a novidade|#11205]] - Guarani 1X1 Botafogo – qual a novidade? · [[Posts/11205 - Guarani 1X1 Botafogo – qual a novidade#^comentario-72586|#72586]]
+- [[Posts/11207 - Maldito seja|#11207]] - Maldito seja · [[Posts/11207 - Maldito seja#^comentario-72555|#72555]]
+- [[Posts/11207 - Maldito seja|#11207]] - Maldito seja
+- [[Posts/1122 - Meeeeeeerry Christmas everybody!!!!!!!|#1122]] - Meeeeeeerry Christmas everybody!!!!!!! · [[Posts/1122 - Meeeeeeerry Christmas everybody!!!!!!!#^comentario-8294|#8294]]
+- [[Posts/1122 - Meeeeeeerry Christmas everybody!!!!!!!|#1122]] - Meeeeeeerry Christmas everybody!!!!!!! · [[Posts/1122 - Meeeeeeerry Christmas everybody!!!!!!!#^comentario-8304|#8304]]
+- [[Posts/11229 - Flamengo goleou! 2×0|#11229]] - Flamengo goleou! 2×0 · [[Posts/11229 - Flamengo goleou! 2×0#^comentario-72721|#72721]]
+- [[Posts/11238 - Bolão BBG BR2010 – 29ª Rodada Chegou a vez do Cruzeiro|#11238]] - Bolão BBG BR2010 – 29ª Rodada: Chegou a vez do Cruzeiro? · [[Posts/11238 - Bolão BBG BR2010 – 29ª Rodada Chegou a vez do Cruzeiro#^comentario-72779|#72779]]
+- [[Posts/11238 - Bolão BBG BR2010 – 29ª Rodada Chegou a vez do Cruzeiro|#11238]] - Bolão BBG BR2010 – 29ª Rodada: Chegou a vez do Cruzeiro? · [[Posts/11238 - Bolão BBG BR2010 – 29ª Rodada Chegou a vez do Cruzeiro#^comentario-72799|#72799]]
+- [[Posts/11253 - Botafogo 1X1 Palmeiras – Gaburah seca o Loco|#11253]] - Botafogo 1X1 Palmeiras – Gaburah seca o Loco · [[Posts/11253 - Botafogo 1X1 Palmeiras – Gaburah seca o Loco#^comentario-72840|#72840]]
+- [[Posts/11253 - Botafogo 1X1 Palmeiras – Gaburah seca o Loco|#11253]] - Botafogo 1X1 Palmeiras – Gaburah seca o Loco
+- [[Posts/11263 - Boas Novas em São Januário|#11263]] - Boas Novas em São Januário · [[Posts/11263 - Boas Novas em São Januário#^comentario-72934|#72934]]
+- [[Posts/11278 - Hattrick|#11278]] - Hattrick · [[Posts/11278 - Hattrick#^comentario-73045|#73045]]
+- [[Posts/11278 - Hattrick|#11278]] - Hattrick
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8596|#8596]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8660|#8660]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8691|#8691]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8707|#8707]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8716|#8716]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu · [[Posts/1128 - 2007 – Quem subiu, quem desceu#^comentario-8739|#8739]]
+- [[Posts/1128 - 2007 – Quem subiu, quem desceu|#1128]] - 2007 – Quem subiu, quem desceu
+- [[Posts/11289 - Rubronegros de soslaio|#11289]] - Rubronegros de soslaio
+- [[Posts/113 - Por que eu não aprendo|#113]] - Por que eu não aprendo? · [[Posts/113 - Por que eu não aprendo#^comentario-301|#301]]
+- [[Posts/113 - Por que eu não aprendo|#113]] - Por que eu não aprendo?
+- [[Posts/11317 - Um Ode à Gambiarra|#11317]] - Um Ode à Gambiarra · [[Posts/11317 - Um Ode à Gambiarra#^comentario-73257|#73257]]
+- [[Posts/11317 - Um Ode à Gambiarra|#11317]] - Um Ode à Gambiarra
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá? · [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá#^comentario-73595|#73595]]
+- [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|#11334]] - Segurança no Engenhão: O que mudou de lá para cá?
+- [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas|#11344]] - Botafogo 1X0 Vitória – invicto há nove rodadas · [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas#^comentario-73577|#73577]]
+- [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas|#11344]] - Botafogo 1X0 Vitória – invicto há nove rodadas · [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas#^comentario-73713|#73713]]
+- [[Posts/11357 - Dois timinhos|#11357]] - Dois timinhos · [[Posts/11357 - Dois timinhos#^comentario-73539|#73539]]
+- [[Posts/11359 - Larga essa bola, Washington|#11359]] - Larga essa bola, Washington
+- [[Posts/11367 - A Sulamericana 2010 segundo botafoguenses|#11367]] - A Sulamericana 2010 segundo botafoguenses
+- [[Posts/11372 - RIP Paul|#11372]] - RIP Paul
+- [[Posts/11379 - Conheça o Engenhão|#11379]] - Conheça o Engenhão · [[Posts/11379 - Conheça o Engenhão#^comentario-79201|#79201]]
+- [[Posts/11379 - Conheça o Engenhão|#11379]] - Conheça o Engenhão
+- [[Posts/1138 - Por que notamos a Copinha|#1138]] - Por que notamos a Copinha? · [[Posts/1138 - Por que notamos a Copinha#^comentario-8926|#8926]]
+- [[Posts/1138 - Por que notamos a Copinha|#1138]] - Por que notamos a Copinha? · [[Posts/1138 - Por que notamos a Copinha#^comentario-8931|#8931]]
+- [[Posts/1139 - Kleber Leite começa 2008 bem|#1139]] - Kleber Leite começa 2008 bem · [[Posts/1139 - Kleber Leite começa 2008 bem#^comentario-8980|#8980]]
+- [[Posts/1139 - Kleber Leite começa 2008 bem|#1139]] - Kleber Leite começa 2008 bem · [[Posts/1139 - Kleber Leite começa 2008 bem#^comentario-8982|#8982]]
+- [[Posts/1139 - Kleber Leite começa 2008 bem|#1139]] - Kleber Leite começa 2008 bem · [[Posts/1139 - Kleber Leite começa 2008 bem#^comentario-8986|#8986]]
+- [[Posts/1139 - Kleber Leite começa 2008 bem|#1139]] - Kleber Leite começa 2008 bem · [[Posts/1139 - Kleber Leite começa 2008 bem#^comentario-9102|#9102]]
+- [[Posts/1139 - Kleber Leite começa 2008 bem|#1139]] - Kleber Leite começa 2008 bem · [[Posts/1139 - Kleber Leite começa 2008 bem#^comentario-9105|#9105]]
+- [[Posts/1140 - Já está jogando|#1140]] - Já está jogando · [[Posts/1140 - Já está jogando#^comentario-9073|#9073]]
+- [[Posts/1140 - Já está jogando|#1140]] - Já está jogando · [[Posts/1140 - Já está jogando#^comentario-9100|#9100]]
+- [[Posts/1140 - Já está jogando|#1140]] - Já está jogando
+- [[Posts/1141 - Até que enfim uma dentro!|#1141]] - Até que enfim uma dentro! · [[Posts/1141 - Até que enfim uma dentro!#^comentario-9135|#9135]]
+- [[Posts/1141 - Até que enfim uma dentro!|#1141]] - Até que enfim uma dentro! · [[Posts/1141 - Até que enfim uma dentro!#^comentario-9154|#9154]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-75361|#75361]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-76101|#76101]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-76679|#76679]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-76857|#76857]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-77514|#77514]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-77640|#77640]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-78759|#78759]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-78916|#78916]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense? · [[Posts/11421 - Cadê o Tri do Fluminense#^comentario-78917|#78917]]
+- [[Posts/11421 - Cadê o Tri do Fluminense|#11421]] - Cadê o Tri do Fluminense?
+- [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma|#11443]] - Bolão BBG BR2010 – 33ª Rodada: A Rodada Dilma · [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma#^comentario-74028|#74028]]
+- [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma|#11443]] - Bolão BBG BR2010 – 33ª Rodada: A Rodada Dilma · [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma#^comentario-74029|#74029]]
+- [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma|#11443]] - Bolão BBG BR2010 – 33ª Rodada: A Rodada Dilma · [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma#^comentario-74059|#74059]]
+- [[Posts/11443 - Bolão BBG BR2010 – 33ª Rodada A Rodada Dilma|#11443]] - Bolão BBG BR2010 – 33ª Rodada: A Rodada Dilma
+- [[Posts/11452 - Lógica do Massa|#11452]] - Lógica do Massa · [[Posts/11452 - Lógica do Massa#^comentario-74020|#74020]]
+- [[Posts/11459 - Ponto é ponto em qualquer rodada|#11459]] - Ponto é ponto em qualquer rodada
+- [[Posts/1146 - Piada do dia|#1146]] - Piada do dia · [[Posts/1146 - Piada do dia#^comentario-9209|#9209]]
+- [[Posts/11462 - Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…|#11462]] - Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse… · [[Posts/11462 - Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…#^comentario-74057|#74057]]
+- [[Posts/11480 - Bolão BBG BR2010 – 34ª Rodada|#11480]] - Bolão BBG BR2010 – 34ª Rodada · [[Posts/11480 - Bolão BBG BR2010 – 34ª Rodada#^comentario-74180|#74180]]
+- [[Posts/11487 - Felipão não é assessor de imprensa do Palmeiras|#11487]] - Felipão não é assessor de imprensa do Palmeiras
+- [[Posts/1149 - Aviso sobre a promoção da Camisa da Portuguesa|#1149]] - Aviso sobre a promoção da Camisa da Portuguesa · [[Posts/1149 - Aviso sobre a promoção da Camisa da Portuguesa#^comentario-10883|#10883]]
+- [[Posts/1149 - Aviso sobre a promoção da Camisa da Portuguesa|#1149]] - Aviso sobre a promoção da Camisa da Portuguesa · [[Posts/1149 - Aviso sobre a promoção da Camisa da Portuguesa#^comentario-10884|#10884]]
+- [[Posts/11495 - Harmonia e Integração no Engenhão|#11495]] - Harmonia e Integração no Engenhão
+- [[Posts/115 - Vai ou não vai|#115]] - Vai ou não vai
+- [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo|#1150]] - Das peladas em Caxias para o gol do Botafogo · [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo#^comentario-9235|#9235]]
+- [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo|#1150]] - Das peladas em Caxias para o gol do Botafogo · [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo#^comentario-9236|#9236]]
+- [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo|#1150]] - Das peladas em Caxias para o gol do Botafogo · [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo#^comentario-9244|#9244]]
+- [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo|#1150]] - Das peladas em Caxias para o gol do Botafogo · [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo#^comentario-9248|#9248]]
+- [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo|#1150]] - Das peladas em Caxias para o gol do Botafogo · [[Posts/1150 - Das peladas em Caxias para o gol do Botafogo#^comentario-9263|#9263]]
+- [[Posts/11504 - Touchdown!|#11504]] - Touchdown! · [[Posts/11504 - Touchdown!#^comentario-74260|#74260]]
+- [[Posts/11507 - Washington carregado no colo|#11507]] - Washington carregado no colo
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007 · [[Posts/1152 - Quem resolveu foi o time de 2007#^comentario-9318|#9318]]
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007 · [[Posts/1152 - Quem resolveu foi o time de 2007#^comentario-9322|#9322]]
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007 · [[Posts/1152 - Quem resolveu foi o time de 2007#^comentario-9329|#9329]]
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007 · [[Posts/1152 - Quem resolveu foi o time de 2007#^comentario-9332|#9332]]
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007 · [[Posts/1152 - Quem resolveu foi o time de 2007#^comentario-9337|#9337]]
+- [[Posts/1152 - Quem resolveu foi o time de 2007|#1152]] - Quem resolveu foi o time de 2007
+- [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada|#11526]] - Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada · [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada#^comentario-74361|#74361]]
+- [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada|#11526]] - Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada · [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada#^comentario-74469|#74469]]
+- [[Posts/1153 - A diretoria do Flamengo está se coçando|#1153]] - A diretoria do Flamengo está se coçando · [[Posts/1153 - A diretoria do Flamengo está se coçando#^comentario-9310|#9310]]
+- [[Posts/1153 - A diretoria do Flamengo está se coçando|#1153]] - A diretoria do Flamengo está se coçando · [[Posts/1153 - A diretoria do Flamengo está se coçando#^comentario-9316|#9316]]
+- [[Posts/1153 - A diretoria do Flamengo está se coçando|#1153]] - A diretoria do Flamengo está se coçando
+- [[Posts/11535 - Ceará 2X2 Botafogo – Loco em dose tripla|#11535]] - Ceará 2X2 Botafogo – Loco em dose tripla · [[Posts/11535 - Ceará 2X2 Botafogo – Loco em dose tripla#^comentario-74491|#74491]]
+- [[Posts/1154 - Nova Camisa da Seleção|#1154]] - Nova Camisa da Seleção · [[Posts/1154 - Nova Camisa da Seleção#^comentario-9338|#9338]]
+- [[Posts/1154 - Nova Camisa da Seleção|#1154]] - Nova Camisa da Seleção
+- [[Posts/11542 - O Ceará no Castelão no BR2010|#11542]] - O Ceará no Castelão no BR2010
+- [[Posts/11547 - Bancos do Povo|#11547]] - Bancos do Povo · [[Posts/11547 - Bancos do Povo#^comentario-74529|#74529]]
+- [[Posts/11547 - Bancos do Povo|#11547]] - Bancos do Povo
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4 · [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4#^comentario-74546|#74546]]
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4 · [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4#^comentario-74547|#74547]]
+- [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4|#11555]] - O ESCÂNDALO DE FLUGATE 3/4 · [[Posts/11555 - O ESCÂNDALO DE FLUGATE 3 4#^comentario-74597|#74597]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9345|#9345]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9357|#9357]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9381|#9381]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9421|#9421]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9460|#9460]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9482|#9482]]
+- [[Posts/1156 - Vasco acerta com patrocinador|#1156]] - Vasco acerta com patrocinador. · [[Posts/1156 - Vasco acerta com patrocinador#^comentario-9611|#9611]]
+- [[Posts/11572 - Na hora da decisão, o Vasco joga fora de casa|#11572]] - Na hora da decisão, o Vasco joga fora de casa · [[Posts/11572 - Na hora da decisão, o Vasco joga fora de casa#^comentario-74739|#74739]]
+- [[Posts/11575 - Projetos rubro-negros|#11575]] - Projetos rubro-negros · [[Posts/11575 - Projetos rubro-negros#^comentario-74786|#74786]]
+- [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube|#11579]] - Parabéns ao Cruzeiro Esporte Clube · [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube#^comentario-74859|#74859]]
+- [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube|#11579]] - Parabéns ao Cruzeiro Esporte Clube · [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube#^comentario-75033|#75033]]
+- [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube|#11579]] - Parabéns ao Cruzeiro Esporte Clube
+- [[Posts/11587 - O estranho mundo do voleibol|#11587]] - O estranho mundo do voleibol
+- [[Posts/1159 - Blá blá Gol também é celeiro|#1159]] - Blá blá Gol também é celeiro · [[Posts/1159 - Blá blá Gol também é celeiro#^comentario-9369|#9369]]
+- [[Posts/1159 - Blá blá Gol também é celeiro|#1159]] - Blá blá Gol também é celeiro · [[Posts/1159 - Blá blá Gol também é celeiro#^comentario-9371|#9371]]
+- [[Posts/1159 - Blá blá Gol também é celeiro|#1159]] - Blá blá Gol também é celeiro
+- [[Posts/11591 - Diguinho fez falta|#11591]] - Diguinho fez falta
+- [[Posts/116 - Torcidas no Brasil|#116]] - Torcidas no Brasil
+- [[Posts/1160 - Dunga e a 1ª do ano|#1160]] - Dunga e a 1ª do ano. · [[Posts/1160 - Dunga e a 1ª do ano#^comentario-9382|#9382]]
+- [[Posts/1160 - Dunga e a 1ª do ano|#1160]] - Dunga e a 1ª do ano. · [[Posts/1160 - Dunga e a 1ª do ano#^comentario-9384|#9384]]
+- [[Posts/1160 - Dunga e a 1ª do ano|#1160]] - Dunga e a 1ª do ano. · [[Posts/1160 - Dunga e a 1ª do ano#^comentario-9391|#9391]]
+- [[Posts/11601 - Flamengo 115 anos|#11601]] - Flamengo 115 anos · [[Posts/11601 - Flamengo 115 anos#^comentario-74984|#74984]]
+- [[Posts/11601 - Flamengo 115 anos|#11601]] - Flamengo 115 anos · [[Posts/11601 - Flamengo 115 anos#^comentario-75041|#75041]]
+- [[Posts/11608 - O título para o verdadeiro campeão|#11608]] - O título para o verdadeiro campeão\* · [[Posts/11608 - O título para o verdadeiro campeão#^comentario-75179|#75179]]
+- [[Posts/11614 - A perna de volta do Cruzeiro|#11614]] - A perna de volta do Cruzeiro
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver · [[Posts/1162 - Foi bom de se ver#^comentario-9480|#9480]]
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver · [[Posts/1162 - Foi bom de se ver#^comentario-9481|#9481]]
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver · [[Posts/1162 - Foi bom de se ver#^comentario-9485|#9485]]
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver · [[Posts/1162 - Foi bom de se ver#^comentario-9501|#9501]]
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver · [[Posts/1162 - Foi bom de se ver#^comentario-9505|#9505]]
+- [[Posts/1162 - Foi bom de se ver|#1162]] - Foi bom de se ver
+- [[Posts/1163 - Vasco vence sem convencer|#1163]] - Vasco vence sem convencer. · [[Posts/1163 - Vasco vence sem convencer#^comentario-9486|#9486]]
+- [[Posts/1163 - Vasco vence sem convencer|#1163]] - Vasco vence sem convencer. · [[Posts/1163 - Vasco vence sem convencer#^comentario-9487|#9487]]
+- [[Posts/11636 - Bolão BBG BR2010 – 36ª Rodada|#11636]] - Bolão BBG BR2010 – 36ª Rodada · [[Posts/11636 - Bolão BBG BR2010 – 36ª Rodada#^comentario-75255|#75255]]
+- [[Posts/11644 - Pano no Centenário do Corinthians|#11644]] - Pano no Centenário do Corinthians
+- [[Posts/1165 - Editorial - 24 01 2008|#1165]] - Editorial - 24/01/2008 · [[Posts/1165 - Editorial - 24 01 2008#^comentario-9544|#9544]]
+- [[Posts/1166 - Botafogo pode surpreender|#1166]] - Botafogo pode surpreender · [[Posts/1166 - Botafogo pode surpreender#^comentario-9531|#9531]]
+- [[Posts/11662 - Divulgação Pós em Ciências do Futebol (UFRJ 2011)|#11662]] - Divulgação: Pós em Ciências do Futebol (UFRJ 2011)
+- [[Posts/11668 - Paul in Sampa É Hoje|#11668]] - Paul in Sampa: É Hoje · [[Posts/11668 - Paul in Sampa É Hoje#^comentario-76263|#76263]]
+- [[Posts/11668 - Paul in Sampa É Hoje|#11668]] - Paul in Sampa: É Hoje
+- [[Posts/11678 - O Cruzeiro acredita|#11678]] - O Cruzeiro acredita · [[Posts/11678 - O Cruzeiro acredita#^comentario-75609|#75609]]
+- [[Posts/1168 - Ivanovic x Sharapova|#1168]] - Ivanovic x Sharapova
+- [[Posts/11686 - O jogo que o São Paulo entregou|#11686]] - O jogo que o São Paulo entregou
+- [[Posts/11696 - Tite, Felipão e Felipe (ou… se fode aí Cruzeiro)|#11696]] - Tite, Felipão e Felipe (ou… se fode aí Cruzeiro)
+- [[Posts/117 - Valeu VASCÃO!|#117]] - Valeu VASCÃO!
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9580|#9580]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9581|#9581]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9582|#9582]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9584|#9584]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9587|#9587]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9599|#9599]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9637|#9637]]
+- [[Posts/1171 - Botafogo 3×0 Americano – e um aviso|#1171]] - Botafogo 3×0 Americano – e um aviso · [[Posts/1171 - Botafogo 3×0 Americano – e um aviso#^comentario-9652|#9652]]
+- [[Posts/11715 - Acabou a Festinha|#11715]] - Acabou a Festinha · [[Posts/11715 - Acabou a Festinha#^comentario-75916|#75916]]
+- [[Posts/11715 - Acabou a Festinha|#11715]] - Acabou a Festinha
+- [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|#11720]] - Bolão BBG BR2010 – 37ª Rodada: A Véspera · [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera#^comentario-75903|#75903]]
+- [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|#11720]] - Bolão BBG BR2010 – 37ª Rodada: A Véspera · [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera#^comentario-76070|#76070]]
+- [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|#11720]] - Bolão BBG BR2010 – 37ª Rodada: A Véspera · [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera#^comentario-76087|#76087]]
+- [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|#11720]] - Bolão BBG BR2010 – 37ª Rodada: A Véspera
+- [[Posts/11728 - Azar dos outros|#11728]] - Azar dos outros
+- [[Posts/11733 - Eu só quero é ser feliz|#11733]] - Eu só quero é ser feliz · [[Posts/11733 - Eu só quero é ser feliz#^comentario-76195|#76195]]
+- [[Posts/11733 - Eu só quero é ser feliz|#11733]] - Eu só quero é ser feliz
+- [[Posts/11739 - Procura-se|#11739]] - Procura-se · [[Posts/11739 - Procura-se#^comentario-75969|#75969]]
+- [[Posts/11739 - Procura-se|#11739]] - Procura-se · [[Posts/11739 - Procura-se#^comentario-75970|#75970]]
+- [[Posts/11742 - Os melhores do Campeonato Brasileiro 2010|#11742]] - Os melhores do Campeonato Brasileiro 2010 · [[Posts/11742 - Os melhores do Campeonato Brasileiro 2010#^comentario-75975|#75975]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño · [[Posts/1175 - Cruzeiro x Cerro Porteño#^comentario-9642|#9642]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño · [[Posts/1175 - Cruzeiro x Cerro Porteño#^comentario-9651|#9651]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño · [[Posts/1175 - Cruzeiro x Cerro Porteño#^comentario-9663|#9663]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño · [[Posts/1175 - Cruzeiro x Cerro Porteño#^comentario-9677|#9677]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño · [[Posts/1175 - Cruzeiro x Cerro Porteño#^comentario-9685|#9685]]
+- [[Posts/1175 - Cruzeiro x Cerro Porteño|#1175]] - Cruzeiro x Cerro Porteño
+- [[Posts/11750 - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)|#11750]] - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010) · [[Posts/11750 - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)#^comentario-77483|#77483]]
+- [[Posts/11750 - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)|#11750]] - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010) · [[Posts/11750 - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)#^comentario-77484|#77484]]
+- [[Posts/11750 - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)|#11750]] - Médias de público dos Campeonatos Brasileiros por rodada (2006-2010)
+- [[Posts/11757 - Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final|#11757]] - Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final · [[Posts/11757 - Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final#^comentario-76084|#76084]]
+- [[Posts/11758 - Um domingo sem futebol|#11758]] - Um domingo sem futebol · [[Posts/11758 - Um domingo sem futebol#^comentario-76094|#76094]]
+- [[Posts/11758 - Um domingo sem futebol|#11758]] - Um domingo sem futebol
+- [[Posts/1176 - O Pior dos Mundos|#1176]] - O Pior dos Mundos · [[Posts/1176 - O Pior dos Mundos#^comentario-9694|#9694]]
+- [[Posts/1176 - O Pior dos Mundos|#1176]] - O Pior dos Mundos · [[Posts/1176 - O Pior dos Mundos#^comentario-9714|#9714]]
+- [[Posts/1176 - O Pior dos Mundos|#1176]] - O Pior dos Mundos · [[Posts/1176 - O Pior dos Mundos#^comentario-9732|#9732]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9723|#9723]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9725|#9725]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9729|#9729]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9731|#9731]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9741|#9741]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9751|#9751]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9762|#9762]]
+- [[Posts/1179 - Confusão pelo Engenhão|#1179]] - Confusão pelo Engenhão · [[Posts/1179 - Confusão pelo Engenhão#^comentario-9763|#9763]]
+- [[Posts/11790 - Que calor|#11790]] - Que calor · [[Posts/11790 - Que calor#^comentario-76115|#76115]]
+- [[Posts/118 - Considerações|#118]] - Considerações
+- [[Posts/1180 - Cruzeiro 3×1 Cerro Porteño|#1180]] - Cruzeiro 3×1 Cerro Porteño · [[Posts/1180 - Cruzeiro 3×1 Cerro Porteño#^comentario-9803|#9803]]
+- [[Posts/1180 - Cruzeiro 3×1 Cerro Porteño|#1180]] - Cruzeiro 3×1 Cerro Porteño
+- [[Posts/11801 - 10 Razões para assistir Senna no Cinema|#11801]] - 10 Razões para assistir Senna no Cinema · [[Posts/11801 - 10 Razões para assistir Senna no Cinema#^comentario-76209|#76209]]
+- [[Posts/1181 - Raulino de Oliveira liberado|#1181]] - Raulino de Oliveira liberado · [[Posts/1181 - Raulino de Oliveira liberado#^comentario-9788|#9788]]
+- [[Posts/1181 - Raulino de Oliveira liberado|#1181]] - Raulino de Oliveira liberado · [[Posts/1181 - Raulino de Oliveira liberado#^comentario-9790|#9790]]
+- [[Posts/1181 - Raulino de Oliveira liberado|#1181]] - Raulino de Oliveira liberado
+- [[Posts/11811 - Vete al Teatro, Mourinho Vete al Teatro|#11811]] - Vete al Teatro, Mourinho Vete al Teatro · [[Posts/11811 - Vete al Teatro, Mourinho Vete al Teatro#^comentario-76291|#76291]]
+- [[Posts/11825 - Ney Franco já começou mal|#11825]] - Ney Franco já começou mal
+- [[Posts/11837 - Quer ver o jogo decisivo do Fluminense Boa sorte!|#11837]] - Quer ver o jogo decisivo do Fluminense? Boa sorte! · [[Posts/11837 - Quer ver o jogo decisivo do Fluminense Boa sorte!#^comentario-76413|#76413]]
+- [[Posts/11837 - Quer ver o jogo decisivo do Fluminense Boa sorte!|#11837]] - Quer ver o jogo decisivo do Fluminense? Boa sorte! · [[Posts/11837 - Quer ver o jogo decisivo do Fluminense Boa sorte!#^comentario-76440|#76440]]
+- [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…|#1184]] - Até aqui, estadualzinho sem-vergonha… · [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…#^comentario-9784|#9784]]
+- [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…|#1184]] - Até aqui, estadualzinho sem-vergonha… · [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…#^comentario-9793|#9793]]
+- [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…|#1184]] - Até aqui, estadualzinho sem-vergonha… · [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…#^comentario-9797|#9797]]
+- [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…|#1184]] - Até aqui, estadualzinho sem-vergonha… · [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…#^comentario-9800|#9800]]
+- [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…|#1184]] - Até aqui, estadualzinho sem-vergonha… · [[Posts/1184 - Até aqui, estadualzinho sem-vergonha…#^comentario-9805|#9805]]
+- [[Posts/11846 - Pobre Guarani|#11846]] - Pobre Guarani
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76498|#76498]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76499|#76499]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76505|#76505]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76508|#76508]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76518|#76518]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-76522|#76522]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77345|#77345]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77346|#77346]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77352|#77352]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77355|#77355]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77363|#77363]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77364|#77364]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77367|#77367]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77374|#77374]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77389|#77389]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77391|#77391]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77392|#77392]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77393|#77393]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77395|#77395]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver · [[Posts/11850 - Goiás x Independiente a final que todos podem ver#^comentario-77399|#77399]]
+- [[Posts/11850 - Goiás x Independiente a final que todos podem ver|#11850]] - Goiás x Independiente: a final que todos podem ver
+- [[Posts/1186 - Eurico sobre o Brasileirão 1987|#1186]] - Eurico sobre o Brasileirão 1987 · [[Posts/1186 - Eurico sobre o Brasileirão 1987#^comentario-9807|#9807]]
+- [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira|#11867]] - Bolão BBG BR2010 – 38ª Rodada: A Pseudo-Derradeira · [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira#^comentario-76550|#76550]]
+- [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira|#11867]] - Bolão BBG BR2010 – 38ª Rodada: A Pseudo-Derradeira · [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira#^comentario-76677|#76677]]
+- [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira|#11867]] - Bolão BBG BR2010 – 38ª Rodada: A Pseudo-Derradeira · [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira#^comentario-76786|#76786]]
+- [[Posts/11879 - Rock In Rio IV – 2011|#11879]] - Rock In Rio IV – 2011 · [[Posts/11879 - Rock In Rio IV – 2011#^comentario-76558|#76558]]
+- [[Posts/1188 - A Letra fria do Regulamento|#1188]] - A Letra fria do Regulamento · [[Posts/1188 - A Letra fria do Regulamento#^comentario-9813|#9813]]
+- [[Posts/1188 - A Letra fria do Regulamento|#1188]] - A Letra fria do Regulamento · [[Posts/1188 - A Letra fria do Regulamento#^comentario-9819|#9819]]
+- [[Posts/11887 - 2018 Back in the URSS|#11887]] - 2018: Back in the URSS · [[Posts/11887 - 2018 Back in the URSS#^comentario-76584|#76584]]
+- [[Posts/11887 - 2018 Back in the URSS|#11887]] - 2018: Back in the URSS
+- [[Posts/1189 - A Letra quente de Marcio Braga|#1189]] - A Letra quente de Marcio Braga
+- [[Posts/119 - Considerações 2|#119]] - Considerações 2
+- [[Posts/11917 - Enfim, o Fluminense é campeão|#11917]] - Enfim, o Fluminense é campeão · [[Posts/11917 - Enfim, o Fluminense é campeão#^comentario-77013|#77013]]
+- [[Posts/11917 - Enfim, o Fluminense é campeão|#11917]] - Enfim, o Fluminense é campeão · [[Posts/11917 - Enfim, o Fluminense é campeão#^comentario-77014|#77014]]
+- [[Posts/11917 - Enfim, o Fluminense é campeão|#11917]] - Enfim, o Fluminense é campeão · [[Posts/11917 - Enfim, o Fluminense é campeão#^comentario-77428|#77428]]
+- [[Posts/11917 - Enfim, o Fluminense é campeão|#11917]] - Enfim, o Fluminense é campeão · [[Posts/11917 - Enfim, o Fluminense é campeão#^comentario-78575|#78575]]
+- [[Posts/11940 - Grêmio 3×0 Botafogo – fim-de-festa|#11940]] - Grêmio 3×0 Botafogo – fim-de-festa · [[Posts/11940 - Grêmio 3×0 Botafogo – fim-de-festa#^comentario-77064|#77064]]
+- [[Posts/11946 - Parabéns ao Fluminense|#11946]] - Parabéns ao Fluminense. · [[Posts/11946 - Parabéns ao Fluminense#^comentario-77023|#77023]]
+- [[Posts/11948 - Obrigado, meu pai. Obrigado, Cruzeiro|#11948]] - Obrigado, meu pai. Obrigado, Cruzeiro. · [[Posts/11948 - Obrigado, meu pai. Obrigado, Cruzeiro#^comentario-79399|#79399]]
+- [[Posts/11959 - O Fluminense deveria ser rebaixado em 2009|#11959]] - O Fluminense deveria ser rebaixado em 2009
+- [[Posts/11974 - Bolão BBG BR2010 Terminou|#11974]] - Bolão BBG BR2010: Terminou · [[Posts/11974 - Bolão BBG BR2010 Terminou#^comentario-77509|#77509]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-77946|#77946]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-79597|#79597]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-94213|#94213]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-94259|#94259]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-95921|#95921]]
+- [[Posts/11989 - Mercado da Bola 2010 2011|#11989]] - Mercado da Bola 2010/2011 · [[Posts/11989 - Mercado da Bola 2010 2011#^comentario-99161|#99161]]
+- [[Posts/11993 - Prefixos matemáticos gregos e latinos|#11993]] - Prefixos matemáticos gregos e latinos · [[Posts/11993 - Prefixos matemáticos gregos e latinos#^comentario-77651|#77651]]
+- [[Posts/11993 - Prefixos matemáticos gregos e latinos|#11993]] - Prefixos matemáticos gregos e latinos
+- [[Posts/12 - Após oito rodadas|#12]] - Após oito rodadas
+- [[Posts/120 - Internacional|#120]] - Internacional
+- [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71|#12011]] - Novilíngua Futebolera: Os Campeões Brasileiros pré-71 · [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71#^comentario-77815|#77815]]
+- [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71|#12011]] - Novilíngua Futebolera: Os Campeões Brasileiros pré-71 · [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71#^comentario-77872|#77872]]
+- [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71|#12011]] - Novilíngua Futebolera: Os Campeões Brasileiros pré-71 · [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71#^comentario-78757|#78757]]
+- [[Posts/12011 - Novilíngua Futebolera Os Campeões Brasileiros pré-71|#12011]] - Novilíngua Futebolera: Os Campeões Brasileiros pré-71
+- [[Posts/12022 - O Segredo de Gerson|#12022]] - O Segredo de Gerson · [[Posts/12022 - O Segredo de Gerson#^comentario-77881|#77881]]
+- [[Posts/12022 - O Segredo de Gerson|#12022]] - O Segredo de Gerson
+- [[Posts/1203 - Fla no Engenhão|#1203]] - Fla no Engenhão · [[Posts/1203 - Fla no Engenhão#^comentario-10018|#10018]]
+- [[Posts/1203 - Fla no Engenhão|#1203]] - Fla no Engenhão · [[Posts/1203 - Fla no Engenhão#^comentario-10026|#10026]]
+- [[Posts/12033 - 2010 – Quem subiu, quem desceu|#12033]] - 2010 – Quem subiu, quem desceu · [[Posts/12033 - 2010 – Quem subiu, quem desceu#^comentario-78532|#78532]]
+- [[Posts/12033 - 2010 – Quem subiu, quem desceu|#12033]] - 2010 – Quem subiu, quem desceu · [[Posts/12033 - 2010 – Quem subiu, quem desceu#^comentario-78572|#78572]]
+- [[Posts/12033 - 2010 – Quem subiu, quem desceu|#12033]] - 2010 – Quem subiu, quem desceu
+- [[Posts/12039 - Nordestinos nos Campeonatos Brasileiros|#12039]] - Nordestinos nos Campeonatos Brasileiros
+- [[Posts/1204 - Fazer o quê, não é|#1204]] - Fazer o quê, não é? · [[Posts/1204 - Fazer o quê, não é#^comentario-9997|#9997]]
+- [[Posts/1204 - Fazer o quê, não é|#1204]] - Fazer o quê, não é? · [[Posts/1204 - Fazer o quê, não é#^comentario-10021|#10021]]
+- [[Posts/1204 - Fazer o quê, não é|#1204]] - Fazer o quê, não é?
+- [[Posts/12069 - O Bar São Cristóvão|#12069]] - O Bar São Cristóvão · [[Posts/12069 - O Bar São Cristóvão#^comentario-78583|#78583]]
+- [[Posts/12069 - O Bar São Cristóvão|#12069]] - O Bar São Cristóvão
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10000|#10000]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10025|#10025]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10028|#10028]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10033|#10033]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10044|#10044]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10048|#10048]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10051|#10051]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10175|#10175]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso · [[Posts/1207 - Impressões do amistoso#^comentario-10179|#10179]]
+- [[Posts/1207 - Impressões do amistoso|#1207]] - Impressões do amistoso
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10032|#10032]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10064|#10064]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10085|#10085]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10092|#10092]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10197|#10197]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10859|#10859]]
+- [[Posts/1208 - Campanha Gatti no Fogão|#1208]] - Campanha Gatti no Fogão · [[Posts/1208 - Campanha Gatti no Fogão#^comentario-10868|#10868]]
+- [[Posts/12092 - AS MELHORES TORCIDAS DO BRASIL|#12092]] - AS MELHORES TORCIDAS DO BRASIL · [[Posts/12092 - AS MELHORES TORCIDAS DO BRASIL#^comentario-78721|#78721]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10089|#10089]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10093|#10093]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10101|#10101]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10102|#10102]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10104|#10104]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10105|#10105]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10118|#10118]]
+- [[Posts/1210 - Manual do Torcedor Não-Fanático|#1210]] - Manual do Torcedor Não-Fanático · [[Posts/1210 - Manual do Torcedor Não-Fanático#^comentario-10128|#10128]]
+- [[Posts/12119 - FIFA.com|#12119]] - FIFA.com
+- [[Posts/12125 - Partiu Chalé|#12125]] - Partiu Chalé
+- [[Posts/1213 - Pato passa aperto na Itália|#1213]] - Pato passa aperto na Itália · [[Posts/1213 - Pato passa aperto na Itália#^comentario-10173|#10173]]
+- [[Posts/1213 - Pato passa aperto na Itália|#1213]] - Pato passa aperto na Itália · [[Posts/1213 - Pato passa aperto na Itália#^comentario-10196|#10196]]
+- [[Posts/1213 - Pato passa aperto na Itália|#1213]] - Pato passa aperto na Itália
+- [[Posts/1215 - Concordo. Anderson deve ser punido|#1215]] - Concordo. Anderson deve ser punido · [[Posts/1215 - Concordo. Anderson deve ser punido#^comentario-10200|#10200]]
+- [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8|#12158]] - 1, 2, 3, 4, 5, 6, 7, 8 · [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8#^comentario-79378|#79378]]
+- [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8|#12158]] - 1, 2, 3, 4, 5, 6, 7, 8 · [[Posts/12158 - 1, 2, 3, 4, 5, 6, 7, 8#^comentario-79590|#79590]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10224|#10224]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10225|#10225]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10234|#10234]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10236|#10236]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10241|#10241]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-10257|#10257]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores · [[Posts/1216 - O Corinthians é o Brasil na Libertadores#^comentario-12129|#12129]]
+- [[Posts/1216 - O Corinthians é o Brasil na Libertadores|#1216]] - O Corinthians é o Brasil na Libertadores
+- [[Posts/1217 - Começou mal, muito mal|#1217]] - Começou mal, muito mal · [[Posts/1217 - Começou mal, muito mal#^comentario-10226|#10226]]
+- [[Posts/1217 - Começou mal, muito mal|#1217]] - Começou mal, muito mal · [[Posts/1217 - Começou mal, muito mal#^comentario-10227|#10227]]
+- [[Posts/1217 - Começou mal, muito mal|#1217]] - Começou mal, muito mal · [[Posts/1217 - Começou mal, muito mal#^comentario-10270|#10270]]
+- [[Posts/1218 - Timemania já vai começar mal|#1218]] - Timemania já vai começar mal · [[Posts/1218 - Timemania já vai começar mal#^comentario-10228|#10228]]
+- [[Posts/1218 - Timemania já vai começar mal|#1218]] - Timemania já vai começar mal · [[Posts/1218 - Timemania já vai começar mal#^comentario-10231|#10231]]
+- [[Posts/1218 - Timemania já vai começar mal|#1218]] - Timemania já vai começar mal · [[Posts/1218 - Timemania já vai começar mal#^comentario-10232|#10232]]
+- [[Posts/1219 - O melhor treinador (no trato com a mídia)|#1219]] - O melhor treinador (no trato com a mídia) · [[Posts/1219 - O melhor treinador (no trato com a mídia)#^comentario-10289|#10289]]
+- [[Posts/1219 - O melhor treinador (no trato com a mídia)|#1219]] - O melhor treinador (no trato com a mídia) · [[Posts/1219 - O melhor treinador (no trato com a mídia)#^comentario-10291|#10291]]
+- [[Posts/1219 - O melhor treinador (no trato com a mídia)|#1219]] - O melhor treinador (no trato com a mídia) · [[Posts/1219 - O melhor treinador (no trato com a mídia)#^comentario-10331|#10331]]
+- [[Posts/12195 - Ronaldinho Kerlon Gaucho|#12195]] - Ronaldinho Kerlon Gaucho · [[Posts/12195 - Ronaldinho Kerlon Gaucho#^comentario-83107|#83107]]
+- [[Posts/12197 - Timemania 1 Ranking 2008 09 10|#12197]] - Timemania 1: Ranking 2008/09/10
+- [[Posts/122 - Por favor, sem goleada!|#122]] - Por favor, sem goleada!
+- [[Posts/12208 - Ronaldinho pode ir para o Fluminense|#12208]] - Ronaldinho pode ir para o Fluminense · [[Posts/12208 - Ronaldinho pode ir para o Fluminense#^comentario-79854|#79854]]
+- [[Posts/12208 - Ronaldinho pode ir para o Fluminense|#12208]] - Ronaldinho pode ir para o Fluminense
+- [[Posts/1221 - Amadureceu|#1221]] - Amadureceu? · [[Posts/1221 - Amadureceu#^comentario-10322|#10322]]
+- [[Posts/1221 - Amadureceu|#1221]] - Amadureceu? · [[Posts/1221 - Amadureceu#^comentario-10333|#10333]]
+- [[Posts/1221 - Amadureceu|#1221]] - Amadureceu? · [[Posts/1221 - Amadureceu#^comentario-10334|#10334]]
+- [[Posts/12220 - Previsões Sergilianas para 2011|#12220]] - Previsões Sergilianas para 2011 · [[Posts/12220 - Previsões Sergilianas para 2011#^comentario-79872|#79872]]
+- [[Posts/12220 - Previsões Sergilianas para 2011|#12220]] - Previsões Sergilianas para 2011 · [[Posts/12220 - Previsões Sergilianas para 2011#^comentario-79879|#79879]]
+- [[Posts/12220 - Previsões Sergilianas para 2011|#12220]] - Previsões Sergilianas para 2011 · [[Posts/12220 - Previsões Sergilianas para 2011#^comentario-80103|#80103]]
+- [[Posts/12227 - Ronaldinho no Flamengo|#12227]] - Ronaldinho no Flamengo · [[Posts/12227 - Ronaldinho no Flamengo#^comentario-80308|#80308]]
+- [[Posts/12235 - Blá blá Gol saúda Ronaldinho no Flamengo|#12235]] - Blá blá Gol saúda Ronaldinho no Flamengo
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10338|#10338]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10339|#10339]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10340|#10340]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10346|#10346]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10347|#10347]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10355|#10355]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10371|#10371]]
+- [[Posts/1224 - De dentro da casa do pinto (cueca)|#1224]] - De dentro da casa do pinto (cueca) · [[Posts/1224 - De dentro da casa do pinto (cueca)#^comentario-10386|#10386]]
+- [[Posts/12247 - Derrubem o Maracanã|#12247]] - Derrubem o Maracanã · [[Posts/12247 - Derrubem o Maracanã#^comentario-80213|#80213]]
+- [[Posts/1226 - Perdidinho da Silva (Gênio)|#1226]] - Perdidinho da Silva (Gênio) · [[Posts/1226 - Perdidinho da Silva (Gênio)#^comentario-10393|#10393]]
+- [[Posts/1226 - Perdidinho da Silva (Gênio)|#1226]] - Perdidinho da Silva (Gênio) · [[Posts/1226 - Perdidinho da Silva (Gênio)#^comentario-10404|#10404]]
+- [[Posts/1226 - Perdidinho da Silva (Gênio)|#1226]] - Perdidinho da Silva (Gênio) · [[Posts/1226 - Perdidinho da Silva (Gênio)#^comentario-10410|#10410]]
+- [[Posts/1226 - Perdidinho da Silva (Gênio)|#1226]] - Perdidinho da Silva (Gênio) · [[Posts/1226 - Perdidinho da Silva (Gênio)#^comentario-10411|#10411]]
+- [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete|#1227]] - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete · [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete#^comentario-10406|#10406]]
+- [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete|#1227]] - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete · [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete#^comentario-10409|#10409]]
+- [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete|#1227]] - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete · [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete#^comentario-17339|#17339]]
+- [[Posts/1227 - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete|#1227]] - Flamengo x Botafogo – Ingressos antecipados para a final da Taça Guanabara – Serviço e Enquete
+- [[Posts/1228 - Ronaldo volta. Só não sei se continua|#1228]] - Ronaldo volta. Só não sei se continua · [[Posts/1228 - Ronaldo volta. Só não sei se continua#^comentario-10443|#10443]]
+- [[Posts/1228 - Ronaldo volta. Só não sei se continua|#1228]] - Ronaldo volta. Só não sei se continua · [[Posts/1228 - Ronaldo volta. Só não sei se continua#^comentario-10462|#10462]]
+- [[Posts/1228 - Ronaldo volta. Só não sei se continua|#1228]] - Ronaldo volta. Só não sei se continua · [[Posts/1228 - Ronaldo volta. Só não sei se continua#^comentario-10473|#10473]]
+- [[Posts/12285 - Enchentes na Região Serrana do RJ|#12285]] - Enchentes na Região Serrana do RJ · [[Posts/12285 - Enchentes na Região Serrana do RJ#^comentario-80793|#80793]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10489|#10489]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10490|#10490]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10492|#10492]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10495|#10495]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10497|#10497]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10505|#10505]]
+- [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor|#1229]] - LDU 0×0 Fluminense – Gostei da estréia tricolor · [[Posts/1229 - LDU 0×0 Fluminense – Gostei da estréia tricolor#^comentario-10509|#10509]]
+- [[Posts/12295 - O plano de metas das Organizadas Tricolores|#12295]] - O plano de metas das Organizadas Tricolores
+- [[Posts/12300 - Neymar faz 4|#12300]] - Neymar faz 4 · [[Posts/12300 - Neymar faz 4#^comentario-80997|#80997]]
+- [[Posts/12321 - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011|#12321]] - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011 · [[Posts/12321 - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011#^comentario-81359|#81359]]
+- [[Posts/12321 - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011|#12321]] - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011 · [[Posts/12321 - Botafogo 2X1 Duque de Caxias – estreia na Taça Guanabara 2011#^comentario-81371|#81371]]
+- [[Posts/12328 - Como saber que o Brasil passará a jogar bola de Agosto a Maio|#12328]] - Como saber que o Brasil passará a jogar bola de Agosto a Maio? · [[Posts/12328 - Como saber que o Brasil passará a jogar bola de Agosto a Maio#^comentario-81653|#81653]]
+- [[Posts/12328 - Como saber que o Brasil passará a jogar bola de Agosto a Maio|#12328]] - Como saber que o Brasil passará a jogar bola de Agosto a Maio?
+- [[Posts/1233 - Turnê de Troféu já é sacanagem|#1233]] - Turnê de Troféu já é sacanagem · [[Posts/1233 - Turnê de Troféu já é sacanagem#^comentario-10624|#10624]]
+- [[Posts/1233 - Turnê de Troféu já é sacanagem|#1233]] - Turnê de Troféu já é sacanagem · [[Posts/1233 - Turnê de Troféu já é sacanagem#^comentario-10683|#10683]]
+- [[Posts/12337 - Pela queda do Mogi Mirim|#12337]] - Pela queda do Mogi Mirim
+- [[Posts/1234 - Obrigado, Botafogo!|#1234]] - Obrigado, Botafogo! · [[Posts/1234 - Obrigado, Botafogo!#^comentario-10658|#10658]]
+- [[Posts/1234 - Obrigado, Botafogo!|#1234]] - Obrigado, Botafogo! · [[Posts/1234 - Obrigado, Botafogo!#^comentario-10693|#10693]]
+- [[Posts/1234 - Obrigado, Botafogo!|#1234]] - Obrigado, Botafogo! · [[Posts/1234 - Obrigado, Botafogo!#^comentario-10697|#10697]]
+- [[Posts/12343 - Os jogos da TV|#12343]] - Os jogos da TV · [[Posts/12343 - Os jogos da TV#^comentario-81649|#81649]]
+- [[Posts/12343 - Os jogos da TV|#12343]] - Os jogos da TV · [[Posts/12343 - Os jogos da TV#^comentario-81656|#81656]]
+- [[Posts/12343 - Os jogos da TV|#12343]] - Os jogos da TV · [[Posts/12343 - Os jogos da TV#^comentario-81687|#81687]]
+- [[Posts/12345 - O Fluminense na Taça Guanabara 2011|#12345]] - O Fluminense na Taça Guanabara 2011 · [[Posts/12345 - O Fluminense na Taça Guanabara 2011#^comentario-81663|#81663]]
+- [[Posts/12345 - O Fluminense na Taça Guanabara 2011|#12345]] - O Fluminense na Taça Guanabara 2011 · [[Posts/12345 - O Fluminense na Taça Guanabara 2011#^comentario-81664|#81664]]
+- [[Posts/12345 - O Fluminense na Taça Guanabara 2011|#12345]] - O Fluminense na Taça Guanabara 2011
+- [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota|#1236]] - Fla campeão da Taça GB: faltou tarimba aos jogadores do Bota · [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota#^comentario-10656|#10656]]
+- [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota|#1236]] - Fla campeão da Taça GB: faltou tarimba aos jogadores do Bota · [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota#^comentario-10657|#10657]]
+- [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota|#1236]] - Fla campeão da Taça GB: faltou tarimba aos jogadores do Bota · [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota#^comentario-10659|#10659]]
+- [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota|#1236]] - Fla campeão da Taça GB: faltou tarimba aos jogadores do Bota · [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota#^comentario-10685|#10685]]
+- [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota|#1236]] - Fla campeão da Taça GB: faltou tarimba aos jogadores do Bota · [[Posts/1236 - Fla campeão da Taça GB faltou tarimba aos jogadores do Bota#^comentario-10735|#10735]]
+- [[Posts/12365 - A carta do Loco Abreu – na íntegra|#12365]] - A carta do Loco Abreu – na íntegra · [[Posts/12365 - A carta do Loco Abreu – na íntegra#^comentario-81793|#81793]]
+- [[Posts/12365 - A carta do Loco Abreu – na íntegra|#12365]] - A carta do Loco Abreu – na íntegra · [[Posts/12365 - A carta do Loco Abreu – na íntegra#^comentario-82043|#82043]]
+- [[Posts/12365 - A carta do Loco Abreu – na íntegra|#12365]] - A carta do Loco Abreu – na íntegra
+- [[Posts/12371 - Como diabos o Fluminense acabará com as filas de torcedores|#12371]] - Como diabos o Fluminense acabará com as filas de torcedores?
+- [[Posts/12388 - Vasco acerta (erra, outra vez) retorno de Élton|#12388]] - Vasco acerta (erra, outra vez) retorno de Élton · [[Posts/12388 - Vasco acerta (erra, outra vez) retorno de Élton#^comentario-82007|#82007]]
+- [[Posts/12390 - Desastre iminente|#12390]] - Desastre iminente
+- [[Posts/124 - Copa 2014|#124]] - Copa 2014
+- [[Posts/12408 - Botafogo 4X1 Madureira – Tudo novo. De novo|#12408]] - Botafogo 4X1 Madureira – Tudo novo. De novo. · [[Posts/12408 - Botafogo 4X1 Madureira – Tudo novo. De novo#^comentario-82114|#82114]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10660|#10660]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10724|#10724]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10743|#10743]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10751|#10751]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10752|#10752]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10753|#10753]]
+- [[Posts/1241 - Bebeto joga a toalha!|#1241]] - Bebeto joga a toalha! · [[Posts/1241 - Bebeto joga a toalha!#^comentario-10770|#10770]]
+- [[Posts/12413 - Evolução no Flamengo|#12413]] - Evolução no Flamengo · [[Posts/12413 - Evolução no Flamengo#^comentario-82251|#82251]]
+- [[Posts/12413 - Evolução no Flamengo|#12413]] - Evolução no Flamengo · [[Posts/12413 - Evolução no Flamengo#^comentario-82533|#82533]]
+- [[Posts/12418 - Vasco Bate Recordes – Boavista 3×1 Vasco, com direito a olé|#12418]] - Vasco Bate Recordes – Boavista 3×1 Vasco, com direito a olé · [[Posts/12418 - Vasco Bate Recordes – Boavista 3×1 Vasco, com direito a olé#^comentario-82235|#82235]]
+- [[Posts/12426 - E não é que o Fluminense ainda existe|#12426]] - E não é que o Fluminense ainda existe? · [[Posts/12426 - E não é que o Fluminense ainda existe#^comentario-82519|#82519]]
+- [[Posts/12428 - Botafogo 3X1 Olaria – 13 segundos|#12428]] - Botafogo 3X1 Olaria – 13 segundos · [[Posts/12428 - Botafogo 3X1 Olaria – 13 segundos#^comentario-82558|#82558]]
+- [[Posts/12428 - Botafogo 3X1 Olaria – 13 segundos|#12428]] - Botafogo 3X1 Olaria – 13 segundos · [[Posts/12428 - Botafogo 3X1 Olaria – 13 segundos#^comentario-82559|#82559]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10688|#10688]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10689|#10689]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10692|#10692]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10700|#10700]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10705|#10705]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10710|#10710]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10733|#10733]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10736|#10736]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10737|#10737]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10776|#10776]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10819|#10819]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10820|#10820]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10827|#10827]]
+- [[Posts/1243 - Flamengo na final, justo|#1243]] - Flamengo na final, justo · [[Posts/1243 - Flamengo na final, justo#^comentario-10854|#10854]]
+- [[Posts/12437 - A ousadia de Carlos Alberto Parreira|#12437]] - A ousadia de Carlos Alberto Parreira
+- [[Posts/1244 - O momento do estalo|#1244]] - O momento do estalo · [[Posts/1244 - O momento do estalo#^comentario-10745|#10745]]
+- [[Posts/12446 - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011|#12446]] - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011 · [[Posts/12446 - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011#^comentario-83015|#83015]]
+- [[Posts/12446 - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011|#12446]] - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011 · [[Posts/12446 - Vasco x Flamengo – Estréia de Clássicos Cariocas em 2011#^comentario-83016|#83016]]
+- [[Posts/12451 - Cruzeiro 3×0 Caldense – A torcida tem que saber o que quer|#12451]] - Cruzeiro 3×0 Caldense – A torcida tem que saber o que quer · [[Posts/12451 - Cruzeiro 3×0 Caldense – A torcida tem que saber o que quer#^comentario-83010|#83010]]
+- [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA|#1246]] - Créu no Botafogo reconhecido pela FIFA · [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA#^comentario-10826|#10826]]
+- [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA|#1246]] - Créu no Botafogo reconhecido pela FIFA · [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA#^comentario-10865|#10865]]
+- [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA|#1246]] - Créu no Botafogo reconhecido pela FIFA · [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA#^comentario-10870|#10870]]
+- [[Posts/1246 - Créu no Botafogo reconhecido pela FIFA|#1246]] - Créu no Botafogo reconhecido pela FIFA
+- [[Posts/12466 - Totózinhos|#12466]] - Totózinhos · [[Posts/12466 - Totózinhos#^comentario-83177|#83177]]
+- [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo|#1247]] - Aos botafoguenses deste blog, do Brasil e do Mundo · [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo#^comentario-10849|#10849]]
+- [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo|#1247]] - Aos botafoguenses deste blog, do Brasil e do Mundo · [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo#^comentario-10852|#10852]]
+- [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo|#1247]] - Aos botafoguenses deste blog, do Brasil e do Mundo · [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo#^comentario-10878|#10878]]
+- [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo|#1247]] - Aos botafoguenses deste blog, do Brasil e do Mundo · [[Posts/1247 - Aos botafoguenses deste blog, do Brasil e do Mundo#^comentario-11033|#11033]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83654|#83654]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83669|#83669]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83672|#83672]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83677|#83677]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83678|#83678]]
+- [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo|#12483]] - Flamengo x Nova Iguaçu – R10 em campo · [[Posts/12483 - Flamengo x Nova Iguaçu – R10 em campo#^comentario-83910|#83910]]
+- [[Posts/12488 - O ano não terminou para o Corinthians|#12488]] - O ano não terminou para o Corinthians · [[Posts/12488 - O ano não terminou para o Corinthians#^comentario-84032|#84032]]
+- [[Posts/12488 - O ano não terminou para o Corinthians|#12488]] - O ano não terminou para o Corinthians
+- [[Posts/12496 - Bangu 1X1 Botafogo – Bangu é pra jacu|#12496]] - Bangu 1X1 Botafogo – Bangu é pra jacu · [[Posts/12496 - Bangu 1X1 Botafogo – Bangu é pra jacu#^comentario-83903|#83903]]
+- [[Posts/125 - Ingressos|#125]] - Ingressos
+- [[Posts/12501 - Gaburah mordeu a isca|#12501]] - Gaburah mordeu a isca
+- [[Posts/12516 - Grêmio se solidariza com o Corinthians|#12516]] - Grêmio se solidariza com o Corinthians
+- [[Posts/1252 - O bom e velho Cuca|#1252]] - O bom e velho Cuca · [[Posts/1252 - O bom e velho Cuca#^comentario-10880|#10880]]
+- [[Posts/1252 - O bom e velho Cuca|#1252]] - O bom e velho Cuca · [[Posts/1252 - O bom e velho Cuca#^comentario-10887|#10887]]
+- [[Posts/1252 - O bom e velho Cuca|#1252]] - O bom e velho Cuca · [[Posts/1252 - O bom e velho Cuca#^comentario-10917|#10917]]
+- [[Posts/1252 - O bom e velho Cuca|#1252]] - O bom e velho Cuca · [[Posts/1252 - O bom e velho Cuca#^comentario-10946|#10946]]
+- [[Posts/12527 - Réquiem para Maria Schneider|#12527]] - Réquiem para Maria Schneider · [[Posts/12527 - Réquiem para Maria Schneider#^comentario-84130|#84130]]
+- [[Posts/12527 - Réquiem para Maria Schneider|#12527]] - Réquiem para Maria Schneider · [[Posts/12527 - Réquiem para Maria Schneider#^comentario-84132|#84132]]
+- [[Posts/12527 - Réquiem para Maria Schneider|#12527]] - Réquiem para Maria Schneider
+- [[Posts/1253 - E aí São Paulo|#1253]] - E aí São Paulo? · [[Posts/1253 - E aí São Paulo#^comentario-10895|#10895]]
+- [[Posts/1253 - E aí São Paulo|#1253]] - E aí São Paulo? · [[Posts/1253 - E aí São Paulo#^comentario-10904|#10904]]
+- [[Posts/1253 - E aí São Paulo|#1253]] - E aí São Paulo? · [[Posts/1253 - E aí São Paulo#^comentario-10905|#10905]]
+- [[Posts/1253 - E aí São Paulo|#1253]] - E aí São Paulo?
+- [[Posts/12533 - A luta do ano|#12533]] - A luta do ano · [[Posts/12533 - A luta do ano#^comentario-84185|#84185]]
+- [[Posts/12533 - A luta do ano|#12533]] - A luta do ano · [[Posts/12533 - A luta do ano#^comentario-91670|#91670]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-84559|#84559]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-85027|#85027]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-86903|#86903]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-88092|#88092]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-93357|#93357]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-93506|#93506]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-94258|#94258]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-97976|#97976]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-102809|#102809]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-110760|#110760]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-116593|#116593]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-119457|#119457]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-120710|#120710]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-123203|#123203]]
+- [[Posts/12535 - Trollagem|#12535]] - Trollagem · [[Posts/12535 - Trollagem#^comentario-147084|#147084]]
+- [[Posts/12542 - Recursos humanos fazem parte da estrutura|#12542]] - Recursos humanos fazem parte da estrutura
+- [[Posts/12551 - Fluminense 2X3 Botafogo – Cajá maduro|#12551]] - Fluminense 2X3 Botafogo – Cajá maduro · [[Posts/12551 - Fluminense 2X3 Botafogo – Cajá maduro#^comentario-84362|#84362]]
+- [[Posts/1257 - Ainda o caso Leandro Amaral|#1257]] - Ainda o caso Leandro Amaral · [[Posts/1257 - Ainda o caso Leandro Amaral#^comentario-10941|#10941]]
+- [[Posts/1257 - Ainda o caso Leandro Amaral|#1257]] - Ainda o caso Leandro Amaral · [[Posts/1257 - Ainda o caso Leandro Amaral#^comentario-10949|#10949]]
+- [[Posts/1257 - Ainda o caso Leandro Amaral|#1257]] - Ainda o caso Leandro Amaral · [[Posts/1257 - Ainda o caso Leandro Amaral#^comentario-10950|#10950]]
+- [[Posts/1257 - Ainda o caso Leandro Amaral|#1257]] - Ainda o caso Leandro Amaral
+- [[Posts/12575 - Brasil x França e Fluminense x Argentinos|#12575]] - Brasil x França e Fluminense x Argentinos · [[Posts/12575 - Brasil x França e Fluminense x Argentinos#^comentario-84706|#84706]]
+- [[Posts/12583 - O que tem o Fluminense para a Libertadores|#12583]] - O que tem o Fluminense para a Libertadores · [[Posts/12583 - O que tem o Fluminense para a Libertadores#^comentario-84785|#84785]]
+- [[Posts/12583 - O que tem o Fluminense para a Libertadores|#12583]] - O que tem o Fluminense para a Libertadores
+- [[Posts/1259 - Entrou na pilha, agora aguenta (chora)|#1259]] - Entrou na pilha, agora aguenta (chora) · [[Posts/1259 - Entrou na pilha, agora aguenta (chora)#^comentario-10957|#10957]]
+- [[Posts/1259 - Entrou na pilha, agora aguenta (chora)|#1259]] - Entrou na pilha, agora aguenta (chora)
+- [[Posts/12592 - Um empate na conta de Muricy|#12592]] - Um empate na conta de Muricy · [[Posts/12592 - Um empate na conta de Muricy#^comentario-85133|#85133]]
+- [[Posts/12592 - Um empate na conta de Muricy|#12592]] - Um empate na conta de Muricy
+- [[Posts/126 - Rolou a bola|#126]] - Rolou a bola
+- [[Posts/1260 - Homens de preto|#1260]] - Homens de preto · [[Posts/1260 - Homens de preto#^comentario-10951|#10951]]
+- [[Posts/1260 - Homens de preto|#1260]] - Homens de preto · [[Posts/1260 - Homens de preto#^comentario-10962|#10962]]
+- [[Posts/1260 - Homens de preto|#1260]] - Homens de preto · [[Posts/1260 - Homens de preto#^comentario-11007|#11007]]
+- [[Posts/1260 - Homens de preto|#1260]] - Homens de preto · [[Posts/1260 - Homens de preto#^comentario-11017|#11017]]
+- [[Posts/12600 - Mudanças|#12600]] - Mudanças · [[Posts/12600 - Mudanças#^comentario-85010|#85010]]
+- [[Posts/12608 - A sorte de Lazaro Ramos|#12608]] - A sorte de Lazaro Ramos · [[Posts/12608 - A sorte de Lazaro Ramos#^comentario-85141|#85141]]
+- [[Posts/12608 - A sorte de Lazaro Ramos|#12608]] - A sorte de Lazaro Ramos
+- [[Posts/12614 - Final Mundial Sub20 Brasil 6X0 Uruguai – Piração total|#12614]] - Final Mundial Sub20: Brasil 6X0 Uruguai – Piração total · [[Posts/12614 - Final Mundial Sub20 Brasil 6X0 Uruguai – Piração total#^comentario-85115|#85115]]
+- [[Posts/1262 - Vitória chorada|#1262]] - Vitória chorada · [[Posts/1262 - Vitória chorada#^comentario-10996|#10996]]
+- [[Posts/1262 - Vitória chorada|#1262]] - Vitória chorada · [[Posts/1262 - Vitória chorada#^comentario-11006|#11006]]
+- [[Posts/1262 - Vitória chorada|#1262]] - Vitória chorada · [[Posts/1262 - Vitória chorada#^comentario-11013|#11013]]
+- [[Posts/1262 - Vitória chorada|#1262]] - Vitória chorada · [[Posts/1262 - Vitória chorada#^comentario-11068|#11068]]
+- [[Posts/12622 - Adeus Ronaldo!|#12622]] - Adeus Ronaldo! · [[Posts/12622 - Adeus Ronaldo!#^comentario-85356|#85356]]
+- [[Posts/12622 - Adeus Ronaldo!|#12622]] - Adeus Ronaldo! · [[Posts/12622 - Adeus Ronaldo!#^comentario-85597|#85597]]
+- [[Posts/12622 - Adeus Ronaldo!|#12622]] - Adeus Ronaldo! · [[Posts/12622 - Adeus Ronaldo!#^comentario-85870|#85870]]
+- [[Posts/12628 - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!|#12628]] - A-há! U-hu! Ô Gaburah eu vou comer seu bolo! · [[Posts/12628 - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!#^comentario-85386|#85386]]
+- [[Posts/12628 - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!|#12628]] - A-há! U-hu! Ô Gaburah eu vou comer seu bolo! · [[Posts/12628 - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!#^comentario-85470|#85470]]
+- [[Posts/12628 - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!|#12628]] - A-há! U-hu! Ô Gaburah eu vou comer seu bolo!
+- [[Posts/12638 - O que tem o Santos para a Libertadores|#12638]] - O que tem o Santos para a Libertadores · [[Posts/12638 - O que tem o Santos para a Libertadores#^comentario-85520|#85520]]
+- [[Posts/12638 - O que tem o Santos para a Libertadores|#12638]] - O que tem o Santos para a Libertadores
+- [[Posts/1264 - Palmeiras x Corinthians|#1264]] - Palmeiras x Corinthians · [[Posts/1264 - Palmeiras x Corinthians#^comentario-11070|#11070]]
+- [[Posts/1264 - Palmeiras x Corinthians|#1264]] - Palmeiras x Corinthians · [[Posts/1264 - Palmeiras x Corinthians#^comentario-11102|#11102]]
+- [[Posts/12646 - O que tem o Grêmio para a Libertadores|#12646]] - O que tem o Grêmio para a Libertadores · [[Posts/12646 - O que tem o Grêmio para a Libertadores#^comentario-86078|#86078]]
+- [[Posts/12646 - O que tem o Grêmio para a Libertadores|#12646]] - O que tem o Grêmio para a Libertadores · [[Posts/12646 - O que tem o Grêmio para a Libertadores#^comentario-87617|#87617]]
+- [[Posts/12646 - O que tem o Grêmio para a Libertadores|#12646]] - O que tem o Grêmio para a Libertadores
+- [[Posts/12653 - O que tem o Cruzeiro pra Libertadores|#12653]] - O que tem o Cruzeiro pra Libertadores · [[Posts/12653 - O que tem o Cruzeiro pra Libertadores#^comentario-85695|#85695]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11125|#11125]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11126|#11126]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11128|#11128]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11130|#11130]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11144|#11144]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11192|#11192]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11264|#11264]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11295|#11295]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11322|#11322]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11338|#11338]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11369|#11369]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11430|#11430]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado · [[Posts/1266 - “O” jogo de sábado#^comentario-11597|#11597]]
+- [[Posts/1266 - “O” jogo de sábado|#1266]] - “O” jogo de sábado
+- [[Posts/12675 - A relevância dos Estaduais|#12675]] - A relevância dos Estaduais · [[Posts/12675 - A relevância dos Estaduais#^comentario-86548|#86548]]
+- [[Posts/12675 - A relevância dos Estaduais|#12675]] - A relevância dos Estaduais · [[Posts/12675 - A relevância dos Estaduais#^comentario-86556|#86556]]
+- [[Posts/12675 - A relevância dos Estaduais|#12675]] - A relevância dos Estaduais · [[Posts/12675 - A relevância dos Estaduais#^comentario-86561|#86561]]
+- [[Posts/12675 - A relevância dos Estaduais|#12675]] - A relevância dos Estaduais · [[Posts/12675 - A relevância dos Estaduais#^comentario-86570|#86570]]
+- [[Posts/12675 - A relevância dos Estaduais|#12675]] - A relevância dos Estaduais
+- [[Posts/12683 - Fla x Boavista – a final da Taça GB 2011|#12683]] - Fla x Boavista – a final da Taça GB 2011 · [[Posts/12683 - Fla x Boavista – a final da Taça GB 2011#^comentario-86642|#86642]]
+- [[Posts/12683 - Fla x Boavista – a final da Taça GB 2011|#12683]] - Fla x Boavista – a final da Taça GB 2011 · [[Posts/12683 - Fla x Boavista – a final da Taça GB 2011#^comentario-86644|#86644]]
+- [[Posts/1269 - Ingressos para Fluminense x Arsenal|#1269]] - Ingressos para Fluminense x Arsenal · [[Posts/1269 - Ingressos para Fluminense x Arsenal#^comentario-11195|#11195]]
+- [[Posts/1269 - Ingressos para Fluminense x Arsenal|#1269]] - Ingressos para Fluminense x Arsenal · [[Posts/1269 - Ingressos para Fluminense x Arsenal#^comentario-11211|#11211]]
+- [[Posts/1269 - Ingressos para Fluminense x Arsenal|#1269]] - Ingressos para Fluminense x Arsenal · [[Posts/1269 - Ingressos para Fluminense x Arsenal#^comentario-11311|#11311]]
+- [[Posts/1269 - Ingressos para Fluminense x Arsenal|#1269]] - Ingressos para Fluminense x Arsenal · [[Posts/1269 - Ingressos para Fluminense x Arsenal#^comentario-11365|#11365]]
+- [[Posts/127 - Tuta|#127]] - Tuta
+- [[Posts/1270 - E a Camisa da Portuguesa vai para…|#1270]] - E a Camisa da Portuguesa vai para… · [[Posts/1270 - E a Camisa da Portuguesa vai para…#^comentario-11235|#11235]]
+- [[Posts/1270 - E a Camisa da Portuguesa vai para…|#1270]] - E a Camisa da Portuguesa vai para…
+- [[Posts/12707 - ATENÇÃO O Flamengo não é hexacampeão|#12707]] - ATENÇÃO: O Flamengo não é hexacampeão · [[Posts/12707 - ATENÇÃO O Flamengo não é hexacampeão#^comentario-86760|#86760]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11241|#11241]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11244|#11244]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11265|#11265]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11272|#11272]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11280|#11280]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11308|#11308]]
+- [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo|#1271]] - Trocar Leandro Amaral por Leandro Guerreiro justo? · [[Posts/1271 - Trocar Leandro Amaral por Leandro Guerreiro justo#^comentario-11310|#11310]]
+- [[Posts/12712 - Flamengo 1X1 Botafogo mais uma vez (nos pênaltis), deu Fla no Engenhão|#12712]] - Flamengo 1X1 Botafogo : mais uma vez (nos pênaltis), deu Fla no Engenhão · [[Posts/12712 - Flamengo 1X1 Botafogo mais uma vez (nos pênaltis), deu Fla no Engenhão#^comentario-86861|#86861]]
+- [[Posts/12712 - Flamengo 1X1 Botafogo mais uma vez (nos pênaltis), deu Fla no Engenhão|#12712]] - Flamengo 1X1 Botafogo : mais uma vez (nos pênaltis), deu Fla no Engenhão · [[Posts/12712 - Flamengo 1X1 Botafogo mais uma vez (nos pênaltis), deu Fla no Engenhão#^comentario-86865|#86865]]
+- [[Posts/12720 - BBG antecipa manchetes de segunda|#12720]] - BBG antecipa manchetes de segunda · [[Posts/12720 - BBG antecipa manchetes de segunda#^comentario-88006|#88006]]
+- [[Posts/12734 - CADE as bolinhas|#12734]] - CADE as bolinhas? · [[Posts/12734 - CADE as bolinhas#^comentario-87184|#87184]]
+- [[Posts/12734 - CADE as bolinhas|#12734]] - CADE as bolinhas? · [[Posts/12734 - CADE as bolinhas#^comentario-87590|#87590]]
+- [[Posts/12734 - CADE as bolinhas|#12734]] - CADE as bolinhas?
+- [[Posts/12743 - As aparências enganam|#12743]] - As aparências enganam · [[Posts/12743 - As aparências enganam#^comentario-87476|#87476]]
+- [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011|#12753]] - A Saga do Botafogo na Copa do Brasil 2011 · [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011#^comentario-92063|#92063]]
+- [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011|#12753]] - A Saga do Botafogo na Copa do Brasil 2011 · [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011#^comentario-92069|#92069]]
+- [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011|#12753]] - A Saga do Botafogo na Copa do Brasil 2011 · [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011#^comentario-92070|#92070]]
+- [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011|#12753]] - A Saga do Botafogo na Copa do Brasil 2011 · [[Posts/12753 - A Saga do Botafogo na Copa do Brasil 2011#^comentario-92071|#92071]]
+- [[Posts/12759 - “Mexe nessa porra, Muricy!”|#12759]] - “Mexe nessa porra, Muricy!” · [[Posts/12759 - “Mexe nessa porra, Muricy!”#^comentario-87510|#87510]]
+- [[Posts/12759 - “Mexe nessa porra, Muricy!”|#12759]] - “Mexe nessa porra, Muricy!”
+- [[Posts/1276 - UEFA Championship - pitacos dos jogos de hoje|#1276]] - UEFA Championship - pitacos dos jogos de hoje · [[Posts/1276 - UEFA Championship - pitacos dos jogos de hoje#^comentario-11346|#11346]]
+- [[Posts/1276 - UEFA Championship - pitacos dos jogos de hoje|#1276]] - UEFA Championship - pitacos dos jogos de hoje · [[Posts/1276 - UEFA Championship - pitacos dos jogos de hoje#^comentario-11370|#11370]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11378|#11378]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11391|#11391]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11397|#11397]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11398|#11398]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11423|#11423]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11435|#11435]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11436|#11436]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11452|#11452]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11529|#11529]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11530|#11530]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11564|#11564]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11570|#11570]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11604|#11604]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11737|#11737]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11743|#11743]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11748|#11748]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11753|#11753]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11757|#11757]]
+- [[Posts/1278 - Presente em D+1|#1278]] - Presente em D+1 · [[Posts/1278 - Presente em D+1#^comentario-11773|#11773]]
+- [[Posts/12780 - Flamengo Campeão Taça GB 2011|#12780]] - Flamengo Campeão Taça GB 2011 · [[Posts/12780 - Flamengo Campeão Taça GB 2011#^comentario-88005|#88005]]
+- [[Posts/1279 - A volta do Pó-de-Arroz|#1279]] - A volta do Pó-de-Arroz · [[Posts/1279 - A volta do Pó-de-Arroz#^comentario-11383|#11383]]
+- [[Posts/1279 - A volta do Pó-de-Arroz|#1279]] - A volta do Pó-de-Arroz · [[Posts/1279 - A volta do Pó-de-Arroz#^comentario-11388|#11388]]
+- [[Posts/1279 - A volta do Pó-de-Arroz|#1279]] - A volta do Pó-de-Arroz · [[Posts/1279 - A volta do Pó-de-Arroz#^comentario-11392|#11392]]
+- [[Posts/12793 - Ataquem até o fim|#12793]] - Ataquem até o fim
+- [[Posts/128 - Ingressos (2)|#128]] - Ingressos (2)
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11412|#11412]]
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11427|#11427]]
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11501|#11501]]
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11511|#11511]]
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11658|#11658]]
+- [[Posts/1280 - Vamo lá Fogão!|#1280]] - Vamo lá Fogão! · [[Posts/1280 - Vamo lá Fogão!#^comentario-11682|#11682]]
+- [[Posts/12803 - Juca Kfoury e a Copa Eugenia 87|#12803]] - Juca Kfoury e a Copa Eugenia 87
+- [[Posts/12815 - Pedala, Robinho|#12815]] - Pedala, Robinho · [[Posts/12815 - Pedala, Robinho#^comentario-88511|#88511]]
+- [[Posts/12815 - Pedala, Robinho|#12815]] - Pedala, Robinho
+- [[Posts/12823 - Renato Mauricio Prado x Eurico Miranda|#12823]] - Renato Mauricio Prado x Eurico Miranda · [[Posts/12823 - Renato Mauricio Prado x Eurico Miranda#^comentario-88978|#88978]]
+- [[Posts/12823 - Renato Mauricio Prado x Eurico Miranda|#12823]] - Renato Mauricio Prado x Eurico Miranda
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11411|#11411]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11428|#11428]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11433|#11433]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11451|#11451]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11510|#11510]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11535|#11535]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11555|#11555]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11590|#11590]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11591|#11591]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11598|#11598]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11599|#11599]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita · [[Posts/1283 - Uma noite perfeita#^comentario-11665|#11665]]
+- [[Posts/1283 - Uma noite perfeita|#1283]] - Uma noite perfeita
+- [[Posts/1284 - Catimba, gandulas, pedradas…|#1284]] - Catimba, gandulas, pedradas… · [[Posts/1284 - Catimba, gandulas, pedradas…#^comentario-11681|#11681]]
+- [[Posts/1284 - Catimba, gandulas, pedradas…|#1284]] - Catimba, gandulas, pedradas… · [[Posts/1284 - Catimba, gandulas, pedradas…#^comentario-11700|#11700]]
+- [[Posts/1284 - Catimba, gandulas, pedradas…|#1284]] - Catimba, gandulas, pedradas… · [[Posts/1284 - Catimba, gandulas, pedradas…#^comentario-11764|#11764]]
+- [[Posts/1285 - Imagine|#1285]] - Imagine · [[Posts/1285 - Imagine#^comentario-11685|#11685]]
+- [[Posts/1285 - Imagine|#1285]] - Imagine · [[Posts/1285 - Imagine#^comentario-11712|#11712]]
+- [[Posts/1285 - Imagine|#1285]] - Imagine · [[Posts/1285 - Imagine#^comentario-11777|#11777]]
+- [[Posts/12854 - Botafogo 4X0 Americano – Band on the run|#12854]] - Botafogo 4X0 Americano – Band on the run · [[Posts/12854 - Botafogo 4X0 Americano – Band on the run#^comentario-88979|#88979]]
+- [[Posts/12854 - Botafogo 4X0 Americano – Band on the run|#12854]] - Botafogo 4X0 Americano – Band on the run · [[Posts/12854 - Botafogo 4X0 Americano – Band on the run#^comentario-88993|#88993]]
+- [[Posts/12861 - Um Fla x Flu arretado|#12861]] - Um Fla x Flu arretado · [[Posts/12861 - Um Fla x Flu arretado#^comentario-89115|#89115]]
+- [[Posts/12861 - Um Fla x Flu arretado|#12861]] - Um Fla x Flu arretado
+- [[Posts/12866 - Muricy demite o Fluminense Peter Siemsen x Flusócio x Flusócio|#12866]] - Muricy demite o Fluminense: Peter Siemsen x Flusócio x Flusócio · [[Posts/12866 - Muricy demite o Fluminense Peter Siemsen x Flusócio x Flusócio#^comentario-89146|#89146]]
+- [[Posts/12866 - Muricy demite o Fluminense Peter Siemsen x Flusócio x Flusócio|#12866]] - Muricy demite o Fluminense: Peter Siemsen x Flusócio x Flusócio
+- [[Posts/12876 - Caio Martins, o que fazer|#12876]] - Caio Martins, o que fazer? · [[Posts/12876 - Caio Martins, o que fazer#^comentario-89321|#89321]]
+- [[Posts/1288 - Libertadores x Carioca|#1288]] - Libertadores x Carioca · [[Posts/1288 - Libertadores x Carioca#^comentario-11778|#11778]]
+- [[Posts/12887 - Classificação garantida ou seu dinheiro de volta|#12887]] - Classificação garantida ou seu dinheiro de volta · [[Posts/12887 - Classificação garantida ou seu dinheiro de volta#^comentario-89442|#89442]]
+- [[Posts/12887 - Classificação garantida ou seu dinheiro de volta|#12887]] - Classificação garantida ou seu dinheiro de volta · [[Posts/12887 - Classificação garantida ou seu dinheiro de volta#^comentario-89469|#89469]]
+- [[Posts/12893 - Colo Colo 3×2 Santos porrada e futebol|#12893]] - Colo Colo 3×2 Santos: porrada e futebol · [[Posts/12893 - Colo Colo 3×2 Santos porrada e futebol#^comentario-89516|#89516]]
+- [[Posts/12893 - Colo Colo 3×2 Santos porrada e futebol|#12893]] - Colo Colo 3×2 Santos: porrada e futebol
+- [[Posts/129 - Quanto custa o Pan|#129]] - Quanto custa o Pan
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11833|#11833]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11850|#11850]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11852|#11852]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11870|#11870]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11888|#11888]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11901|#11901]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11910|#11910]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11914|#11914]]
+- [[Posts/1290 - GOL TODA HORA|#1290]] - GOL TODA HORA · [[Posts/1290 - GOL TODA HORA#^comentario-11922|#11922]]
+- [[Posts/12902 - Obama sem tatuagem|#12902]] - Obama sem tatuagem · [[Posts/12902 - Obama sem tatuagem#^comentario-89722|#89722]]
+- [[Posts/12902 - Obama sem tatuagem|#12902]] - Obama sem tatuagem · [[Posts/12902 - Obama sem tatuagem#^comentario-89745|#89745]]
+- [[Posts/12902 - Obama sem tatuagem|#12902]] - Obama sem tatuagem
+- [[Posts/12914 - Sócio-Cambista Tricolor|#12914]] - Sócio-Cambista Tricolor
+- [[Posts/12918 - Vasco 2X0 Botafogo – Obama é bacalhau|#12918]] - Vasco 2X0 Botafogo – Obama é bacalhau · [[Posts/12918 - Vasco 2X0 Botafogo – Obama é bacalhau#^comentario-89776|#89776]]
+- [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça|#1292]] - Uma vitória, com goleada e dor-de-cabeça · [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça#^comentario-11873|#11873]]
+- [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça|#1292]] - Uma vitória, com goleada e dor-de-cabeça · [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça#^comentario-11887|#11887]]
+- [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça|#1292]] - Uma vitória, com goleada e dor-de-cabeça · [[Posts/1292 - Uma vitória, com goleada e dor-de-cabeça#^comentario-11902|#11902]]
+- [[Posts/1293 - A temporada que vai começar|#1293]] - A temporada que vai começar · [[Posts/1293 - A temporada que vai começar#^comentario-11890|#11890]]
+- [[Posts/1293 - A temporada que vai começar|#1293]] - A temporada que vai começar · [[Posts/1293 - A temporada que vai começar#^comentario-11891|#11891]]
+- [[Posts/1293 - A temporada que vai começar|#1293]] - A temporada que vai começar · [[Posts/1293 - A temporada que vai começar#^comentario-11924|#11924]]
+- [[Posts/1293 - A temporada que vai começar|#1293]] - A temporada que vai começar · [[Posts/1293 - A temporada que vai começar#^comentario-11925|#11925]]
+- [[Posts/12935 - Gilson Kleina um treinador em franca ascensão|#12935]] - Gilson Kleina: um treinador em franca ascensão · [[Posts/12935 - Gilson Kleina um treinador em franca ascensão#^comentario-89792|#89792]]
+- [[Posts/12935 - Gilson Kleina um treinador em franca ascensão|#12935]] - Gilson Kleina: um treinador em franca ascensão
+- [[Posts/1294 - Botafogo 3×0 Voltaço|#1294]] - Botafogo 3×0 Voltaço · [[Posts/1294 - Botafogo 3×0 Voltaço#^comentario-12022|#12022]]
+- [[Posts/12945 - Um valor justo (ou “Transparência não faz mal a ninguém. Ou faz ”)|#12945]] - Um valor justo (ou “Transparência não faz mal a ninguém. Ou faz?”) · [[Posts/12945 - Um valor justo (ou “Transparência não faz mal a ninguém. Ou faz ”)#^comentario-89931|#89931]]
+- [[Posts/12950 - Laranjeiras – relatório|#12950]] - Laranjeiras – relatório · [[Posts/12950 - Laranjeiras – relatório#^comentario-90201|#90201]]
+- [[Posts/12950 - Laranjeiras – relatório|#12950]] - Laranjeiras – relatório · [[Posts/12950 - Laranjeiras – relatório#^comentario-94257|#94257]]
+- [[Posts/1297 - Isso que são jogadas ensaiadas em faltas|#1297]] - Isso que são jogadas ensaiadas em faltas · [[Posts/1297 - Isso que são jogadas ensaiadas em faltas#^comentario-12003|#12003]]
+- [[Posts/1297 - Isso que são jogadas ensaiadas em faltas|#1297]] - Isso que são jogadas ensaiadas em faltas · [[Posts/1297 - Isso que são jogadas ensaiadas em faltas#^comentario-12076|#12076]]
+- [[Posts/12974 - Fluminense 3×2 América-MEX A física explica|#12974]] - Fluminense 3×2 América-MEX: A física explica
+- [[Posts/12984 - Zico o filme|#12984]] - Zico: o filme
+- [[Posts/12998 - Boavista 0X0 Botafogo – não dá nem pra reclamar|#12998]] - Boavista 0X0 Botafogo – não dá nem pra reclamar · [[Posts/12998 - Boavista 0X0 Botafogo – não dá nem pra reclamar#^comentario-90322|#90322]]
+- [[Posts/12998 - Boavista 0X0 Botafogo – não dá nem pra reclamar|#12998]] - Boavista 0X0 Botafogo – não dá nem pra reclamar · [[Posts/12998 - Boavista 0X0 Botafogo – não dá nem pra reclamar#^comentario-90367|#90367]]
+- [[Posts/130 - Ingressos (3)|#130]] - Ingressos (3)
+- [[Posts/13012 - Rogério Ceni 100 gols|#13012]] - Rogério Ceni 100 gols · [[Posts/13012 - Rogério Ceni 100 gols#^comentario-90387|#90387]]
+- [[Posts/13013 - Iron Maiden e o Premier itinerante|#13013]] - Iron Maiden e o Premier itinerante · [[Posts/13013 - Iron Maiden e o Premier itinerante#^comentario-90457|#90457]]
+- [[Posts/13013 - Iron Maiden e o Premier itinerante|#13013]] - Iron Maiden e o Premier itinerante
+- [[Posts/1302 - Samba Juliana…|#1302]] - Samba Juliana… · [[Posts/1302 - Samba Juliana…#^comentario-12037|#12037]]
+- [[Posts/1302 - Samba Juliana…|#1302]] - Samba Juliana… · [[Posts/1302 - Samba Juliana…#^comentario-12056|#12056]]
+- [[Posts/13027 - Zé Alencar|#13027]] - Zé Alencar · [[Posts/13027 - Zé Alencar#^comentario-90486|#90486]]
+- [[Posts/1303 - Ilha x Continente|#1303]] - Ilha x Continente · [[Posts/1303 - Ilha x Continente#^comentario-12183|#12183]]
+- [[Posts/1303 - Ilha x Continente|#1303]] - Ilha x Continente · [[Posts/1303 - Ilha x Continente#^comentario-12232|#12232]]
+- [[Posts/1303 - Ilha x Continente|#1303]] - Ilha x Continente
+- [[Posts/13039 - Sai ano, entra ano, e Vettel continua na cabeça|#13039]] - Sai ano, entra ano, e Vettel continua na cabeça · [[Posts/13039 - Sai ano, entra ano, e Vettel continua na cabeça#^comentario-90587|#90587]]
+- [[Posts/1304 - A melhor defesa é o ataque. Literalmente|#1304]] - A melhor defesa é o ataque. Literalmente. · [[Posts/1304 - A melhor defesa é o ataque. Literalmente#^comentario-12073|#12073]]
+- [[Posts/1304 - A melhor defesa é o ataque. Literalmente|#1304]] - A melhor defesa é o ataque. Literalmente. · [[Posts/1304 - A melhor defesa é o ataque. Literalmente#^comentario-12139|#12139]]
+- [[Posts/1304 - A melhor defesa é o ataque. Literalmente|#1304]] - A melhor defesa é o ataque. Literalmente. · [[Posts/1304 - A melhor defesa é o ataque. Literalmente#^comentario-12151|#12151]]
+- [[Posts/1304 - A melhor defesa é o ataque. Literalmente|#1304]] - A melhor defesa é o ataque. Literalmente. · [[Posts/1304 - A melhor defesa é o ataque. Literalmente#^comentario-12169|#12169]]
+- [[Posts/1304 - A melhor defesa é o ataque. Literalmente|#1304]] - A melhor defesa é o ataque. Literalmente. · [[Posts/1304 - A melhor defesa é o ataque. Literalmente#^comentario-12180|#12180]]
+- [[Posts/13043 - MLB ao vivo em qualquer lugar|#13043]] - MLB ao vivo em qualquer lugar · [[Posts/13043 - MLB ao vivo em qualquer lugar#^comentario-90586|#90586]]
+- [[Posts/13043 - MLB ao vivo em qualquer lugar|#13043]] - MLB ao vivo em qualquer lugar
+- [[Posts/13054 - Suas ideias não correspondem aos fatos|#13054]] - Suas ideias não correspondem aos fatos · [[Posts/13054 - Suas ideias não correspondem aos fatos#^comentario-90623|#90623]]
+- [[Posts/13054 - Suas ideias não correspondem aos fatos|#13054]] - Suas ideias não correspondem aos fatos
+- [[Posts/1306 - Lateral de Cirque du Soleil|#1306]] - Lateral de Cirque du Soleil · [[Posts/1306 - Lateral de Cirque du Soleil#^comentario-12181|#12181]]
+- [[Posts/1306 - Lateral de Cirque du Soleil|#1306]] - Lateral de Cirque du Soleil · [[Posts/1306 - Lateral de Cirque du Soleil#^comentario-12199|#12199]]
+- [[Posts/1306 - Lateral de Cirque du Soleil|#1306]] - Lateral de Cirque du Soleil · [[Posts/1306 - Lateral de Cirque du Soleil#^comentario-12943|#12943]]
+- [[Posts/13068 - Brescia 3×1 Bologna|#13068]] - Brescia 3×1 Bologna · [[Posts/13068 - Brescia 3×1 Bologna#^comentario-90680|#90680]]
+- [[Posts/13068 - Brescia 3×1 Bologna|#13068]] - Brescia 3×1 Bologna
+- [[Posts/1307 - Considerado…|#1307]] - Considerado… · [[Posts/1307 - Considerado…#^comentario-12229|#12229]]
+- [[Posts/1307 - Considerado…|#1307]] - Considerado… · [[Posts/1307 - Considerado…#^comentario-12264|#12264]]
+- [[Posts/1307 - Considerado…|#1307]] - Considerado… · [[Posts/1307 - Considerado…#^comentario-12268|#12268]]
+- [[Posts/1307 - Considerado…|#1307]] - Considerado…
+- [[Posts/13075 - Porto campeão da Liga Zon Sagres|#13075]] - Porto campeão da Liga Zon Sagres
+- [[Posts/1308 - Automobilismo na área|#1308]] - Automobilismo na área · [[Posts/1308 - Automobilismo na área#^comentario-12230|#12230]]
+- [[Posts/1309 - Quartas da UCL definidas|#1309]] - Quartas da UCL definidas · [[Posts/1309 - Quartas da UCL definidas#^comentario-12265|#12265]]
+- [[Posts/1309 - Quartas da UCL definidas|#1309]] - Quartas da UCL definidas · [[Posts/1309 - Quartas da UCL definidas#^comentario-12271|#12271]]
+- [[Posts/131 - Platini|#131]] - Platini
+- [[Posts/1310 - Palpites para o GP da Austrália|#1310]] - Palpites para o GP da Austrália · [[Posts/1310 - Palpites para o GP da Austrália#^comentario-12298|#12298]]
+- [[Posts/1310 - Palpites para o GP da Austrália|#1310]] - Palpites para o GP da Austrália · [[Posts/1310 - Palpites para o GP da Austrália#^comentario-12324|#12324]]
+- [[Posts/1310 - Palpites para o GP da Austrália|#1310]] - Palpites para o GP da Austrália · [[Posts/1310 - Palpites para o GP da Austrália#^comentario-12360|#12360]]
+- [[Posts/13107 - A matemática para o Fluminense na Libertadores|#13107]] - A matemática para o Fluminense na Libertadores
+- [[Posts/13114 - A Saga do 1ª Vara na Copa Odil de Lara|#13114]] - A Saga do 1ª Vara na Copa Odil de Lara · [[Posts/13114 - A Saga do 1ª Vara na Copa Odil de Lara#^comentario-91078|#91078]]
+- [[Posts/13125 - Conselhos de Renight Portaluppi|#13125]] - Conselhos de Renight Portaluppi · [[Posts/13125 - Conselhos de Renight Portaluppi#^comentario-91145|#91145]]
+- [[Posts/13125 - Conselhos de Renight Portaluppi|#13125]] - Conselhos de Renight Portaluppi · [[Posts/13125 - Conselhos de Renight Portaluppi#^comentario-94645|#94645]]
+- [[Posts/13133 - O primeiro jogo do Henrique no Olímpico|#13133]] - O primeiro jogo do Henrique no Olímpico
+- [[Posts/13142 - Os jogões do fim de semana|#13142]] - Os jogões do fim de semana
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12365|#12365]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12370|#12370]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12416|#12416]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12598|#12598]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12641|#12641]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12660|#12660]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12661|#12661]]
+- [[Posts/1315 - Futebolzinho sábado|#1315]] - Futebolzinho sábado · [[Posts/1315 - Futebolzinho sábado#^comentario-12783|#12783]]
+- [[Posts/1316 - Nelson Piquet - Sensacional|#1316]] - Nelson Piquet - Sensacional · [[Posts/1316 - Nelson Piquet - Sensacional#^comentario-12345|#12345]]
+- [[Posts/13165 - O confronto de Caio Junior|#13165]] - O confronto de Caio Junior
+- [[Posts/1317 - E foi dada a largada|#1317]] - E foi dada a largada · [[Posts/1317 - E foi dada a largada#^comentario-12396|#12396]]
+- [[Posts/1317 - E foi dada a largada|#1317]] - E foi dada a largada · [[Posts/1317 - E foi dada a largada#^comentario-12397|#12397]]
+- [[Posts/13172 - O Vasco embala no fim da temporada|#13172]] - O Vasco embala no fim da temporada
+- [[Posts/1318 - Viola é o cara|#1318]] - Viola é o cara · [[Posts/1318 - Viola é o cara#^comentario-12423|#12423]]
+- [[Posts/13180 - Santos bem na fita|#13180]] - Santos bem na fita
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12426|#12426]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12442|#12442]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12443|#12443]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12453|#12453]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12490|#12490]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12491|#12491]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12534|#12534]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12536|#12536]]
+- [[Posts/1319 - Botafogo quebra jejum|#1319]] - Botafogo quebra jejum · [[Posts/1319 - Botafogo quebra jejum#^comentario-12580|#12580]]
+- [[Posts/13190 - Voa, voa aviãozinho – (isso aqui é uma bagunça)|#13190]] - Voa, voa aviãozinho – (isso aqui é uma bagunça) · [[Posts/13190 - Voa, voa aviãozinho – (isso aqui é uma bagunça)#^comentario-91714|#91714]]
+- [[Posts/13198 - A Piquetzice do Sada-Cruzeiro|#13198]] - A Piquetzice do Sada-Cruzeiro
+- [[Posts/13205 - O fim da Gloriosa série 2006-2010|#13205]] - O fim da Gloriosa série 2006-2010 · [[Posts/13205 - O fim da Gloriosa série 2006-2010#^comentario-91822|#91822]]
+- [[Posts/13205 - O fim da Gloriosa série 2006-2010|#13205]] - O fim da Gloriosa série 2006-2010
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-91965|#91965]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92037|#92037]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92038|#92038]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92040|#92040]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92042|#92042]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92046|#92046]]
+- [[Posts/13230 - Barça x Real|#13230]] - Barça x Real · [[Posts/13230 - Barça x Real#^comentario-92052|#92052]]
+- [[Posts/13237 - Vira virou, o Zé Mourinho chegou|#13237]] - Vira virou, o Zé Mourinho chegou
+- [[Posts/13249 - Bullying|#13249]] - Bullying · [[Posts/13249 - Bullying#^comentario-92364|#92364]]
+- [[Posts/13249 - Bullying|#13249]] - Bullying
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12543|#12543]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12637|#12637]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12644|#12644]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12701|#12701]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12782|#12782]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12792|#12792]]
+- [[Posts/1325 - Flamengo x Nacional. Por que o medo|#1325]] - Flamengo x Nacional. Por que o medo? · [[Posts/1325 - Flamengo x Nacional. Por que o medo#^comentario-12855|#12855]]
+- [[Posts/13257 - O Fluminense é foda pra caralho|#13257]] - O Fluminense é foda pra caralho · [[Posts/13257 - O Fluminense é foda pra caralho#^comentario-92084|#92084]]
+- [[Posts/13257 - O Fluminense é foda pra caralho|#13257]] - O Fluminense é foda pra caralho · [[Posts/13257 - O Fluminense é foda pra caralho#^comentario-92090|#92090]]
+- [[Posts/13257 - O Fluminense é foda pra caralho|#13257]] - O Fluminense é foda pra caralho · [[Posts/13257 - O Fluminense é foda pra caralho#^comentario-92091|#92091]]
+- [[Posts/13257 - O Fluminense é foda pra caralho|#13257]] - O Fluminense é foda pra caralho
+- [[Posts/1326 - Mundial de Bodyboard|#1326]] - Mundial de Bodyboard · [[Posts/1326 - Mundial de Bodyboard#^comentario-12582|#12582]]
+- [[Posts/1326 - Mundial de Bodyboard|#1326]] - Mundial de Bodyboard · [[Posts/1326 - Mundial de Bodyboard#^comentario-12645|#12645]]
+- [[Posts/1326 - Mundial de Bodyboard|#1326]] - Mundial de Bodyboard · [[Posts/1326 - Mundial de Bodyboard#^comentario-12654|#12654]]
+- [[Posts/1326 - Mundial de Bodyboard|#1326]] - Mundial de Bodyboard · [[Posts/1326 - Mundial de Bodyboard#^comentario-12658|#12658]]
+- [[Posts/1326 - Mundial de Bodyboard|#1326]] - Mundial de Bodyboard · [[Posts/1326 - Mundial de Bodyboard#^comentario-12664|#12664]]
+- [[Posts/13261 - O Fluminense é (in)acreditável!!!!|#13261]] - O Fluminense é (in)acreditável!!!! · [[Posts/13261 - O Fluminense é (in)acreditável!!!!#^comentario-92095|#92095]]
+- [[Posts/13267 - Avaí 1X1 Botafogo – eliminado, de cabeça erguida|#13267]] - Avaí 1X1 Botafogo – eliminado, de cabeça erguida · [[Posts/13267 - Avaí 1X1 Botafogo – eliminado, de cabeça erguida#^comentario-92238|#92238]]
+- [[Posts/1328 - Ingressos Vasco x Fluminense – Serviço|#1328]] - Ingressos Vasco x Fluminense – Serviço · [[Posts/1328 - Ingressos Vasco x Fluminense – Serviço#^comentario-12708|#12708]]
+- [[Posts/1328 - Ingressos Vasco x Fluminense – Serviço|#1328]] - Ingressos Vasco x Fluminense – Serviço · [[Posts/1328 - Ingressos Vasco x Fluminense – Serviço#^comentario-12863|#12863]]
+- [[Posts/13281 - Deixem a matemática em paz|#13281]] - Deixem a matemática em paz
+- [[Posts/1329 - Onde vale alguma coisa|#1329]] - Onde vale alguma coisa · [[Posts/1329 - Onde vale alguma coisa#^comentario-12721|#12721]]
+- [[Posts/1329 - Onde vale alguma coisa|#1329]] - Onde vale alguma coisa · [[Posts/1329 - Onde vale alguma coisa#^comentario-12725|#12725]]
+- [[Posts/13291 - Botafogo 2X5 Boavista – Troféu Capita Passa a régua…|#13291]] - Botafogo 2X5 Boavista – Troféu Capita? Passa a régua… · [[Posts/13291 - Botafogo 2X5 Boavista – Troféu Capita Passa a régua…#^comentario-92384|#92384]]
+- [[Posts/13297 - A grande tarde de Ricardo Gomes|#13297]] - A grande tarde de Ricardo Gomes · [[Posts/13297 - A grande tarde de Ricardo Gomes#^comentario-92366|#92366]]
+- [[Posts/13297 - A grande tarde de Ricardo Gomes|#13297]] - A grande tarde de Ricardo Gomes
+- [[Posts/13302 - Alexandre Pilatos Kalil|#13302]] - Alexandre Pilatos Kalil
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-12969|#12969]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-12971|#12971]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13024|#13024]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13026|#13026]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13033|#13033]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13034|#13034]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13041|#13041]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13044|#13044]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13046|#13046]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13049|#13049]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13089|#13089]]
+- [[Posts/1332 - O Carioca tá melhorando|#1332]] - O Carioca tá melhorando · [[Posts/1332 - O Carioca tá melhorando#^comentario-13121|#13121]]
+- [[Posts/13320 - Hoje tem Clássico dos Lixões|#13320]] - Hoje tem Clássico dos Lixões · [[Posts/13320 - Hoje tem Clássico dos Lixões#^comentario-92409|#92409]]
+- [[Posts/13320 - Hoje tem Clássico dos Lixões|#13320]] - Hoje tem Clássico dos Lixões
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13027|#13027]]
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13042|#13042]]
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13048|#13048]]
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13058|#13058]]
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13084|#13084]]
+- [[Posts/1333 - Direto do Maraca|#1333]] - Direto do Maraca · [[Posts/1333 - Direto do Maraca#^comentario-13086|#13086]]
+- [[Posts/13337 - Um técnico com urgência para o Fluminense|#13337]] - Um técnico com urgência para o Fluminense
+- [[Posts/1334 - Não colou|#1334]] - Não colou · [[Posts/1334 - Não colou#^comentario-13028|#13028]]
+- [[Posts/1334 - Não colou|#1334]] - Não colou · [[Posts/1334 - Não colou#^comentario-13054|#13054]]
+- [[Posts/13342 - ANAF esculacha|#13342]] - ANAF esculacha · [[Posts/13342 - ANAF esculacha#^comentario-92760|#92760]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13105|#13105]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13106|#13106]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13133|#13133]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13141|#13141]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13146|#13146]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13153|#13153]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13156|#13156]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13187|#13187]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas” · [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”#^comentario-13188|#13188]]
+- [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|#1335]] - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13135|#13135]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13138|#13138]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13189|#13189]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13209|#13209]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13218|#13218]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13232|#13232]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13233|#13233]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13235|#13235]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13238|#13238]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13241|#13241]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13242|#13242]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13266|#13266]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13341|#13341]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13358|#13358]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá · [[Posts/1336 - 100 anos e Gagá#^comentario-13387|#13387]]
+- [[Posts/1336 - 100 anos e Gagá|#1336]] - 100 anos e Gagá
+- [[Posts/13365 - De volta pra casa!|#13365]] - De volta pra casa! · [[Posts/13365 - De volta pra casa!#^comentario-93180|#93180]]
+- [[Posts/13382 - Messi deu o tom, pra variar|#13382]] - Messi deu o tom, pra variar · [[Posts/13382 - Messi deu o tom, pra variar#^comentario-93029|#93029]]
+- [[Posts/13382 - Messi deu o tom, pra variar|#13382]] - Messi deu o tom, pra variar · [[Posts/13382 - Messi deu o tom, pra variar#^comentario-93112|#93112]]
+- [[Posts/13399 - O Horizonte ficou. E qualé do Flamengo|#13399]] - O Horizonte ficou. E qualé do Flamengo? · [[Posts/13399 - O Horizonte ficou. E qualé do Flamengo#^comentario-93087|#93087]]
+- [[Posts/134 - Libertadores|#134]] - Libertadores
+- [[Posts/1340 - Lula já pode jogar no Corinthians|#1340]] - Lula já pode jogar no Corinthians · [[Posts/1340 - Lula já pode jogar no Corinthians#^comentario-13231|#13231]]
+- [[Posts/1340 - Lula já pode jogar no Corinthians|#1340]] - Lula já pode jogar no Corinthians · [[Posts/1340 - Lula já pode jogar no Corinthians#^comentario-13267|#13267]]
+- [[Posts/1340 - Lula já pode jogar no Corinthians|#1340]] - Lula já pode jogar no Corinthians · [[Posts/1340 - Lula já pode jogar no Corinthians#^comentario-13298|#13298]]
+- [[Posts/1340 - Lula já pode jogar no Corinthians|#1340]] - Lula já pode jogar no Corinthians · [[Posts/1340 - Lula já pode jogar no Corinthians#^comentario-13388|#13388]]
+- [[Posts/1340 - Lula já pode jogar no Corinthians|#1340]] - Lula já pode jogar no Corinthians · [[Posts/1340 - Lula já pode jogar no Corinthians#^comentario-13389|#13389]]
+- [[Posts/13405 - Victoria Quæ Sera Tamen|#13405]] - Victoria Quæ Sera Tamen · [[Posts/13405 - Victoria Quæ Sera Tamen#^comentario-93126|#93126]]
+- [[Posts/1341 - Inusitado é pouco|#1341]] - Inusitado é pouco · [[Posts/1341 - Inusitado é pouco#^comentario-13270|#13270]]
+- [[Posts/1341 - Inusitado é pouco|#1341]] - Inusitado é pouco · [[Posts/1341 - Inusitado é pouco#^comentario-13295|#13295]]
+- [[Posts/1341 - Inusitado é pouco|#1341]] - Inusitado é pouco · [[Posts/1341 - Inusitado é pouco#^comentario-13343|#13343]]
+- [[Posts/1341 - Inusitado é pouco|#1341]] - Inusitado é pouco · [[Posts/1341 - Inusitado é pouco#^comentario-13351|#13351]]
+- [[Posts/13411 - De volta pra casa! 2|#13411]] - De volta pra casa! \[2\] · [[Posts/13411 - De volta pra casa! 2#^comentario-93257|#93257]]
+- [[Posts/13411 - De volta pra casa! 2|#13411]] - De volta pra casa! \[2\]
+- [[Posts/13418 - Simples Assim|#13418]] - Simples Assim · [[Posts/13418 - Simples Assim#^comentario-93255|#93255]]
+- [[Posts/1342 - Gol Minhoca do maluco do Grêmio|#1342]] - Gol Minhoca do maluco do Grêmio · [[Posts/1342 - Gol Minhoca do maluco do Grêmio#^comentario-13403|#13403]]
+- [[Posts/13420 - O Foda-se de Ricardo Berna|#13420]] - O Foda-se de Ricardo Berna · [[Posts/13420 - O Foda-se de Ricardo Berna#^comentario-93358|#93358]]
+- [[Posts/13420 - O Foda-se de Ricardo Berna|#13420]] - O Foda-se de Ricardo Berna
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93404|#93404]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93405|#93405]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93406|#93406]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93410|#93410]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93411|#93411]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93418|#93418]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93426|#93426]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93432|#93432]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal · [[Posts/13426 - Semifinal e semi-semifinal#^comentario-93435|#93435]]
+- [[Posts/13426 - Semifinal e semi-semifinal|#13426]] - Semifinal e semi-semifinal
+- [[Posts/1343 - Aliciamento Tricolor|#1343]] - Aliciamento Tricolor? · [[Posts/1343 - Aliciamento Tricolor#^comentario-13449|#13449]]
+- [[Posts/13432 - A Benção João de Deus|#13432]] - A Benção João de Deus
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13463|#13463]]
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13464|#13464]]
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13469|#13469]]
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13483|#13483]]
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13493|#13493]]
+- [[Posts/1344 - Alfredo Sampaio entrega o cargo|#1344]] - Alfredo Sampaio entrega o cargo. · [[Posts/1344 - Alfredo Sampaio entrega o cargo#^comentario-13513|#13513]]
+- [[Posts/13442 - A Saga do Dr. Bruno – Grande Herói Blablagoliano|#13442]] - A Saga do Dr. Bruno – Grande Herói Blablagoliano · [[Posts/13442 - A Saga do Dr. Bruno – Grande Herói Blablagoliano#^comentario-93737|#93737]]
+- [[Posts/13456 - O sentimento não pára, mas se despedaça|#13456]] - O sentimento não pára, mas se despedaça · [[Posts/13456 - O sentimento não pára, mas se despedaça#^comentario-93851|#93851]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13537|#13537]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13541|#13541]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13543|#13543]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13554|#13554]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13573|#13573]]
+- [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra|#1346]] - Quem dá as cartas na Europa é a Inglaterra · [[Posts/1346 - Quem dá as cartas na Europa é a Inglaterra#^comentario-13577|#13577]]
+- [[Posts/13467 - Barcelona 1×1 Real Madrid Gol bem anulado|#13467]] - Barcelona 1×1 Real Madrid: Gol bem anulado
+- [[Posts/13473 - O drama controlado do Santos|#13473]] - O drama controlado do Santos
+- [[Posts/1348 - Carioca, Copa do Brasil e Libertadores. Tem coisa melhor para ver que 1ª fase de qualquer coisa|#1348]] - Carioca, Copa do Brasil e Libertadores. Tem coisa melhor para ver que 1ª fase de qualquer coisa · [[Posts/1348 - Carioca, Copa do Brasil e Libertadores. Tem coisa melhor para ver que 1ª fase de qualquer coisa#^comentario-13575|#13575]]
+- [[Posts/13483 - Flu sem técnico alcança objetivo almejado|#13483]] - Flu sem técnico alcança objetivo almejado
+- [[Posts/13493 - ♫ Bonde da eliminação sem freio ♪ Bonde da… ♫ Bonde da eliminação sem freio ♪|#13493]] - ♫ Bonde da eliminação sem freio ♪ Bonde da… ♫ Bonde da eliminação sem freio ♪ · [[Posts/13493 - ♫ Bonde da eliminação sem freio ♪ Bonde da… ♫ Bonde da eliminação sem freio ♪#^comentario-94142|#94142]]
+- [[Posts/1350 - Jogos de Ida das Quartas da UEFA Champions League|#1350]] - Jogos de Ida das Quartas da UEFA Champions League · [[Posts/1350 - Jogos de Ida das Quartas da UEFA Champions League#^comentario-13624|#13624]]
+- [[Posts/1350 - Jogos de Ida das Quartas da UEFA Champions League|#1350]] - Jogos de Ida das Quartas da UEFA Champions League · [[Posts/1350 - Jogos de Ida das Quartas da UEFA Champions League#^comentario-13625|#13625]]
+- [[Posts/13505 - Só não vê quem tá cego|#13505]] - Só não vê quem tá cego · [[Posts/13505 - Só não vê quem tá cego#^comentario-94149|#94149]]
+- [[Posts/1351 - Monstro|#1351]] - Monstro · [[Posts/1351 - Monstro#^comentario-13654|#13654]]
+- [[Posts/1351 - Monstro|#1351]] - Monstro · [[Posts/1351 - Monstro#^comentario-13789|#13789]]
+- [[Posts/1351 - Monstro|#1351]] - Monstro
+- [[Posts/13515 - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade|#13515]] - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade · [[Posts/13515 - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade#^comentario-94195|#94195]]
+- [[Posts/13515 - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade|#13515]] - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade · [[Posts/13515 - Coritiba 6X0 Palmeiras – a sapatada histórica e a consagração de um ÍDOLO na adversidade#^comentario-94197|#94197]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13650|#13650]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13726|#13726]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13727|#13727]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13729|#13729]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13747|#13747]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13793|#13793]]
+- [[Posts/1352 - Grupo da Morte Azar do Libertad|#1352]] - Grupo da Morte? Azar do Libertad · [[Posts/1352 - Grupo da Morte Azar do Libertad#^comentario-13810|#13810]]
+- [[Posts/13522 - Os clássicos estão aí para quem quiser ver|#13522]] - Os clássicos estão aí para quem quiser ver
+- [[Posts/13524 - Alento Alvinegro o Mago voltou!|#13524]] - Alento Alvinegro: o Mago voltou! · [[Posts/13524 - Alento Alvinegro o Mago voltou!#^comentario-94311|#94311]]
+- [[Posts/1353 - O porquê não comprei a camisa do Thiago Silva|#1353]] - O porquê não comprei a camisa do Thiago Silva · [[Posts/1353 - O porquê não comprei a camisa do Thiago Silva#^comentario-13649|#13649]]
+- [[Posts/1353 - O porquê não comprei a camisa do Thiago Silva|#1353]] - O porquê não comprei a camisa do Thiago Silva · [[Posts/1353 - O porquê não comprei a camisa do Thiago Silva#^comentario-13725|#13725]]
+- [[Posts/13531 - Feliz Dia das Mães Blablagoliano!|#13531]] - Feliz Dia das Mães Blablagoliano! · [[Posts/13531 - Feliz Dia das Mães Blablagoliano!#^comentario-94454|#94454]]
+- [[Posts/13546 - O estilo de jogo|#13546]] - O estilo de jogo · [[Posts/13546 - O estilo de jogo#^comentario-94531|#94531]]
+- [[Posts/1355 - Considerações sobre o Vasco após a classificação na Copa do Brasil|#1355]] - Considerações sobre o Vasco após a classificação na Copa do Brasil · [[Posts/1355 - Considerações sobre o Vasco após a classificação na Copa do Brasil#^comentario-13794|#13794]]
+- [[Posts/1355 - Considerações sobre o Vasco após a classificação na Copa do Brasil|#1355]] - Considerações sobre o Vasco após a classificação na Copa do Brasil · [[Posts/1355 - Considerações sobre o Vasco após a classificação na Copa do Brasil#^comentario-13874|#13874]]
+- [[Posts/1355 - Considerações sobre o Vasco após a classificação na Copa do Brasil|#1355]] - Considerações sobre o Vasco após a classificação na Copa do Brasil
+- [[Posts/13550 - Internacionalização da marca|#13550]] - Internacionalização da marca
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-13820|#13820]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-13822|#13822]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-13872|#13872]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-14145|#14145]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-14290|#14290]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-14293|#14293]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-14390|#14390]]
+- [[Posts/1356 - Papeletas|#1356]] - Papeletas · [[Posts/1356 - Papeletas#^comentario-14433|#14433]]
+- [[Posts/13561 - Tem que aprender a perder como flamenguista tem que aprender a ganhar|#13561]] - Tem que aprender a perder como flamenguista tem que aprender a ganhar. · [[Posts/13561 - Tem que aprender a perder como flamenguista tem que aprender a ganhar#^comentario-94604|#94604]]
+- [[Posts/13561 - Tem que aprender a perder como flamenguista tem que aprender a ganhar|#13561]] - Tem que aprender a perder como flamenguista tem que aprender a ganhar. · [[Posts/13561 - Tem que aprender a perder como flamenguista tem que aprender a ganhar#^comentario-94610|#94610]]
+- [[Posts/13566 - MENINO NA ARQUIBANCADA|#13566]] - MENINO NA ARQUIBANCADA · [[Posts/13566 - MENINO NA ARQUIBANCADA#^comentario-94743|#94743]]
+- [[Posts/13566 - MENINO NA ARQUIBANCADA|#13566]] - MENINO NA ARQUIBANCADA · [[Posts/13566 - MENINO NA ARQUIBANCADA#^comentario-123072|#123072]]
+- [[Posts/13566 - MENINO NA ARQUIBANCADA|#13566]] - MENINO NA ARQUIBANCADA · [[Posts/13566 - MENINO NA ARQUIBANCADA#^comentario-128719|#128719]]
+- [[Posts/13573 - Salve São Januário|#13573]] - Salve São Januário · [[Posts/13573 - Salve São Januário#^comentario-94860|#94860]]
+- [[Posts/13573 - Salve São Januário|#13573]] - Salve São Januário · [[Posts/13573 - Salve São Januário#^comentario-94962|#94962]]
+- [[Posts/13578 - Meus 3 minutos de campeonato inglês|#13578]] - Meus 3 minutos de campeonato inglês
+- [[Posts/13585 - América-MG 1X1 Botafogo – Avacoelharam o espetáculo|#13585]] - América-MG 1X1 Botafogo – Avacoelharam o espetáculo · [[Posts/13585 - América-MG 1X1 Botafogo – Avacoelharam o espetáculo#^comentario-95160|#95160]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95012|#95012]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95013|#95013]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95015|#95015]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95016|#95016]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95019|#95019]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95027|#95027]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95029|#95029]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’ · [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’#^comentario-95033|#95033]]
+- [[Posts/13591 - Os verdadeiros ‘Davi contra Golias’|#13591]] - Os verdadeiros ‘Davi contra Golias’
+- [[Posts/13605 - As lições que a bola dá|#13605]] - As lições que a bola dá · [[Posts/13605 - As lições que a bola dá#^comentario-95178|#95178]]
+- [[Posts/13615 - O fim da Era FAILhel no Botafogo|#13615]] - O fim da Era #FAILhel no Botafogo · [[Posts/13615 - O fim da Era FAILhel no Botafogo#^comentario-95281|#95281]]
+- [[Posts/1363 - Memória x Esquecimento|#1363]] - Memória x Esquecimento · [[Posts/1363 - Memória x Esquecimento#^comentario-13871|#13871]]
+- [[Posts/13638 - Pega essa|#13638]] - Pega essa · [[Posts/13638 - Pega essa#^comentario-95470|#95470]]
+- [[Posts/13643 - Mais Um Aspecto|#13643]] - Mais Um Aspecto · [[Posts/13643 - Mais Um Aspecto#^comentario-95563|#95563]]
+- [[Posts/13649 - 1° Congresso Mundial Blablagoliano|#13649]] - 1° Congresso Mundial Blablagoliano · [[Posts/13649 - 1° Congresso Mundial Blablagoliano#^comentario-95562|#95562]]
+- [[Posts/13649 - 1° Congresso Mundial Blablagoliano|#13649]] - 1° Congresso Mundial Blablagoliano · [[Posts/13649 - 1° Congresso Mundial Blablagoliano#^comentario-95570|#95570]]
+- [[Posts/13649 - 1° Congresso Mundial Blablagoliano|#13649]] - 1° Congresso Mundial Blablagoliano · [[Posts/13649 - 1° Congresso Mundial Blablagoliano#^comentario-96650|#96650]]
+- [[Posts/13657 - Da Série ‘Ainda dizem’|#13657]] - Da Série ‘Ainda dizem’ · [[Posts/13657 - Da Série ‘Ainda dizem’#^comentario-95581|#95581]]
+- [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol|#13658]] - Cartola FC 2011: Liga Blá blá Gol · [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol#^comentario-96141|#96141]]
+- [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol|#13658]] - Cartola FC 2011: Liga Blá blá Gol · [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol#^comentario-96712|#96712]]
+- [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol|#13658]] - Cartola FC 2011: Liga Blá blá Gol · [[Posts/13658 - Cartola FC 2011 Liga Blá blá Gol#^comentario-97459|#97459]]
+- [[Posts/1366 - Nanopops das Camisas|#1366]] - Nanopops das Camisas · [[Posts/1366 - Nanopops das Camisas#^comentario-13901|#13901]]
+- [[Posts/1366 - Nanopops das Camisas|#1366]] - Nanopops das Camisas · [[Posts/1366 - Nanopops das Camisas#^comentario-13908|#13908]]
+- [[Posts/1366 - Nanopops das Camisas|#1366]] - Nanopops das Camisas · [[Posts/1366 - Nanopops das Camisas#^comentario-13927|#13927]]
+- [[Posts/1366 - Nanopops das Camisas|#1366]] - Nanopops das Camisas · [[Posts/1366 - Nanopops das Camisas#^comentario-13960|#13960]]
+- [[Posts/13668 - O passional ‘Me Engana Que eu Gosto’ de luxo. Flamengo 4×0 Avaí|#13668]] - O passional ‘Me Engana Que eu Gosto’ de luxo. Flamengo 4×0 Avaí
+- [[Posts/1367 - Botafogo lamentável. A vergonha do Rio|#1367]] - Botafogo lamentável. A vergonha do Rio
+- [[Posts/1368 - Situação Curiosa|#1368]] - Situação Curiosa · [[Posts/1368 - Situação Curiosa#^comentario-14020|#14020]]
+- [[Posts/1368 - Situação Curiosa|#1368]] - Situação Curiosa · [[Posts/1368 - Situação Curiosa#^comentario-14026|#14026]]
+- [[Posts/13681 - Deixem o Schumacher em paz|#13681]] - Deixem o Schumacher em paz · [[Posts/13681 - Deixem o Schumacher em paz#^comentario-95926|#95926]]
+- [[Posts/13694 - Todo Mundo Resolveu Jogar – Avaí 0×2 Vasco|#13694]] - Todo Mundo Resolveu Jogar – Avaí 0×2 Vasco · [[Posts/13694 - Todo Mundo Resolveu Jogar – Avaí 0×2 Vasco#^comentario-96116|#96116]]
+- [[Posts/1370 - Um pontinho para o fim do chororô|#1370]] - Um pontinho para o fim do chororô · [[Posts/1370 - Um pontinho para o fim do chororô#^comentario-14124|#14124]]
+- [[Posts/1370 - Um pontinho para o fim do chororô|#1370]] - Um pontinho para o fim do chororô · [[Posts/1370 - Um pontinho para o fim do chororô#^comentario-14196|#14196]]
+- [[Posts/1370 - Um pontinho para o fim do chororô|#1370]] - Um pontinho para o fim do chororô · [[Posts/1370 - Um pontinho para o fim do chororô#^comentario-14285|#14285]]
+- [[Posts/1370 - Um pontinho para o fim do chororô|#1370]] - Um pontinho para o fim do chororô · [[Posts/1370 - Um pontinho para o fim do chororô#^comentario-14289|#14289]]
+- [[Posts/1370 - Um pontinho para o fim do chororô|#1370]] - Um pontinho para o fim do chororô · [[Posts/1370 - Um pontinho para o fim do chororô#^comentario-14317|#14317]]
+- [[Posts/13706 - Êxtase – o gol do Pet|#13706]] - Êxtase – o gol do Pet · [[Posts/13706 - Êxtase – o gol do Pet#^comentario-96083|#96083]]
+- [[Posts/13710 - Porque o Coritiba não será um novo Avaí|#13710]] - Porque o Coritiba não será um novo Avaí
+- [[Posts/13718 - Botafogo 1X0 Santos – Procurando Neymo|#13718]] - Botafogo 1X0 Santos – Procurando Neymo · [[Posts/13718 - Botafogo 1X0 Santos – Procurando Neymo#^comentario-96192|#96192]]
+- [[Posts/1372 - Nada como uma areiazinha do deserto|#1372]] - Nada como uma areiazinha do deserto · [[Posts/1372 - Nada como uma areiazinha do deserto#^comentario-14194|#14194]]
+- [[Posts/1373 - Só o Flu contra a Dengue|#1373]] - Só o Flu contra a Dengue · [[Posts/1373 - Só o Flu contra a Dengue#^comentario-14260|#14260]]
+- [[Posts/1373 - Só o Flu contra a Dengue|#1373]] - Só o Flu contra a Dengue · [[Posts/1373 - Só o Flu contra a Dengue#^comentario-14323|#14323]]
+- [[Posts/13733 - Diga NÃO à homofobia!|#13733]] - Diga NÃO à homofobia! · [[Posts/13733 - Diga NÃO à homofobia!#^comentario-96197|#96197]]
+- [[Posts/13746 - Palmeiras lidera a Liga BBG Eugenia 2011|#13746]] - Palmeiras lidera a Liga BBG Eugenia 2011 · [[Posts/13746 - Palmeiras lidera a Liga BBG Eugenia 2011#^comentario-96335|#96335]]
+- [[Posts/13746 - Palmeiras lidera a Liga BBG Eugenia 2011|#13746]] - Palmeiras lidera a Liga BBG Eugenia 2011
+- [[Posts/13755 - Segunda rodada do Brasileirão 2011 – Tô contigo, Gilmar|#13755]] - Segunda rodada do Brasileirão 2011 – Tô contigo, Gilmar · [[Posts/13755 - Segunda rodada do Brasileirão 2011 – Tô contigo, Gilmar#^comentario-96337|#96337]]
+- [[Posts/13759 - Paulistinha ganha do Barcelona|#13759]] - Paulistinha ganha do Barcelona
+- [[Posts/1376 - Camisa do vice, literalmente|#1376]] - Camisa do vice, literalmente · [[Posts/1376 - Camisa do vice, literalmente#^comentario-14272|#14272]]
+- [[Posts/1376 - Camisa do vice, literalmente|#1376]] - Camisa do vice, literalmente · [[Posts/1376 - Camisa do vice, literalmente#^comentario-14322|#14322]]
+- [[Posts/1376 - Camisa do vice, literalmente|#1376]] - Camisa do vice, literalmente · [[Posts/1376 - Camisa do vice, literalmente#^comentario-14392|#14392]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96688|#96688]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96691|#96691]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96692|#96692]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96693|#96693]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96694|#96694]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96695|#96695]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96696|#96696]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96697|#96697]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96698|#96698]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96699|#96699]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96700|#96700]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96701|#96701]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96705|#96705]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96706|#96706]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96707|#96707]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96708|#96708]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96709|#96709]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96710|#96710]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta! · [[Posts/13790 - Quebra o filho da puta!#^comentario-96716|#96716]]
+- [[Posts/13790 - Quebra o filho da puta!|#13790]] - Quebra o filho da puta!
+- [[Posts/13798 - Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo ’ Junior, Jota. 2011|#13798]] - Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo?’ \[Junior, Jota. 2011\] · [[Posts/13798 - Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo ’ Junior, Jota. 2011#^comentario-96741|#96741]]
+- [[Posts/138 - Sábado|#138]] - Sábado
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14351|#14351]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14393|#14393]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14397|#14397]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14405|#14405]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14408|#14408]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14476|#14476]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo? · [[Posts/1380 - Não seria irresponsabilidade do Flamengo#^comentario-14595|#14595]]
+- [[Posts/1380 - Não seria irresponsabilidade do Flamengo|#1380]] - Não seria irresponsabilidade do Flamengo?
+- [[Posts/13804 - Ingresso na mão para a estreia do Pet no Brasileirão|#13804]] - Ingresso na mão para a estreia do Pet no Brasileirão · [[Posts/13804 - Ingresso na mão para a estreia do Pet no Brasileirão#^comentario-96765|#96765]]
+- [[Posts/13811 - RIP Rosinery|#13811]] - RIP Rosinery
+- [[Posts/13818 - A saga para ver o último ato do Pet|#13818]] - A saga para ver o último ato do Pet · [[Posts/13818 - A saga para ver o último ato do Pet#^comentario-96965|#96965]]
+- [[Posts/1382 - Dê férias para seus pés (em Abril)|#1382]] - Dê férias para seus pés (em Abril) · [[Posts/1382 - Dê férias para seus pés (em Abril)#^comentario-14481|#14481]]
+- [[Posts/1382 - Dê férias para seus pés (em Abril)|#1382]] - Dê férias para seus pés (em Abril) · [[Posts/1382 - Dê férias para seus pés (em Abril)#^comentario-14482|#14482]]
+- [[Posts/1382 - Dê férias para seus pés (em Abril)|#1382]] - Dê férias para seus pés (em Abril)
+- [[Posts/13828 - Despedidas de Ronaldo e Pet Profissionalismo na veia|#13828]] - Despedidas de Ronaldo e Pet: Profissionalismo na veia
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97019|#97019]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97023|#97023]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97024|#97024]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97025|#97025]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97026|#97026]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97027|#97027]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97029|#97029]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97030|#97030]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97034|#97034]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97037|#97037]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97042|#97042]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97050|#97050]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97051|#97051]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97055|#97055]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97058|#97058]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97059|#97059]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97060|#97060]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97062|#97062]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97064|#97064]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97065|#97065]]
+- [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2|#13837]] - Final da Copa do Brasil 2011 – Jogo 2 · [[Posts/13837 - Final da Copa do Brasil 2011 – Jogo 2#^comentario-97067|#97067]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14500|#14500]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14540|#14540]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14594|#14594]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14601|#14601]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14636|#14636]]
+- [[Posts/1384 - PABLO é a novidade no Vasco|#1384]] - PABLO é a novidade no Vasco. · [[Posts/1384 - PABLO é a novidade no Vasco#^comentario-14637|#14637]]
+- [[Posts/13845 - Vasco Campeão da Copa do Brasil 2011 – A maldição acabou|#13845]] - Vasco Campeão da Copa do Brasil 2011 – A maldição acabou. · [[Posts/13845 - Vasco Campeão da Copa do Brasil 2011 – A maldição acabou#^comentario-97094|#97094]]
+- [[Posts/13855 - VASCO!!!!|#13855]] - VASCO!!!! · [[Posts/13855 - VASCO!!!!#^comentario-97138|#97138]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14516|#14516]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14523|#14523]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14525|#14525]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14534|#14534]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14537|#14537]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14576|#14576]]
+- [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”|#1386]] - Da série “Uma imagem vale mais do que mil palavras” · [[Posts/1386 - Da série “Uma imagem vale mais do que mil palavras”#^comentario-14578|#14578]]
+- [[Posts/13863 - O Retorno do Rei – Sábado 21h em São Januário|#13863]] - O Retorno do Rei – Sábado 21h em São Januário · [[Posts/13863 - O Retorno do Rei – Sábado 21h em São Januário#^comentario-97458|#97458]]
+- [[Posts/13872 - MINEIRÃO ABRE A COPA|#13872]] - MINEIRÃO ABRE A COPA · [[Posts/13872 - MINEIRÃO ABRE A COPA#^comentario-97233|#97233]]
+- [[Posts/13872 - MINEIRÃO ABRE A COPA|#13872]] - MINEIRÃO ABRE A COPA · [[Posts/13872 - MINEIRÃO ABRE A COPA#^comentario-97234|#97234]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14580|#14580]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14581|#14581]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14588|#14588]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14590|#14590]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14599|#14599]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14640|#14640]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14641|#14641]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14646|#14646]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14705|#14705]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14709|#14709]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14710|#14710]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio · [[Posts/1388 - Semi-finais da Taça Rio#^comentario-14753|#14753]]
+- [[Posts/1388 - Semi-finais da Taça Rio|#1388]] - Semi-finais da Taça Rio
+- [[Posts/13886 - Palmeiras minha vida é você!|#13886]] - Palmeiras minha vida é você! · [[Posts/13886 - Palmeiras minha vida é você!#^comentario-97522|#97522]]
+- [[Posts/13888 - Um banquinho para Berna e a não-expulsão de Gum|#13888]] - Um banquinho para Berna e a não-expulsão de Gum
+- [[Posts/139 - Aha Uhul o Maraca é nosso!|#139]] - Aha Uhul o Maraca é nosso!
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14785|#14785]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14799|#14799]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14803|#14803]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14804|#14804]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14812|#14812]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-14814|#14814]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15008|#15008]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15023|#15023]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15044|#15044]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15286|#15286]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15347|#15347]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15520|#15520]]
+- [[Posts/1391 - Botafogo classificado|#1391]] - Botafogo classificado · [[Posts/1391 - Botafogo classificado#^comentario-15530|#15530]]
+- [[Posts/13911 - Botafogo 3X1 Coritiba – alguém cale, por favor!|#13911]] - Botafogo 3X1 Coritiba – alguém cale, por favor! · [[Posts/13911 - Botafogo 3X1 Coritiba – alguém cale, por favor!#^comentario-97642|#97642]]
+- [[Posts/1392 - Quem será o mandante da Final da Taça Rio|#1392]] - Quem será o mandante da Final da Taça Rio? · [[Posts/1392 - Quem será o mandante da Final da Taça Rio#^comentario-14875|#14875]]
+- [[Posts/1392 - Quem será o mandante da Final da Taça Rio|#1392]] - Quem será o mandante da Final da Taça Rio? · [[Posts/1392 - Quem será o mandante da Final da Taça Rio#^comentario-14881|#14881]]
+- [[Posts/1392 - Quem será o mandante da Final da Taça Rio|#1392]] - Quem será o mandante da Final da Taça Rio?
+- [[Posts/13935 - É o que temos para hoje|#13935]] - É o que temos para hoje · [[Posts/13935 - É o que temos para hoje#^comentario-97754|#97754]]
+- [[Posts/13935 - É o que temos para hoje|#13935]] - É o que temos para hoje · [[Posts/13935 - É o que temos para hoje#^comentario-97823|#97823]]
+- [[Posts/1394 - Pato aprendendo mais rápido que Kaká|#1394]] - Pato aprendendo mais rápido que Kaká
+- [[Posts/13944 - Aprende, Dunga|#13944]] - Aprende, Dunga · [[Posts/13944 - Aprende, Dunga#^comentario-97875|#97875]]
+- [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011|#13947]] - Peñarol X Santos – Finalíssima da Libertadores 2011 · [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011#^comentario-97870|#97870]]
+- [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011|#13947]] - Peñarol X Santos – Finalíssima da Libertadores 2011 · [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011#^comentario-97897|#97897]]
+- [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011|#13947]] - Peñarol X Santos – Finalíssima da Libertadores 2011 · [[Posts/13947 - Peñarol X Santos – Finalíssima da Libertadores 2011#^comentario-97918|#97918]]
+- [[Posts/1395 - CAMISAPOPS 2|#1395]] - CAMISAPOPS 2 · [[Posts/1395 - CAMISAPOPS 2#^comentario-15289|#15289]]
+- [[Posts/1395 - CAMISAPOPS 2|#1395]] - CAMISAPOPS 2 · [[Posts/1395 - CAMISAPOPS 2#^comentario-15303|#15303]]
+- [[Posts/1395 - CAMISAPOPS 2|#1395]] - CAMISAPOPS 2 · [[Posts/1395 - CAMISAPOPS 2#^comentario-15499|#15499]]
+- [[Posts/13953 - Uma greve incomoda muita gente|#13953]] - Uma greve incomoda muita gente · [[Posts/13953 - Uma greve incomoda muita gente#^comentario-97967|#97967]]
+- [[Posts/13960 - Pão, queijo e um ratinho fujão|#13960]] - Pão, queijo e um ratinho fujão · [[Posts/13960 - Pão, queijo e um ratinho fujão#^comentario-98051|#98051]]
+- [[Posts/13977 - Peñarol x Santos Seara Netshoes BMG FPF Umbro|#13977]] - Peñarol x Santos/Seara/Netshoes/BMG/FPF/Umbro · [[Posts/13977 - Peñarol x Santos Seara Netshoes BMG FPF Umbro#^comentario-98219|#98219]]
+- [[Posts/13977 - Peñarol x Santos Seara Netshoes BMG FPF Umbro|#13977]] - Peñarol x Santos/Seara/Netshoes/BMG/FPF/Umbro
+- [[Posts/1398 - Botafogo x Fluminense – Final da Taça Rio 2008 – Ingressos|#1398]] - Botafogo x Fluminense – Final da Taça Rio 2008 – Ingressos · [[Posts/1398 - Botafogo x Fluminense – Final da Taça Rio 2008 – Ingressos#^comentario-15448|#15448]]
+- [[Posts/13983 - Bolão Chefsfischer BBG BR2011 Antes tarde do que nunca|#13983]] - Bolão Chefsfischer BBG BR2011: Antes tarde do que nunca · [[Posts/13983 - Bolão Chefsfischer BBG BR2011 Antes tarde do que nunca#^comentario-98784|#98784]]
+- [[Posts/13983 - Bolão Chefsfischer BBG BR2011 Antes tarde do que nunca|#13983]] - Bolão Chefsfischer BBG BR2011: Antes tarde do que nunca
+- [[Posts/1399 - Jogos de ontem - Libertadores e Copa do Brasil|#1399]] - Jogos de ontem - Libertadores e Copa do Brasil · [[Posts/1399 - Jogos de ontem - Libertadores e Copa do Brasil#^comentario-15302|#15302]]
+- [[Posts/1399 - Jogos de ontem - Libertadores e Copa do Brasil|#1399]] - Jogos de ontem - Libertadores e Copa do Brasil · [[Posts/1399 - Jogos de ontem - Libertadores e Copa do Brasil#^comentario-15397|#15397]]
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada · [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada#^comentario-99164|#99164]]
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada · [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada#^comentario-99253|#99253]]
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada · [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada#^comentario-99256|#99256]]
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada · [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada#^comentario-99286|#99286]]
+- [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada|#13994]] - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada · [[Posts/13994 - Bolão Chef’s Fischer BBG BR2011 – 6ª rodada#^comentario-99316|#99316]]
+- [[Posts/13999 - Censo Blá blá Gol 2011|#13999]] - Censo Blá blá Gol 2011 · [[Posts/13999 - Censo Blá blá Gol 2011#^comentario-98235|#98235]]
+- [[Posts/14 - Copa do Mundo x Brasileirão|#14]] - Copa do Mundo x Brasileirão
+- [[Posts/140 - A estréia do Fenômeno|#140]] - A estréia do Fenômeno
+- [[Posts/1401 - Campanha por um apelido menos ridículo|#1401]] - Campanha por um apelido menos ridículo · [[Posts/1401 - Campanha por um apelido menos ridículo#^comentario-15318|#15318]]
+- [[Posts/1401 - Campanha por um apelido menos ridículo|#1401]] - Campanha por um apelido menos ridículo · [[Posts/1401 - Campanha por um apelido menos ridículo#^comentario-15350|#15350]]
+- [[Posts/1401 - Campanha por um apelido menos ridículo|#1401]] - Campanha por um apelido menos ridículo · [[Posts/1401 - Campanha por um apelido menos ridículo#^comentario-15391|#15391]]
+- [[Posts/1401 - Campanha por um apelido menos ridículo|#1401]] - Campanha por um apelido menos ridículo · [[Posts/1401 - Campanha por um apelido menos ridículo#^comentario-15470|#15470]]
+- [[Posts/1401 - Campanha por um apelido menos ridículo|#1401]] - Campanha por um apelido menos ridículo · [[Posts/1401 - Campanha por um apelido menos ridículo#^comentario-15480|#15480]]
+- [[Posts/14016 - Botafogo 0X0 framengo – empate sem-vergonha|#14016]] - Botafogo 0X0 framengo – empate sem-vergonha · [[Posts/14016 - Botafogo 0X0 framengo – empate sem-vergonha#^comentario-98314|#98314]]
+- [[Posts/14018 - Vaias para Ronaldinho Gaúcho|#14018]] - Vaias para Ronaldinho Gaúcho
+- [[Posts/14022 - Palmeiras 5 x 0 Avaí|#14022]] - Palmeiras 5 x 0 Avaí · [[Posts/14022 - Palmeiras 5 x 0 Avaí#^comentario-98341|#98341]]
+- [[Posts/14043 - O fim da era “Vai vendo…”|#14043]] - O fim da era “Vai vendo…” · [[Posts/14043 - O fim da era “Vai vendo…”#^comentario-98454|#98454]]
+- [[Posts/1406 - Torcedor “ilustre”|#1406]] - Torcedor “ilustre” · [[Posts/1406 - Torcedor “ilustre”#^comentario-15457|#15457]]
+- [[Posts/1406 - Torcedor “ilustre”|#1406]] - Torcedor “ilustre” · [[Posts/1406 - Torcedor “ilustre”#^comentario-15458|#15458]]
+- [[Posts/1406 - Torcedor “ilustre”|#1406]] - Torcedor “ilustre” · [[Posts/1406 - Torcedor “ilustre”#^comentario-15461|#15461]]
+- [[Posts/1406 - Torcedor “ilustre”|#1406]] - Torcedor “ilustre” · [[Posts/1406 - Torcedor “ilustre”#^comentario-15465|#15465]]
+- [[Posts/1406 - Torcedor “ilustre”|#1406]] - Torcedor “ilustre” · [[Posts/1406 - Torcedor “ilustre”#^comentario-15482|#15482]]
+- [[Posts/14067 - Você viu os Pontos Corridos por aí|#14067]] - Você viu os Pontos Corridos por aí?
+- [[Posts/1408 - Raio-X Flu x Bota|#1408]] - Raio-X: Flu x Bota · [[Posts/1408 - Raio-X Flu x Bota#^comentario-15497|#15497]]
+- [[Posts/14087 - Santos Campeão da Libertadores 2011 – O melhor técnico da América|#14087]] - Santos Campeão da Libertadores 2011 – O melhor técnico da América · [[Posts/14087 - Santos Campeão da Libertadores 2011 – O melhor técnico da América#^comentario-98907|#98907]]
+- [[Posts/14087 - Santos Campeão da Libertadores 2011 – O melhor técnico da América|#14087]] - Santos Campeão da Libertadores 2011 – O melhor técnico da América
+- [[Posts/14095 - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011|#14095]] - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011 · [[Posts/14095 - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011#^comentario-99026|#99026]]
+- [[Posts/14095 - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011|#14095]] - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011 · [[Posts/14095 - A Farsa da ‘Violência Uruguaia’ na final da Libertadores 2011#^comentario-99028|#99028]]
+- [[Posts/14113 - Botafogo 2X1 Grêmio – reservas mostram a que vieram|#14113]] - Botafogo 2X1 Grêmio – reservas mostram a que vieram · [[Posts/14113 - Botafogo 2X1 Grêmio – reservas mostram a que vieram#^comentario-99300|#99300]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15787|#15787]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15849|#15849]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15850|#15850]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15873|#15873]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15904|#15904]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15944|#15944]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-15997|#15997]]
+- [[Posts/1414 - Passou o Fogão|#1414]] - Passou o Fogão · [[Posts/1414 - Passou o Fogão#^comentario-16163|#16163]]
+- [[Posts/1416 - Eu ganho, nós empatamos, eles perdem|#1416]] - Eu ganho, nós empatamos, eles perdem · [[Posts/1416 - Eu ganho, nós empatamos, eles perdem#^comentario-15876|#15876]]
+- [[Posts/1416 - Eu ganho, nós empatamos, eles perdem|#1416]] - Eu ganho, nós empatamos, eles perdem · [[Posts/1416 - Eu ganho, nós empatamos, eles perdem#^comentario-15903|#15903]]
+- [[Posts/1416 - Eu ganho, nós empatamos, eles perdem|#1416]] - Eu ganho, nós empatamos, eles perdem · [[Posts/1416 - Eu ganho, nós empatamos, eles perdem#^comentario-15998|#15998]]
+- [[Posts/1416 - Eu ganho, nós empatamos, eles perdem|#1416]] - Eu ganho, nós empatamos, eles perdem · [[Posts/1416 - Eu ganho, nós empatamos, eles perdem#^comentario-16016|#16016]]
+- [[Posts/1416 - Eu ganho, nós empatamos, eles perdem|#1416]] - Eu ganho, nós empatamos, eles perdem
+- [[Posts/1417 - Joel vai largar o barco|#1417]] - Joel vai largar o barco · [[Posts/1417 - Joel vai largar o barco#^comentario-15905|#15905]]
+- [[Posts/1417 - Joel vai largar o barco|#1417]] - Joel vai largar o barco · [[Posts/1417 - Joel vai largar o barco#^comentario-16050|#16050]]
+- [[Posts/1417 - Joel vai largar o barco|#1417]] - Joel vai largar o barco · [[Posts/1417 - Joel vai largar o barco#^comentario-16167|#16167]]
+- [[Posts/1417 - Joel vai largar o barco|#1417]] - Joel vai largar o barco · [[Posts/1417 - Joel vai largar o barco#^comentario-16168|#16168]]
+- [[Posts/1417 - Joel vai largar o barco|#1417]] - Joel vai largar o barco · [[Posts/1417 - Joel vai largar o barco#^comentario-16253|#16253]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16203|#16203]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16205|#16205]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16325|#16325]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16329|#16329]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16338|#16338]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16339|#16339]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16423|#16423]]
+- [[Posts/1419 - Libertadores definidas as oitavas|#1419]] - Libertadores: definidas as oitavas · [[Posts/1419 - Libertadores definidas as oitavas#^comentario-16432|#16432]]
+- [[Posts/14191 - Partida de Santos Seara é adiada por jogos do Brasil Seara|#14191]] - Partida de Santos/Seara é adiada por jogos do Brasil/Seara
+- [[Posts/14192 - Papai Joel, o estrelado|#14192]] - Papai Joel, o estrelado · [[Posts/14192 - Papai Joel, o estrelado#^comentario-99456|#99456]]
+- [[Posts/142 - Romário e mais 10|#142]] - Romário e mais 10
+- [[Posts/14203 - FIM DE SEMANA HISTÓRICO|#14203]] - FIM DE SEMANA HISTÓRICO · [[Posts/14203 - FIM DE SEMANA HISTÓRICO#^comentario-99496|#99496]]
+- [[Posts/14203 - FIM DE SEMANA HISTÓRICO|#14203]] - FIM DE SEMANA HISTÓRICO · [[Posts/14203 - FIM DE SEMANA HISTÓRICO#^comentario-99604|#99604]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16272|#16272]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16324|#16324]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16342|#16342]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16429|#16429]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16439|#16439]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16463|#16463]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16493|#16493]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16619|#16619]]
+- [[Posts/1421 - Reforço|#1421]] - Reforço? · [[Posts/1421 - Reforço#^comentario-16620|#16620]]
+- [[Posts/14235 - Blá Blá Gol no Penalty é Gol|#14235]] - Blá Blá Gol no Penalty é Gol · [[Posts/14235 - Blá Blá Gol no Penalty é Gol#^comentario-99623|#99623]]
+- [[Posts/14235 - Blá Blá Gol no Penalty é Gol|#14235]] - Blá Blá Gol no Penalty é Gol · [[Posts/14235 - Blá Blá Gol no Penalty é Gol#^comentario-99661|#99661]]
+- [[Posts/1425 - Bye, bye, Cerveja|#1425]] - Bye, bye, Cerveja · [[Posts/1425 - Bye, bye, Cerveja#^comentario-16526|#16526]]
+- [[Posts/1425 - Bye, bye, Cerveja|#1425]] - Bye, bye, Cerveja
+- [[Posts/1426 - Bye, bye, torcedor do Palmeiras|#1426]] - Bye, bye, torcedor do Palmeiras · [[Posts/1426 - Bye, bye, torcedor do Palmeiras#^comentario-16556|#16556]]
+- [[Posts/1426 - Bye, bye, torcedor do Palmeiras|#1426]] - Bye, bye, torcedor do Palmeiras · [[Posts/1426 - Bye, bye, torcedor do Palmeiras#^comentario-16595|#16595]]
+- [[Posts/1426 - Bye, bye, torcedor do Palmeiras|#1426]] - Bye, bye, torcedor do Palmeiras
+- [[Posts/1427 - Barcelona chata. Mas com bom sinais|#1427]] - Barcelona chata. Mas com bom sinais · [[Posts/1427 - Barcelona chata. Mas com bom sinais#^comentario-16524|#16524]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16592|#16592]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16638|#16638]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16653|#16653]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16742|#16742]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16769|#16769]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16812|#16812]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16825|#16825]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16828|#16828]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida · [[Posts/1428 - Derrota merecida#^comentario-16843|#16843]]
+- [[Posts/1428 - Derrota merecida|#1428]] - Derrota merecida
+- [[Posts/14299 - Copa América 2011 – dia 3|#14299]] - Copa América 2011 – dia 3 · [[Posts/14299 - Copa América 2011 – dia 3#^comentario-99986|#99986]]
+- [[Posts/14299 - Copa América 2011 – dia 3|#14299]] - Copa América 2011 – dia 3 · [[Posts/14299 - Copa América 2011 – dia 3#^comentario-99999|#99999]]
+- [[Posts/14299 - Copa América 2011 – dia 3|#14299]] - Copa América 2011 – dia 3 · [[Posts/14299 - Copa América 2011 – dia 3#^comentario-100000|#100000]]
+- [[Posts/14299 - Copa América 2011 – dia 3|#14299]] - Copa América 2011 – dia 3 · [[Posts/14299 - Copa América 2011 – dia 3#^comentario-100970|#100970]]
+- [[Posts/14299 - Copa América 2011 – dia 3|#14299]] - Copa América 2011 – dia 3
+- [[Posts/143 - I Encontro Blá blá Gol (2)|#143]] - I Encontro Blá blá Gol (2)
+- [[Posts/1432 - Vantagem mínima|#1432]] - Vantagem mínima · [[Posts/1432 - Vantagem mínima#^comentario-16604|#16604]]
+- [[Posts/1432 - Vantagem mínima|#1432]] - Vantagem mínima · [[Posts/1432 - Vantagem mínima#^comentario-16622|#16622]]
+- [[Posts/1432 - Vantagem mínima|#1432]] - Vantagem mínima · [[Posts/1432 - Vantagem mínima#^comentario-16652|#16652]]
+- [[Posts/14322 - Bolão Chef’s Fischer BBG BR2011 – 8ª rodada|#14322]] - Bolão Chef’s Fischer BBG BR2011 – 8ª rodada · [[Posts/14322 - Bolão Chef’s Fischer BBG BR2011 – 8ª rodada#^comentario-100184|#100184]]
+- [[Posts/14322 - Bolão Chef’s Fischer BBG BR2011 – 8ª rodada|#14322]] - Bolão Chef’s Fischer BBG BR2011 – 8ª rodada
+- [[Posts/14329 - Copa América 2011 – Dia 04|#14329]] - Copa América 2011 – Dia 04 · [[Posts/14329 - Copa América 2011 – Dia 04#^comentario-100058|#100058]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16631|#16631]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16633|#16633]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16641|#16641]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16705|#16705]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16706|#16706]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16712|#16712]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16856|#16856]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16866|#16866]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-16868|#16868]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-17086|#17086]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti · [[Posts/1434 - Ronaldo e o Travesti#^comentario-17917|#17917]]
+- [[Posts/1434 - Ronaldo e o Travesti|#1434]] - Ronaldo e o Travesti
+- [[Posts/14342 - Ao ataque e avante|#14342]] - Ao ataque e avante · [[Posts/14342 - Ao ataque e avante#^comentario-100295|#100295]]
+- [[Posts/14365 - Atrás de todo jornalista tem um pretenso consultor|#14365]] - Atrás de todo jornalista tem um pretenso consultor
+- [[Posts/14366 - Ninguém perguntou minha opinião|#14366]] - Ninguém perguntou minha opinião
+- [[Posts/14369 - América-MG 1 x 1 Palmeiras (Teria sido melhor ir ver o Pelé)|#14369]] - América-MG 1 x 1 Palmeiras (Teria sido melhor ir ver o Pelé) · [[Posts/14369 - América-MG 1 x 1 Palmeiras (Teria sido melhor ir ver o Pelé)#^comentario-100456|#100456]]
+- [[Posts/1437 - Créu|#1437]] - Créu · [[Posts/1437 - Créu#^comentario-16756|#16756]]
+- [[Posts/1437 - Créu|#1437]] - Créu · [[Posts/1437 - Créu#^comentario-16767|#16767]]
+- [[Posts/1437 - Créu|#1437]] - Créu · [[Posts/1437 - Créu#^comentario-16773|#16773]]
+- [[Posts/1437 - Créu|#1437]] - Créu · [[Posts/1437 - Créu#^comentario-16816|#16816]]
+- [[Posts/1437 - Créu|#1437]] - Créu
+- [[Posts/1439 - Solução para o Ronaldo|#1439]] - Solução para o Ronaldo · [[Posts/1439 - Solução para o Ronaldo#^comentario-16817|#16817]]
+- [[Posts/1439 - Solução para o Ronaldo|#1439]] - Solução para o Ronaldo · [[Posts/1439 - Solução para o Ronaldo#^comentario-17337|#17337]]
+- [[Posts/14401 - Amanhã tem Flu x Fla no Engenhão|#14401]] - Amanhã tem Flu x Fla no Engenhão
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16830|#16830]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16849|#16849]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16851|#16851]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16937|#16937]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16942|#16942]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-16971|#16971]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-17120|#17120]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-17153|#17153]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-17201|#17201]]
+- [[Posts/1441 - Voltando ao que interessa|#1441]] - Voltando ao que interessa · [[Posts/1441 - Voltando ao que interessa#^comentario-17202|#17202]]
+- [[Posts/14412 - Bahia 1X1 Botafogo – O Cúmulo da Mística|#14412]] - Bahia 1X1 Botafogo – O Cúmulo da Mística · [[Posts/14412 - Bahia 1X1 Botafogo – O Cúmulo da Mística#^comentario-100621|#100621]]
+- [[Posts/1444 - De Ronaldo para André(ia) – Menina de Tromba|#1444]] - De Ronaldo para André(ia) – Menina de Tromba · [[Posts/1444 - De Ronaldo para André(ia) – Menina de Tromba#^comentario-17195|#17195]]
+- [[Posts/1444 - De Ronaldo para André(ia) – Menina de Tromba|#1444]] - De Ronaldo para André(ia) – Menina de Tromba
+- [[Posts/1445 - See You In Moscow!!!|#1445]] - See You In Moscow!!! · [[Posts/1445 - See You In Moscow!!!#^comentario-17066|#17066]]
+- [[Posts/1445 - See You In Moscow!!!|#1445]] - See You In Moscow!!! · [[Posts/1445 - See You In Moscow!!!#^comentario-17074|#17074]]
+- [[Posts/1445 - See You In Moscow!!!|#1445]] - See You In Moscow!!! · [[Posts/1445 - See You In Moscow!!!#^comentario-17076|#17076]]
+- [[Posts/14464 - Botafoguenses não roubam nem furtam|#14464]] - Botafoguenses não roubam nem furtam
+- [[Posts/14468 - Bolão Chef’s Fischer BBG BR2011 – 10ª rodada|#14468]] - Bolão Chef’s Fischer BBG BR2011 – 10ª rodada · [[Posts/14468 - Bolão Chef’s Fischer BBG BR2011 – 10ª rodada#^comentario-101133|#101133]]
+- [[Posts/1447 - Já ganhou…|#1447]] - Já ganhou… · [[Posts/1447 - Já ganhou…#^comentario-17343|#17343]]
+- [[Posts/1447 - Já ganhou…|#1447]] - Já ganhou… · [[Posts/1447 - Já ganhou…#^comentario-17429|#17429]]
+- [[Posts/1447 - Já ganhou…|#1447]] - Já ganhou… · [[Posts/1447 - Já ganhou…#^comentario-17430|#17430]]
+- [[Posts/1447 - Já ganhou…|#1447]] - Já ganhou… · [[Posts/1447 - Já ganhou…#^comentario-17436|#17436]]
+- [[Posts/1447 - Já ganhou…|#1447]] - Já ganhou… · [[Posts/1447 - Já ganhou…#^comentario-17523|#17523]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17440|#17440]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17474|#17474]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17487|#17487]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17495|#17495]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17517|#17517]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17525|#17525]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17534|#17534]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17592|#17592]]
+- [[Posts/1451 - Supremacia Rubro-Negra|#1451]] - Supremacia Rubro-Negra · [[Posts/1451 - Supremacia Rubro-Negra#^comentario-17628|#17628]]
+- [[Posts/14518 - A transmissão Globoesportiana da Copa América broxante|#14518]] - A transmissão Globoesportiana da Copa América: broxante
+- [[Posts/14529 - Entrega Palmeiras!|#14529]] - Entrega Palmeiras! · [[Posts/14529 - Entrega Palmeiras!#^comentario-101721|#101721]]
+- [[Posts/14529 - Entrega Palmeiras!|#14529]] - Entrega Palmeiras! · [[Posts/14529 - Entrega Palmeiras!#^comentario-101723|#101723]]
+- [[Posts/14529 - Entrega Palmeiras!|#14529]] - Entrega Palmeiras! · [[Posts/14529 - Entrega Palmeiras!#^comentario-101776|#101776]]
+- [[Posts/14529 - Entrega Palmeiras!|#14529]] - Entrega Palmeiras! · [[Posts/14529 - Entrega Palmeiras!#^comentario-101800|#101800]]
+- [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa|#14534]] - Paraguai x Venezuela: Resultado é o que importa · [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa#^comentario-101695|#101695]]
+- [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa|#14534]] - Paraguai x Venezuela: Resultado é o que importa · [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa#^comentario-101697|#101697]]
+- [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa|#14534]] - Paraguai x Venezuela: Resultado é o que importa · [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa#^comentario-101709|#101709]]
+- [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa|#14534]] - Paraguai x Venezuela: Resultado é o que importa · [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa#^comentario-101714|#101714]]
+- [[Posts/14534 - Paraguai x Venezuela Resultado é o que importa|#14534]] - Paraguai x Venezuela: Resultado é o que importa
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008 · [[Posts/1454 - Melhores do Campeonato Carioca 2008#^comentario-17526|#17526]]
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008 · [[Posts/1454 - Melhores do Campeonato Carioca 2008#^comentario-17537|#17537]]
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008 · [[Posts/1454 - Melhores do Campeonato Carioca 2008#^comentario-17557|#17557]]
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008 · [[Posts/1454 - Melhores do Campeonato Carioca 2008#^comentario-17894|#17894]]
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008 · [[Posts/1454 - Melhores do Campeonato Carioca 2008#^comentario-17913|#17913]]
+- [[Posts/1454 - Melhores do Campeonato Carioca 2008|#1454]] - Melhores do Campeonato Carioca 2008
+- [[Posts/14540 - Feliz Dia do Amigo BBG TeamRingo 2011|#14540]] - Feliz Dia do Amigo BBG TeamRingo 2011
+- [[Posts/1456 - Botafogo começa mal no Brasileiro|#1456]] - Botafogo começa mal no Brasileiro · [[Posts/1456 - Botafogo começa mal no Brasileiro#^comentario-17532|#17532]]
+- [[Posts/1456 - Botafogo começa mal no Brasileiro|#1456]] - Botafogo começa mal no Brasileiro · [[Posts/1456 - Botafogo começa mal no Brasileiro#^comentario-17533|#17533]]
+- [[Posts/1457 - Flamengo rompe com a Nike|#1457]] - Flamengo rompe com a Nike · [[Posts/1457 - Flamengo rompe com a Nike#^comentario-17550|#17550]]
+- [[Posts/1457 - Flamengo rompe com a Nike|#1457]] - Flamengo rompe com a Nike · [[Posts/1457 - Flamengo rompe com a Nike#^comentario-22632|#22632]]
+- [[Posts/14571 - Hábitos de Consumo do Torcedor Brasileiro Pesquisa para Dissertação|#14571]] - Hábitos de Consumo do Torcedor Brasileiro: Pesquisa para Dissertação
+- [[Posts/1458 - Um teste para todas as torcidas|#1458]] - Um teste para todas as torcidas · [[Posts/1458 - Um teste para todas as torcidas#^comentario-17552|#17552]]
+- [[Posts/1458 - Um teste para todas as torcidas|#1458]] - Um teste para todas as torcidas · [[Posts/1458 - Um teste para todas as torcidas#^comentario-17636|#17636]]
+- [[Posts/14586 - Uruguai x Paraguai o embate de estilos|#14586]] - Uruguai x Paraguai: o embate de estilos · [[Posts/14586 - Uruguai x Paraguai o embate de estilos#^comentario-101990|#101990]]
+- [[Posts/14586 - Uruguai x Paraguai o embate de estilos|#14586]] - Uruguai x Paraguai: o embate de estilos · [[Posts/14586 - Uruguai x Paraguai o embate de estilos#^comentario-101996|#101996]]
+- [[Posts/14586 - Uruguai x Paraguai o embate de estilos|#14586]] - Uruguai x Paraguai: o embate de estilos · [[Posts/14586 - Uruguai x Paraguai o embate de estilos#^comentario-102023|#102023]]
+- [[Posts/14586 - Uruguai x Paraguai o embate de estilos|#14586]] - Uruguai x Paraguai: o embate de estilos · [[Posts/14586 - Uruguai x Paraguai o embate de estilos#^comentario-102156|#102156]]
+- [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista|#14597]] - #FORARICARDOTEIXEIRA: Um movimento golpista · [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista#^comentario-102750|#102750]]
+- [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista|#14597]] - #FORARICARDOTEIXEIRA: Um movimento golpista · [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista#^comentario-102834|#102834]]
+- [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista|#14597]] - #FORARICARDOTEIXEIRA: Um movimento golpista · [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista#^comentario-105499|#105499]]
+- [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista|#14597]] - #FORARICARDOTEIXEIRA: Um movimento golpista · [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista#^comentario-181006|#181006]]
+- [[Posts/14597 - FORARICARDOTEIXEIRA Um movimento golpista|#14597]] - #FORARICARDOTEIXEIRA: Um movimento golpista
+- [[Posts/1460 - Vai passar. Mas enquanto isso…|#1460]] - Vai passar. Mas enquanto isso… · [[Posts/1460 - Vai passar. Mas enquanto isso…#^comentario-17602|#17602]]
+- [[Posts/1461 - Uma pena, Cruzeiro|#1461]] - Uma pena, Cruzeiro
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17728|#17728]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17731|#17731]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17750|#17750]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17760|#17760]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17761|#17761]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17768|#17768]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17770|#17770]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17782|#17782]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17784|#17784]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo) · [[Posts/1462 - Que frieza, América (Maracanazo)#^comentario-17786|#17786]]
+- [[Posts/1462 - Que frieza, América (Maracanazo)|#1462]] - Que frieza, América (Maracanazo)
+- [[Posts/14637 - Atlético-MG 1×0 Fluminense como é fácil meter gol em time do Dorival|#14637]] - Atlético-MG 1×0 Fluminense: como é fácil meter gol em time do Dorival
+- [[Posts/14645 - Santos 4 x 5 Flamengo – HISTÓRICO|#14645]] - Santos 4 x 5 Flamengo – HISTÓRICO · [[Posts/14645 - Santos 4 x 5 Flamengo – HISTÓRICO#^comentario-102494|#102494]]
+- [[Posts/14645 - Santos 4 x 5 Flamengo – HISTÓRICO|#14645]] - Santos 4 x 5 Flamengo – HISTÓRICO · [[Posts/14645 - Santos 4 x 5 Flamengo – HISTÓRICO#^comentario-102602|#102602]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17797|#17797]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17800|#17800]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17875|#17875]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17877|#17877]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17878|#17878]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17881|#17881]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17882|#17882]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17887|#17887]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17895|#17895]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17909|#17909]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-17947|#17947]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18056|#18056]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18064|#18064]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18085|#18085]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18091|#18091]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18095|#18095]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18107|#18107]]
+- [[Posts/1465 - Flamengo patético, ridículo e irritante|#1465]] - Flamengo patético, ridículo e irritante. · [[Posts/1465 - Flamengo patético, ridículo e irritante#^comentario-18330|#18330]]
+- [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada|#14655]] - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada · [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada#^comentario-102628|#102628]]
+- [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada|#14655]] - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada · [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada#^comentario-102759|#102759]]
+- [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada|#14655]] - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada · [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada#^comentario-102764|#102764]]
+- [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada|#14655]] - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada · [[Posts/14655 - Bolão Chef’s Fischer BBG BR2011 – 13ª rodada#^comentario-102852|#102852]]
+- [[Posts/14661 - Futebol brasileiro teu caminho é esse|#14661]] - Futebol brasileiro: teu caminho é esse · [[Posts/14661 - Futebol brasileiro teu caminho é esse#^comentario-102669|#102669]]
+- [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso|#14666]] - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso · [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso#^comentario-102771|#102771]]
+- [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso|#14666]] - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso · [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso#^comentario-102777|#102777]]
+- [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso|#14666]] - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso · [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso#^comentario-102786|#102786]]
+- [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso|#14666]] - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso · [[Posts/14666 - Cruzeiro 0X1 Botafogo – Enfim, começa o Brasileirão 2011 para o Glorioso#^comentario-102810|#102810]]
+- [[Posts/1467 - Tem Bolão do Brasileirão|#1467]] - Tem Bolão do Brasileirão
+- [[Posts/14675 - Se Ronaldinho e Thiago Neves jogassem sempre assim…|#14675]] - Se Ronaldinho e Thiago Neves jogassem sempre assim…
+- [[Posts/1468 - Brasileirão 2008 - Brincando de Mãe Dinah|#1468]] - Brasileirão 2008 - Brincando de Mãe Dinah · [[Posts/1468 - Brasileirão 2008 - Brincando de Mãe Dinah#^comentario-17932|#17932]]
+- [[Posts/1468 - Brasileirão 2008 - Brincando de Mãe Dinah|#1468]] - Brasileirão 2008 - Brincando de Mãe Dinah · [[Posts/1468 - Brasileirão 2008 - Brincando de Mãe Dinah#^comentario-17957|#17957]]
+- [[Posts/1469 - Nova sinalização para o GP da Turquia|#1469]] - Nova sinalização para o GP da Turquia · [[Posts/1469 - Nova sinalização para o GP da Turquia#^comentario-17954|#17954]]
+- [[Posts/1469 - Nova sinalização para o GP da Turquia|#1469]] - Nova sinalização para o GP da Turquia · [[Posts/1469 - Nova sinalização para o GP da Turquia#^comentario-18087|#18087]]
+- [[Posts/1469 - Nova sinalização para o GP da Turquia|#1469]] - Nova sinalização para o GP da Turquia
+- [[Posts/14702 - Esqueça a regularidade. Some pontos|#14702]] - Esqueça a regularidade. Some pontos
+- [[Posts/14706 - Marketing tricolor para crianças|#14706]] - Marketing tricolor para crianças
+- [[Posts/1471 - Na Turquia, só dá ele…|#1471]] - Na Turquia, só dá ele… · [[Posts/1471 - Na Turquia, só dá ele…#^comentario-17982|#17982]]
+- [[Posts/1471 - Na Turquia, só dá ele…|#1471]] - Na Turquia, só dá ele… · [[Posts/1471 - Na Turquia, só dá ele…#^comentario-17985|#17985]]
+- [[Posts/1471 - Na Turquia, só dá ele…|#1471]] - Na Turquia, só dá ele… · [[Posts/1471 - Na Turquia, só dá ele…#^comentario-18075|#18075]]
+- [[Posts/1471 - Na Turquia, só dá ele…|#1471]] - Na Turquia, só dá ele… · [[Posts/1471 - Na Turquia, só dá ele…#^comentario-18143|#18143]]
+- [[Posts/1471 - Na Turquia, só dá ele…|#1471]] - Na Turquia, só dá ele… · [[Posts/1471 - Na Turquia, só dá ele…#^comentario-18166|#18166]]
+- [[Posts/14719 - Uma singela pesquisa de opinião cruzeirense|#14719]] - Uma singela pesquisa de opinião cruzeirense
+- [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube|#1472]] - Decepção da 1ª Rodada - Premiere Futebol Clube · [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube#^comentario-17983|#17983]]
+- [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube|#1472]] - Decepção da 1ª Rodada - Premiere Futebol Clube · [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube#^comentario-18004|#18004]]
+- [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube|#1472]] - Decepção da 1ª Rodada - Premiere Futebol Clube · [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube#^comentario-18023|#18023]]
+- [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube|#1472]] - Decepção da 1ª Rodada - Premiere Futebol Clube · [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube#^comentario-18065|#18065]]
+- [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube|#1472]] - Decepção da 1ª Rodada - Premiere Futebol Clube · [[Posts/1472 - Decepção da 1ª Rodada - Premiere Futebol Clube#^comentario-18066|#18066]]
+- [[Posts/14748 - Figueirense 2X0 Botafogo – Economizei!|#14748]] - Figueirense 2X0 Botafogo – Economizei! · [[Posts/14748 - Figueirense 2X0 Botafogo – Economizei!#^comentario-103096|#103096]]
+- [[Posts/1476 - O Mundo dá voltas|#1476]] - O Mundo dá voltas · [[Posts/1476 - O Mundo dá voltas#^comentario-18122|#18122]]
+- [[Posts/1476 - O Mundo dá voltas|#1476]] - O Mundo dá voltas · [[Posts/1476 - O Mundo dá voltas#^comentario-18146|#18146]]
+- [[Posts/1476 - O Mundo dá voltas|#1476]] - O Mundo dá voltas · [[Posts/1476 - O Mundo dá voltas#^comentario-18168|#18168]]
+- [[Posts/1476 - O Mundo dá voltas|#1476]] - O Mundo dá voltas · [[Posts/1476 - O Mundo dá voltas#^comentario-18181|#18181]]
+- [[Posts/1476 - O Mundo dá voltas|#1476]] - O Mundo dá voltas
+- [[Posts/14768 - O horário do caipisake|#14768]] - O horário do caipisake
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18124|#18124]]
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18147|#18147]]
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18148|#18148]]
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18165|#18165]]
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18179|#18179]]
+- [[Posts/1477 - Botafogo sai na frente. De novo|#1477]] - Botafogo sai na frente. De novo. · [[Posts/1477 - Botafogo sai na frente. De novo#^comentario-18212|#18212]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103392|#103392]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103440|#103440]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103442|#103442]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103446|#103446]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103447|#103447]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103449|#103449]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103452|#103452]]
+- [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada|#14779]] - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada · [[Posts/14779 - Bolão Chef’s Fischer BBG BR2011 – 15ª rodada#^comentario-103461|#103461]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18232|#18232]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18242|#18242]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18269|#18269]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18270|#18270]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18272|#18272]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18273|#18273]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18310|#18310]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18325|#18325]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18385|#18385]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18400|#18400]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine · [[Posts/1479 - Fifty One – Fourty Nine#^comentario-18444|#18444]]
+- [[Posts/1479 - Fifty One – Fourty Nine|#1479]] - Fifty One – Fourty Nine
+- [[Posts/1480 - Pachecão tricolor em ação|#1480]] - Pachecão tricolor em ação · [[Posts/1480 - Pachecão tricolor em ação#^comentario-18342|#18342]]
+- [[Posts/1480 - Pachecão tricolor em ação|#1480]] - Pachecão tricolor em ação · [[Posts/1480 - Pachecão tricolor em ação#^comentario-18393|#18393]]
+- [[Posts/1480 - Pachecão tricolor em ação|#1480]] - Pachecão tricolor em ação · [[Posts/1480 - Pachecão tricolor em ação#^comentario-18394|#18394]]
+- [[Posts/1480 - Pachecão tricolor em ação|#1480]] - Pachecão tricolor em ação · [[Posts/1480 - Pachecão tricolor em ação#^comentario-18413|#18413]]
+- [[Posts/1481 - Semi-Finais da Copa do Brasil 2008|#1481]] - Semi-Finais da Copa do Brasil 2008 · [[Posts/1481 - Semi-Finais da Copa do Brasil 2008#^comentario-18399|#18399]]
+- [[Posts/1481 - Semi-Finais da Copa do Brasil 2008|#1481]] - Semi-Finais da Copa do Brasil 2008 · [[Posts/1481 - Semi-Finais da Copa do Brasil 2008#^comentario-18411|#18411]]
+- [[Posts/1481 - Semi-Finais da Copa do Brasil 2008|#1481]] - Semi-Finais da Copa do Brasil 2008 · [[Posts/1481 - Semi-Finais da Copa do Brasil 2008#^comentario-18454|#18454]]
+- [[Posts/1481 - Semi-Finais da Copa do Brasil 2008|#1481]] - Semi-Finais da Copa do Brasil 2008
+- [[Posts/14812 - Horário Padrão|#14812]] - Horário Padrão · [[Posts/14812 - Horário Padrão#^comentario-103699|#103699]]
+- [[Posts/14816 - A Saga do Botafogo na Copa Sulamericana – Versão 2011|#14816]] - A Saga do Botafogo na Copa Sulamericana – Versão 2011 · [[Posts/14816 - A Saga do Botafogo na Copa Sulamericana – Versão 2011#^comentario-103705|#103705]]
+- [[Posts/14816 - A Saga do Botafogo na Copa Sulamericana – Versão 2011|#14816]] - A Saga do Botafogo na Copa Sulamericana – Versão 2011 · [[Posts/14816 - A Saga do Botafogo na Copa Sulamericana – Versão 2011#^comentario-103745|#103745]]
+- [[Posts/1482 - Peligro, Animal Suelto!|#1482]] - Peligro, Animal Suelto! · [[Posts/1482 - Peligro, Animal Suelto!#^comentario-18398|#18398]]
+- [[Posts/1482 - Peligro, Animal Suelto!|#1482]] - Peligro, Animal Suelto! · [[Posts/1482 - Peligro, Animal Suelto!#^comentario-18403|#18403]]
+- [[Posts/1482 - Peligro, Animal Suelto!|#1482]] - Peligro, Animal Suelto! · [[Posts/1482 - Peligro, Animal Suelto!#^comentario-18419|#18419]]
+- [[Posts/14825 - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada|#14825]] - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada · [[Posts/14825 - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada#^comentario-103976|#103976]]
+- [[Posts/14825 - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada|#14825]] - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada · [[Posts/14825 - Bolão Chef’s Fischer BBG BR2011 – 16ª rodada#^comentario-103979|#103979]]
+- [[Posts/14835 - E quando faltam os títulos secundários ao Cruzeiro|#14835]] - E quando faltam os títulos secundários ao Cruzeiro?
+- [[Posts/14847 - Botafogo 4X2 América-MG – Bicando a mufa pra Nottingham|#14847]] - Botafogo 4X2 América-MG – Bicando a mufa pra Nottingham · [[Posts/14847 - Botafogo 4X2 América-MG – Bicando a mufa pra Nottingham#^comentario-104013|#104013]]
+- [[Posts/14858 - Cruzeiro 5×0 Avaí – Em busca da regularidade perdida|#14858]] - Cruzeiro 5×0 Avaí – Em busca da regularidade perdida · [[Posts/14858 - Cruzeiro 5×0 Avaí – Em busca da regularidade perdida#^comentario-104009|#104009]]
+- [[Posts/1486 - Sobrinha da Gretchen|#1486]] - Sobrinha da Gretchen · [[Posts/1486 - Sobrinha da Gretchen#^comentario-18422|#18422]]
+- [[Posts/1486 - Sobrinha da Gretchen|#1486]] - Sobrinha da Gretchen · [[Posts/1486 - Sobrinha da Gretchen#^comentario-18556|#18556]]
+- [[Posts/14864 - Grêmio 2×1 Fluminense O Dia dos Pais de Fred|#14864]] - Grêmio 2×1 Fluminense: O Dia dos Pais de Fred · [[Posts/14864 - Grêmio 2×1 Fluminense O Dia dos Pais de Fred#^comentario-103995|#103995]]
+- [[Posts/14864 - Grêmio 2×1 Fluminense O Dia dos Pais de Fred|#14864]] - Grêmio 2×1 Fluminense: O Dia dos Pais de Fred
+- [[Posts/1487 - Um grande motivo para chorar|#1487]] - Um grande motivo para chorar · [[Posts/1487 - Um grande motivo para chorar#^comentario-18445|#18445]]
+- [[Posts/1487 - Um grande motivo para chorar|#1487]] - Um grande motivo para chorar · [[Posts/1487 - Um grande motivo para chorar#^comentario-28927|#28927]]
+- [[Posts/1487 - Um grande motivo para chorar|#1487]] - Um grande motivo para chorar · [[Posts/1487 - Um grande motivo para chorar#^comentario-41760|#41760]]
+- [[Posts/1487 - Um grande motivo para chorar|#1487]] - Um grande motivo para chorar
+- [[Posts/14871 - Bolão Chef’s Fischer BBG BR2011 – 17ª rodada|#14871]] - Bolão Chef’s Fischer BBG BR2011 – 17ª rodada · [[Posts/14871 - Bolão Chef’s Fischer BBG BR2011 – 17ª rodada#^comentario-104196|#104196]]
+- [[Posts/14877 - A “time” Press|#14877]] - A “time” Press · [[Posts/14877 - A “time” Press#^comentario-104132|#104132]]
+- [[Posts/14877 - A “time” Press|#14877]] - A “time” Press · [[Posts/14877 - A “time” Press#^comentario-105171|#105171]]
+- [[Posts/14892 - O buraco azul (e alguns outros) é mais embaixo|#14892]] - O buraco azul (e alguns outros) é mais embaixo · [[Posts/14892 - O buraco azul (e alguns outros) é mais embaixo#^comentario-104319|#104319]]
+- [[Posts/14894 - O PEREMPTÓRIO REQUERIMENTO NÃO-CORRESPONDIDO|#14894]] - O PEREMPTÓRIO REQUERIMENTO NÃO-CORRESPONDIDO · [[Posts/14894 - O PEREMPTÓRIO REQUERIMENTO NÃO-CORRESPONDIDO#^comentario-104317|#104317]]
+- [[Posts/1491 - Brasileirão - 2º rodada|#1491]] - Brasileirão - 2º rodada · [[Posts/1491 - Brasileirão - 2º rodada#^comentario-18467|#18467]]
+- [[Posts/1491 - Brasileirão - 2º rodada|#1491]] - Brasileirão - 2º rodada · [[Posts/1491 - Brasileirão - 2º rodada#^comentario-18502|#18502]]
+- [[Posts/1491 - Brasileirão - 2º rodada|#1491]] - Brasileirão - 2º rodada · [[Posts/1491 - Brasileirão - 2º rodada#^comentario-18552|#18552]]
+- [[Posts/1491 - Brasileirão - 2º rodada|#1491]] - Brasileirão - 2º rodada · [[Posts/1491 - Brasileirão - 2º rodada#^comentario-18554|#18554]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104464|#104464]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104465|#104465]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104467|#104467]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104468|#104468]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104469|#104469]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104472|#104472]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104473|#104473]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104477|#104477]]
+- [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|#14910]] - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada · [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada#^comentario-104478|#104478]]
+- [[Posts/14916 - Renê Simões Tem Razão. Nada mudou|#14916]] - Renê Simões Tem Razão. Nada mudou. · [[Posts/14916 - Renê Simões Tem Razão. Nada mudou#^comentario-104373|#104373]]
+- [[Posts/14916 - Renê Simões Tem Razão. Nada mudou|#14916]] - Renê Simões Tem Razão. Nada mudou. · [[Posts/14916 - Renê Simões Tem Razão. Nada mudou#^comentario-104374|#104374]]
+- [[Posts/1493 - 2 destaques futebol brasileiro-internacional|#1493]] - 2 destaques futebol brasileiro-internacional: · [[Posts/1493 - 2 destaques futebol brasileiro-internacional#^comentario-18591|#18591]]
+- [[Posts/1493 - 2 destaques futebol brasileiro-internacional|#1493]] - 2 destaques futebol brasileiro-internacional: · [[Posts/1493 - 2 destaques futebol brasileiro-internacional#^comentario-18629|#18629]]
+- [[Posts/14931 - Conversemos em 2018|#14931]] - Conversemos em 2018 · [[Posts/14931 - Conversemos em 2018#^comentario-104489|#104489]]
+- [[Posts/14931 - Conversemos em 2018|#14931]] - Conversemos em 2018
+- [[Posts/14938 - Copices|#14938]] - Copices · [[Posts/14938 - Copices#^comentario-105245|#105245]]
+- [[Posts/15 - Troféu Brasileirão|#15]] - Troféu Brasileirão
+- [[Posts/1500 - Fernando Henrique, até quando|#1500]] - Fernando Henrique, até quando??? · [[Posts/1500 - Fernando Henrique, até quando#^comentario-18562|#18562]]
+- [[Posts/1500 - Fernando Henrique, até quando|#1500]] - Fernando Henrique, até quando??? · [[Posts/1500 - Fernando Henrique, até quando#^comentario-18632|#18632]]
+- [[Posts/1501 - Adriano da cu para amigo Ronaldo|#1501]] - Adriano da cu para amigo Ronaldo · [[Posts/1501 - Adriano da cu para amigo Ronaldo#^comentario-18649|#18649]]
+- [[Posts/1501 - Adriano da cu para amigo Ronaldo|#1501]] - Adriano da cu para amigo Ronaldo · [[Posts/1501 - Adriano da cu para amigo Ronaldo#^comentario-18653|#18653]]
+- [[Posts/1501 - Adriano da cu para amigo Ronaldo|#1501]] - Adriano da cu para amigo Ronaldo
+- [[Posts/1502 - Decisão no Pacaembu|#1502]] - Decisão no Pacaembu · [[Posts/1502 - Decisão no Pacaembu#^comentario-18646|#18646]]
+- [[Posts/1502 - Decisão no Pacaembu|#1502]] - Decisão no Pacaembu · [[Posts/1502 - Decisão no Pacaembu#^comentario-18655|#18655]]
+- [[Posts/1502 - Decisão no Pacaembu|#1502]] - Decisão no Pacaembu · [[Posts/1502 - Decisão no Pacaembu#^comentario-18660|#18660]]
+- [[Posts/1502 - Decisão no Pacaembu|#1502]] - Decisão no Pacaembu · [[Posts/1502 - Decisão no Pacaembu#^comentario-18678|#18678]]
+- [[Posts/1502 - Decisão no Pacaembu|#1502]] - Decisão no Pacaembu · [[Posts/1502 - Decisão no Pacaembu#^comentario-18753|#18753]]
+- [[Posts/15021 - Os bons ares da Bélgica|#15021]] - Os bons ares da Bélgica · [[Posts/15021 - Os bons ares da Bélgica#^comentario-105337|#105337]]
+- [[Posts/15034 - Se a Vida do Cruzeiro é Difícil, Imagina a do Ceará|#15034]] - Se a Vida do Cruzeiro é Difícil, Imagina a do Ceará · [[Posts/15034 - Se a Vida do Cruzeiro é Difícil, Imagina a do Ceará#^comentario-105395|#105395]]
+- [[Posts/15036 - Quem será o técnico do Vasco|#15036]] - Quem será o técnico do Vasco?
+- [[Posts/15044 - Bolão Chef’s Fischer BBG BR2011 – 21ª rodada Preliminar da Selemano|#15044]] - Bolão Chef’s Fischer BBG BR2011 – 21ª rodada: Preliminar da Selemano
+- [[Posts/15047 - “Uh! Vai Morrer”|#15047]] - “Uh! Vai Morrer”
+- [[Posts/1505 - Errei Feio|#1505]] - Errei Feio · [[Posts/1505 - Errei Feio#^comentario-18656|#18656]]
+- [[Posts/15052 - Hoje tem Ronaldinho Gillette no Brasil Gillette|#15052]] - Hoje tem Ronaldinho/Gillette no Brasil/Gillette
+- [[Posts/1506 - Duelo na Ilha|#1506]] - Duelo na Ilha · [[Posts/1506 - Duelo na Ilha#^comentario-18679|#18679]]
+- [[Posts/15061 - Marketing tricolor faz faixinha e camisetas de prevenção ao AVC|#15061]] - Marketing tricolor faz faixinha e camisetas de prevenção ao AVC
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18704|#18704]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18707|#18707]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18709|#18709]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18752|#18752]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18760|#18760]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18768|#18768]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18782|#18782]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18797|#18797]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18802|#18802]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18823|#18823]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18830|#18830]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18836|#18836]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes · [[Posts/1510 - Desafiando Gigantes#^comentario-18838|#18838]]
+- [[Posts/1510 - Desafiando Gigantes|#1510]] - Desafiando Gigantes
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18723|#18723]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18750|#18750]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18761|#18761]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18780|#18780]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18794|#18794]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18805|#18805]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18822|#18822]]
+- [[Posts/1511 - O Vasco jogou mal. Muito mal|#1511]] - O Vasco jogou mal. Muito mal · [[Posts/1511 - O Vasco jogou mal. Muito mal#^comentario-18842|#18842]]
+- [[Posts/15130 - Fluminense 1×0 Corinthians Remuricyficou-se|#15130]] - Fluminense 1×0 Corinthians: Remuricyficou-se
+- [[Posts/1515 - É a hora e vez do Flamengo|#1515]] - É a hora e vez do Flamengo? · [[Posts/1515 - É a hora e vez do Flamengo#^comentario-18883|#18883]]
+- [[Posts/15164 - Ao Roth Com Carinho!|#15164]] - Ao Roth Com Carinho! · [[Posts/15164 - Ao Roth Com Carinho!#^comentario-106518|#106518]]
+- [[Posts/15164 - Ao Roth Com Carinho!|#15164]] - Ao Roth Com Carinho! · [[Posts/15164 - Ao Roth Com Carinho!#^comentario-106598|#106598]]
+- [[Posts/15172 - Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO|#15172]] - Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO · [[Posts/15172 - Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO#^comentario-106597|#106597]]
+- [[Posts/15181 - Heber Roberto Lopes e o jornalismo CTRL-C CTRL-V|#15181]] - Heber Roberto Lopes e o jornalismo CTRL-C CTRL-V · [[Posts/15181 - Heber Roberto Lopes e o jornalismo CTRL-C CTRL-V#^comentario-106656|#106656]]
+- [[Posts/15181 - Heber Roberto Lopes e o jornalismo CTRL-C CTRL-V|#15181]] - Heber Roberto Lopes e o jornalismo CTRL-C CTRL-V
+- [[Posts/15195 - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada Vasco na ponta|#15195]] - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada: Vasco na ponta · [[Posts/15195 - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada Vasco na ponta#^comentario-106743|#106743]]
+- [[Posts/15195 - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada Vasco na ponta|#15195]] - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada: Vasco na ponta · [[Posts/15195 - Bolão Chef’s Fischer BBG BR2011 – 25ª rodada Vasco na ponta#^comentario-106839|#106839]]
+- [[Posts/1520 - Botafogo 1×1 Vasco – Luz amarela para dois personagens|#1520]] - Botafogo 1×1 Vasco – Luz amarela para dois personagens · [[Posts/1520 - Botafogo 1×1 Vasco – Luz amarela para dois personagens#^comentario-19059|#19059]]
+- [[Posts/1520 - Botafogo 1×1 Vasco – Luz amarela para dois personagens|#1520]] - Botafogo 1×1 Vasco – Luz amarela para dois personagens · [[Posts/1520 - Botafogo 1×1 Vasco – Luz amarela para dois personagens#^comentario-19088|#19088]]
+- [[Posts/1520 - Botafogo 1×1 Vasco – Luz amarela para dois personagens|#1520]] - Botafogo 1×1 Vasco – Luz amarela para dois personagens
+- [[Posts/15200 - Flamengo tem blogueiro|#15200]] - Flamengo tem blogueiro?
+- [[Posts/1521 - … porque com chuva é mais gostoso|#1521]] - … porque com chuva é mais gostoso. · [[Posts/1521 - … porque com chuva é mais gostoso#^comentario-18917|#18917]]
+- [[Posts/1521 - … porque com chuva é mais gostoso|#1521]] - … porque com chuva é mais gostoso. · [[Posts/1521 - … porque com chuva é mais gostoso#^comentario-19071|#19071]]
+- [[Posts/15211 - Grêmio 0X1 Botafogo – Palavra de Valente|#15211]] - Grêmio 0X1 Botafogo – Palavra de Valente · [[Posts/15211 - Grêmio 0X1 Botafogo – Palavra de Valente#^comentario-106856|#106856]]
+- [[Posts/15211 - Grêmio 0X1 Botafogo – Palavra de Valente|#15211]] - Grêmio 0X1 Botafogo – Palavra de Valente · [[Posts/15211 - Grêmio 0X1 Botafogo – Palavra de Valente#^comentario-106858|#106858]]
+- [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada|#15217]] - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada · [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada#^comentario-106946|#106946]]
+- [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada|#15217]] - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada · [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada#^comentario-106991|#106991]]
+- [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada|#15217]] - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada · [[Posts/15217 - Bolão Chef’s Fischer BBG BR2011 – 26ª rodada#^comentario-107002|#107002]]
+- [[Posts/1522 - Merci beaucoup, Gugá!|#1522]] - Merci beaucoup, Gugá! · [[Posts/1522 - Merci beaucoup, Gugá!#^comentario-19002|#19002]]
+- [[Posts/1522 - Merci beaucoup, Gugá!|#1522]] - Merci beaucoup, Gugá! · [[Posts/1522 - Merci beaucoup, Gugá!#^comentario-19094|#19094]]
+- [[Posts/15228 - Satélitefacts|#15228]] - #Satélitefacts · [[Posts/15228 - Satélitefacts#^comentario-106906|#106906]]
+- [[Posts/15228 - Satélitefacts|#15228]] - #Satélitefacts
+- [[Posts/15235 - GP de Cingapura Warm Up|#15235]] - GP de Cingapura: Warm Up · [[Posts/15235 - GP de Cingapura Warm Up#^comentario-106976|#106976]]
+- [[Posts/1524 - Vasco x Sport|#1524]] - Vasco x Sport · [[Posts/1524 - Vasco x Sport#^comentario-19104|#19104]]
+- [[Posts/1524 - Vasco x Sport|#1524]] - Vasco x Sport · [[Posts/1524 - Vasco x Sport#^comentario-19223|#19223]]
+- [[Posts/1524 - Vasco x Sport|#1524]] - Vasco x Sport · [[Posts/1524 - Vasco x Sport#^comentario-19248|#19248]]
+- [[Posts/1524 - Vasco x Sport|#1524]] - Vasco x Sport · [[Posts/1524 - Vasco x Sport#^comentario-19268|#19268]]
+- [[Posts/1524 - Vasco x Sport|#1524]] - Vasco x Sport
+- [[Posts/15243 - Bendito Diego Souza|#15243]] - Bendito Diego Souza · [[Posts/15243 - Bendito Diego Souza#^comentario-107067|#107067]]
+- [[Posts/1525 - Corinthians x Botafogo|#1525]] - Corinthians x Botafogo · [[Posts/1525 - Corinthians x Botafogo#^comentario-19105|#19105]]
+- [[Posts/1525 - Corinthians x Botafogo|#1525]] - Corinthians x Botafogo · [[Posts/1525 - Corinthians x Botafogo#^comentario-19258|#19258]]
+- [[Posts/1525 - Corinthians x Botafogo|#1525]] - Corinthians x Botafogo
+- [[Posts/15255 - Mário e o Mano atrás do Armário|#15255]] - Mário e o Mano atrás do Armário · [[Posts/15255 - Mário e o Mano atrás do Armário#^comentario-107145|#107145]]
+- [[Posts/15255 - Mário e o Mano atrás do Armário|#15255]] - Mário e o Mano atrás do Armário · [[Posts/15255 - Mário e o Mano atrás do Armário#^comentario-107146|#107146]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense · [[Posts/1526 - Boca Jrs. x Fluminense#^comentario-19106|#19106]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense · [[Posts/1526 - Boca Jrs. x Fluminense#^comentario-19109|#19109]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense · [[Posts/1526 - Boca Jrs. x Fluminense#^comentario-19213|#19213]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense · [[Posts/1526 - Boca Jrs. x Fluminense#^comentario-19215|#19215]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense · [[Posts/1526 - Boca Jrs. x Fluminense#^comentario-19216|#19216]]
+- [[Posts/1526 - Boca Jrs. x Fluminense|#1526]] - Boca Jrs. x Fluminense
+- [[Posts/15264 - Foda-se Luiz Augusto Veloso, e o Flamengo|#15264]] - Foda-se Luiz Augusto Veloso, e o Flamengo · [[Posts/15264 - Foda-se Luiz Augusto Veloso, e o Flamengo#^comentario-107271|#107271]]
+- [[Posts/1527 - Boca Jrs 2×2 Fluminense – Ficou para o Maracanã|#1527]] - Boca Jrs 2×2 Fluminense – Ficou para o Maracanã
+- [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada|#15280]] - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada · [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada#^comentario-107528|#107528]]
+- [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada|#15280]] - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada · [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada#^comentario-107539|#107539]]
+- [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada|#15280]] - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada · [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada#^comentario-107605|#107605]]
+- [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada|#15280]] - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada · [[Posts/15280 - Bolão Chef’s Fischer BBG BR2011 – 27ª rodada#^comentario-107614|#107614]]
+- [[Posts/15286 - Campeão Mundial 2011|#15286]] - Campeão Mundial 2011 · [[Posts/15286 - Campeão Mundial 2011#^comentario-107585|#107585]]
+- [[Posts/15286 - Campeão Mundial 2011|#15286]] - Campeão Mundial 2011
+- [[Posts/1529 - Desabafo Vascaíno|#1529]] - Desabafo Vascaíno · [[Posts/1529 - Desabafo Vascaíno#^comentario-19303|#19303]]
+- [[Posts/1529 - Desabafo Vascaíno|#1529]] - Desabafo Vascaíno · [[Posts/1529 - Desabafo Vascaíno#^comentario-19414|#19414]]
+- [[Posts/15309 - Hipotireoidismo|#15309]] - Hipotireoidismo · [[Posts/15309 - Hipotireoidismo#^comentario-107827|#107827]]
+- [[Posts/15309 - Hipotireoidismo|#15309]] - Hipotireoidismo
+- [[Posts/1532 - Série Pequim 2008 – Ave Yelena Gadschiyevna Isinbayeva|#1532]] - Série Pequim 2008 – Ave Yelena Gadschiyevna Isinbayeva · [[Posts/1532 - Série Pequim 2008 – Ave Yelena Gadschiyevna Isinbayeva#^comentario-19382|#19382]]
+- [[Posts/15322 - O Treinador da Pedra|#15322]] - O Treinador da Pedra · [[Posts/15322 - O Treinador da Pedra#^comentario-107921|#107921]]
+- [[Posts/15326 - O Legado de Joel|#15326]] - O Legado de Joel · [[Posts/15326 - O Legado de Joel#^comentario-107982|#107982]]
+- [[Posts/15326 - O Legado de Joel|#15326]] - O Legado de Joel
+- [[Posts/15331 - O Legado de Mano|#15331]] - O Legado de Mano · [[Posts/15331 - O Legado de Mano#^comentario-108018|#108018]]
+- [[Posts/15339 - A sorte está lançada|#15339]] - A sorte está lançada · [[Posts/15339 - A sorte está lançada#^comentario-108056|#108056]]
+- [[Posts/1534 - A Estrela desce|#1534]] - A Estrela desce · [[Posts/1534 - A Estrela desce#^comentario-19393|#19393]]
+- [[Posts/1534 - A Estrela desce|#1534]] - A Estrela desce · [[Posts/1534 - A Estrela desce#^comentario-19395|#19395]]
+- [[Posts/1534 - A Estrela desce|#1534]] - A Estrela desce · [[Posts/1534 - A Estrela desce#^comentario-19505|#19505]]
+- [[Posts/1534 - A Estrela desce|#1534]] - A Estrela desce · [[Posts/1534 - A Estrela desce#^comentario-19506|#19506]]
+- [[Posts/15363 - Inversão da meta|#15363]] - Inversão da meta · [[Posts/15363 - Inversão da meta#^comentario-108260|#108260]]
+- [[Posts/1537 - Síndrome de Estocolmo|#1537]] - Síndrome de Estocolmo · [[Posts/1537 - Síndrome de Estocolmo#^comentario-19476|#19476]]
+- [[Posts/1537 - Síndrome de Estocolmo|#1537]] - Síndrome de Estocolmo · [[Posts/1537 - Síndrome de Estocolmo#^comentario-84977|#84977]]
+- [[Posts/1537 - Síndrome de Estocolmo|#1537]] - Síndrome de Estocolmo
+- [[Posts/15371 - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada|#15371]] - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada · [[Posts/15371 - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada#^comentario-108366|#108366]]
+- [[Posts/15371 - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada|#15371]] - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada · [[Posts/15371 - Bolão Chef’s Fischer BBG BR2011 – 29ª rodada#^comentario-108377|#108377]]
+- [[Posts/1538 - A NET se supera|#1538]] - A NET se supera · [[Posts/1538 - A NET se supera#^comentario-19525|#19525]]
+- [[Posts/15380 - Copa do Brasil o ano inteiro com todo mundo|#15380]] - Copa do Brasil o ano inteiro com todo mundo
+- [[Posts/15406 - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada|#15406]] - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada · [[Posts/15406 - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada#^comentario-108781|#108781]]
+- [[Posts/15406 - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada|#15406]] - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada · [[Posts/15406 - Bolão Chef’s Fischer BBG BR2011 – 30ª rodada#^comentario-108857|#108857]]
+- [[Posts/1541 - Lakers vs Celtics – Uma final dos sonhos|#1541]] - Lakers vs Celtics – Uma final dos sonhos · [[Posts/1541 - Lakers vs Celtics – Uma final dos sonhos#^comentario-19560|#19560]]
+- [[Posts/1542 - Líder contra Lanterna|#1542]] - Líder contra Lanterna
+- [[Posts/1545 - Sem mamata para Fluminense|#1545]] - Sem mamata para Fluminense · [[Posts/1545 - Sem mamata para Fluminense#^comentario-19637|#19637]]
+- [[Posts/15456 - Santos 2X0 Botafogo – Não é o fim do mundo|#15456]] - Santos 2X0 Botafogo – Não é o fim do mundo · [[Posts/15456 - Santos 2X0 Botafogo – Não é o fim do mundo#^comentario-109181|#109181]]
+- [[Posts/1546 - Aos secadores de Plantão|#1546]] - Aos secadores de Plantão · [[Posts/1546 - Aos secadores de Plantão#^comentario-19647|#19647]]
+- [[Posts/1546 - Aos secadores de Plantão|#1546]] - Aos secadores de Plantão · [[Posts/1546 - Aos secadores de Plantão#^comentario-19826|#19826]]
+- [[Posts/1546 - Aos secadores de Plantão|#1546]] - Aos secadores de Plantão
+- [[Posts/1547 - “Boca, muito prazer Fluminense”|#1547]] - “Boca, muito prazer: Fluminense” · [[Posts/1547 - “Boca, muito prazer Fluminense”#^comentario-19707|#19707]]
+- [[Posts/1547 - “Boca, muito prazer Fluminense”|#1547]] - “Boca, muito prazer: Fluminense” · [[Posts/1547 - “Boca, muito prazer Fluminense”#^comentario-19725|#19725]]
+- [[Posts/1547 - “Boca, muito prazer Fluminense”|#1547]] - “Boca, muito prazer: Fluminense” · [[Posts/1547 - “Boca, muito prazer Fluminense”#^comentario-19777|#19777]]
+- [[Posts/15479 - Bolão Chef’s Fischer BBG BR2011 – 31ª rodada Mesmo número de jogos|#15479]] - Bolão Chef’s Fischer BBG BR2011 – 31ª rodada: Mesmo número de jogos · [[Posts/15479 - Bolão Chef’s Fischer BBG BR2011 – 31ª rodada Mesmo número de jogos#^comentario-109489|#109489]]
+- [[Posts/1548 - E o tricolor tá na final…|#1548]] - E o tricolor tá na final… · [[Posts/1548 - E o tricolor tá na final…#^comentario-19691|#19691]]
+- [[Posts/1548 - E o tricolor tá na final…|#1548]] - E o tricolor tá na final… · [[Posts/1548 - E o tricolor tá na final…#^comentario-19708|#19708]]
+- [[Posts/15482 - A CONCLUSÃO ÓBVIA|#15482]] - A CONCLUSÃO ÓBVIA · [[Posts/15482 - A CONCLUSÃO ÓBVIA#^comentario-109404|#109404]]
+- [[Posts/15492 - Aplausos ao Lancenet! tempos verbais|#15492]] - Aplausos ao Lancenet!: tempos verbais
+- [[Posts/1551 - Série Pequim 2008 – Brittany Jackson|#1551]] - Série Pequim 2008 – Brittany Jackson · [[Posts/1551 - Série Pequim 2008 – Brittany Jackson#^comentario-19710|#19710]]
+- [[Posts/15511 - O Blá blá Gol saúda Emerson Leão|#15511]] - O Blá blá Gol saúda Emerson Leão · [[Posts/15511 - O Blá blá Gol saúda Emerson Leão#^comentario-109942|#109942]]
+- [[Posts/15511 - O Blá blá Gol saúda Emerson Leão|#15511]] - O Blá blá Gol saúda Emerson Leão
+- [[Posts/15528 - Se você fosse sincera|#15528]] - Se você fosse sincera · [[Posts/15528 - Se você fosse sincera#^comentario-111399|#111399]]
+- [[Posts/1553 - Par ou Ímpar|#1553]] - Par ou Ímpar · [[Posts/1553 - Par ou Ímpar#^comentario-19860|#19860]]
+- [[Posts/15531 - Luiz Mendes, 1924 – 2011. Quando as palavras já não são tão fáceis…|#15531]] - Luiz Mendes, 1924 – 2011. Quando as palavras já não são tão fáceis… · [[Posts/15531 - Luiz Mendes, 1924 – 2011. Quando as palavras já não são tão fáceis…#^comentario-110323|#110323]]
+- [[Posts/15538 - Bolão Chef’s Fischer BBG BR2011 – 32ª rodada Tem Galo x Porco|#15538]] - Bolão Chef’s Fischer BBG BR2011 – 32ª rodada: Tem Galo x Porco · [[Posts/15538 - Bolão Chef’s Fischer BBG BR2011 – 32ª rodada Tem Galo x Porco#^comentario-110511|#110511]]
+- [[Posts/1554 - Já estava madurinha!!!|#1554]] - Já estava madurinha!!! · [[Posts/1554 - Já estava madurinha!!!#^comentario-19949|#19949]]
+- [[Posts/15547 - Botafogo 1X0 Cruzeiro – Porque não é sempre assim E porque é sempre assim|#15547]] - Botafogo 1X0 Cruzeiro – Porque não é sempre assim? E porque é sempre assim? · [[Posts/15547 - Botafogo 1X0 Cruzeiro – Porque não é sempre assim E porque é sempre assim#^comentario-110474|#110474]]
+- [[Posts/1555 - O que foi isso|#1555]] - O que foi isso? · [[Posts/1555 - O que foi isso#^comentario-19937|#19937]]
+- [[Posts/1555 - O que foi isso|#1555]] - O que foi isso? · [[Posts/1555 - O que foi isso#^comentario-20001|#20001]]
+- [[Posts/15561 - Pan – Evolução medalhas Brasil x Cuba|#15561]] - Pan – Evolução medalhas: Brasil x Cuba · [[Posts/15561 - Pan – Evolução medalhas Brasil x Cuba#^comentario-110664|#110664]]
+- [[Posts/15567 - Campeonato Nojento|#15567]] - Campeonato Nojento · [[Posts/15567 - Campeonato Nojento#^comentario-110659|#110659]]
+- [[Posts/15567 - Campeonato Nojento|#15567]] - Campeonato Nojento · [[Posts/15567 - Campeonato Nojento#^comentario-110661|#110661]]
+- [[Posts/15567 - Campeonato Nojento|#15567]] - Campeonato Nojento · [[Posts/15567 - Campeonato Nojento#^comentario-110667|#110667]]
+- [[Posts/1557 - Seleção das Marias Chuteiras|#1557]] - Seleção das Marias Chuteiras · [[Posts/1557 - Seleção das Marias Chuteiras#^comentario-19897|#19897]]
+- [[Posts/15570 - Vasco da Gama Patriotas x Botafogo Mamutes|#15570]] - Vasco da Gama Patriotas x Botafogo Mamutes · [[Posts/15570 - Vasco da Gama Patriotas x Botafogo Mamutes#^comentario-110756|#110756]]
+- [[Posts/15570 - Vasco da Gama Patriotas x Botafogo Mamutes|#15570]] - Vasco da Gama Patriotas x Botafogo Mamutes
+- [[Posts/15578 - Obrigado Pai Santana, descanse em paz|#15578]] - Obrigado Pai Santana, descanse em paz. · [[Posts/15578 - Obrigado Pai Santana, descanse em paz#^comentario-110742|#110742]]
+- [[Posts/1560 - Viva a ofensividade!|#1560]] - Viva a ofensividade! · [[Posts/1560 - Viva a ofensividade!#^comentario-19898|#19898]]
+- [[Posts/15603 - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada Corinthians em casa|#15603]] - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada: Corinthians em casa? · [[Posts/15603 - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada Corinthians em casa#^comentario-111089|#111089]]
+- [[Posts/15603 - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada Corinthians em casa|#15603]] - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada: Corinthians em casa? · [[Posts/15603 - Bolão Chef’s Fischer BBG BR2011 – 33ª rodada Corinthians em casa#^comentario-111103|#111103]]
+- [[Posts/15614 - Fala, Fabrício|#15614]] - Fala, Fabrício · [[Posts/15614 - Fala, Fabrício#^comentario-110987|#110987]]
+- [[Posts/15620 - O Pateta Ilan – @joseilan|#15620]] - O Pateta Ilan – @joseilan
+- [[Posts/15629 - Botafogo 0X1 Figueirense – digo, Fregueirense|#15629]] - Botafogo 0X1 Figueirense – digo, Fregueirense · [[Posts/15629 - Botafogo 0X1 Figueirense – digo, Fregueirense#^comentario-111074|#111074]]
+- [[Posts/15634 - Internacional 1×2 Fluminense Dorival e Abel explicaram tudo|#15634]] - Internacional 1×2 Fluminense: Dorival e Abel explicaram tudo
+- [[Posts/15641 - Portuguesa assegura 21ª colocação do Campeonato Brasileiro 2011|#15641]] - Portuguesa assegura 21ª colocação do Campeonato Brasileiro 2011
+- [[Posts/15649 - Bolão Chef’s Fischer BBG BR2011 – 34ª rodada|#15649]] - Bolão Chef’s Fischer BBG BR2011 – 34ª rodada · [[Posts/15649 - Bolão Chef’s Fischer BBG BR2011 – 34ª rodada#^comentario-111611|#111611]]
+- [[Posts/15654 - Tempo de Renovar|#15654]] - Tempo de Renovar · [[Posts/15654 - Tempo de Renovar#^comentario-111427|#111427]]
+- [[Posts/15662 - 12.11.11 Dia de comemorar a liderança do Fluminense|#15662]] - 12.11.11: Dia de comemorar a liderança do Fluminense
+- [[Posts/1567 - Sport x Corinthians - A hora da onça beber água|#1567]] - Sport x Corinthians - A hora da onça beber água · [[Posts/1567 - Sport x Corinthians - A hora da onça beber água#^comentario-19997|#19997]]
+- [[Posts/1567 - Sport x Corinthians - A hora da onça beber água|#1567]] - Sport x Corinthians - A hora da onça beber água · [[Posts/1567 - Sport x Corinthians - A hora da onça beber água#^comentario-20018|#20018]]
+- [[Posts/15672 - Botafogo 0×2 Vasco|#15672]] - Botafogo 0×2 Vasco · [[Posts/15672 - Botafogo 0×2 Vasco#^comentario-111678|#111678]]
+- [[Posts/15672 - Botafogo 0×2 Vasco|#15672]] - Botafogo 0×2 Vasco · [[Posts/15672 - Botafogo 0×2 Vasco#^comentario-111682|#111682]]
+- [[Posts/15679 - Os caras assistem – Coritiba 2 x 0 Flamengo|#15679]] - Os caras assistem – Coritiba 2 x 0 Flamengo · [[Posts/15679 - Os caras assistem – Coritiba 2 x 0 Flamengo#^comentario-111701|#111701]]
+- [[Posts/15688 - O time mais sinistro da cidade|#15688]] - O time mais sinistro da cidade · [[Posts/15688 - O time mais sinistro da cidade#^comentario-111793|#111793]]
+- [[Posts/157 - Clássico Vovô|#157]] - Clássico Vovô
+- [[Posts/1570 - Grande Luciano do Valle, o Cara|#1570]] - Grande Luciano do Valle, o Cara · [[Posts/1570 - Grande Luciano do Valle, o Cara#^comentario-20022|#20022]]
+- [[Posts/1570 - Grande Luciano do Valle, o Cara|#1570]] - Grande Luciano do Valle, o Cara · [[Posts/1570 - Grande Luciano do Valle, o Cara#^comentario-20125|#20125]]
+- [[Posts/1570 - Grande Luciano do Valle, o Cara|#1570]] - Grande Luciano do Valle, o Cara
+- [[Posts/15701 - Bolão Chef’s Fischer BBG BR2011 – 35ª rodada|#15701]] - Bolão Chef’s Fischer BBG BR2011 – 35ª rodada · [[Posts/15701 - Bolão Chef’s Fischer BBG BR2011 – 35ª rodada#^comentario-112099|#112099]]
+- [[Posts/15704 - Quem quer mexer no regulamento do Estadual Fale agora ou cale-se para sempre|#15704]] - Quem quer mexer no regulamento do Estadual? Fale agora ou cale-se para sempre
+- [[Posts/1571 - Luciano do Valle, agora com o áudio completo|#1571]] - Luciano do Valle, agora com o áudio completo.
+- [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada|#15712]] - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada · [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada#^comentario-112230|#112230]]
+- [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada|#15712]] - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada · [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada#^comentario-112248|#112248]]
+- [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada|#15712]] - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada · [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada#^comentario-112296|#112296]]
+- [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada|#15712]] - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada · [[Posts/15712 - Bolão Chef’s Fischer BBG BR2011 – 36ª rodada#^comentario-112297|#112297]]
+- [[Posts/1572 - Áudios Falsificados|#1572]] - Áudios Falsificados · [[Posts/1572 - Áudios Falsificados#^comentario-20155|#20155]]
+- [[Posts/1572 - Áudios Falsificados|#1572]] - Áudios Falsificados · [[Posts/1572 - Áudios Falsificados#^comentario-20157|#20157]]
+- [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|#15734]] - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi · [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi#^comentario-112165|#112165]]
+- [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|#15734]] - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi · [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi#^comentario-112198|#112198]]
+- [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|#15734]] - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi · [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi#^comentario-112797|#112797]]
+- [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|#15734]] - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi · [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi#^comentario-114857|#114857]]
+- [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|#15734]] - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi
+- [[Posts/15758 - Contra a Covardia em Defesa do R IO|#15758]] - Contra a Covardia em Defesa do R IO · [[Posts/15758 - Contra a Covardia em Defesa do R IO#^comentario-112332|#112332]]
+- [[Posts/1577 - Culinária Européia|#1577]] - Culinária Européia · [[Posts/1577 - Culinária Européia#^comentario-20170|#20170]]
+- [[Posts/1577 - Culinária Européia|#1577]] - Culinária Européia
+- [[Posts/15785 - R5x1 = R10 Essa porra espirra|#15785]] - R5x1 = R10? Essa porra espirra · [[Posts/15785 - R5x1 = R10 Essa porra espirra#^comentario-112780|#112780]]
+- [[Posts/15785 - R5x1 = R10 Essa porra espirra|#15785]] - R5x1 = R10? Essa porra espirra · [[Posts/15785 - R5x1 = R10 Essa porra espirra#^comentario-112781|#112781]]
+- [[Posts/15785 - R5x1 = R10 Essa porra espirra|#15785]] - R5x1 = R10? Essa porra espirra · [[Posts/15785 - R5x1 = R10 Essa porra espirra#^comentario-112784|#112784]]
+- [[Posts/15785 - R5x1 = R10 Essa porra espirra|#15785]] - R5x1 = R10? Essa porra espirra · [[Posts/15785 - R5x1 = R10 Essa porra espirra#^comentario-114869|#114869]]
+- [[Posts/15785 - R5x1 = R10 Essa porra espirra|#15785]] - R5x1 = R10? Essa porra espirra
+- [[Posts/15791 - Renato Mauricio Prado x Vanderlei Luxemburgo|#15791]] - Renato Mauricio Prado x Vanderlei Luxemburgo
+- [[Posts/15799 - Abra teu olho, Náutico Capibaribe. Quem avisa amigo é…|#15799]] - Abra teu olho, Náutico Capibaribe. Quem avisa amigo é…
+- [[Posts/158 - Show de Raikkonen!|#158]] - Show de Raikkonen!
+- [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV|#15807]] - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada: Acompanhe pela TV · [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV#^comentario-112843|#112843]]
+- [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV|#15807]] - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada: Acompanhe pela TV · [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV#^comentario-113132|#113132]]
+- [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV|#15807]] - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada: Acompanhe pela TV · [[Posts/15807 - Bolão Chef’s Fischer BBG BR2011 – 37ª rodada Acompanhe pela TV#^comentario-113205|#113205]]
+- [[Posts/15813 - Barrichello por que é tão difícil parar|#15813]] - Barrichello: por que é tão difícil parar? · [[Posts/15813 - Barrichello por que é tão difícil parar#^comentario-112975|#112975]]
+- [[Posts/15820 - Andrés Sánchez do Brasil-sil-sil|#15820]] - Andrés Sánchez do Brasil-sil-sil
+- [[Posts/1583 - E se o Ricardo Teixeira escolhesse você|#1583]] - E se o Ricardo Teixeira escolhesse você? · [[Posts/1583 - E se o Ricardo Teixeira escolhesse você#^comentario-20348|#20348]]
+- [[Posts/1583 - E se o Ricardo Teixeira escolhesse você|#1583]] - E se o Ricardo Teixeira escolhesse você? · [[Posts/1583 - E se o Ricardo Teixeira escolhesse você#^comentario-20358|#20358]]
+- [[Posts/15830 - RICARDO FITZGERALD TEIXEIRA|#15830]] - RICARDO FITZGERALD TEIXEIRA · [[Posts/15830 - RICARDO FITZGERALD TEIXEIRA#^comentario-113122|#113122]]
+- [[Posts/15837 - O Figueirense por Dr. Bruno|#15837]] - O Figueirense por Dr. Bruno
+- [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!|#15843]] - Domingo de Nelson Piquet! Domingo de Vasco! · [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!#^comentario-113265|#113265]]
+- [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!|#15843]] - Domingo de Nelson Piquet! Domingo de Vasco! · [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!#^comentario-113289|#113289]]
+- [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!|#15843]] - Domingo de Nelson Piquet! Domingo de Vasco! · [[Posts/15843 - Domingo de Nelson Piquet! Domingo de Vasco!#^comentario-113758|#113758]]
+- [[Posts/15871 - O Botafogo agoniza|#15871]] - O Botafogo agoniza · [[Posts/15871 - O Botafogo agoniza#^comentario-113403|#113403]]
+- [[Posts/15887 - GP do Brasil passando a régua em 2011 com o “Domingão do Nelsão”|#15887]] - GP do Brasil: passando a régua em 2011 com o “Domingão do Nelsão” · [[Posts/15887 - GP do Brasil passando a régua em 2011 com o “Domingão do Nelsão”#^comentario-113759|#113759]]
+- [[Posts/1589 - Sobre o valor dos ingressos – Fluminense x LDU|#1589]] - Sobre o valor dos ingressos – Fluminense x LDU
+- [[Posts/159 - Nanopops|#159]] - Nanopops · [[Posts/159 - Nanopops#^comentario-9696|#9696]]
+- [[Posts/159 - Nanopops|#159]] - Nanopops · [[Posts/159 - Nanopops#^comentario-54014|#54014]]
+- [[Posts/159 - Nanopops|#159]] - Nanopops · [[Posts/159 - Nanopops#^comentario-54015|#54015]]
+- [[Posts/159 - Nanopops|#159]] - Nanopops
+- [[Posts/1590 - Fluminense, só pela TV|#1590]] - Fluminense, só pela TV · [[Posts/1590 - Fluminense, só pela TV#^comentario-20464|#20464]]
+- [[Posts/1590 - Fluminense, só pela TV|#1590]] - Fluminense, só pela TV · [[Posts/1590 - Fluminense, só pela TV#^comentario-20465|#20465]]
+- [[Posts/1591 - Instituições de Merda|#1591]] - Instituições de Merda
+- [[Posts/15910 - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada 50% de jogos-treino|#15910]] - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada: 50% de jogos-treino · [[Posts/15910 - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada 50% de jogos-treino#^comentario-113693|#113693]]
+- [[Posts/15910 - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada 50% de jogos-treino|#15910]] - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada: 50% de jogos-treino · [[Posts/15910 - Bolão Chef’s Fischer BBG BR2011 – 38ª rodada 50% de jogos-treino#^comentario-113921|#113921]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-113691|#113691]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-113692|#113692]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-113764|#113764]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-126671|#126671]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-166157|#166157]]
+- [[Posts/15914 - Pelé debutó con un periodista|#15914]] - Pelé debutó con un periodista · [[Posts/15914 - Pelé debutó con un periodista#^comentario-167280|#167280]]
+- [[Posts/15933 - Fim do Campeonato Brasileiro 2011|#15933]] - Fim do Campeonato Brasileiro 2011. · [[Posts/15933 - Fim do Campeonato Brasileiro 2011#^comentario-113753|#113753]]
+- [[Posts/15933 - Fim do Campeonato Brasileiro 2011|#15933]] - Fim do Campeonato Brasileiro 2011. · [[Posts/15933 - Fim do Campeonato Brasileiro 2011#^comentario-113797|#113797]]
+- [[Posts/15933 - Fim do Campeonato Brasileiro 2011|#15933]] - Fim do Campeonato Brasileiro 2011. · [[Posts/15933 - Fim do Campeonato Brasileiro 2011#^comentario-113798|#113798]]
+- [[Posts/15933 - Fim do Campeonato Brasileiro 2011|#15933]] - Fim do Campeonato Brasileiro 2011. · [[Posts/15933 - Fim do Campeonato Brasileiro 2011#^comentario-113804|#113804]]
+- [[Posts/15933 - Fim do Campeonato Brasileiro 2011|#15933]] - Fim do Campeonato Brasileiro 2011. · [[Posts/15933 - Fim do Campeonato Brasileiro 2011#^comentario-113835|#113835]]
+- [[Posts/15939 - RIP Dr. Sócrates|#15939]] - RIP Dr. Sócrates
+- [[Posts/15948 - Pontos Corridos, eu te odeio!|#15948]] - Pontos Corridos, eu te odeio! · [[Posts/15948 - Pontos Corridos, eu te odeio!#^comentario-113789|#113789]]
+- [[Posts/15948 - Pontos Corridos, eu te odeio!|#15948]] - Pontos Corridos, eu te odeio!
+- [[Posts/1595 - Très bien, Monsieur Felipe!!!|#1595]] - Très bien, Monsieur Felipe!!! · [[Posts/1595 - Très bien, Monsieur Felipe!!!#^comentario-20525|#20525]]
+- [[Posts/1595 - Très bien, Monsieur Felipe!!!|#1595]] - Très bien, Monsieur Felipe!!! · [[Posts/1595 - Très bien, Monsieur Felipe!!!#^comentario-20534|#20534]]
+- [[Posts/1596 - Chora, Gaburah|#1596]] - Chora, Gaburah · [[Posts/1596 - Chora, Gaburah#^comentario-20537|#20537]]
+- [[Posts/15977 - Sai ou Fica|#15977]] - Sai ou Fica · [[Posts/15977 - Sai ou Fica#^comentario-114183|#114183]]
+- [[Posts/1598 - Puta que Pariu|#1598]] - Puta que Pariu
+- [[Posts/15982 - Valeu Magro de Aço|#15982]] - Valeu Magro de Aço · [[Posts/15982 - Valeu Magro de Aço#^comentario-114296|#114296]]
+- [[Posts/15989 - Time Press – parte 2|#15989]] - Time Press – parte 2 · [[Posts/15989 - Time Press – parte 2#^comentario-114268|#114268]]
+- [[Posts/15995 - Mercado da Bola 2011 2012|#15995]] - Mercado da Bola 2011/2012 · [[Posts/15995 - Mercado da Bola 2011 2012#^comentario-114352|#114352]]
+- [[Posts/15995 - Mercado da Bola 2011 2012|#15995]] - Mercado da Bola 2011/2012 · [[Posts/15995 - Mercado da Bola 2011 2012#^comentario-114432|#114432]]
+- [[Posts/15995 - Mercado da Bola 2011 2012|#15995]] - Mercado da Bola 2011/2012 · [[Posts/15995 - Mercado da Bola 2011 2012#^comentario-114666|#114666]]
+- [[Posts/15995 - Mercado da Bola 2011 2012|#15995]] - Mercado da Bola 2011/2012 · [[Posts/15995 - Mercado da Bola 2011 2012#^comentario-116341|#116341]]
+- [[Posts/16 - Flu terá menos desfalques na próxima rodada|#16]] - Flu terá menos desfalques na próxima rodada
+- [[Posts/1600 - A hora de sair do Standby|#1600]] - A hora de sair do Standby · [[Posts/1600 - A hora de sair do Standby#^comentario-20642|#20642]]
+- [[Posts/1600 - A hora de sair do Standby|#1600]] - A hora de sair do Standby · [[Posts/1600 - A hora de sair do Standby#^comentario-20652|#20652]]
+- [[Posts/1600 - A hora de sair do Standby|#1600]] - A hora de sair do Standby · [[Posts/1600 - A hora de sair do Standby#^comentario-20653|#20653]]
+- [[Posts/1600 - A hora de sair do Standby|#1600]] - A hora de sair do Standby
+- [[Posts/1601 - Inflação registra queda no Rio de Janeiro|#1601]] - Inflação registra queda no Rio de Janeiro · [[Posts/1601 - Inflação registra queda no Rio de Janeiro#^comentario-20856|#20856]]
+- [[Posts/1601 - Inflação registra queda no Rio de Janeiro|#1601]] - Inflação registra queda no Rio de Janeiro
+- [[Posts/16017 - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011|#16017]] - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011 · [[Posts/16017 - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011#^comentario-114797|#114797]]
+- [[Posts/16017 - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011|#16017]] - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011 · [[Posts/16017 - Santos x Barcelona – Final da Copa do Mundo de Clubes da FIFA 2011#^comentario-114860|#114860]]
+- [[Posts/1602 - Leitura obrigatória para tricolores|#1602]] - Leitura obrigatória para tricolores
+- [[Posts/16029 - Lições de Santos 0×4 Barcelona|#16029]] - Lições de Santos 0×4 Barcelona
+- [[Posts/16039 - Barcelona FC um novo beabá do futebol|#16039]] - Barcelona FC: um novo beabá do futebol? · [[Posts/16039 - Barcelona FC um novo beabá do futebol#^comentario-115253|#115253]]
+- [[Posts/16045 - Barcelona Practical Parreirism for Dummies|#16045]] - Barcelona: Practical Parreirism for Dummies
+- [[Posts/16059 - 11 Anos Depois, Vasco Isento de Culpa|#16059]] - 11 Anos Depois, Vasco Isento de Culpa · [[Posts/16059 - 11 Anos Depois, Vasco Isento de Culpa#^comentario-115252|#115252]]
+- [[Posts/16062 - Sobre a Grana da TV|#16062]] - Sobre a Grana da TV · [[Posts/16062 - Sobre a Grana da TV#^comentario-115299|#115299]]
+- [[Posts/1607 - Vice de Novo|#1607]] - Vice de Novo
+- [[Posts/16072 - São fotos comunicadoras|#16072]] - São fotos comunicadoras
+- [[Posts/16074 - O futebol e o mercado|#16074]] - O futebol e o mercado
+- [[Posts/1608 - Nada a declarar…|#1608]] - Nada a declarar… · [[Posts/1608 - Nada a declarar…#^comentario-20866|#20866]]
+- [[Posts/16081 - Feliz Natal|#16081]] - Feliz Natal · [[Posts/16081 - Feliz Natal#^comentario-115507|#115507]]
+- [[Posts/16097 - Globoesporte procura. Interessa|#16097]] - Globoesporte procura. Interessa? · [[Posts/16097 - Globoesporte procura. Interessa#^comentario-121644|#121644]]
+- [[Posts/161 - Blá blá Gol in loco|#161]] - Blá blá Gol in loco
+- [[Posts/16103 - 2011 – Quem subiu, quem desceu|#16103]] - 2011 – Quem subiu, quem desceu · [[Posts/16103 - 2011 – Quem subiu, quem desceu#^comentario-115678|#115678]]
+- [[Posts/16103 - 2011 – Quem subiu, quem desceu|#16103]] - 2011 – Quem subiu, quem desceu
+- [[Posts/16111 - Feliz 2012!|#16111]] - Feliz 2012! · [[Posts/16111 - Feliz 2012!#^comentario-115723|#115723]]
+- [[Posts/1612 - Viva España!!!|#1612]] - Viva España!!! · [[Posts/1612 - Viva España!!!#^comentario-20855|#20855]]
+- [[Posts/16122 - Canonização Alviverde|#16122]] - Canonização Alviverde · [[Posts/16122 - Canonização Alviverde#^comentario-115840|#115840]]
+- [[Posts/16122 - Canonização Alviverde|#16122]] - Canonização Alviverde · [[Posts/16122 - Canonização Alviverde#^comentario-115841|#115841]]
+- [[Posts/16122 - Canonização Alviverde|#16122]] - Canonização Alviverde · [[Posts/16122 - Canonização Alviverde#^comentario-115938|#115938]]
+- [[Posts/16126 - Papai Joel, MITO!!|#16126]] - Papai Joel, MITO!! · [[Posts/16126 - Papai Joel, MITO!!#^comentario-115852|#115852]]
+- [[Posts/16130 - Could Mr. Nobody have won FIFA World Cup 2010 for Brazil|#16130]] - Could Mr. Nobody have won FIFA World Cup 2010 for Brazil?
+- [[Posts/1614 - Volta Cuca e Os Reservas do Fluminense|#1614]] - Volta Cuca e Os Reservas do Fluminense
+- [[Posts/16144 - OFENSAS NA CANCHA|#16144]] - OFENSAS NA CANCHA · [[Posts/16144 - OFENSAS NA CANCHA#^comentario-115997|#115997]]
+- [[Posts/1615 - Aos Vascaínos|#1615]] - Aos Vascaínos · [[Posts/1615 - Aos Vascaínos#^comentario-20892|#20892]]
+- [[Posts/1615 - Aos Vascaínos|#1615]] - Aos Vascaínos · [[Posts/1615 - Aos Vascaínos#^comentario-20962|#20962]]
+- [[Posts/16155 - Créu!|#16155]] - Créu! · [[Posts/16155 - Créu!#^comentario-116759|#116759]]
+- [[Posts/16155 - Créu!|#16155]] - Créu!
+- [[Posts/16168 - Morte às Pré-Temporadas|#16168]] - Morte às Pré-Temporadas · [[Posts/16168 - Morte às Pré-Temporadas#^comentario-116318|#116318]]
+- [[Posts/16168 - Morte às Pré-Temporadas|#16168]] - Morte às Pré-Temporadas · [[Posts/16168 - Morte às Pré-Temporadas#^comentario-116319|#116319]]
+- [[Posts/16168 - Morte às Pré-Temporadas|#16168]] - Morte às Pré-Temporadas
+- [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro|#16180]] - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro · [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro#^comentario-116400|#116400]]
+- [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro|#16180]] - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro · [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro#^comentario-116724|#116724]]
+- [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro|#16180]] - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro · [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro#^comentario-117749|#117749]]
+- [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro|#16180]] - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro · [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro#^comentario-118038|#118038]]
+- [[Posts/16180 - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro|#16180]] - Assunto pertinente aos não-botafoguenses ou não-flamenguistas do Rio de Janeiro
+- [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS|#16185]] - Como fazer um Estadual que valha a pena: versão RS · [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS#^comentario-116434|#116434]]
+- [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS|#16185]] - Como fazer um Estadual que valha a pena: versão RS · [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS#^comentario-116435|#116435]]
+- [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS|#16185]] - Como fazer um Estadual que valha a pena: versão RS · [[Posts/16185 - Como fazer um Estadual que valha a pena versão RS#^comentario-116469|#116469]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-118296|#118296]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-124170|#124170]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-125022|#125022]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-125049|#125049]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-125167|#125167]]
+- [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio|#16194]] - Campeonato Carioca 2012: Deu Flu na Taça Guanabara e Fogo na Taça Rio · [[Posts/16194 - Campeonato Carioca 2012 Deu Flu na Taça Guanabara e Fogo na Taça Rio#^comentario-126067|#126067]]
+- [[Posts/16198 - O Carioca 2012 em ‘O Globo’|#16198]] - O Carioca 2012 em ‘O Globo’
+- [[Posts/162 - Fim de semana|#162]] - Fim de semana
+- [[Posts/1620 - Um Vasco x Flamengo que interessa|#1620]] - Um Vasco x Flamengo que interessa · [[Posts/1620 - Um Vasco x Flamengo que interessa#^comentario-21013|#21013]]
+- [[Posts/1620 - Um Vasco x Flamengo que interessa|#1620]] - Um Vasco x Flamengo que interessa
+- [[Posts/16205 - Previsões Sergilianas para 2012|#16205]] - Previsões Sergilianas para 2012 · [[Posts/16205 - Previsões Sergilianas para 2012#^comentario-116658|#116658]]
+- [[Posts/16208 - ORGULHOS NEÓFITOS|#16208]] - ORGULHOS NEÓFITOS · [[Posts/16208 - ORGULHOS NEÓFITOS#^comentario-116685|#116685]]
+- [[Posts/16213 - Potosi 2 x 1 Flamengo Complicado de assistir|#16213]] - Potosi 2 x 1 Flamengo: Complicado de assistir · [[Posts/16213 - Potosi 2 x 1 Flamengo Complicado de assistir#^comentario-116793|#116793]]
+- [[Posts/16225 - Andre Dias lavando a alma da rapaziada|#16225]] - Andre Dias lavando a alma da rapaziada · [[Posts/16225 - Andre Dias lavando a alma da rapaziada#^comentario-116887|#116887]]
+- [[Posts/16229 - O máximo do romantismo é o Botafoguense em início de temporada|#16229]] - O máximo do romantismo é o Botafoguense em início de temporada · [[Posts/16229 - O máximo do romantismo é o Botafoguense em início de temporada#^comentario-117076|#117076]]
+- [[Posts/1623 - 04 10 – Cheguei em casa|#1623]] - 04:10 – Cheguei em casa · [[Posts/1623 - 04 10 – Cheguei em casa#^comentario-21065|#21065]]
+- [[Posts/1623 - 04 10 – Cheguei em casa|#1623]] - 04:10 – Cheguei em casa · [[Posts/1623 - 04 10 – Cheguei em casa#^comentario-21101|#21101]]
+- [[Posts/1623 - 04 10 – Cheguei em casa|#1623]] - 04:10 – Cheguei em casa
+- [[Posts/16236 - Mauro Cezar Pereira x Coerência de Loco Abreu|#16236]] - Mauro Cezar Pereira x Coerência de Loco Abreu
+- [[Posts/1624 - A festa continuaria bonita|#1624]] - A festa continuaria bonita · [[Posts/1624 - A festa continuaria bonita#^comentario-21133|#21133]]
+- [[Posts/16246 - Quando eu digo que sou Campeão Brasileiro de 1987…|#16246]] - Quando eu digo que sou Campeão Brasileiro de 1987… · [[Posts/16246 - Quando eu digo que sou Campeão Brasileiro de 1987…#^comentario-117443|#117443]]
+- [[Posts/16246 - Quando eu digo que sou Campeão Brasileiro de 1987…|#16246]] - Quando eu digo que sou Campeão Brasileiro de 1987…
+- [[Posts/16253 - O SONHO DE RICA|#16253]] - O SONHO DE RICA · [[Posts/16253 - O SONHO DE RICA#^comentario-117476|#117476]]
+- [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna|#16259]] - New York Giants Campeão no Super Bowl da Madonna · [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna#^comentario-117608|#117608]]
+- [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna|#16259]] - New York Giants Campeão no Super Bowl da Madonna · [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna#^comentario-117609|#117609]]
+- [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna|#16259]] - New York Giants Campeão no Super Bowl da Madonna · [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna#^comentario-117610|#117610]]
+- [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna|#16259]] - New York Giants Campeão no Super Bowl da Madonna · [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna#^comentario-117613|#117613]]
+- [[Posts/16259 - New York Giants Campeão no Super Bowl da Madonna|#16259]] - New York Giants Campeão no Super Bowl da Madonna
+- [[Posts/1626 - Um título em boas mãos|#1626]] - Um título em boas mãos
+- [[Posts/1627 - Grande Vice-Campeão da América|#1627]] - Grande Vice-Campeão da América · [[Posts/1627 - Grande Vice-Campeão da América#^comentario-21235|#21235]]
+- [[Posts/1627 - Grande Vice-Campeão da América|#1627]] - Grande Vice-Campeão da América · [[Posts/1627 - Grande Vice-Campeão da América#^comentario-21236|#21236]]
+- [[Posts/1627 - Grande Vice-Campeão da América|#1627]] - Grande Vice-Campeão da América
+- [[Posts/16280 - ‘Tô na Ponte. Foda-se Fluminense’|#16280]] - ‘Tô na Ponte. Foda-se Fluminense’ · [[Posts/16280 - ‘Tô na Ponte. Foda-se Fluminense’#^comentario-117863|#117863]]
+- [[Posts/16280 - ‘Tô na Ponte. Foda-se Fluminense’|#16280]] - ‘Tô na Ponte. Foda-se Fluminense’ · [[Posts/16280 - ‘Tô na Ponte. Foda-se Fluminense’#^comentario-117866|#117866]]
+- [[Posts/16280 - ‘Tô na Ponte. Foda-se Fluminense’|#16280]] - ‘Tô na Ponte. Foda-se Fluminense’
+- [[Posts/1629 - Protagonistas|#1629]] - Protagonistas
+- [[Posts/16296 - A Fox Sports Brasil não concorre com Antero Greco|#16296]] - A Fox Sports Brasil não concorre com Antero Greco
+- [[Posts/163 - Nanopops 2|#163]] - Nanopops 2
+- [[Posts/1630 - Rivais e Gozações|#1630]] - Rivais e Gozações · [[Posts/1630 - Rivais e Gozações#^comentario-21221|#21221]]
+- [[Posts/1630 - Rivais e Gozações|#1630]] - Rivais e Gozações · [[Posts/1630 - Rivais e Gozações#^comentario-21434|#21434]]
+- [[Posts/1630 - Rivais e Gozações|#1630]] - Rivais e Gozações
+- [[Posts/16309 - Libertadores Lanús estreia contra Flamengo|#16309]] - Libertadores: Lanús estreia contra Flamengo · [[Posts/16309 - Libertadores Lanús estreia contra Flamengo#^comentario-118621|#118621]]
+- [[Posts/16315 - Traquinagens do Adsense|#16315]] - Traquinagens do Adsense
+- [[Posts/16322 - Tem espaço para mais times no Campeonato Fluminense|#16322]] - Tem espaço para mais times no Campeonato Fluminense
+- [[Posts/1633 - O Grêmio entra na briga pelo título|#1633]] - O Grêmio entra na briga pelo título
+- [[Posts/16331 - BBG diz que Victor voltará a postar depois do Carnaval|#16331]] - BBG diz que Victor voltará a postar depois do Carnaval · [[Posts/16331 - BBG diz que Victor voltará a postar depois do Carnaval#^comentario-118927|#118927]]
+- [[Posts/16331 - BBG diz que Victor voltará a postar depois do Carnaval|#16331]] - BBG diz que Victor voltará a postar depois do Carnaval
+- [[Posts/16335 - Taça GB 2012 – Flamengo x Vasco|#16335]] - Taça GB 2012 – Flamengo x Vasco · [[Posts/16335 - Taça GB 2012 – Flamengo x Vasco#^comentario-118932|#118932]]
+- [[Posts/16335 - Taça GB 2012 – Flamengo x Vasco|#16335]] - Taça GB 2012 – Flamengo x Vasco · [[Posts/16335 - Taça GB 2012 – Flamengo x Vasco#^comentario-118980|#118980]]
+- [[Posts/1634 - Você acredita|#1634]] - Você acredita?
+- [[Posts/16342 - Taça GB 2012 – Botafogo x Fluminense|#16342]] - Taça GB 2012 – Botafogo x Fluminense · [[Posts/16342 - Taça GB 2012 – Botafogo x Fluminense#^comentario-119308|#119308]]
+- [[Posts/16342 - Taça GB 2012 – Botafogo x Fluminense|#16342]] - Taça GB 2012 – Botafogo x Fluminense
+- [[Posts/16346 - Botafogo 1×1 Fluminense Abençoado seja o VT|#16346]] - Botafogo 1×1 Fluminense: Abençoado seja o VT
+- [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)|#16355]] - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo) · [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)#^comentario-119330|#119330]]
+- [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)|#16355]] - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo) · [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)#^comentario-119331|#119331]]
+- [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)|#16355]] - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo) · [[Posts/16355 - Decisão da Taça GB 2012 – Fluminense x Vasco (Pré Jogo)#^comentario-119346|#119346]]
+- [[Posts/16362 - Fluminense Campeão da Taça GB 2012 Favoritismo confirmado|#16362]] - Fluminense Campeão da Taça GB 2012: Favoritismo confirmado · [[Posts/16362 - Fluminense Campeão da Taça GB 2012 Favoritismo confirmado#^comentario-119396|#119396]]
+- [[Posts/16362 - Fluminense Campeão da Taça GB 2012 Favoritismo confirmado|#16362]] - Fluminense Campeão da Taça GB 2012: Favoritismo confirmado
+- [[Posts/1637 - Um novo status|#1637]] - Um novo status · [[Posts/1637 - Um novo status#^comentario-21381|#21381]]
+- [[Posts/1637 - Um novo status|#1637]] - Um novo status
+- [[Posts/16376 - Pânico na RedeTV|#16376]] - Pânico na RedeTV
+- [[Posts/1638 - Entrega de paçoca|#1638]] - Entrega de paçoca · [[Posts/1638 - Entrega de paçoca#^comentario-21376|#21376]]
+- [[Posts/16382 - Heleno do Botafogo|#16382]] - Heleno do #Botafogo · [[Posts/16382 - Heleno do Botafogo#^comentario-119610|#119610]]
+- [[Posts/16384 - O silencioso gol de Barcos|#16384]] - O silencioso gol de Barcos · [[Posts/16384 - O silencioso gol de Barcos#^comentario-119666|#119666]]
+- [[Posts/16384 - O silencioso gol de Barcos|#16384]] - O silencioso gol de Barcos
+- [[Posts/164 - Porco|#164]] - Porco
+- [[Posts/16405 - Vasco x Alianza Lima Eu vejo|#16405]] - Vasco x Alianza Lima: Eu vejo · [[Posts/16405 - Vasco x Alianza Lima Eu vejo#^comentario-119848|#119848]]
+- [[Posts/16405 - Vasco x Alianza Lima Eu vejo|#16405]] - Vasco x Alianza Lima: Eu vejo · [[Posts/16405 - Vasco x Alianza Lima Eu vejo#^comentario-119849|#119849]]
+- [[Posts/16405 - Vasco x Alianza Lima Eu vejo|#16405]] - Vasco x Alianza Lima: Eu vejo · [[Posts/16405 - Vasco x Alianza Lima Eu vejo#^comentario-119852|#119852]]
+- [[Posts/16405 - Vasco x Alianza Lima Eu vejo|#16405]] - Vasco x Alianza Lima: Eu vejo
+- [[Posts/1641 - Weather Forecast rain!!!!|#1641]] - Weather Forecast: rain!!!! · [[Posts/1641 - Weather Forecast rain!!!!#^comentario-21378|#21378]]
+- [[Posts/1641 - Weather Forecast rain!!!!|#1641]] - Weather Forecast: rain!!!! · [[Posts/1641 - Weather Forecast rain!!!!#^comentario-21397|#21397]]
+- [[Posts/16412 - Mais um Boca Juniors x Fluminense para Lincoln de Castro|#16412]] - Mais um Boca Juniors x Fluminense para Lincoln de Castro
+- [[Posts/16413 - II Mundial Futevôlei four by four|#16413]] - II Mundial Futevôlei four by four · [[Posts/16413 - II Mundial Futevôlei four by four#^comentario-119882|#119882]]
+- [[Posts/1642 - Reverências aos Monstros|#1642]] - Reverências aos Monstros · [[Posts/1642 - Reverências aos Monstros#^comentario-21377|#21377]]
+- [[Posts/16435 - É dura a vida de quem seca o Fluminense|#16435]] - É dura a vida de quem seca o Fluminense
+- [[Posts/16443 - Ganhar do Boca é normal…|#16443]] - Ganhar do Boca é normal… · [[Posts/16443 - Ganhar do Boca é normal…#^comentario-119963|#119963]]
+- [[Posts/16443 - Ganhar do Boca é normal…|#16443]] - Ganhar do Boca é normal… · [[Posts/16443 - Ganhar do Boca é normal…#^comentario-119964|#119964]]
+- [[Posts/16443 - Ganhar do Boca é normal…|#16443]] - Ganhar do Boca é normal… · [[Posts/16443 - Ganhar do Boca é normal…#^comentario-122258|#122258]]
+- [[Posts/1645 - Vira-te, Fluminense|#1645]] - Vira-te, Fluminense
+- [[Posts/16455 - Na Lapa, Flamengo 1 x 0 Emelec|#16455]] - Na Lapa, Flamengo 1 x 0 Emelec · [[Posts/16455 - Na Lapa, Flamengo 1 x 0 Emelec#^comentario-120083|#120083]]
+- [[Posts/16470 - Paulo Victor|#16470]] - Paulo Victor???? · [[Posts/16470 - Paulo Victor#^comentario-120195|#120195]]
+- [[Posts/16470 - Paulo Victor|#16470]] - Paulo Victor???? · [[Posts/16470 - Paulo Victor#^comentario-120196|#120196]]
+- [[Posts/16470 - Paulo Victor|#16470]] - Paulo Victor???? · [[Posts/16470 - Paulo Victor#^comentario-120197|#120197]]
+- [[Posts/16478 - Da série Imagem que vale mais do que mil palavras|#16478]] - Da série: Imagem que vale mais do que mil palavras. · [[Posts/16478 - Da série Imagem que vale mais do que mil palavras#^comentario-121999|#121999]]
+- [[Posts/16483 - Copa do Mundo 2014 Tatu caminha dentro|#16483]] - Copa do Mundo 2014: Tatu caminha dentro? · [[Posts/16483 - Copa do Mundo 2014 Tatu caminha dentro#^comentario-120353|#120353]]
+- [[Posts/16488 - Renato Mauricio Prado e Adriano em “Havia um Luxemburgo no meu caminho”|#16488]] - Renato Mauricio Prado e Adriano em: “Havia um Luxemburgo no meu caminho”
+- [[Posts/1649 - Empate bom|#1649]] - Empate bom? · [[Posts/1649 - Empate bom#^comentario-21665|#21665]]
+- [[Posts/165 - O Cara|#165]] - O Cara · [[Posts/165 - O Cara#^comentario-12273|#12273]]
+- [[Posts/16514 - Engenhazo|#16514]] - Engenhazo · [[Posts/16514 - Engenhazo#^comentario-120587|#120587]]
+- [[Posts/16514 - Engenhazo|#16514]] - Engenhazo · [[Posts/16514 - Engenhazo#^comentario-120601|#120601]]
+- [[Posts/1652 - Vou torcer pro Vasco ser campeão!|#1652]] - Vou torcer pro Vasco ser campeão! · [[Posts/1652 - Vou torcer pro Vasco ser campeão!#^comentario-21930|#21930]]
+- [[Posts/16523 - Botafogo X Vasco – Erreteie HelenoVive e concorra a um par de ingressos|#16523]] - Botafogo X Vasco – Erreteie #HelenoVive e concorra a um par de ingressos · [[Posts/16523 - Botafogo X Vasco – Erreteie HelenoVive e concorra a um par de ingressos#^comentario-121580|#121580]]
+- [[Posts/16523 - Botafogo X Vasco – Erreteie HelenoVive e concorra a um par de ingressos|#16523]] - Botafogo X Vasco – Erreteie #HelenoVive e concorra a um par de ingressos
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO? · [[Posts/16536 - Telecine ou HBO#^comentario-130997|#130997]]
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO? · [[Posts/16536 - Telecine ou HBO#^comentario-137702|#137702]]
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO? · [[Posts/16536 - Telecine ou HBO#^comentario-145355|#145355]]
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO? · [[Posts/16536 - Telecine ou HBO#^comentario-149633|#149633]]
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO? · [[Posts/16536 - Telecine ou HBO#^comentario-172379|#172379]]
+- [[Posts/16536 - Telecine ou HBO|#16536]] - Telecine ou HBO?
+- [[Posts/16546 - Foi dada a largada para a temporada 2012|#16546]] - Foi dada a largada para a temporada 2012 · [[Posts/16546 - Foi dada a largada para a temporada 2012#^comentario-121234|#121234]]
+- [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta|#1655]] - Ney Franco assume o Fogão – o Gaburah está de volta · [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta#^comentario-21968|#21968]]
+- [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta|#1655]] - Ney Franco assume o Fogão – o Gaburah está de volta · [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta#^comentario-21969|#21969]]
+- [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta|#1655]] - Ney Franco assume o Fogão – o Gaburah está de volta · [[Posts/1655 - Ney Franco assume o Fogão – o Gaburah está de volta#^comentario-22008|#22008]]
+- [[Posts/16550 - PÓS-JOGO ATÉ MEIA-NOITE|#16550]] - PÓS-JOGO ATÉ MEIA-NOITE · [[Posts/16550 - PÓS-JOGO ATÉ MEIA-NOITE#^comentario-121390|#121390]]
+- [[Posts/16575 - Homenagem Tripla|#16575]] - Homenagem Tripla · [[Posts/16575 - Homenagem Tripla#^comentario-121822|#121822]]
+- [[Posts/16584 - Alonso em dia de super-herói|#16584]] - Alonso em dia de super-herói · [[Posts/16584 - Alonso em dia de super-herói#^comentario-122002|#122002]]
+- [[Posts/16585 - Quem topa discutir o futebol de Ricardo Teixeira|#16585]] - Quem topa discutir o futebol de Ricardo Teixeira?
+- [[Posts/1659 - A realidade está no placar|#1659]] - A realidade está no placar
+- [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions|#16601]] - Preliminar: Milan x Barça – quartas da Champions · [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions#^comentario-122106|#122106]]
+- [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions|#16601]] - Preliminar: Milan x Barça – quartas da Champions · [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions#^comentario-122710|#122710]]
+- [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions|#16601]] - Preliminar: Milan x Barça – quartas da Champions · [[Posts/16601 - Preliminar Milan x Barça – quartas da Champions#^comentario-122736|#122736]]
+- [[Posts/16606 - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta|#16606]] - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta · [[Posts/16606 - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta#^comentario-122311|#122311]]
+- [[Posts/16606 - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta|#16606]] - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta · [[Posts/16606 - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta#^comentario-122380|#122380]]
+- [[Posts/16606 - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta|#16606]] - Aplaudam o Fluminense telecoteco, bando de Filhos da Puta
+- [[Posts/16618 - For whom the balls tolls|#16618]] - For whom the balls tolls? · [[Posts/16618 - For whom the balls tolls#^comentario-122437|#122437]]
+- [[Posts/1663 - Convocação Geral|#1663]] - Convocação Geral · [[Posts/1663 - Convocação Geral#^comentario-22281|#22281]]
+- [[Posts/16638 - Loco + Love + Fred + R10 + Deco Juninho|#16638]] - Loco + Love + Fred + R10 + Deco \< Juninho. · [[Posts/16638 - Loco + Love + Fred + R10 + Deco Juninho#^comentario-122405|#122405]]
+- [[Posts/16644 - Cachorro não acessa Facebook|#16644]] - Cachorro não acessa Facebook?
+- [[Posts/1666 - Que o Palmeiras vá bem|#1666]] - Que o Palmeiras vá bem
+- [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA|#16666]] - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA · [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA#^comentario-122889|#122889]]
+- [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA|#16666]] - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA · [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA#^comentario-123526|#123526]]
+- [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA|#16666]] - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA · [[Posts/16666 - DESTRINCHANDO OS MEANDROS DA SEDE BLABLAGOLIANA#^comentario-148631|#148631]]
+- [[Posts/1668 - Musas|#1668]] - Musas · [[Posts/1668 - Musas#^comentario-22401|#22401]]
+- [[Posts/16693 - O Sócrates sem hype|#16693]] - O Sócrates sem hype · [[Posts/16693 - O Sócrates sem hype#^comentario-123414|#123414]]
+- [[Posts/167 - Palmeiras e Fluminense Campeões do Mundo!|#167]] - Palmeiras e Fluminense Campeões do Mundo! · [[Posts/167 - Palmeiras e Fluminense Campeões do Mundo!#^comentario-14568|#14568]]
+- [[Posts/167 - Palmeiras e Fluminense Campeões do Mundo!|#167]] - Palmeiras e Fluminense Campeões do Mundo! · [[Posts/167 - Palmeiras e Fluminense Campeões do Mundo!#^comentario-20960|#20960]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-123669|#123669]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-123675|#123675]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-123680|#123680]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-123688|#123688]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-123713|#123713]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo · [[Posts/16706 - Os 8 pontos do Flamengo#^comentario-128161|#128161]]
+- [[Posts/16706 - Os 8 pontos do Flamengo|#16706]] - Os 8 pontos do Flamengo
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123537|#123537]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123538|#123538]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123542|#123542]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123543|#123543]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123546|#123546]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123556|#123556]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123559|#123559]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123577|#123577]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera · [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera#^comentario-123582|#123582]]
+- [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|#16717]] - Fluminense x Boca: Um festivo jogo à vera
+- [[Posts/1672 - A grande tristeza|#1672]] - A grande tristeza
+- [[Posts/16726 - “Gol do Emelec ”|#16726]] - “Gol do Emelec?” · [[Posts/16726 - “Gol do Emelec ”#^comentario-123780|#123780]]
+- [[Posts/1673 - Quando a seleção não é o que interessa|#1673]] - Quando a seleção não é o que interessa · [[Posts/1673 - Quando a seleção não é o que interessa#^comentario-22479|#22479]]
+- [[Posts/16738 - Túlio maior que Zico e Dinamite!|#16738]] - Túlio maior que Zico e Dinamite! · [[Posts/16738 - Túlio maior que Zico e Dinamite!#^comentario-123928|#123928]]
+- [[Posts/16738 - Túlio maior que Zico e Dinamite!|#16738]] - Túlio maior que Zico e Dinamite! · [[Posts/16738 - Túlio maior que Zico e Dinamite!#^comentario-123931|#123931]]
+- [[Posts/16751 - Deutschland über alles|#16751]] - Deutschland über alles · [[Posts/16751 - Deutschland über alles#^comentario-124409|#124409]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais · [[Posts/16754 - UCL 2011 2012 Semifinais#^comentario-125330|#125330]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais · [[Posts/16754 - UCL 2011 2012 Semifinais#^comentario-125359|#125359]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais · [[Posts/16754 - UCL 2011 2012 Semifinais#^comentario-125363|#125363]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais · [[Posts/16754 - UCL 2011 2012 Semifinais#^comentario-125577|#125577]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais · [[Posts/16754 - UCL 2011 2012 Semifinais#^comentario-125798|#125798]]
+- [[Posts/16754 - UCL 2011 2012 Semifinais|#16754]] - UCL 2011/2012: Semifinais
+- [[Posts/16769 - Enfim começa a Copa do Brasil|#16769]] - Enfim começa a Copa do Brasil · [[Posts/16769 - Enfim começa a Copa do Brasil#^comentario-124936|#124936]]
+- [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012|#16779]] - Péricles Bassols apita a Final do Carioca 2012 · [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012#^comentario-124807|#124807]]
+- [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012|#16779]] - Péricles Bassols apita a Final do Carioca 2012 · [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012#^comentario-124877|#124877]]
+- [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012|#16779]] - Péricles Bassols apita a Final do Carioca 2012 · [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012#^comentario-124951|#124951]]
+- [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012|#16779]] - Péricles Bassols apita a Final do Carioca 2012 · [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012#^comentario-125963|#125963]]
+- [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012|#16779]] - Péricles Bassols apita a Final do Carioca 2012 · [[Posts/16779 - Péricles Bassols apita a Final do Carioca 2012#^comentario-126238|#126238]]
+- [[Posts/16792 - O touro vermelho mostra os chifres no deserto|#16792]] - O touro vermelho mostra os chifres no deserto · [[Posts/16792 - O touro vermelho mostra os chifres no deserto#^comentario-125475|#125475]]
+- [[Posts/168 - Passeio|#168]] - Passeio
+- [[Posts/16803 - Quanto tempo teu time precisa que o Flamengo fique de férias|#16803]] - Quanto tempo teu time precisa que o Flamengo fique de férias? · [[Posts/16803 - Quanto tempo teu time precisa que o Flamengo fique de férias#^comentario-125481|#125481]]
+- [[Posts/16803 - Quanto tempo teu time precisa que o Flamengo fique de férias|#16803]] - Quanto tempo teu time precisa que o Flamengo fique de férias? · [[Posts/16803 - Quanto tempo teu time precisa que o Flamengo fique de férias#^comentario-125672|#125672]]
+- [[Posts/1684 - Perdido no Espaço|#1684]] - Perdido no Espaço · [[Posts/1684 - Perdido no Espaço#^comentario-22505|#22505]]
+- [[Posts/16856 - Internacional 0×0 Fluminense Que matemática é essa|#16856]] - Internacional 0×0 Fluminense: Que matemática é essa? · [[Posts/16856 - Internacional 0×0 Fluminense Que matemática é essa#^comentario-125758|#125758]]
+- [[Posts/16856 - Internacional 0×0 Fluminense Que matemática é essa|#16856]] - Internacional 0×0 Fluminense: Que matemática é essa?
+- [[Posts/169 - Copa 2014 – Jabá|#169]] - Copa 2014 – Jabá
+- [[Posts/16922 - Sergipe 0×1 Confiança Quarta de futebol brasileiro puro|#16922]] - Sergipe 0×1 Confiança: Quarta de futebol brasileiro puro · [[Posts/16922 - Sergipe 0×1 Confiança Quarta de futebol brasileiro puro#^comentario-126230|#126230]]
+- [[Posts/16922 - Sergipe 0×1 Confiança Quarta de futebol brasileiro puro|#16922]] - Sergipe 0×1 Confiança: Quarta de futebol brasileiro puro
+- [[Posts/1693 - A primeira vez a gente nunca esquece|#1693]] - A primeira vez a gente nunca esquece · [[Posts/1693 - A primeira vez a gente nunca esquece#^comentario-22525|#22525]]
+- [[Posts/17 - A dupla R-R do Flu|#17]] - A dupla R-R do Flu
+- [[Posts/17017 - Alguém viu Dorival por aí|#17017]] - Alguém viu Dorival por aí?
+- [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona|#17034]] - BREAKING NEWS: Hamilton perde a pole em Barcelona · [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona#^comentario-127233|#127233]]
+- [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona|#17034]] - BREAKING NEWS: Hamilton perde a pole em Barcelona · [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona#^comentario-127243|#127243]]
+- [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona|#17034]] - BREAKING NEWS: Hamilton perde a pole em Barcelona · [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona#^comentario-127259|#127259]]
+- [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona|#17034]] - BREAKING NEWS: Hamilton perde a pole em Barcelona · [[Posts/17034 - BREAKING NEWS Hamilton perde a pole em Barcelona#^comentario-127268|#127268]]
+- [[Posts/171 - Naturalmente…|#171]] - Naturalmente…
+- [[Posts/17117 - Carlinhos não aprendeu com Lucas|#17117]] - Carlinhos não aprendeu com Lucas · [[Posts/17117 - Carlinhos não aprendeu com Lucas#^comentario-127964|#127964]]
+- [[Posts/17117 - Carlinhos não aprendeu com Lucas|#17117]] - Carlinhos não aprendeu com Lucas · [[Posts/17117 - Carlinhos não aprendeu com Lucas#^comentario-128014|#128014]]
+- [[Posts/17117 - Carlinhos não aprendeu com Lucas|#17117]] - Carlinhos não aprendeu com Lucas
+- [[Posts/17131 - UCL 2011 2012 A Final|#17131]] - UCL 2011/2012: A Final · [[Posts/17131 - UCL 2011 2012 A Final#^comentario-128047|#128047]]
+- [[Posts/17131 - UCL 2011 2012 A Final|#17131]] - UCL 2011/2012: A Final · [[Posts/17131 - UCL 2011 2012 A Final#^comentario-128153|#128153]]
+- [[Posts/17131 - UCL 2011 2012 A Final|#17131]] - UCL 2011/2012: A Final
+- [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí|#17141]] - HERRERA \>\>\>\> Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí · [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí#^comentario-128191|#128191]]
+- [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí|#17141]] - HERRERA \>\>\>\> Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí · [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí#^comentario-128211|#128211]]
+- [[Posts/17141 - HERRERA Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí|#17141]] - HERRERA \>\>\>\> Deco + Juninho + Fred + Leandro Damião + Neyminho + Vagner Love + qualquer porra dessas aí
+- [[Posts/17146 - Fim de um continental…|#17146]] - Fim de um continental… · [[Posts/17146 - Fim de um continental…#^comentario-128212|#128212]]
+- [[Posts/172 - Precedente|#172]] - Precedente
+- [[Posts/17233 - Show do Intervalo BBG|#17233]] - Show do Intervalo BBG · [[Posts/17233 - Show do Intervalo BBG#^comentario-128869|#128869]]
+- [[Posts/17233 - Show do Intervalo BBG|#17233]] - Show do Intervalo BBG · [[Posts/17233 - Show do Intervalo BBG#^comentario-128871|#128871]]
+- [[Posts/17233 - Show do Intervalo BBG|#17233]] - Show do Intervalo BBG · [[Posts/17233 - Show do Intervalo BBG#^comentario-128873|#128873]]
+- [[Posts/17233 - Show do Intervalo BBG|#17233]] - Show do Intervalo BBG
+- [[Posts/17249 - TimePress – 1ºsem 2012|#17249]] - TimePress – 1ºsem/2012 · [[Posts/17249 - TimePress – 1ºsem 2012#^comentario-128993|#128993]]
+- [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress|#17286]] - #FicaRonaldinho – e CHUPA #Flapress · [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress#^comentario-129571|#129571]]
+- [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress|#17286]] - #FicaRonaldinho – e CHUPA #Flapress · [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress#^comentario-129647|#129647]]
+- [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress|#17286]] - #FicaRonaldinho – e CHUPA #Flapress · [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress#^comentario-129652|#129652]]
+- [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress|#17286]] - #FicaRonaldinho – e CHUPA #Flapress · [[Posts/17286 - FicaRonaldinho – e CHUPA Flapress#^comentario-129656|#129656]]
+- [[Posts/173 - Copa do Brasil|#173]] - Copa do Brasil
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices · [[Posts/17305 - Bloguices#^comentario-130814|#130814]]
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices · [[Posts/17305 - Bloguices#^comentario-133152|#133152]]
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices · [[Posts/17305 - Bloguices#^comentario-133155|#133155]]
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices · [[Posts/17305 - Bloguices#^comentario-133642|#133642]]
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices · [[Posts/17305 - Bloguices#^comentario-134153|#134153]]
+- [[Posts/17305 - Bloguices|#17305]] - Bloguices
+- [[Posts/17320 - Penis najlepiej odzwierciedla poglądy i pomysły UEFA na Euro 2012 na Ukrainie i w Polsce|#17320]] - Penis najlepiej odzwierciedla poglądy i pomysły UEFA na Euro 2012 na Ukrainie i w Polsce
+- [[Posts/1733 - OFF-TOPIC BLÁBLÁ CHICO DESAPARECIDO EM NITERÓI|#1733]] - OFF-TOPIC BLÁBLÁ: CHICO DESAPARECIDO EM NITERÓI · [[Posts/1733 - OFF-TOPIC BLÁBLÁ CHICO DESAPARECIDO EM NITERÓI#^comentario-22685|#22685]]
+- [[Posts/1733 - OFF-TOPIC BLÁBLÁ CHICO DESAPARECIDO EM NITERÓI|#1733]] - OFF-TOPIC BLÁBLÁ: CHICO DESAPARECIDO EM NITERÓI · [[Posts/1733 - OFF-TOPIC BLÁBLÁ CHICO DESAPARECIDO EM NITERÓI#^comentario-22735|#22735]]
+- [[Posts/17339 - Draw Something|#17339]] - Draw Something
+- [[Posts/17362 - O investimento de Ibson|#17362]] - O investimento de Ibson · [[Posts/17362 - O investimento de Ibson#^comentario-130767|#130767]]
+- [[Posts/17362 - O investimento de Ibson|#17362]] - O investimento de Ibson · [[Posts/17362 - O investimento de Ibson#^comentario-157460|#157460]]
+- [[Posts/17362 - O investimento de Ibson|#17362]] - O investimento de Ibson
+- [[Posts/17375 - 1º Encontro Blablagoliano 2012 Os 12 Trabalhos|#17375]] - 1º Encontro Blablagoliano 2012: Os 12 Trabalhos · [[Posts/17375 - 1º Encontro Blablagoliano 2012 Os 12 Trabalhos#^comentario-130892|#130892]]
+- [[Posts/17375 - 1º Encontro Blablagoliano 2012 Os 12 Trabalhos|#17375]] - 1º Encontro Blablagoliano 2012: Os 12 Trabalhos · [[Posts/17375 - 1º Encontro Blablagoliano 2012 Os 12 Trabalhos#^comentario-131034|#131034]]
+- [[Posts/17375 - 1º Encontro Blablagoliano 2012 Os 12 Trabalhos|#17375]] - 1º Encontro Blablagoliano 2012: Os 12 Trabalhos
+- [[Posts/17395 - Noche de Locura|#17395]] - Noche de Locura · [[Posts/17395 - Noche de Locura#^comentario-131068|#131068]]
+- [[Posts/17395 - Noche de Locura|#17395]] - Noche de Locura · [[Posts/17395 - Noche de Locura#^comentario-133090|#133090]]
+- [[Posts/174 - Libertadores|#174]] - Libertadores
+- [[Posts/17407 - Primeiro Encontro Gaúcho do Blá blá Gol|#17407]] - Primeiro Encontro Gaúcho do Blá blá Gol · [[Posts/17407 - Primeiro Encontro Gaúcho do Blá blá Gol#^comentario-131201|#131201]]
+- [[Posts/17416 - Mercado Potencial do Eixo|#17416]] - Mercado Potencial do Eixo · [[Posts/17416 - Mercado Potencial do Eixo#^comentario-131257|#131257]]
+- [[Posts/17416 - Mercado Potencial do Eixo|#17416]] - Mercado Potencial do Eixo · [[Posts/17416 - Mercado Potencial do Eixo#^comentario-131720|#131720]]
+- [[Posts/17424 - Os potenciais de Engenhão, Laranjeiras e afins|#17424]] - Os potenciais de Engenhão, Laranjeiras e afins
+- [[Posts/1744 - Ainda tem Pequim pela frente|#1744]] - Ainda tem Pequim pela frente · [[Posts/1744 - Ainda tem Pequim pela frente#^comentario-22792|#22792]]
+- [[Posts/17442 - Euro2012 Rio+20|#17442]] - Euro2012 \> Rio+20
+- [[Posts/175 - Jabá|#175]] - Jabá
+- [[Posts/17529 - Seedorf no Botafogo|#17529]] - Seedorf no Botafogo · [[Posts/17529 - Seedorf no Botafogo#^comentario-132568|#132568]]
+- [[Posts/17529 - Seedorf no Botafogo|#17529]] - Seedorf no Botafogo · [[Posts/17529 - Seedorf no Botafogo#^comentario-133175|#133175]]
+- [[Posts/17529 - Seedorf no Botafogo|#17529]] - Seedorf no Botafogo · [[Posts/17529 - Seedorf no Botafogo#^comentario-133457|#133457]]
+- [[Posts/1754 - Rodada quente (e não é a de Doha)|#1754]] - Rodada quente (e não é a de Doha) · [[Posts/1754 - Rodada quente (e não é a de Doha)#^comentario-22829|#22829]]
+- [[Posts/1754 - Rodada quente (e não é a de Doha)|#1754]] - Rodada quente (e não é a de Doha) · [[Posts/1754 - Rodada quente (e não é a de Doha)#^comentario-22834|#22834]]
+- [[Posts/17553 - Acabou a festa das Sardinhas|#17553]] - Acabou a festa das Sardinhas
+- [[Posts/17558 - Copa do Brasil 2012 Final|#17558]] - Copa do Brasil 2012: Final
+- [[Posts/17564 - INDEPENDENCE DAY|#17564]] - INDEPENDENCE DAY · [[Posts/17564 - INDEPENDENCE DAY#^comentario-133144|#133144]]
+- [[Posts/17564 - INDEPENDENCE DAY|#17564]] - INDEPENDENCE DAY · [[Posts/17564 - INDEPENDENCE DAY#^comentario-133880|#133880]]
+- [[Posts/17579 - O Fluminense x Flamengo da 8ª rodada|#17579]] - O Fluminense x Flamengo da 8ª rodada
+- [[Posts/1758 - Quem eu vou crucificar|#1758]] - Quem eu vou crucificar?
+- [[Posts/17586 - O UFC é errado!|#17586]] - O UFC é errado! · [[Posts/17586 - O UFC é errado!#^comentario-133378|#133378]]
+- [[Posts/17586 - O UFC é errado!|#17586]] - O UFC é errado! · [[Posts/17586 - O UFC é errado!#^comentario-133928|#133928]]
+- [[Posts/17586 - O UFC é errado!|#17586]] - O UFC é errado! · [[Posts/17586 - O UFC é errado!#^comentario-143573|#143573]]
+- [[Posts/17586 - O UFC é errado!|#17586]] - O UFC é errado!
+- [[Posts/176 - Gênio|#176]] - Gênio
+- [[Posts/17640 - BR2012 – 10ª Rodada|#17640]] - BR2012 – 10ª Rodada · [[Posts/17640 - BR2012 – 10ª Rodada#^comentario-134157|#134157]]
+- [[Posts/17686 - BR2012 – 15ª Rodada|#17686]] - BR2012 – 15ª Rodada · [[Posts/17686 - BR2012 – 15ª Rodada#^comentario-136379|#136379]]
+- [[Posts/17686 - BR2012 – 15ª Rodada|#17686]] - BR2012 – 15ª Rodada · [[Posts/17686 - BR2012 – 15ª Rodada#^comentario-136616|#136616]]
+- [[Posts/17686 - BR2012 – 15ª Rodada|#17686]] - BR2012 – 15ª Rodada · [[Posts/17686 - BR2012 – 15ª Rodada#^comentario-136760|#136760]]
+- [[Posts/177 - Felipe, una Massa|#177]] - Felipe, una Massa
+- [[Posts/1776 - A diferença do craque na hora de decidir|#1776]] - A diferença do craque na hora de decidir · [[Posts/1776 - A diferença do craque na hora de decidir#^comentario-22914|#22914]]
+- [[Posts/17787 - OiOiOi – Dia do Amigo|#17787]] - #OiOiOi – Dia do Amigo
+- [[Posts/178 - Camp Nou – Reforma|#178]] - Camp Nou – Reforma
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135159|#135159]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135173|#135173]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135207|#135207]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135275|#135275]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135307|#135307]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135897|#135897]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-135899|#135899]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-136017|#136017]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-136022|#136022]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-136206|#136206]]
+- [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012|#17828]] - OlimPIADAS BLÁ BLÁ GOL 2012 · [[Posts/17828 - OlimPIADAS BLÁ BLÁ GOL 2012#^comentario-136548|#136548]]
+- [[Posts/1785 - Picardia da tabela|#1785]] - Picardia da tabela
+- [[Posts/17851 - Brasil Potência Olímpica|#17851]] - Brasil: Potência Olímpica
+- [[Posts/17877 - Volei de Praia|#17877]] - Volei de Praia · [[Posts/17877 - Volei de Praia#^comentario-135451|#135451]]
+- [[Posts/179 - O desperdício do Fluminense|#179]] - O desperdício do Fluminense
+- [[Posts/17928 - Uma outra olhada no resultado Olímpico|#17928]] - Uma outra olhada no resultado Olímpico
+- [[Posts/17939 - O uniforme maneiraço de 58 que ninguém sabe, ninguém viu|#17939]] - O uniforme maneiraço de 58 que ninguém sabe, ninguém viu
+- [[Posts/17975 - Obrigado, Futebol!|#17975]] - Obrigado, Futebol! · [[Posts/17975 - Obrigado, Futebol!#^comentario-137538|#137538]]
+- [[Posts/17975 - Obrigado, Futebol!|#17975]] - Obrigado, Futebol! · [[Posts/17975 - Obrigado, Futebol!#^comentario-137539|#137539]]
+- [[Posts/17975 - Obrigado, Futebol!|#17975]] - Obrigado, Futebol! · [[Posts/17975 - Obrigado, Futebol!#^comentario-177579|#177579]]
+- [[Posts/17975 - Obrigado, Futebol!|#17975]] - Obrigado, Futebol!
+- [[Posts/1805 - Beatle Week 2008 – Aquecendo as turbinas|#1805]] - Beatle Week 2008 – Aquecendo as turbinas · [[Posts/1805 - Beatle Week 2008 – Aquecendo as turbinas#^comentario-23020|#23020]]
+- [[Posts/1805 - Beatle Week 2008 – Aquecendo as turbinas|#1805]] - Beatle Week 2008 – Aquecendo as turbinas
+- [[Posts/18062 - BR2012 – 20ª Rodada|#18062]] - BR2012 – 20ª Rodada · [[Posts/18062 - BR2012 – 20ª Rodada#^comentario-137875|#137875]]
+- [[Posts/18062 - BR2012 – 20ª Rodada|#18062]] - BR2012 – 20ª Rodada · [[Posts/18062 - BR2012 – 20ª Rodada#^comentario-137951|#137951]]
+- [[Posts/18062 - BR2012 – 20ª Rodada|#18062]] - BR2012 – 20ª Rodada · [[Posts/18062 - BR2012 – 20ª Rodada#^comentario-138036|#138036]]
+- [[Posts/18064 - BR2012 – 21ª Rodada|#18064]] - BR2012 – 21ª Rodada · [[Posts/18064 - BR2012 – 21ª Rodada#^comentario-138098|#138098]]
+- [[Posts/18065 - BR2012 – 22ª Rodada|#18065]] - BR2012 – 22ª Rodada · [[Posts/18065 - BR2012 – 22ª Rodada#^comentario-138382|#138382]]
+- [[Posts/18066 - BR2012 – 23ª Rodada|#18066]] - BR2012 – 23ª Rodada · [[Posts/18066 - BR2012 – 23ª Rodada#^comentario-138881|#138881]]
+- [[Posts/18102 - Grupos da UEFA Champions League 2012 2013|#18102]] - Grupos da UEFA Champions League 2012/2013 · [[Posts/18102 - Grupos da UEFA Champions League 2012 2013#^comentario-156396|#156396]]
+- [[Posts/18102 - Grupos da UEFA Champions League 2012 2013|#18102]] - Grupos da UEFA Champions League 2012/2013 · [[Posts/18102 - Grupos da UEFA Champions League 2012 2013#^comentario-157817|#157817]]
+- [[Posts/18102 - Grupos da UEFA Champions League 2012 2013|#18102]] - Grupos da UEFA Champions League 2012/2013 · [[Posts/18102 - Grupos da UEFA Champions League 2012 2013#^comentario-158395|#158395]]
+- [[Posts/18102 - Grupos da UEFA Champions League 2012 2013|#18102]] - Grupos da UEFA Champions League 2012/2013 · [[Posts/18102 - Grupos da UEFA Champions League 2012 2013#^comentario-160441|#160441]]
+- [[Posts/18117 - Crise no relacionamento|#18117]] - Crise no relacionamento · [[Posts/18117 - Crise no relacionamento#^comentario-138326|#138326]]
+- [[Posts/18117 - Crise no relacionamento|#18117]] - Crise no relacionamento · [[Posts/18117 - Crise no relacionamento#^comentario-139430|#139430]]
+- [[Posts/18117 - Crise no relacionamento|#18117]] - Crise no relacionamento · [[Posts/18117 - Crise no relacionamento#^comentario-141981|#141981]]
+- [[Posts/18117 - Crise no relacionamento|#18117]] - Crise no relacionamento
+- [[Posts/18131 - Túlio Maravilha na aba do sucesso do Blá blá Gol|#18131]] - Túlio Maravilha na aba do sucesso do Blá blá Gol
+- [[Posts/18140 - Button contra-ataca|#18140]] - Button contra-ataca · [[Posts/18140 - Button contra-ataca#^comentario-138566|#138566]]
+- [[Posts/18182 - “Temporada Blá blá Gol” – NFL 2012 2013|#18182]] - “Temporada Blá blá Gol” – NFL 2012/2013 · [[Posts/18182 - “Temporada Blá blá Gol” – NFL 2012 2013#^comentario-139590|#139590]]
+- [[Posts/18182 - “Temporada Blá blá Gol” – NFL 2012 2013|#18182]] - “Temporada Blá blá Gol” – NFL 2012/2013 · [[Posts/18182 - “Temporada Blá blá Gol” – NFL 2012 2013#^comentario-146654|#146654]]
+- [[Posts/18218 - A revenda das Cativas|#18218]] - A revenda das Cativas
+- [[Posts/18247 - Santos não travou a venda de Ganso|#18247]] - Santos não travou a venda de Ganso · [[Posts/18247 - Santos não travou a venda de Ganso#^comentario-139851|#139851]]
+- [[Posts/18247 - Santos não travou a venda de Ganso|#18247]] - Santos não travou a venda de Ganso · [[Posts/18247 - Santos não travou a venda de Ganso#^comentario-139999|#139999]]
+- [[Posts/18247 - Santos não travou a venda de Ganso|#18247]] - Santos não travou a venda de Ganso
+- [[Posts/18255 - Tenório contra o Cruzeiro Gol regular ou irregular|#18255]] - Tenório contra o Cruzeiro: Gol regular ou irregular?
+- [[Posts/18303 - O duelo Zeropontista da F1|#18303]] - O duelo Zeropontista da F1 · [[Posts/18303 - O duelo Zeropontista da F1#^comentario-140682|#140682]]
+- [[Posts/18328 - BR2012 – 27ª Rodada|#18328]] - BR2012 – 27ª Rodada · [[Posts/18328 - BR2012 – 27ª Rodada#^comentario-140963|#140963]]
+- [[Posts/18328 - BR2012 – 27ª Rodada|#18328]] - BR2012 – 27ª Rodada · [[Posts/18328 - BR2012 – 27ª Rodada#^comentario-140973|#140973]]
+- [[Posts/18328 - BR2012 – 27ª Rodada|#18328]] - BR2012 – 27ª Rodada · [[Posts/18328 - BR2012 – 27ª Rodada#^comentario-140986|#140986]]
+- [[Posts/1836 - Lance ou Jornal dos Sports|#1836]] - Lance ou Jornal dos Sports? · [[Posts/1836 - Lance ou Jornal dos Sports#^comentario-23050|#23050]]
+- [[Posts/18376 - BR2012 – 28ª Rodada|#18376]] - BR2012 – 28ª Rodada · [[Posts/18376 - BR2012 – 28ª Rodada#^comentario-141531|#141531]]
+- [[Posts/18376 - BR2012 – 28ª Rodada|#18376]] - BR2012 – 28ª Rodada · [[Posts/18376 - BR2012 – 28ª Rodada#^comentario-141533|#141533]]
+- [[Posts/18381 - O último adeus de Schumacher|#18381]] - O último adeus de Schumacher · [[Posts/18381 - O último adeus de Schumacher#^comentario-141631|#141631]]
+- [[Posts/18381 - O último adeus de Schumacher|#18381]] - O último adeus de Schumacher · [[Posts/18381 - O último adeus de Schumacher#^comentario-141759|#141759]]
+- [[Posts/18397 - Fluminense 2008, 2010 e 2012|#18397]] - Fluminense 2008, 2010 e 2012
+- [[Posts/184 - Referência (e elogiosa)|#184]] - Referência (e elogiosa)
+- [[Posts/1840 - Vasco da Gama|#1840]] - Vasco da Gama · [[Posts/1840 - Vasco da Gama#^comentario-23062|#23062]]
+- [[Posts/18405 - R$35.000,00 para Saulo Kfouri|#18405]] - R$35.000,00 para Saulo Kfouri
+- [[Posts/18432 - Fluminense Campeão Brasileiro 2012|#18432]] - Fluminense Campeão Brasileiro 2012
+- [[Posts/1844 - Para que a choradeira|#1844]] - Para que a choradeira? · [[Posts/1844 - Para que a choradeira#^comentario-23083|#23083]]
+- [[Posts/1844 - Para que a choradeira|#1844]] - Para que a choradeira?
+- [[Posts/1846 - Que vá além de Nota Oficial|#1846]] - Que vá além de Nota Oficial
+- [[Posts/18475 - Parem tudo que hoje tem Botafogo x Vasco pelo Brasileirão|#18475]] - Parem tudo que hoje tem Botafogo x Vasco pelo Brasileirão
+- [[Posts/18482 - A Niterói’s guy playing Soccer|#18482]] - A Niterói’s guy playing Soccer
+- [[Posts/185 - Nanopops – respostas|#185]] - Nanopops – respostas
+- [[Posts/1851 - A bruxa tá solta, mas a culpa não é só dela|#1851]] - A bruxa tá solta, mas a culpa não é só dela · [[Posts/1851 - A bruxa tá solta, mas a culpa não é só dela#^comentario-23099|#23099]]
+- [[Posts/18533 - BR2012 – 33ª Rodada|#18533]] - BR2012 – 33ª Rodada · [[Posts/18533 - BR2012 – 33ª Rodada#^comentario-143222|#143222]]
+- [[Posts/18533 - BR2012 – 33ª Rodada|#18533]] - BR2012 – 33ª Rodada · [[Posts/18533 - BR2012 – 33ª Rodada#^comentario-143693|#143693]]
+- [[Posts/18550 - O roubo do Beira-Rio|#18550]] - O roubo do Beira-Rio · [[Posts/18550 - O roubo do Beira-Rio#^comentario-143370|#143370]]
+- [[Posts/18550 - O roubo do Beira-Rio|#18550]] - O roubo do Beira-Rio
+- [[Posts/18580 - É para a anulação da porra toda|#18580]] - É para a anulação da porra toda
+- [[Posts/18582 - Por quem torcem os torcedores dos Eugenistas|#18582]] - Por quem torcem os torcedores dos Eugenistas · [[Posts/18582 - Por quem torcem os torcedores dos Eugenistas#^comentario-143670|#143670]]
+- [[Posts/18582 - Por quem torcem os torcedores dos Eugenistas|#18582]] - Por quem torcem os torcedores dos Eugenistas
+- [[Posts/18598 - O Torcedor|#18598]] - O Torcedor
+- [[Posts/186 - Cuca , Saci e Boi da cara preta|#186]] - Cuca , Saci e Boi da cara preta
+- [[Posts/18604 - BR2012 – 34ª Rodada|#18604]] - BR2012 – 34ª Rodada · [[Posts/18604 - BR2012 – 34ª Rodada#^comentario-143841|#143841]]
+- [[Posts/18604 - BR2012 – 34ª Rodada|#18604]] - BR2012 – 34ª Rodada · [[Posts/18604 - BR2012 – 34ª Rodada#^comentario-143842|#143842]]
+- [[Posts/18604 - BR2012 – 34ª Rodada|#18604]] - BR2012 – 34ª Rodada · [[Posts/18604 - BR2012 – 34ª Rodada#^comentario-144028|#144028]]
+- [[Posts/18612 - O dedo de Juninho e expediente que se encerra 21h no Marca Brasil|#18612]] - O dedo de Juninho e expediente que se encerra 21h no Marca Brasil
+- [[Posts/18664 - Vence o Fluminense|#18664]] - Vence o Fluminense · [[Posts/18664 - Vence o Fluminense#^comentario-145688|#145688]]
+- [[Posts/18676 - Conselhos do Tio Ben no futebol carioca|#18676]] - Conselhos do Tio Ben no futebol carioca
+- [[Posts/18687 - TRICK FREE KICKS|#18687]] - TRICK FREE KICKS · [[Posts/18687 - TRICK FREE KICKS#^comentario-148325|#148325]]
+- [[Posts/18699 - BR2012 – 36ª rodada|#18699]] - BR2012 – 36ª rodada
+- [[Posts/1871 - Direto do Orlando Scarpelli|#1871]] - Direto do Orlando Scarpelli · [[Posts/1871 - Direto do Orlando Scarpelli#^comentario-23146|#23146]]
+- [[Posts/1874 - A definição do 1º turno|#1874]] - A definição do 1º turno · [[Posts/1874 - A definição do 1º turno#^comentario-23174|#23174]]
+- [[Posts/1874 - A definição do 1º turno|#1874]] - A definição do 1º turno
+- [[Posts/18753 - Mercado da Bola 2013|#18753]] - Mercado da Bola 2013 · [[Posts/18753 - Mercado da Bola 2013#^comentario-146737|#146737]]
+- [[Posts/18753 - Mercado da Bola 2013|#18753]] - Mercado da Bola 2013 · [[Posts/18753 - Mercado da Bola 2013#^comentario-146995|#146995]]
+- [[Posts/18753 - Mercado da Bola 2013|#18753]] - Mercado da Bola 2013 · [[Posts/18753 - Mercado da Bola 2013#^comentario-147726|#147726]]
+- [[Posts/18757 - Copa das Confederações, lá vamos nós|#18757]] - Copa das Confederações, lá vamos nós · [[Posts/18757 - Copa das Confederações, lá vamos nós#^comentario-145309|#145309]]
+- [[Posts/18757 - Copa das Confederações, lá vamos nós|#18757]] - Copa das Confederações, lá vamos nós · [[Posts/18757 - Copa das Confederações, lá vamos nós#^comentario-160731|#160731]]
+- [[Posts/18757 - Copa das Confederações, lá vamos nós|#18757]] - Copa das Confederações, lá vamos nós
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-64522|#64522]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-64763|#64763]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-64831|#64831]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65173|#65173]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65247|#65247]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65337|#65337]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65472|#65472]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65553|#65553]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-65928|#65928]]
+- [[Posts/1879 - Open-Bar|#1879]] - Open-Bar · [[Posts/1879 - Open-Bar#^comentario-66058|#66058]]
+- [[Posts/188 - Civilidade – Ingressos numerados no Pan 2007|#188]] - Civilidade – Ingressos numerados no Pan 2007
+- [[Posts/1883 - Pequim – 4º dia|#1883]] - Pequim – 4º dia · [[Posts/1883 - Pequim – 4º dia#^comentario-23254|#23254]]
+- [[Posts/18852 - Helter Skelter em Interlagos!!!!|#18852]] - Helter Skelter em Interlagos!!!! · [[Posts/18852 - Helter Skelter em Interlagos!!!!#^comentario-145775|#145775]]
+- [[Posts/18885 - Copa Eugenia 2012 Maldito Palmeiras|#18885]] - Copa Eugenia 2012: Maldito Palmeiras · [[Posts/18885 - Copa Eugenia 2012 Maldito Palmeiras#^comentario-145863|#145863]]
+- [[Posts/18885 - Copa Eugenia 2012 Maldito Palmeiras|#18885]] - Copa Eugenia 2012: Maldito Palmeiras
+- [[Posts/18890 - BR2012 – 38ª rodada|#18890]] - BR2012 – 38ª rodada
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-145948|#145948]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-145996|#145996]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-146400|#146400]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-158708|#158708]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-164013|#164013]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-164442|#164442]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-164820|#164820]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-170837|#170837]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-175740|#175740]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia · [[Posts/18894 - Ranking BBG Eugenia#^comentario-181129|#181129]]
+- [[Posts/18894 - Ranking BBG Eugenia|#18894]] - Ranking BBG Eugenia
+- [[Posts/189 - Hristo Stoichkov|#189]] - Hristo Stoichkov
+- [[Posts/18901 - A Doida Vazou!!!|#18901]] - A Doida Vazou!!! · [[Posts/18901 - A Doida Vazou!!!#^comentario-145971|#145971]]
+- [[Posts/18901 - A Doida Vazou!!!|#18901]] - A Doida Vazou!!! · [[Posts/18901 - A Doida Vazou!!!#^comentario-145973|#145973]]
+- [[Posts/18965 - TimePress 2012|#18965]] - TimePress 2012 · [[Posts/18965 - TimePress 2012#^comentario-146476|#146476]]
+- [[Posts/18973 - 2012 – Quem subiu, quem desceu|#18973]] - 2012 – Quem subiu, quem desceu
+- [[Posts/18981 - Juninho presta mais um serviço ao Vasco|#18981]] - Juninho presta mais um serviço ao Vasco · [[Posts/18981 - Juninho presta mais um serviço ao Vasco#^comentario-146650|#146650]]
+- [[Posts/18996 - Feliz Fim do Mundo 2012, até a próxima|#18996]] - Feliz Fim do Mundo 2012, até a próxima · [[Posts/18996 - Feliz Fim do Mundo 2012, até a próxima#^comentario-146868|#146868]]
+- [[Posts/18996 - Feliz Fim do Mundo 2012, até a próxima|#18996]] - Feliz Fim do Mundo 2012, até a próxima · [[Posts/18996 - Feliz Fim do Mundo 2012, até a próxima#^comentario-146922|#146922]]
+- [[Posts/19004 - Feliz 2013!|#19004]] - Feliz 2013! · [[Posts/19004 - Feliz 2013!#^comentario-147006|#147006]]
+- [[Posts/19011 - Primeiro dia útil|#19011]] - Primeiro dia útil · [[Posts/19011 - Primeiro dia útil#^comentario-147050|#147050]]
+- [[Posts/19011 - Primeiro dia útil|#19011]] - Primeiro dia útil · [[Posts/19011 - Primeiro dia útil#^comentario-147051|#147051]]
+- [[Posts/19011 - Primeiro dia útil|#19011]] - Primeiro dia útil · [[Posts/19011 - Primeiro dia útil#^comentario-147087|#147087]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-147102|#147102]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-148575|#148575]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-151104|#151104]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-154303|#154303]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-154986|#154986]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-160169|#160169]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-162799|#162799]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-165663|#165663]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-166848|#166848]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-167881|#167881]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-168351|#168351]]
+- [[Posts/19027 - COPA UNIÃO CAMISAL|#19027]] - COPA UNIÃO CAMISAL · [[Posts/19027 - COPA UNIÃO CAMISAL#^comentario-172543|#172543]]
+- [[Posts/19044 - MESSI TETRA|#19044]] - MESSI TETRA · [[Posts/19044 - MESSI TETRA#^comentario-147185|#147185]]
+- [[Posts/19044 - MESSI TETRA|#19044]] - MESSI TETRA · [[Posts/19044 - MESSI TETRA#^comentario-147186|#147186]]
+- [[Posts/19053 - Os “Projetos” cariocas|#19053]] - Os “Projetos” cariocas · [[Posts/19053 - Os “Projetos” cariocas#^comentario-147240|#147240]]
+- [[Posts/19053 - Os “Projetos” cariocas|#19053]] - Os “Projetos” cariocas · [[Posts/19053 - Os “Projetos” cariocas#^comentario-147241|#147241]]
+- [[Posts/19053 - Os “Projetos” cariocas|#19053]] - Os “Projetos” cariocas · [[Posts/19053 - Os “Projetos” cariocas#^comentario-147411|#147411]]
+- [[Posts/1908 - Vasco B x Palmeiras B|#1908]] - Vasco B x Palmeiras B · [[Posts/1908 - Vasco B x Palmeiras B#^comentario-23260|#23260]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-147894|#147894]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-147936|#147936]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-148340|#148340]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-148500|#148500]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-151270|#151270]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013 · [[Posts/19091 - Taça GB 2013#^comentario-152328|#152328]]
+- [[Posts/19091 - Taça GB 2013|#19091]] - Taça GB 2013
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-151679|#151679]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-154886|#154886]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-154941|#154941]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-155715|#155715]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-157147|#157147]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-159698|#159698]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-170140|#170140]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa · [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa#^comentario-176690|#176690]]
+- [[Posts/19130 - Convocatórias de Parreira, Felipão & Murtosa|#19130]] - Convocatórias de Parreira, Felipão & Murtosa
+- [[Posts/19135 - Lendas do Barcelona|#19135]] - Lendas do Barcelona
+- [[Posts/19162 - PREVISÍVEIS ESTADUAIS|#19162]] - PREVISÍVEIS ESTADUAIS · [[Posts/19162 - PREVISÍVEIS ESTADUAIS#^comentario-148342|#148342]]
+- [[Posts/19162 - PREVISÍVEIS ESTADUAIS|#19162]] - PREVISÍVEIS ESTADUAIS · [[Posts/19162 - PREVISÍVEIS ESTADUAIS#^comentario-151987|#151987]]
+- [[Posts/1917 - Pequim – 1ª semana|#1917]] - Pequim – 1ª semana · [[Posts/1917 - Pequim – 1ª semana#^comentario-23314|#23314]]
+- [[Posts/19233 - Faltam 6 horas. Seis|#19233]] - Faltam 6 horas. Seis. · [[Posts/19233 - Faltam 6 horas. Seis#^comentario-148979|#148979]]
+- [[Posts/19233 - Faltam 6 horas. Seis|#19233]] - Faltam 6 horas. Seis. · [[Posts/19233 - Faltam 6 horas. Seis#^comentario-155116|#155116]]
+- [[Posts/19233 - Faltam 6 horas. Seis|#19233]] - Faltam 6 horas. Seis. · [[Posts/19233 - Faltam 6 horas. Seis#^comentario-156557|#156557]]
+- [[Posts/19233 - Faltam 6 horas. Seis|#19233]] - Faltam 6 horas. Seis. · [[Posts/19233 - Faltam 6 horas. Seis#^comentario-157872|#157872]]
+- [[Posts/19257 - Parabéns Otários!|#19257]] - Parabéns Otários! · [[Posts/19257 - Parabéns Otários!#^comentario-149274|#149274]]
+- [[Posts/19257 - Parabéns Otários!|#19257]] - Parabéns Otários! · [[Posts/19257 - Parabéns Otários!#^comentario-177838|#177838]]
+- [[Posts/19264 - Feliz Carnaval!|#19264]] - Feliz Carnaval! · [[Posts/19264 - Feliz Carnaval!#^comentario-149442|#149442]]
+- [[Posts/19264 - Feliz Carnaval!|#19264]] - Feliz Carnaval! · [[Posts/19264 - Feliz Carnaval!#^comentario-149691|#149691]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-149562|#149562]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-150095|#150095]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-150851|#150851]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-156412|#156412]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-157430|#157430]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol · [[Posts/19273 - Acabou o Carnaval. Começou o Futebol#^comentario-158385|#158385]]
+- [[Posts/19273 - Acabou o Carnaval. Começou o Futebol|#19273]] - Acabou o Carnaval. Começou o Futebol
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-149687|#149687]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-149816|#149816]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-149885|#149885]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-151139|#151139]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-153132|#153132]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-153971|#153971]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-154600|#154600]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-155085|#155085]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-155471|#155471]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-157641|#157641]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-158647|#158647]]
+- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-158649|#158649]]
+- [[Posts/19305 - O que você faz… além de sucesso|#19305]] - O que você faz… além de sucesso? · [[Posts/19305 - O que você faz… além de sucesso#^comentario-149906|#149906]]
+- [[Posts/19305 - O que você faz… além de sucesso|#19305]] - O que você faz… além de sucesso? · [[Posts/19305 - O que você faz… além de sucesso#^comentario-149981|#149981]]
+- [[Posts/19305 - O que você faz… além de sucesso|#19305]] - O que você faz… além de sucesso?
+- [[Posts/19310 - Lédio Carmona elogiou o Carioca, de novo|#19310]] - Lédio Carmona elogiou o Carioca, de novo · [[Posts/19310 - Lédio Carmona elogiou o Carioca, de novo#^comentario-149924|#149924]]
+- [[Posts/1933 - Brincando nos 50m|#1933]] - Brincando nos 50m
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-150251|#150251]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-150331|#150331]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-150579|#150579]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-150617|#150617]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-151433|#151433]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino” · [[Posts/19349 - “Nada mais importa diante da dor da família do menino”#^comentario-171246|#171246]]
+- [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|#19349]] - “Nada mais importa diante da dor da família do menino”
+- [[Posts/19390 - Maraca Privado. Passou a coceirinha…|#19390]] - Maraca Privado. Passou a coceirinha… · [[Posts/19390 - Maraca Privado. Passou a coceirinha…#^comentario-151118|#151118]]
+- [[Posts/19390 - Maraca Privado. Passou a coceirinha…|#19390]] - Maraca Privado. Passou a coceirinha… · [[Posts/19390 - Maraca Privado. Passou a coceirinha…#^comentario-164613|#164613]]
+- [[Posts/19390 - Maraca Privado. Passou a coceirinha…|#19390]] - Maraca Privado. Passou a coceirinha… · [[Posts/19390 - Maraca Privado. Passou a coceirinha…#^comentario-174994|#174994]]
+- [[Posts/194 - Pela América – expectativas|#194]] - Pela América – expectativas
+- [[Posts/1943 - Encontrada a vara de Fabiana Murer|#1943]] - Encontrada a vara de Fabiana Murer
+- [[Posts/1947 - Pequim – 3 4|#1947]] - Pequim – 3/4 · [[Posts/1947 - Pequim – 3 4#^comentario-23388|#23388]]
+- [[Posts/19491 - Taça Rio 2013|#19491]] - Taça Rio 2013 · [[Posts/19491 - Taça Rio 2013#^comentario-153318|#153318]]
+- [[Posts/19491 - Taça Rio 2013|#19491]] - Taça Rio 2013 · [[Posts/19491 - Taça Rio 2013#^comentario-155966|#155966]]
+- [[Posts/19491 - Taça Rio 2013|#19491]] - Taça Rio 2013 · [[Posts/19491 - Taça Rio 2013#^comentario-157764|#157764]]
+- [[Posts/19491 - Taça Rio 2013|#19491]] - Taça Rio 2013 · [[Posts/19491 - Taça Rio 2013#^comentario-158703|#158703]]
+- [[Posts/19491 - Taça Rio 2013|#19491]] - Taça Rio 2013
+- [[Posts/195 - Pelo Brasil|#195]] - Pelo Brasil
+- [[Posts/19537 - O lado irônico das manifestações|#19537]] - O lado irônico das manifestações
+- [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda|#19593]] - Palmas para a PM – Finais em Volta Redonda · [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda#^comentario-155047|#155047]]
+- [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda|#19593]] - Palmas para a PM – Finais em Volta Redonda · [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda#^comentario-155048|#155048]]
+- [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda|#19593]] - Palmas para a PM – Finais em Volta Redonda · [[Posts/19593 - Palmas para a PM – Finais em Volta Redonda#^comentario-155049|#155049]]
+- [[Posts/19599 - Ressaca moral|#19599]] - Ressaca moral? · [[Posts/19599 - Ressaca moral#^comentario-155270|#155270]]
+- [[Posts/19599 - Ressaca moral|#19599]] - Ressaca moral? · [[Posts/19599 - Ressaca moral#^comentario-155285|#155285]]
+- [[Posts/19618 - Quem contratar com a grana da Adidas|#19618]] - Quem contratar com a grana da Adidas?
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro? · [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro#^comentario-165726|#165726]]
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro? · [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro#^comentario-165734|#165734]]
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro? · [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro#^comentario-169522|#169522]]
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro? · [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro#^comentario-170204|#170204]]
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro? · [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro#^comentario-173243|#173243]]
+- [[Posts/19630 - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro|#19630]] - A Copa Perdigão do Brasil 2013 é um Campeonato Brasileiro?
+- [[Posts/19636 - A Estrella de Real Madrid 3×0 Galatasaray|#19636]] - A Estrella de Real Madrid 3×0 Galatasaray
+- [[Posts/19647 - Carta a Paulo Autuori|#19647]] - Carta a Paulo Autuori · [[Posts/19647 - Carta a Paulo Autuori#^comentario-155839|#155839]]
+- [[Posts/19647 - Carta a Paulo Autuori|#19647]] - Carta a Paulo Autuori · [[Posts/19647 - Carta a Paulo Autuori#^comentario-155842|#155842]]
+- [[Posts/19650 - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão|#19650]] - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão · [[Posts/19650 - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão#^comentario-155917|#155917]]
+- [[Posts/19650 - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão|#19650]] - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão · [[Posts/19650 - Jornas não sabem ler, nem ouvir – Neymar e Deco, Botafogo e Engenhão#^comentario-155918|#155918]]
+- [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia|#19654]] - RJ13: Momentos de definição do Ranking BBG Eugenia · [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia#^comentario-155992|#155992]]
+- [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia|#19654]] - RJ13: Momentos de definição do Ranking BBG Eugenia · [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia#^comentario-156032|#156032]]
+- [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia|#19654]] - RJ13: Momentos de definição do Ranking BBG Eugenia
+- [[Posts/1969 - Pequim – Americanas bem|#1969]] - Pequim – Americanas bem · [[Posts/1969 - Pequim – Americanas bem#^comentario-23432|#23432]]
+- [[Posts/1969 - Pequim – Americanas bem|#1969]] - Pequim – Americanas bem · [[Posts/1969 - Pequim – Americanas bem#^comentario-23435|#23435]]
+- [[Posts/1969 - Pequim – Americanas bem|#1969]] - Pequim – Americanas bem · [[Posts/1969 - Pequim – Americanas bem#^comentario-23447|#23447]]
+- [[Posts/197 - Pelo Maracanã – tem coisas…|#197]] - Pelo Maracanã – tem coisas…
+- [[Posts/19765 - Por onde anda o Justiçamento Pontocorridista|#19765]] - Por onde anda o Justiçamento Pontocorridista? · [[Posts/19765 - Por onde anda o Justiçamento Pontocorridista#^comentario-157803|#157803]]
+- [[Posts/19765 - Por onde anda o Justiçamento Pontocorridista|#19765]] - Por onde anda o Justiçamento Pontocorridista?
+- [[Posts/19779 - Roy Nelson Habemus Idolum|#19779]] - Roy Nelson: Habemus Idolum
+- [[Posts/1978 - Sexta-feira sem ninguém puto|#1978]] - Sexta-feira sem ninguém puto · [[Posts/1978 - Sexta-feira sem ninguém puto#^comentario-23465|#23465]]
+- [[Posts/1978 - Sexta-feira sem ninguém puto|#1978]] - Sexta-feira sem ninguém puto
+- [[Posts/19797 - Everybody hates Cris|#19797]] - Everybody hates Cris · [[Posts/19797 - Everybody hates Cris#^comentario-158436|#158436]]
+- [[Posts/19823 - Independência ou morte|#19823]] - Independência ou morte · [[Posts/19823 - Independência ou morte#^comentario-158543|#158543]]
+- [[Posts/19823 - Independência ou morte|#19823]] - Independência ou morte · [[Posts/19823 - Independência ou morte#^comentario-158545|#158545]]
+- [[Posts/19823 - Independência ou morte|#19823]] - Independência ou morte · [[Posts/19823 - Independência ou morte#^comentario-158598|#158598]]
+- [[Posts/19823 - Independência ou morte|#19823]] - Independência ou morte
+- [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI|#19833]] - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI · [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI#^comentario-158627|#158627]]
+- [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI|#19833]] - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI · [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI#^comentario-158628|#158628]]
+- [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI|#19833]] - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI · [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI#^comentario-158633|#158633]]
+- [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI|#19833]] - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI · [[Posts/19833 - TALIBAN TRICOLOR – VOCÊ VIU PRIMEIRO AQUI#^comentario-158710|#158710]]
+- [[Posts/19845 - Botafogo Campeão de absolutamente TUDO no Estado do Rio de Janeiro em 2013|#19845]] - Botafogo Campeão de absolutamente TUDO no Estado do Rio de Janeiro em 2013 · [[Posts/19845 - Botafogo Campeão de absolutamente TUDO no Estado do Rio de Janeiro em 2013#^comentario-158801|#158801]]
+- [[Posts/19851 - De Andrada a Ceni, e as adiantadas|#19851]] - De Andrada a Ceni, e as adiantadas · [[Posts/19851 - De Andrada a Ceni, e as adiantadas#^comentario-158831|#158831]]
+- [[Posts/19851 - De Andrada a Ceni, e as adiantadas|#19851]] - De Andrada a Ceni, e as adiantadas · [[Posts/19851 - De Andrada a Ceni, e as adiantadas#^comentario-158832|#158832]]
+- [[Posts/19855 - Pérola da Desesperança|#19855]] - Pérola da Desesperança · [[Posts/19855 - Pérola da Desesperança#^comentario-158986|#158986]]
+- [[Posts/19859 - Xeirem|#19859]] - Xeirem · [[Posts/19859 - Xeirem#^comentario-159021|#159021]]
+- [[Posts/19859 - Xeirem|#19859]] - Xeirem
+- [[Posts/1986 - Salto que vale Ouro|#1986]] - Salto que vale Ouro · [[Posts/1986 - Salto que vale Ouro#^comentario-23490|#23490]]
+- [[Posts/1986 - Salto que vale Ouro|#1986]] - Salto que vale Ouro · [[Posts/1986 - Salto que vale Ouro#^comentario-23491|#23491]]
+- [[Posts/19869 - Ingerência do Governo, resultado Retrocesso|#19869]] - Ingerência do Governo, resultado: Retrocesso · [[Posts/19869 - Ingerência do Governo, resultado Retrocesso#^comentario-159209|#159209]]
+- [[Posts/19869 - Ingerência do Governo, resultado Retrocesso|#19869]] - Ingerência do Governo, resultado: Retrocesso · [[Posts/19869 - Ingerência do Governo, resultado Retrocesso#^comentario-159218|#159218]]
+- [[Posts/19871 - 1 2 hora de fama|#19871]] - 1/2 hora de fama · [[Posts/19871 - 1 2 hora de fama#^comentario-159231|#159231]]
+- [[Posts/19871 - 1 2 hora de fama|#19871]] - 1/2 hora de fama · [[Posts/19871 - 1 2 hora de fama#^comentario-159235|#159235]]
+- [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa|#19886]] - Vitória 7 x 3 Bahia – Lista auto-explicativa · [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa#^comentario-159628|#159628]]
+- [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa|#19886]] - Vitória 7 x 3 Bahia – Lista auto-explicativa · [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa#^comentario-159632|#159632]]
+- [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa|#19886]] - Vitória 7 x 3 Bahia – Lista auto-explicativa · [[Posts/19886 - Vitória 7 x 3 Bahia – Lista auto-explicativa#^comentario-159703|#159703]]
+- [[Posts/19894 - Civilizado Kaká involuiu na Europa|#19894]] - Civilizado Kaká involuiu na Europa? · [[Posts/19894 - Civilizado Kaká involuiu na Europa#^comentario-159729|#159729]]
+- [[Posts/19894 - Civilizado Kaká involuiu na Europa|#19894]] - Civilizado Kaká involuiu na Europa?
+- [[Posts/19911 - Señor Fantástico|#19911]] - Señor Fantástico · [[Posts/19911 - Señor Fantástico#^comentario-159818|#159818]]
+- [[Posts/19911 - Señor Fantástico|#19911]] - Señor Fantástico · [[Posts/19911 - Señor Fantástico#^comentario-159819|#159819]]
+- [[Posts/1993 - FINALMENTE!|#1993]] - FINALMENTE! · [[Posts/1993 - FINALMENTE!#^comentario-23504|#23504]]
+- [[Posts/19933 - Não|#19933]] - Não. · [[Posts/19933 - Não#^comentario-159994|#159994]]
+- [[Posts/19945 - ROUBOLA – OS JOGOS MAIS ROUBADOS|#19945]] - ROUBOLA – OS JOGOS MAIS ROUBADOS · [[Posts/19945 - ROUBOLA – OS JOGOS MAIS ROUBADOS#^comentario-160175|#160175]]
+- [[Posts/19945 - ROUBOLA – OS JOGOS MAIS ROUBADOS|#19945]] - ROUBOLA – OS JOGOS MAIS ROUBADOS · [[Posts/19945 - ROUBOLA – OS JOGOS MAIS ROUBADOS#^comentario-160201|#160201]]
+- [[Posts/19952 - Incitando Xenofobia|#19952]] - Incitando Xenofobia
+- [[Posts/19959 - Libertadores 2013 Quartas de Final|#19959]] - Libertadores 2013: Quartas de Final · [[Posts/19959 - Libertadores 2013 Quartas de Final#^comentario-163541|#163541]]
+- [[Posts/19959 - Libertadores 2013 Quartas de Final|#19959]] - Libertadores 2013: Quartas de Final
+- [[Posts/19968 - Bolão BBG BR13 Rodada 1|#19968]] - Bolão BBG BR13: Rodada 1 · [[Posts/19968 - Bolão BBG BR13 Rodada 1#^comentario-160419|#160419]]
+- [[Posts/19968 - Bolão BBG BR13 Rodada 1|#19968]] - Bolão BBG BR13: Rodada 1 · [[Posts/19968 - Bolão BBG BR13 Rodada 1#^comentario-160511|#160511]]
+- [[Posts/19968 - Bolão BBG BR13 Rodada 1|#19968]] - Bolão BBG BR13: Rodada 1 · [[Posts/19968 - Bolão BBG BR13 Rodada 1#^comentario-160525|#160525]]
+- [[Posts/19975 - Bolão BBG BR13 Rodada 2 Empate na lama|#19975]] - Bolão BBG BR13 Rodada 2: Empate na lama · [[Posts/19975 - Bolão BBG BR13 Rodada 2 Empate na lama#^comentario-160567|#160567]]
+- [[Posts/19975 - Bolão BBG BR13 Rodada 2 Empate na lama|#19975]] - Bolão BBG BR13 Rodada 2: Empate na lama · [[Posts/19975 - Bolão BBG BR13 Rodada 2 Empate na lama#^comentario-161300|#161300]]
+- [[Posts/19978 - Bolão BBG BR13 Rodada 5 Júbilo Antoniocarlense|#19978]] - Bolão BBG BR13 Rodada 5:Júbilo Antoniocarlense · [[Posts/19978 - Bolão BBG BR13 Rodada 5 Júbilo Antoniocarlense#^comentario-161009|#161009]]
+- [[Posts/19978 - Bolão BBG BR13 Rodada 5 Júbilo Antoniocarlense|#19978]] - Bolão BBG BR13 Rodada 5:Júbilo Antoniocarlense · [[Posts/19978 - Bolão BBG BR13 Rodada 5 Júbilo Antoniocarlense#^comentario-161010|#161010]]
+- [[Posts/20 - Panela de pressão|#20]] - Panela de pressão
+- [[Posts/200 - Camarote no Maracanã – vale à pena|#200]] - Camarote no Maracanã – vale à pena?
+- [[Posts/2003 - Vale isso, Arnaldo|#2003]] - Vale isso, Arnaldo?
+- [[Posts/20033 - Festa na Bahia|#20033]] - Festa na Bahia · [[Posts/20033 - Festa na Bahia#^comentario-160665|#160665]]
+- [[Posts/20033 - Festa na Bahia|#20033]] - Festa na Bahia · [[Posts/20033 - Festa na Bahia#^comentario-160666|#160666]]
+- [[Posts/20040 - Nada a lamentar, tudo a reclamar|#20040]] - Nada a lamentar, tudo a reclamar
+- [[Posts/2006 - Entrevistamos Usain Bolt|#2006]] - Entrevistamos Usain Bolt
+- [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana|#20062]] - Dia da Mais Odiada no Maraca #comGuarana · [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana#^comentario-160772|#160772]]
+- [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana|#20062]] - Dia da Mais Odiada no Maraca #comGuarana · [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana#^comentario-160796|#160796]]
+- [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana|#20062]] - Dia da Mais Odiada no Maraca #comGuarana · [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana#^comentario-160811|#160811]]
+- [[Posts/20062 - Dia da Mais Odiada no Maraca comGuarana|#20062]] - Dia da Mais Odiada no Maraca #comGuarana
+- [[Posts/2008 - Cadê o Mádson|#2008]] - Cadê o Mádson? · [[Posts/2008 - Cadê o Mádson#^comentario-23532|#23532]]
+- [[Posts/201 - Copa Davis – Áustria de novo|#201]] - Copa Davis – Áustria de novo
+- [[Posts/20114 - Bap e sua turma erram pra cacete|#20114]] - Bap e sua turma erram pra cacete · [[Posts/20114 - Bap e sua turma erram pra cacete#^comentario-161013|#161013]]
+- [[Posts/20114 - Bap e sua turma erram pra cacete|#20114]] - Bap e sua turma erram pra cacete · [[Posts/20114 - Bap e sua turma erram pra cacete#^comentario-161014|#161014]]
+- [[Posts/20114 - Bap e sua turma erram pra cacete|#20114]] - Bap e sua turma erram pra cacete · [[Posts/20114 - Bap e sua turma erram pra cacete#^comentario-161188|#161188]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-71784|#71784]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-71876|#71876]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-72332|#72332]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-72983|#72983]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-73634|#73634]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-74285|#74285]]
+- [[Posts/2014 - Bolão|#2014]] - Bolão · [[Posts/2014 - Bolão#^comentario-76225|#76225]]
+- [[Posts/20155 - Ache o cachorro|#20155]] - Ache o cachorro
+- [[Posts/20166 - Meus petiscos na Copa das Confederações|#20166]] - Meus petiscos na Copa das Confederações · [[Posts/20166 - Meus petiscos na Copa das Confederações#^comentario-161374|#161374]]
+- [[Posts/20166 - Meus petiscos na Copa das Confederações|#20166]] - Meus petiscos na Copa das Confederações
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações · [[Posts/20185 - Manifestantes da Copa das Confederações#^comentario-161470|#161470]]
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações · [[Posts/20185 - Manifestantes da Copa das Confederações#^comentario-161545|#161545]]
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações · [[Posts/20185 - Manifestantes da Copa das Confederações#^comentario-161546|#161546]]
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações · [[Posts/20185 - Manifestantes da Copa das Confederações#^comentario-162108|#162108]]
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações · [[Posts/20185 - Manifestantes da Copa das Confederações#^comentario-162110|#162110]]
+- [[Posts/20185 - Manifestantes da Copa das Confederações|#20185]] - Manifestantes da Copa das Confederações
+- [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México|#20224]] - Hino cantado, vamos de bola rolando para Brasil x México · [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México#^comentario-161975|#161975]]
+- [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México|#20224]] - Hino cantado, vamos de bola rolando para Brasil x México · [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México#^comentario-161985|#161985]]
+- [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México|#20224]] - Hino cantado, vamos de bola rolando para Brasil x México · [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México#^comentario-162001|#162001]]
+- [[Posts/20224 - Hino cantado, vamos de bola rolando para Brasil x México|#20224]] - Hino cantado, vamos de bola rolando para Brasil x México
+- [[Posts/20234 - Profético Luiz Inácio Lula da Silva|#20234]] - Profético Luiz Inácio Lula da Silva? · [[Posts/20234 - Profético Luiz Inácio Lula da Silva#^comentario-162307|#162307]]
+- [[Posts/20234 - Profético Luiz Inácio Lula da Silva|#20234]] - Profético Luiz Inácio Lula da Silva? · [[Posts/20234 - Profético Luiz Inácio Lula da Silva#^comentario-162380|#162380]]
+- [[Posts/20234 - Profético Luiz Inácio Lula da Silva|#20234]] - Profético Luiz Inácio Lula da Silva?
+- [[Posts/20239 - Sedia essa Brasil Copa do Mundo de Pelada|#20239]] - Sedia essa Brasil: Copa do Mundo de Pelada · [[Posts/20239 - Sedia essa Brasil Copa do Mundo de Pelada#^comentario-162454|#162454]]
+- [[Posts/20244 - Conheça o Maracanã|#20244]] - Conheça o Maracanã
+- [[Posts/20256 - Semifinais da Copa das Confederações 2013|#20256]] - Semifinais da Copa das Confederações 2013 · [[Posts/20256 - Semifinais da Copa das Confederações 2013#^comentario-162491|#162491]]
+- [[Posts/20256 - Semifinais da Copa das Confederações 2013|#20256]] - Semifinais da Copa das Confederações 2013 · [[Posts/20256 - Semifinais da Copa das Confederações 2013#^comentario-162514|#162514]]
+- [[Posts/20256 - Semifinais da Copa das Confederações 2013|#20256]] - Semifinais da Copa das Confederações 2013 · [[Posts/20256 - Semifinais da Copa das Confederações 2013#^comentario-162517|#162517]]
+- [[Posts/20256 - Semifinais da Copa das Confederações 2013|#20256]] - Semifinais da Copa das Confederações 2013 · [[Posts/20256 - Semifinais da Copa das Confederações 2013#^comentario-162522|#162522]]
+- [[Posts/20256 - Semifinais da Copa das Confederações 2013|#20256]] - Semifinais da Copa das Confederações 2013 · [[Posts/20256 - Semifinais da Copa das Confederações 2013#^comentario-162545|#162545]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162769|#162769]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162835|#162835]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162837|#162837]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162867|#162867]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162923|#162923]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162939|#162939]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162941|#162941]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162945|#162945]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162947|#162947]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162950|#162950]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162953|#162953]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162956|#162956]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162959|#162959]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162980|#162980]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162985|#162985]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162988|#162988]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-162994|#162994]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163003|#163003]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163009|#163009]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163012|#163012]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163017|#163017]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163018|#163018]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163024|#163024]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163045|#163045]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163049|#163049]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163051|#163051]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163053|#163053]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163056|#163056]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163059|#163059]]
+- [[Posts/20285 - Final da Copa das Confederações 2013|#20285]] - Final da Copa das Confederações 2013 · [[Posts/20285 - Final da Copa das Confederações 2013#^comentario-163072|#163072]]
+- [[Posts/20296 - Brasil Campeão da Copa das Confederações 2013|#20296]] - Brasil Campeão da Copa das Confederações 2013 · [[Posts/20296 - Brasil Campeão da Copa das Confederações 2013#^comentario-163269|#163269]]
+- [[Posts/203 - Ainda o gol 1000|#203]] - Ainda o gol 1000
+- [[Posts/20301 - 1 2 ano de Felipão|#20301]] - 1/2 ano de Felipão · [[Posts/20301 - 1 2 ano de Felipão#^comentario-163168|#163168]]
+- [[Posts/20301 - 1 2 ano de Felipão|#20301]] - 1/2 ano de Felipão · [[Posts/20301 - 1 2 ano de Felipão#^comentario-163707|#163707]]
+- [[Posts/20306 - Zaga vem de berço|#20306]] - Zaga vem de berço
+- [[Posts/2032 - Arrumando a casa|#2032]] - Arrumando a casa · [[Posts/2032 - Arrumando a casa#^comentario-23576|#23576]]
+- [[Posts/2034 - Sobre Renato Gaúcho|#2034]] - Sobre Renato Gaúcho
+- [[Posts/20372 - Feliz Dia do Rock 2013!|#20372]] - Feliz Dia do Rock 2013! · [[Posts/20372 - Feliz Dia do Rock 2013!#^comentario-163677|#163677]]
+- [[Posts/20374 - As balas únicas do Fluminense|#20374]] - As balas únicas do Fluminense
+- [[Posts/20386 - Dinamite – A Chacota do Século|#20386]] - Dinamite – A Chacota do Século · [[Posts/20386 - Dinamite – A Chacota do Século#^comentario-163826|#163826]]
+- [[Posts/20386 - Dinamite – A Chacota do Século|#20386]] - Dinamite – A Chacota do Século · [[Posts/20386 - Dinamite – A Chacota do Século#^comentario-163828|#163828]]
+- [[Posts/20386 - Dinamite – A Chacota do Século|#20386]] - Dinamite – A Chacota do Século · [[Posts/20386 - Dinamite – A Chacota do Século#^comentario-164007|#164007]]
+- [[Posts/20386 - Dinamite – A Chacota do Século|#20386]] - Dinamite – A Chacota do Século · [[Posts/20386 - Dinamite – A Chacota do Século#^comentario-164029|#164029]]
+- [[Posts/20386 - Dinamite – A Chacota do Século|#20386]] - Dinamite – A Chacota do Século · [[Posts/20386 - Dinamite – A Chacota do Século#^comentario-164054|#164054]]
+- [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia|#20393]] - Libertadores 2013: Final – Atlético Mineiro x Olímpia · [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia#^comentario-163936|#163936]]
+- [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia|#20393]] - Libertadores 2013: Final – Atlético Mineiro x Olímpia · [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia#^comentario-164356|#164356]]
+- [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia|#20393]] - Libertadores 2013: Final – Atlético Mineiro x Olímpia · [[Posts/20393 - Libertadores 2013 Final – Atlético Mineiro x Olímpia#^comentario-164374|#164374]]
+- [[Posts/20396 - Fluminense, Contrato, Consórcio, Maracanã e até Flamengo|#20396]] - Fluminense, Contrato, Consórcio, Maracanã e até Flamengo · [[Posts/20396 - Fluminense, Contrato, Consórcio, Maracanã e até Flamengo#^comentario-164514|#164514]]
+- [[Posts/20396 - Fluminense, Contrato, Consórcio, Maracanã e até Flamengo|#20396]] - Fluminense, Contrato, Consórcio, Maracanã e até Flamengo
+- [[Posts/204 - Senna|#204]] - Senna
+- [[Posts/20424 - Bolão BBG BR13 Rodada 13|#20424]] - Bolão BBG BR13: Rodada 13 · [[Posts/20424 - Bolão BBG BR13 Rodada 13#^comentario-165187|#165187]]
+- [[Posts/20426 - Bolão BBG BR13 Rodada 15|#20426]] - Bolão BBG BR13: Rodada 15 · [[Posts/20426 - Bolão BBG BR13 Rodada 15#^comentario-165378|#165378]]
+- [[Posts/20439 - Não é milagre…|#20439]] - Não é milagre… · [[Posts/20439 - Não é milagre…#^comentario-164499|#164499]]
+- [[Posts/20439 - Não é milagre…|#20439]] - Não é milagre… · [[Posts/20439 - Não é milagre…#^comentario-164508|#164508]]
+- [[Posts/2049 - Nós querenos un otro jogo|#2049]] - Nós querenos un otro jogo
+- [[Posts/205 - Vencer ou Vencer|#205]] - Vencer ou Vencer
+- [[Posts/20516 - NFL Temporada Regular 2013|#20516]] - NFL: Temporada Regular 2013 · [[Posts/20516 - NFL Temporada Regular 2013#^comentario-165443|#165443]]
+- [[Posts/20516 - NFL Temporada Regular 2013|#20516]] - NFL: Temporada Regular 2013 · [[Posts/20516 - NFL Temporada Regular 2013#^comentario-166864|#166864]]
+- [[Posts/20516 - NFL Temporada Regular 2013|#20516]] - NFL: Temporada Regular 2013 · [[Posts/20516 - NFL Temporada Regular 2013#^comentario-169055|#169055]]
+- [[Posts/20516 - NFL Temporada Regular 2013|#20516]] - NFL: Temporada Regular 2013 · [[Posts/20516 - NFL Temporada Regular 2013#^comentario-169066|#169066]]
+- [[Posts/20516 - NFL Temporada Regular 2013|#20516]] - NFL: Temporada Regular 2013 · [[Posts/20516 - NFL Temporada Regular 2013#^comentario-172389|#172389]]
+- [[Posts/2053 - Pós-Pequim|#2053]] - Pós-Pequim · [[Posts/2053 - Pós-Pequim#^comentario-23658|#23658]]
+- [[Posts/20587 - Coitado, estava preso na Bolívia|#20587]] - Coitado, estava preso na Bolívia · [[Posts/20587 - Coitado, estava preso na Bolívia#^comentario-165678|#165678]]
+- [[Posts/20587 - Coitado, estava preso na Bolívia|#20587]] - Coitado, estava preso na Bolívia · [[Posts/20587 - Coitado, estava preso na Bolívia#^comentario-166081|#166081]]
+- [[Posts/20592 - O imponente Maraca, como sempre|#20592]] - O imponente Maraca, como sempre · [[Posts/20592 - O imponente Maraca, como sempre#^comentario-165803|#165803]]
+- [[Posts/206 - Rebaixado e o escambau|#206]] - Rebaixado e o escambau
+- [[Posts/20614 - Grupos da UEFA Champions League 2013 2014|#20614]] - Grupos da UEFA Champions League 2013/2014 · [[Posts/20614 - Grupos da UEFA Champions League 2013 2014#^comentario-165797|#165797]]
+- [[Posts/20614 - Grupos da UEFA Champions League 2013 2014|#20614]] - Grupos da UEFA Champions League 2013/2014 · [[Posts/20614 - Grupos da UEFA Champions League 2013 2014#^comentario-176482|#176482]]
+- [[Posts/20618 - A Nova Separação de Torcidas|#20618]] - A Nova Separação de Torcidas
+- [[Posts/208 - Desafio Blá blá Gol|#208]] - Desafio Blá blá Gol
+- [[Posts/20804 - E Cabelêra foi ao Maraca|#20804]] - E Cabelêra foi ao Maraca · [[Posts/20804 - E Cabelêra foi ao Maraca#^comentario-168219|#168219]]
+- [[Posts/2081 - Botafogo estréia novo atacante|#2081]] - Botafogo estréia novo atacante
+- [[Posts/20828 - Questão de Bom Senso|#20828]] - Questão de Bom Senso
+- [[Posts/2084 - O vencedor do clássico|#2084]] - O vencedor do clássico · [[Posts/2084 - O vencedor do clássico#^comentario-23710|#23710]]
+- [[Posts/20874 - O ridículo senso de civilidade flamenguista|#20874]] - O ridículo senso de civilidade flamenguista
+- [[Posts/2088 - Bem feito…|#2088]] - Bem feito… · [[Posts/2088 - Bem feito…#^comentario-23711|#23711]]
+- [[Posts/2088 - Bem feito…|#2088]] - Bem feito… · [[Posts/2088 - Bem feito…#^comentario-23778|#23778]]
+- [[Posts/20917 - Vá se fuder, Cidinha Campos|#20917]] - Vá se fuder, Cidinha Campos
+- [[Posts/20920 - MP-RJ é a putinha da sauna do Flamengo|#20920]] - MP-RJ é a putinha da sauna do Flamengo
+- [[Posts/20925 - Obrigado e Parabéns!|#20925]] - Obrigado e Parabéns! · [[Posts/20925 - Obrigado e Parabéns!#^comentario-169886|#169886]]
+- [[Posts/20935 - Bolão BBG BR13 Rodada 35|#20935]] - Bolão BBG BR13: Rodada 35 · [[Posts/20935 - Bolão BBG BR13 Rodada 35#^comentario-169997|#169997]]
+- [[Posts/20944 - Everton Ribeiro|#20944]] - Everton Ribeiro
+- [[Posts/20947 - Pelos feriados Copais|#20947]] - Pelos feriados Copais
+- [[Posts/2097 - A batata de Dunga está assando|#2097]] - A batata de Dunga está assando
+- [[Posts/2099 - Que venha o Fluminense|#2099]] - Que venha o Fluminense
+- [[Posts/21 - Jabá – FlaBrasil|#21]] - Jabá – FlaBrasil
+- [[Posts/21011 - Guia para acompanhar o sorteio de grupos da Copa do Mundo|#21011]] - Guia para acompanhar o sorteio de grupos da Copa do Mundo · [[Posts/21011 - Guia para acompanhar o sorteio de grupos da Copa do Mundo#^comentario-171074|#171074]]
+- [[Posts/21015 - GRUPOS DA COPA 2014 – TORCIDA|#21015]] - GRUPOS DA COPA 2014 – TORCIDA · [[Posts/21015 - GRUPOS DA COPA 2014 – TORCIDA#^comentario-171247|#171247]]
+- [[Posts/21016 - Bolão BBG BR13 Rodada 38|#21016]] - Bolão BBG BR13: Rodada 38 · [[Posts/21016 - Bolão BBG BR13 Rodada 38#^comentario-171234|#171234]]
+- [[Posts/21016 - Bolão BBG BR13 Rodada 38|#21016]] - Bolão BBG BR13: Rodada 38 · [[Posts/21016 - Bolão BBG BR13 Rodada 38#^comentario-171235|#171235]]
+- [[Posts/21016 - Bolão BBG BR13 Rodada 38|#21016]] - Bolão BBG BR13: Rodada 38 · [[Posts/21016 - Bolão BBG BR13 Rodada 38#^comentario-171237|#171237]]
+- [[Posts/21019 - Dia Histórico|#21019]] - Dia Histórico · [[Posts/21019 - Dia Histórico#^comentario-171293|#171293]]
+- [[Posts/21019 - Dia Histórico|#21019]] - Dia Histórico · [[Posts/21019 - Dia Histórico#^comentario-171371|#171371]]
+- [[Posts/21019 - Dia Histórico|#21019]] - Dia Histórico · [[Posts/21019 - Dia Histórico#^comentario-171428|#171428]]
+- [[Posts/2102 - Ele começou no Botafogo|#2102]] - Ele começou no Botafogo
+- [[Posts/21029 - Bom Senso, Responsabilidade e Consequências|#21029]] - Bom Senso, Responsabilidade e Consequências · [[Posts/21029 - Bom Senso, Responsabilidade e Consequências#^comentario-171400|#171400]]
+- [[Posts/21029 - Bom Senso, Responsabilidade e Consequências|#21029]] - Bom Senso, Responsabilidade e Consequências · [[Posts/21029 - Bom Senso, Responsabilidade e Consequências#^comentario-171408|#171408]]
+- [[Posts/21029 - Bom Senso, Responsabilidade e Consequências|#21029]] - Bom Senso, Responsabilidade e Consequências · [[Posts/21029 - Bom Senso, Responsabilidade e Consequências#^comentario-171430|#171430]]
+- [[Posts/21029 - Bom Senso, Responsabilidade e Consequências|#21029]] - Bom Senso, Responsabilidade e Consequências · [[Posts/21029 - Bom Senso, Responsabilidade e Consequências#^comentario-171861|#171861]]
+- [[Posts/21029 - Bom Senso, Responsabilidade e Consequências|#21029]] - Bom Senso, Responsabilidade e Consequências · [[Posts/21029 - Bom Senso, Responsabilidade e Consequências#^comentario-173331|#173331]]
+- [[Posts/21030 - Copa do Mundo 2014 – Comerciais|#21030]] - Copa do Mundo 2014 – Comerciais · [[Posts/21030 - Copa do Mundo 2014 – Comerciais#^comentario-171404|#171404]]
+- [[Posts/21033 - Mundial de Clubes FIFA – 2013|#21033]] - Mundial de Clubes FIFA – 2013 · [[Posts/21033 - Mundial de Clubes FIFA – 2013#^comentario-172075|#172075]]
+- [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se|#21036]] - Procurador Geral Paulo Schmitt, Explique-se · [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se#^comentario-171471|#171471]]
+- [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se|#21036]] - Procurador Geral Paulo Schmitt, Explique-se · [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se#^comentario-171472|#171472]]
+- [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se|#21036]] - Procurador Geral Paulo Schmitt, Explique-se · [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se#^comentario-171478|#171478]]
+- [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se|#21036]] - Procurador Geral Paulo Schmitt, Explique-se · [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se#^comentario-171602|#171602]]
+- [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se|#21036]] - Procurador Geral Paulo Schmitt, Explique-se · [[Posts/21036 - Procurador Geral Paulo Schmitt, Explique-se#^comentario-171686|#171686]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-24109|#24109]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-24554|#24554]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-25058|#25058]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-47706|#47706]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-83025|#83025]]
+- [[Posts/2104 - O Último Fanfarrão do futebol brasileiro|#2104]] - O Último Fanfarrão do futebol brasileiro · [[Posts/2104 - O Último Fanfarrão do futebol brasileiro#^comentario-105539|#105539]]
+- [[Posts/21044 - Sugestão de redação para o ENEM futebolero|#21044]] - Sugestão de redação para o ENEM futebolero
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-171933|#171933]]
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-171950|#171950]]
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-172183|#172183]]
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-172359|#172359]]
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-172752|#172752]]
+- [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro|#21049]] - Fluminense, o Cristo do Futebol Brasileiro · [[Posts/21049 - Fluminense, o Cristo do Futebol Brasileiro#^comentario-173446|#173446]]
+- [[Posts/21052 - Nissan e Vasco – Você é o que consome 2|#21052]] - Nissan e Vasco – Você é o que consome 2
+- [[Posts/21057 - E-mails do Flamengo sobre o STJD – A parte que interessa…|#21057]] - E-mails do Flamengo sobre o STJD – A parte que interessa… · [[Posts/21057 - E-mails do Flamengo sobre o STJD – A parte que interessa…#^comentario-172155|#172155]]
+- [[Posts/21064 - Feliz Natal, Blablagolianos!|#21064]] - Feliz Natal, Blablagolianos! · [[Posts/21064 - Feliz Natal, Blablagolianos!#^comentario-172311|#172311]]
+- [[Posts/21069 - Uefecê Chris Weidman x Anderson Silva II|#21069]] - Uefecê: Chris Weidman x Anderson Silva II · [[Posts/21069 - Uefecê Chris Weidman x Anderson Silva II#^comentario-172383|#172383]]
+- [[Posts/21069 - Uefecê Chris Weidman x Anderson Silva II|#21069]] - Uefecê: Chris Weidman x Anderson Silva II
+- [[Posts/21072 - NFL Playoffs 2014|#21072]] - NFL: Playoffs 2014 · [[Posts/21072 - NFL Playoffs 2014#^comentario-172467|#172467]]
+- [[Posts/21083 - Mercado da Bola 2014|#21083]] - Mercado da Bola 2014 · [[Posts/21083 - Mercado da Bola 2014#^comentario-172548|#172548]]
+- [[Posts/21083 - Mercado da Bola 2014|#21083]] - Mercado da Bola 2014 · [[Posts/21083 - Mercado da Bola 2014#^comentario-175359|#175359]]
+- [[Posts/21089 - Internacionalização da marca|#21089]] - Internacionalização da marca · [[Posts/21089 - Internacionalização da marca#^comentario-172596|#172596]]
+- [[Posts/21089 - Internacionalização da marca|#21089]] - Internacionalização da marca · [[Posts/21089 - Internacionalização da marca#^comentario-172610|#172610]]
+- [[Posts/21089 - Internacionalização da marca|#21089]] - Internacionalização da marca
+- [[Posts/211 - Muito Barulho por Nada|#211]] - Muito Barulho por Nada
+- [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica|#21102]] - Seedorf volta para Itália, Ronaldinho fica. · [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica#^comentario-173056|#173056]]
+- [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica|#21102]] - Seedorf volta para Itália, Ronaldinho fica. · [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica#^comentario-173094|#173094]]
+- [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica|#21102]] - Seedorf volta para Itália, Ronaldinho fica. · [[Posts/21102 - Seedorf volta para Itália, Ronaldinho fica#^comentario-173224|#173224]]
+- [[Posts/21154 - TÉO JOSÉ, MELHOR NARRADOR|#21154]] - TÉO JOSÉ, MELHOR NARRADOR · [[Posts/21154 - TÉO JOSÉ, MELHOR NARRADOR#^comentario-173737|#173737]]
+- [[Posts/21154 - TÉO JOSÉ, MELHOR NARRADOR|#21154]] - TÉO JOSÉ, MELHOR NARRADOR · [[Posts/21154 - TÉO JOSÉ, MELHOR NARRADOR#^comentario-173746|#173746]]
+- [[Posts/21158 - As Gêmeas Voltaram!|#21158]] - As Gêmeas Voltaram! · [[Posts/21158 - As Gêmeas Voltaram!#^comentario-173747|#173747]]
+- [[Posts/21164 - TINGA MACACO|#21164]] - TINGA MACACO · [[Posts/21164 - TINGA MACACO#^comentario-173837|#173837]]
+- [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO|#21168]] - CUC 2014 – FODA-SE A COPA DO MUNDO · [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO#^comentario-173931|#173931]]
+- [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO|#21168]] - CUC 2014 – FODA-SE A COPA DO MUNDO · [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO#^comentario-174092|#174092]]
+- [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO|#21168]] - CUC 2014 – FODA-SE A COPA DO MUNDO · [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO#^comentario-176546|#176546]]
+- [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO|#21168]] - CUC 2014 – FODA-SE A COPA DO MUNDO · [[Posts/21168 - CUC 2014 – FODA-SE A COPA DO MUNDO#^comentario-180467|#180467]]
+- [[Posts/21175 - Chip na bola só é necessário em caso de dúvida|#21175]] - Chip na bola só é necessário em caso de dúvida · [[Posts/21175 - Chip na bola só é necessário em caso de dúvida#^comentario-174245|#174245]]
+- [[Posts/21175 - Chip na bola só é necessário em caso de dúvida|#21175]] - Chip na bola só é necessário em caso de dúvida
+- [[Posts/21191 - Basta! de violência no futebol|#21191]] - Basta! de violência no futebol · [[Posts/21191 - Basta! de violência no futebol#^comentario-174119|#174119]]
+- [[Posts/21197 - Uma cerveja, por favor…|#21197]] - Uma cerveja, por favor… · [[Posts/21197 - Uma cerveja, por favor…#^comentario-174219|#174219]]
+- [[Posts/21198 - Um Carnaval Muito Louco a Todos|#21198]] - Um Carnaval Muito Louco a Todos · [[Posts/21198 - Um Carnaval Muito Louco a Todos#^comentario-174215|#174215]]
+- [[Posts/21248 - Se português fosse esperto…|#21248]] - Se português fosse esperto… · [[Posts/21248 - Se português fosse esperto…#^comentario-175009|#175009]]
+- [[Posts/21260 - Frutos de um rebaixamento bom para todos|#21260]] - Frutos de um rebaixamento bom para todos · [[Posts/21260 - Frutos de um rebaixamento bom para todos#^comentario-175205|#175205]]
+- [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros|#21264]] - Portallupi deixa o Flu – Peter larga Barros · [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros#^comentario-175229|#175229]]
+- [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros|#21264]] - Portallupi deixa o Flu – Peter larga Barros · [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros#^comentario-175231|#175231]]
+- [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros|#21264]] - Portallupi deixa o Flu – Peter larga Barros · [[Posts/21264 - Portallupi deixa o Flu – Peter larga Barros#^comentario-175317|#175317]]
+- [[Posts/2127 - Flu contrata indicação do Victor|#2127]] - Flu contrata indicação do Victor · [[Posts/2127 - Flu contrata indicação do Victor#^comentario-23983|#23983]]
+- [[Posts/21282 - O Vice já é certo|#21282]] - O Vice já é certo · [[Posts/21282 - O Vice já é certo#^comentario-175358|#175358]]
+- [[Posts/21282 - O Vice já é certo|#21282]] - O Vice já é certo · [[Posts/21282 - O Vice já é certo#^comentario-175606|#175606]]
+- [[Posts/21282 - O Vice já é certo|#21282]] - O Vice já é certo · [[Posts/21282 - O Vice já é certo#^comentario-175608|#175608]]
+- [[Posts/21282 - O Vice já é certo|#21282]] - O Vice já é certo · [[Posts/21282 - O Vice já é certo#^comentario-175689|#175689]]
+- [[Posts/21284 - Nada Mudou|#21284]] - Nada Mudou · [[Posts/21284 - Nada Mudou#^comentario-175416|#175416]]
+- [[Posts/21293 - Os valores do Prefeito de Niterói|#21293]] - Os valores do Prefeito de Niterói · [[Posts/21293 - Os valores do Prefeito de Niterói#^comentario-175612|#175612]]
+- [[Posts/21293 - Os valores do Prefeito de Niterói|#21293]] - Os valores do Prefeito de Niterói
+- [[Posts/213 - É mole|#213]] - É mole?
+- [[Posts/2130 - Como sempre, choveu na Bélgica|#2130]] - Como sempre, choveu na Bélgica · [[Posts/2130 - Como sempre, choveu na Bélgica#^comentario-23889|#23889]]
+- [[Posts/21302 - Lei de Gerson revogada – Enfim a Lei de Felipe|#21302]] - Lei de Gerson revogada – Enfim a Lei de Felipe · [[Posts/21302 - Lei de Gerson revogada – Enfim a Lei de Felipe#^comentario-175813|#175813]]
+- [[Posts/21339 - Passou da hora de mudar|#21339]] - Passou da hora de mudar · [[Posts/21339 - Passou da hora de mudar#^comentario-175935|#175935]]
+- [[Posts/21339 - Passou da hora de mudar|#21339]] - Passou da hora de mudar · [[Posts/21339 - Passou da hora de mudar#^comentario-175944|#175944]]
+- [[Posts/2136 - O pior do jogo|#2136]] - O pior do jogo · [[Posts/2136 - O pior do jogo#^comentario-23908|#23908]]
+- [[Posts/2136 - O pior do jogo|#2136]] - O pior do jogo · [[Posts/2136 - O pior do jogo#^comentario-23918|#23918]]
+- [[Posts/2136 - O pior do jogo|#2136]] - O pior do jogo · [[Posts/2136 - O pior do jogo#^comentario-23926|#23926]]
+- [[Posts/2136 - O pior do jogo|#2136]] - O pior do jogo
+- [[Posts/21367 - Poderei cagar em estádios|#21367]] - Poderei cagar em estádios?
+- [[Posts/21372 - Faltam apenas 999 gols, pelas contas de Josh Turnbull|#21372]] - Faltam apenas 999 gols, pelas contas de Josh Turnbull
+- [[Posts/2139 - Decepção no do Engenhão|#2139]] - Decepção no/do Engenhão · [[Posts/2139 - Decepção no do Engenhão#^comentario-23934|#23934]]
+- [[Posts/2139 - Decepção no do Engenhão|#2139]] - Decepção no/do Engenhão · [[Posts/2139 - Decepção no do Engenhão#^comentario-24053|#24053]]
+- [[Posts/21399 - 6ª FFC do BR14 São Cristóvão é em Laranjeiras|#21399]] - 6ª FFC do BR14: São Cristóvão é em Laranjeiras · [[Posts/21399 - 6ª FFC do BR14 São Cristóvão é em Laranjeiras#^comentario-176398|#176398]]
+- [[Posts/21399 - 6ª FFC do BR14 São Cristóvão é em Laranjeiras|#21399]] - 6ª FFC do BR14: São Cristóvão é em Laranjeiras
+- [[Posts/214 - Média|#214]] - Média?
+- [[Posts/21405 - Lançamento 15 Anos de Seleção – Mario Alberto|#21405]] - Lançamento: 15 Anos de Seleção – Mario Alberto · [[Posts/21405 - Lançamento 15 Anos de Seleção – Mario Alberto#^comentario-176551|#176551]]
+- [[Posts/21435 - Show. Consegui meu ingresso para estreia da Copa|#21435]] - Show. Consegui meu ingresso para estreia da Copa.
+- [[Posts/21456 - TeveCopa Dia 2 E o roubo segue desde 2010|#21456]] - #TeveCopa Dia 2: E o roubo segue desde 2010 · [[Posts/21456 - TeveCopa Dia 2 E o roubo segue desde 2010#^comentario-176966|#176966]]
+- [[Posts/21456 - TeveCopa Dia 2 E o roubo segue desde 2010|#21456]] - #TeveCopa Dia 2: E o roubo segue desde 2010 · [[Posts/21456 - TeveCopa Dia 2 E o roubo segue desde 2010#^comentario-176970|#176970]]
+- [[Posts/21456 - TeveCopa Dia 2 E o roubo segue desde 2010|#21456]] - #TeveCopa Dia 2: E o roubo segue desde 2010
+- [[Posts/21459 - TeveCopa Dia 3 A classe mandou|#21459]] - #TeveCopa Dia 3: A classe mandou · [[Posts/21459 - TeveCopa Dia 3 A classe mandou#^comentario-176948|#176948]]
+- [[Posts/21459 - TeveCopa Dia 3 A classe mandou|#21459]] - #TeveCopa Dia 3: A classe mandou · [[Posts/21459 - TeveCopa Dia 3 A classe mandou#^comentario-177096|#177096]]
+- [[Posts/21459 - TeveCopa Dia 3 A classe mandou|#21459]] - #TeveCopa Dia 3: A classe mandou
+- [[Posts/21465 - VaiTerCopa Dia 4 Domingo, sofá, cerveja e Copa. 4 anos de espera!|#21465]] - #VaiTerCopa Dia 4: Domingo, sofá, cerveja e Copa. 4 anos de espera! · [[Posts/21465 - VaiTerCopa Dia 4 Domingo, sofá, cerveja e Copa. 4 anos de espera!#^comentario-177099|#177099]]
+- [[Posts/21465 - VaiTerCopa Dia 4 Domingo, sofá, cerveja e Copa. 4 anos de espera!|#21465]] - #VaiTerCopa Dia 4: Domingo, sofá, cerveja e Copa. 4 anos de espera! · [[Posts/21465 - VaiTerCopa Dia 4 Domingo, sofá, cerveja e Copa. 4 anos de espera!#^comentario-177104|#177104]]
+- [[Posts/21480 - Legado da Copa|#21480]] - Legado da Copa
+- [[Posts/21484 - Messi e Domingo|#21484]] - Messi e Domingo
+- [[Posts/21497 - O Centroavante|#21497]] - O Centroavante
+- [[Posts/21509 - David x Golias é o cacete!|#21509]] - David x Golias é o cacete!
+- [[Posts/21514 - Hangout ao vivo agora nessa porra|#21514]] - Hangout ao vivo agora nessa porra
+- [[Posts/21523 - Cadeira de rodas não é exclusividade de paraplégicos|#21523]] - Cadeira de rodas não é exclusividade de paraplégicos
+- [[Posts/21587 - O Reserva Dele|#21587]] - O Reserva Dele
+- [[Posts/21592 - Golaço de David Luiz|#21592]] - Golaço de David Luiz
+- [[Posts/21595 - O que melhora sem Neymar|#21595]] - O que melhora sem Neymar
+- [[Posts/216 - Tulio, Maradona e Messi|#216]] - Tulio, Maradona e Messi
+- [[Posts/21600 - O Marieta como ele é|#21600]] - O Marieta como ele é
+- [[Posts/21606 - Crueldade Suprema de Van Gaal|#21606]] - Crueldade Suprema de Van Gaal
+- [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS|#21611]] - COPA DO MUNDO – SEMIFINAIS · [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS#^comentario-178257|#178257]]
+- [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS|#21611]] - COPA DO MUNDO – SEMIFINAIS · [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS#^comentario-178387|#178387]]
+- [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS|#21611]] - COPA DO MUNDO – SEMIFINAIS · [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS#^comentario-178429|#178429]]
+- [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS|#21611]] - COPA DO MUNDO – SEMIFINAIS · [[Posts/21611 - COPA DO MUNDO – SEMIFINAIS#^comentario-178704|#178704]]
+- [[Posts/21622 - O ídolo próximo|#21622]] - O ídolo próximo
+- [[Posts/21634 - Duas Breves Histórias Sobre os 7×1|#21634]] - Duas Breves Histórias Sobre os 7×1 · [[Posts/21634 - Duas Breves Histórias Sobre os 7×1#^comentario-178467|#178467]]
+- [[Posts/21646 - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo|#21646]] - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo · [[Posts/21646 - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo#^comentario-178645|#178645]]
+- [[Posts/21646 - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo|#21646]] - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo · [[Posts/21646 - Copa do Mundo Brasil 2014 – Estratégias e resultados dentro e fora de campo#^comentario-178866|#178866]]
+- [[Posts/21672 - Volta Teixeira!|#21672]] - Volta Teixeira! · [[Posts/21672 - Volta Teixeira!#^comentario-178966|#178966]]
+- [[Posts/2168 - Paulo Affonso tem razão|#2168]] - Paulo Affonso tem razão · [[Posts/2168 - Paulo Affonso tem razão#^comentario-24084|#24084]]
+- [[Posts/21684 - Poeminha|#21684]] - Poeminha · [[Posts/21684 - Poeminha#^comentario-179088|#179088]]
+- [[Posts/21684 - Poeminha|#21684]] - Poeminha · [[Posts/21684 - Poeminha#^comentario-179143|#179143]]
+- [[Posts/217 - Libertadores e Copa do Brasil (2)|#217]] - Libertadores e Copa do Brasil (2)
+- [[Posts/21710 - Tudo Sempre Pode Piorar|#21710]] - Tudo Sempre Pode Piorar · [[Posts/21710 - Tudo Sempre Pode Piorar#^comentario-179278|#179278]]
+- [[Posts/21734 - Luta de classes futebolera|#21734]] - Luta de classes futebolera
+- [[Posts/21743 - Sobre o Tempo e as Obras de Arte|#21743]] - Sobre o Tempo e as Obras de Arte · [[Posts/21743 - Sobre o Tempo e as Obras de Arte#^comentario-179546|#179546]]
+- [[Posts/21749 - Fred cirúrgico|#21749]] - Fred cirúrgico
+- [[Posts/21752 - Leitura Labial Torcidal|#21752]] - Leitura Labial Torcidal · [[Posts/21752 - Leitura Labial Torcidal#^comentario-179873|#179873]]
+- [[Posts/21752 - Leitura Labial Torcidal|#21752]] - Leitura Labial Torcidal
+- [[Posts/21755 - Copa do Brasil 2014 Ceará 3X4 Botafogo|#21755]] - Copa do Brasil 2014: Ceará 3X4 Botafogo · [[Posts/21755 - Copa do Brasil 2014 Ceará 3X4 Botafogo#^comentario-179718|#179718]]
+- [[Posts/21758 - Piranha|#21758]] - Piranha
+- [[Posts/21762 - Bom dia, UEFA Champions League 2014!|#21762]] - Bom dia, UEFA Champions League 2014! · [[Posts/21762 - Bom dia, UEFA Champions League 2014!#^comentario-179847|#179847]]
+- [[Posts/21766 - Luxa aprovado e Alecgol com maior rejeição|#21766]] - Luxa aprovado e Alecgol com maior rejeição · [[Posts/21766 - Luxa aprovado e Alecgol com maior rejeição#^comentario-179857|#179857]]
+- [[Posts/21776 - Racistas autênticos ou racistas hipócritas|#21776]] - Racistas autênticos ou racistas hipócritas
+- [[Posts/2178 - Bacalhau com cerveja|#2178]] - Bacalhau com cerveja
+- [[Posts/21780 - Gilvan explica 1º turno em Minas|#21780]] - Gilvan explica 1º turno em Minas · [[Posts/21780 - Gilvan explica 1º turno em Minas#^comentario-180027|#180027]]
+- [[Posts/21780 - Gilvan explica 1º turno em Minas|#21780]] - Gilvan explica 1º turno em Minas
+- [[Posts/21785 - Feliz aniversário! O Futebol te deu o presente|#21785]] - Feliz aniversário! O Futebol te deu o presente · [[Posts/21785 - Feliz aniversário! O Futebol te deu o presente#^comentario-180139|#180139]]
+- [[Posts/2180 - SP 2×0 Fla. Só salvo a torcida|#2180]] - SP 2×0 Fla. Só salvo a torcida · [[Posts/2180 - SP 2×0 Fla. Só salvo a torcida#^comentario-24094|#24094]]
+- [[Posts/21817 - PREVISÕES FUTEBOLÍSTICAS 2015|#21817]] - PREVISÕES FUTEBOLÍSTICAS 2015 · [[Posts/21817 - PREVISÕES FUTEBOLÍSTICAS 2015#^comentario-180489|#180489]]
+- [[Posts/21829 - De sua varanda gourmet, sorri Ricardo Teixeira|#21829]] - De sua varanda gourmet, sorri Ricardo Teixeira
+- [[Posts/21835 - H@H@H@H@H@H@H@H@|#21835]] - H@H@H@H@H@H@H@H@
+- [[Posts/21846 - Blatter picou a mula|#21846]] - Blatter picou a mula
+- [[Posts/21850 - No meio do caminho havia uma Barriga|#21850]] - No meio do caminho havia uma Barriga
+- [[Posts/21865 - Memória de Peixe|#21865]] - Memória de Peixe · [[Posts/21865 - Memória de Peixe#^comentario-180798|#180798]]
+- [[Posts/21869 - O Incrível Sorteio Das Oitavas da Copa do Brasil 2015|#21869]] - O Incrível Sorteio Das Oitavas da Copa do Brasil 2015 · [[Posts/21869 - O Incrível Sorteio Das Oitavas da Copa do Brasil 2015#^comentario-180807|#180807]]
+- [[Posts/21871 - Já nas Bancas|#21871]] - Já nas Bancas
+- [[Posts/21879 - GRUPOS UEFA CHAMPIONS LEAGUE 2015 2016|#21879]] - GRUPOS UEFA CHAMPIONS LEAGUE 2015/2016 · [[Posts/21879 - GRUPOS UEFA CHAMPIONS LEAGUE 2015 2016#^comentario-180838|#180838]]
+- [[Posts/21879 - GRUPOS UEFA CHAMPIONS LEAGUE 2015 2016|#21879]] - GRUPOS UEFA CHAMPIONS LEAGUE 2015/2016 · [[Posts/21879 - GRUPOS UEFA CHAMPIONS LEAGUE 2015 2016#^comentario-180840|#180840]]
+- [[Posts/21883 - Memória de Peixe|#21883]] - Memória de Peixe · [[Posts/21883 - Memória de Peixe#^comentario-180881|#180881]]
+- [[Posts/2198 - A traquinagem do moleque Vettel|#2198]] - A traquinagem do moleque Vettel · [[Posts/2198 - A traquinagem do moleque Vettel#^comentario-24145|#24145]]
+- [[Posts/2199 - Vasco da Gama 2008|#2199]] - Vasco da Gama 2008 · [[Posts/2199 - Vasco da Gama 2008#^comentario-24132|#24132]]
+- [[Posts/22 - Dia número 1|#22]] - Dia número 1
+- [[Posts/221 - E continua…|#221]] - E continua…
+- [[Posts/22182 - Claro que crianças devem jogar bola|#22182]] - Claro que crianças devem jogar bola
+- [[Posts/22229 - Prêmio Nobel para o Clube Atlético Nacional|#22229]] - Prêmio Nobel para o Clube Atlético Nacional
+- [[Posts/2228 - A hora certa de voltar|#2228]] - A hora certa de voltar · [[Posts/2228 - A hora certa de voltar#^comentario-24188|#24188]]
+- [[Posts/2228 - A hora certa de voltar|#2228]] - A hora certa de voltar
+- [[Posts/2239 - Dedicado àquelas que não foram|#2239]] - Dedicado àquelas que não foram · [[Posts/2239 - Dedicado àquelas que não foram#^comentario-24274|#24274]]
+- [[Posts/224 - Set a set|#224]] - Set a set
+- [[Posts/225 - Smoke On|#225]] - Smoke On
+- [[Posts/22617 - LDU, vai tomate cru|#22617]] - LDU, vai tomate cru
+- [[Posts/22675 - A origem (e antídoto) das Fake News|#22675]] - A origem (e antídoto) das Fake News
+- [[Posts/2269 - Valor de Mercado|#2269]] - Valor de Mercado · [[Posts/2269 - Valor de Mercado#^comentario-24374|#24374]]
+- [[Posts/2269 - Valor de Mercado|#2269]] - Valor de Mercado
+- [[Posts/2276 - Zico vai pra Puta que Pariu|#2276]] - Zico vai pra Puta que Pariu · [[Posts/2276 - Zico vai pra Puta que Pariu#^comentario-24395|#24395]]
+- [[Posts/2276 - Zico vai pra Puta que Pariu|#2276]] - Zico vai pra Puta que Pariu · [[Posts/2276 - Zico vai pra Puta que Pariu#^comentario-24484|#24484]]
+- [[Posts/2276 - Zico vai pra Puta que Pariu|#2276]] - Zico vai pra Puta que Pariu · [[Posts/2276 - Zico vai pra Puta que Pariu#^comentario-24508|#24508]]
+- [[Posts/2276 - Zico vai pra Puta que Pariu|#2276]] - Zico vai pra Puta que Pariu · [[Posts/2276 - Zico vai pra Puta que Pariu#^comentario-27118|#27118]]
+- [[Posts/2276 - Zico vai pra Puta que Pariu|#2276]] - Zico vai pra Puta que Pariu
+- [[Posts/2279 - Buraco Sem Fim|#2279]] - Buraco Sem Fim · [[Posts/2279 - Buraco Sem Fim#^comentario-24435|#24435]]
+- [[Posts/22866 - Fluminense joga com o que tem para hoje|#22866]] - Fluminense joga com o que tem para hoje
+- [[Posts/2288 - O melhor plano de previdência|#2288]] - O melhor plano de previdência · [[Posts/2288 - O melhor plano de previdência#^comentario-24496|#24496]]
+- [[Posts/2288 - O melhor plano de previdência|#2288]] - O melhor plano de previdência
+- [[Posts/2292 - Top 10 – Rubens Barrichello|#2292]] - Top 10 – Rubens Barrichello · [[Posts/2292 - Top 10 – Rubens Barrichello#^comentario-24529|#24529]]
+- [[Posts/2292 - Top 10 – Rubens Barrichello|#2292]] - Top 10 – Rubens Barrichello
+- [[Posts/22934 - BBG Entrevista Nelson Piquet|#22934]] - BBG Entrevista: Nelson Piquet
+- [[Posts/2296 - Campo Moderno tem até cachoeira|#2296]] - Campo Moderno tem até cachoeira · [[Posts/2296 - Campo Moderno tem até cachoeira#^comentario-24551|#24551]]
+- [[Posts/2296 - Campo Moderno tem até cachoeira|#2296]] - Campo Moderno tem até cachoeira · [[Posts/2296 - Campo Moderno tem até cachoeira#^comentario-24553|#24553]]
+- [[Posts/2296 - Campo Moderno tem até cachoeira|#2296]] - Campo Moderno tem até cachoeira · [[Posts/2296 - Campo Moderno tem até cachoeira#^comentario-24632|#24632]]
+- [[Posts/23 - Modinha|#23]] - Modinha
+- [[Posts/2304 - Renato Gaúcho é mesmo rubro-negro|#2304]] - Renato Gaúcho é mesmo rubro-negro
+- [[Posts/23069 - Mengão campeão da América, Cruzeiro pior da História|#23069]] - Mengão campeão da América, Cruzeiro pior da História · [[Posts/23069 - Mengão campeão da América, Cruzeiro pior da História#^comentario-189389|#189389]]
+- [[Posts/23069 - Mengão campeão da América, Cruzeiro pior da História|#23069]] - Mengão campeão da América, Cruzeiro pior da História
+- [[Posts/231 - Boa Notícia|#231]] - Boa Notícia?
+- [[Posts/2313 - É bronze Brasil…|#2313]] - É bronze Brasil… · [[Posts/2313 - É bronze Brasil…#^comentario-24633|#24633]]
+- [[Posts/2319 - Como assim, Ferrari|#2319]] - Como assim, Ferrari??? · [[Posts/2319 - Como assim, Ferrari#^comentario-24677|#24677]]
+- [[Posts/233 - Botafogo X Coritiba|#233]] - Botafogo X Coritiba
+- [[Posts/2336 - Fluminense atrapalha o Goiás|#2336]] - Fluminense atrapalha o Goiás · [[Posts/2336 - Fluminense atrapalha o Goiás#^comentario-24806|#24806]]
+- [[Posts/2336 - Fluminense atrapalha o Goiás|#2336]] - Fluminense atrapalha o Goiás · [[Posts/2336 - Fluminense atrapalha o Goiás#^comentario-24809|#24809]]
+- [[Posts/2336 - Fluminense atrapalha o Goiás|#2336]] - Fluminense atrapalha o Goiás
+- [[Posts/2343 - Eis que surge Renê Simões|#2343]] - Eis que surge Renê Simões
+- [[Posts/2356 - O César Tralli do Bláblágol|#2356]] - O César Tralli do Bláblágol · [[Posts/2356 - O César Tralli do Bláblágol#^comentario-24864|#24864]]
+- [[Posts/2359 - Cariocas rindo|#2359]] - Cariocas rindo · [[Posts/2359 - Cariocas rindo#^comentario-156106|#156106]]
+- [[Posts/2359 - Cariocas rindo|#2359]] - Cariocas rindo
+- [[Posts/236 - Serviço – Flamengo x Botafogo|#236]] - Serviço – Flamengo x Botafogo · [[Posts/236 - Serviço – Flamengo x Botafogo#^comentario-16550|#16550]]
+- [[Posts/236 - Serviço – Flamengo x Botafogo|#236]] - Serviço – Flamengo x Botafogo
+- [[Posts/2362 - “Back to Brazil”|#2362]] - “Back to Brazil” · [[Posts/2362 - “Back to Brazil”#^comentario-24892|#24892]]
+- [[Posts/2362 - “Back to Brazil”|#2362]] - “Back to Brazil” · [[Posts/2362 - “Back to Brazil”#^comentario-24931|#24931]]
+- [[Posts/2365 - Roberto no ‘Tá na Área’|#2365]] - Roberto no ‘Tá na Área’ · [[Posts/2365 - Roberto no ‘Tá na Área’#^comentario-24936|#24936]]
+- [[Posts/237 - Copa do Brasil – vai começar|#237]] - Copa do Brasil – vai começar
+- [[Posts/2372 - Eu não tento entender|#2372]] - Eu não tento entender
+- [[Posts/238 - Libertadores vai pegar fogo|#238]] - Libertadores vai pegar fogo
+- [[Posts/2386 - A proeza rubro-negra|#2386]] - A proeza rubro-negra · [[Posts/2386 - A proeza rubro-negra#^comentario-25011|#25011]]
+- [[Posts/2386 - A proeza rubro-negra|#2386]] - A proeza rubro-negra
+- [[Posts/239 - Dida leiloado|#239]] - Dida leiloado
+- [[Posts/2394 - Homenagem para o homenageador|#2394]] - Homenagem para o homenageador · [[Posts/2394 - Homenagem para o homenageador#^comentario-25051|#25051]]
+- [[Posts/2394 - Homenagem para o homenageador|#2394]] - Homenagem para o homenageador
+- [[Posts/2402 - Yo soy “el hombre!!!”|#2402]] - Yo soy “el hombre!!!” · [[Posts/2402 - Yo soy “el hombre!!!”#^comentario-25032|#25032]]
+- [[Posts/241 - Flamengo 2×2 Botafogo|#241]] - Flamengo 2×2 Botafogo
+- [[Posts/242 - Síndrome de Liliput|#242]] - Síndrome de Liliput
+- [[Posts/2426 - Brasil 0×0 Colômbia - eu juro que tentei|#2426]] - Brasil 0×0 Colômbia - eu juro que tentei
+- [[Posts/243 - Que beleza, Cruzeiro|#243]] - Que beleza, Cruzeiro
+- [[Posts/2434 - O último clássico dos milhões…|#2434]] - O último clássico dos milhões… · [[Posts/2434 - O último clássico dos milhões…#^comentario-25091|#25091]]
+- [[Posts/244 - Serviço – Botafogo x Flamengo|#244]] - Serviço – Botafogo x Flamengo
+- [[Posts/2445 - Engenhão x Maracanã – Parte 1|#2445]] - Engenhão x Maracanã – Parte 1 · [[Posts/2445 - Engenhão x Maracanã – Parte 1#^comentario-25181|#25181]]
+- [[Posts/2445 - Engenhão x Maracanã – Parte 1|#2445]] - Engenhão x Maracanã – Parte 1
+- [[Posts/246 - Jabá – Aikidô|#246]] - Jabá – Aikidô
+- [[Posts/247 - Aikido – Harmonia e Hematomas|#247]] - Aikido – Harmonia e Hematomas · [[Posts/247 - Aikido – Harmonia e Hematomas#^comentario-952|#952]]
+- [[Posts/247 - Aikido – Harmonia e Hematomas|#247]] - Aikido – Harmonia e Hematomas · [[Posts/247 - Aikido – Harmonia e Hematomas#^comentario-101182|#101182]]
+- [[Posts/2476 - Sol na moleira|#2476]] - Sol na moleira
+- [[Posts/2477 - E que vença o melhor|#2477]] - E que vença o melhor · [[Posts/2477 - E que vença o melhor#^comentario-25383|#25383]]
+- [[Posts/2477 - E que vença o melhor|#2477]] - E que vença o melhor · [[Posts/2477 - E que vença o melhor#^comentario-25384|#25384]]
+- [[Posts/2504 - Futebol chato e perigoso|#2504]] - Futebol chato e perigoso · [[Posts/2504 - Futebol chato e perigoso#^comentario-25501|#25501]]
+- [[Posts/2507 - Monstro® é marca registrada Blá blá Gol|#2507]] - Monstro® é marca registrada Blá blá Gol · [[Posts/2507 - Monstro® é marca registrada Blá blá Gol#^comentario-27104|#27104]]
+- [[Posts/2507 - Monstro® é marca registrada Blá blá Gol|#2507]] - Monstro® é marca registrada Blá blá Gol
+- [[Posts/2512 - CBF confirma inversão do mando de campo entre Botafogo x Flamengo|#2512]] - CBF confirma inversão do mando de campo entre Botafogo x Flamengo · [[Posts/2512 - CBF confirma inversão do mando de campo entre Botafogo x Flamengo#^comentario-25596|#25596]]
+- [[Posts/2512 - CBF confirma inversão do mando de campo entre Botafogo x Flamengo|#2512]] - CBF confirma inversão do mando de campo entre Botafogo x Flamengo
+- [[Posts/253 - Brochada…|#253]] - Brochada…
+- [[Posts/2542 - Inédito e sensacional|#2542]] - Inédito e sensacional · [[Posts/2542 - Inédito e sensacional#^comentario-25848|#25848]]
+- [[Posts/2542 - Inédito e sensacional|#2542]] - Inédito e sensacional · [[Posts/2542 - Inédito e sensacional#^comentario-25863|#25863]]
+- [[Posts/2548 - Grande coadjuvante|#2548]] - Grande coadjuvante · [[Posts/2548 - Grande coadjuvante#^comentario-25990|#25990]]
+- [[Posts/2548 - Grande coadjuvante|#2548]] - Grande coadjuvante
+- [[Posts/2561 - Botafogo X Estudiantes – Serviço|#2561]] - Botafogo X Estudiantes – Serviço · [[Posts/2561 - Botafogo X Estudiantes – Serviço#^comentario-25980|#25980]]
+- [[Posts/2561 - Botafogo X Estudiantes – Serviço|#2561]] - Botafogo X Estudiantes – Serviço · [[Posts/2561 - Botafogo X Estudiantes – Serviço#^comentario-26076|#26076]]
+- [[Posts/2561 - Botafogo X Estudiantes – Serviço|#2561]] - Botafogo X Estudiantes – Serviço · [[Posts/2561 - Botafogo X Estudiantes – Serviço#^comentario-26082|#26082]]
+- [[Posts/2561 - Botafogo X Estudiantes – Serviço|#2561]] - Botafogo X Estudiantes – Serviço · [[Posts/2561 - Botafogo X Estudiantes – Serviço#^comentario-26092|#26092]]
+- [[Posts/2565 - Hamilton campeão!!! Massa, quase…|#2565]] - Hamilton campeão!!! Massa, quase… · [[Posts/2565 - Hamilton campeão!!! Massa, quase…#^comentario-25999|#25999]]
+- [[Posts/2575 - STJD discrimina torcida do Flamengo|#2575]] - STJD discrimina torcida do Flamengo · [[Posts/2575 - STJD discrimina torcida do Flamengo#^comentario-28793|#28793]]
+- [[Posts/2575 - STJD discrimina torcida do Flamengo|#2575]] - STJD discrimina torcida do Flamengo
+- [[Posts/2579 - Se eu fosse técnico do Palmeiras…|#2579]] - Se eu fosse técnico do Palmeiras…
+- [[Posts/258 - Mais Aikido|#258]] - Mais Aikido
+- [[Posts/2581 - Histórica|#2581]] - Histórica · [[Posts/2581 - Histórica#^comentario-26161|#26161]]
+- [[Posts/2585 - É fim-de-ano no Botafogo!|#2585]] - É fim-de-ano no Botafogo! · [[Posts/2585 - É fim-de-ano no Botafogo!#^comentario-26201|#26201]]
+- [[Posts/2585 - É fim-de-ano no Botafogo!|#2585]] - É fim-de-ano no Botafogo! · [[Posts/2585 - É fim-de-ano no Botafogo!#^comentario-26283|#26283]]
+- [[Posts/2637 - Brasil em território estranho|#2637]] - Brasil em território estranho
+- [[Posts/264 - Bolão 1ª Rodada|#264]] - Bolão 1ª Rodada
+- [[Posts/2641 - Recordar é viver - Elano x Nelinho|#2641]] - Recordar é viver - Elano x Nelinho · [[Posts/2641 - Recordar é viver - Elano x Nelinho#^comentario-26593|#26593]]
+- [[Posts/2641 - Recordar é viver - Elano x Nelinho|#2641]] - Recordar é viver - Elano x Nelinho · [[Posts/2641 - Recordar é viver - Elano x Nelinho#^comentario-26602|#26602]]
+- [[Posts/2641 - Recordar é viver - Elano x Nelinho|#2641]] - Recordar é viver - Elano x Nelinho
+- [[Posts/2675 - Juninho Pernambucano como nunca visto|#2675]] - Juninho Pernambucano como nunca visto · [[Posts/2675 - Juninho Pernambucano como nunca visto#^comentario-26634|#26634]]
+- [[Posts/2687 - São Paulo Hexa|#2687]] - São Paulo Hexa. · [[Posts/2687 - São Paulo Hexa#^comentario-26663|#26663]]
+- [[Posts/2687 - São Paulo Hexa|#2687]] - São Paulo Hexa. · [[Posts/2687 - São Paulo Hexa#^comentario-26684|#26684]]
+- [[Posts/2687 - São Paulo Hexa|#2687]] - São Paulo Hexa. · [[Posts/2687 - São Paulo Hexa#^comentario-27026|#27026]]
+- [[Posts/2691 - Pronto pra Segundona|#2691]] - Pronto pra Segundona · [[Posts/2691 - Pronto pra Segundona#^comentario-26810|#26810]]
+- [[Posts/2708 - NFL Packers x Saints|#2708]] - NFL: Packers x Saints · [[Posts/2708 - NFL Packers x Saints#^comentario-26733|#26733]]
+- [[Posts/272 - Bolão, Leitor de Feed e Cachaça|#272]] - Bolão, Leitor de Feed e Cachaça
+- [[Posts/2722 - Ajuda a Santa Catarina|#2722]] - Ajuda a Santa Catarina · [[Posts/2722 - Ajuda a Santa Catarina#^comentario-26970|#26970]]
+- [[Posts/2722 - Ajuda a Santa Catarina|#2722]] - Ajuda a Santa Catarina · [[Posts/2722 - Ajuda a Santa Catarina#^comentario-26999|#26999]]
+- [[Posts/2722 - Ajuda a Santa Catarina|#2722]] - Ajuda a Santa Catarina · [[Posts/2722 - Ajuda a Santa Catarina#^comentario-27000|#27000]]
+- [[Posts/2722 - Ajuda a Santa Catarina|#2722]] - Ajuda a Santa Catarina · [[Posts/2722 - Ajuda a Santa Catarina#^comentario-27009|#27009]]
+- [[Posts/2722 - Ajuda a Santa Catarina|#2722]] - Ajuda a Santa Catarina
+- [[Posts/2730 - Não foi penalty em Diego Tardelli|#2730]] - Não foi penalty em Diego Tardelli
+- [[Posts/2735 - Campeã Mundial|#2735]] - Campeã Mundial · [[Posts/2735 - Campeã Mundial#^comentario-26984|#26984]]
+- [[Posts/275 - Tem torcida que sabe contar, que sabe quando tem um time horrível, enfim, que sabe suas reais possibilidades. Mas existem outras…|#275]] - Tem torcida que sabe contar, que sabe quando tem um time horrível, enfim, que sabe suas reais possibilidades. Mas existem outras…
+- [[Posts/2760 - No meio do caminho havia um Fluminense|#2760]] - No meio do caminho havia um Fluminense
+- [[Posts/2763 - Chegou o dia de torcer pelo Goiás|#2763]] - Chegou o dia de torcer pelo Goiás
+- [[Posts/2785 - Praga|#2785]] - Praga · [[Posts/2785 - Praga#^comentario-27181|#27181]]
+- [[Posts/279 - Joguinhos|#279]] - Joguinhos · [[Posts/279 - Joguinhos#^comentario-1143|#1143]]
+- [[Posts/279 - Joguinhos|#279]] - Joguinhos
+- [[Posts/2790 - Bem que Tite tentou|#2790]] - Bem que Tite tentou
+- [[Posts/2797 - 20 toneladas a menos|#2797]] - 20 toneladas a menos
+- [[Posts/28 - Fúria|#28]] - Fúria ?
+- [[Posts/280 - Quem é Rubinho|#280]] - Quem é Rubinho?
+- [[Posts/2803 - Blá Blá Gol de portas abertas…|#2803]] - Blá Blá Gol de portas abertas… · [[Posts/2803 - Blá Blá Gol de portas abertas…#^comentario-27296|#27296]]
+- [[Posts/2804 - FdS decisivo|#2804]] - FdS decisivo · [[Posts/2804 - FdS decisivo#^comentario-27306|#27306]]
+- [[Posts/281 - Bolão - Livro - Anos 40 - Viagem à década sem Copa|#281]] - Bolão - Livro - Anos 40 - Viagem à década sem Copa
+- [[Posts/2817 - Guia para torcer e secar|#2817]] - Guia para torcer e secar · [[Posts/2817 - Guia para torcer e secar#^comentario-27320|#27320]]
+- [[Posts/2817 - Guia para torcer e secar|#2817]] - Guia para torcer e secar
+- [[Posts/282 - Cinema na Brasa|#282]] - Cinema na Brasa
+- [[Posts/2820 - Tentativa de Manipulação da Final|#2820]] - Tentativa de Manipulação da Final · [[Posts/2820 - Tentativa de Manipulação da Final#^comentario-27310|#27310]]
+- [[Posts/2828 - Luto|#2828]] - Luto. · [[Posts/2828 - Luto#^comentario-27347|#27347]]
+- [[Posts/2837 - 2008 – Quem subiu, quem desceu|#2837]] - 2008 – Quem subiu, quem desceu · [[Posts/2837 - 2008 – Quem subiu, quem desceu#^comentario-27995|#27995]]
+- [[Posts/2837 - 2008 – Quem subiu, quem desceu|#2837]] - 2008 – Quem subiu, quem desceu · [[Posts/2837 - 2008 – Quem subiu, quem desceu#^comentario-28007|#28007]]
+- [[Posts/2837 - 2008 – Quem subiu, quem desceu|#2837]] - 2008 – Quem subiu, quem desceu
+- [[Posts/2842 - A hora da Barca|#2842]] - A hora da Barca · [[Posts/2842 - A hora da Barca#^comentario-27387|#27387]]
+- [[Posts/2842 - A hora da Barca|#2842]] - A hora da Barca · [[Posts/2842 - A hora da Barca#^comentario-28048|#28048]]
+- [[Posts/2842 - A hora da Barca|#2842]] - A hora da Barca
+- [[Posts/2847 - Ronaldo é do Timão|#2847]] - Ronaldo é do Timão · [[Posts/2847 - Ronaldo é do Timão#^comentario-27423|#27423]]
+- [[Posts/2847 - Ronaldo é do Timão|#2847]] - Ronaldo é do Timão · [[Posts/2847 - Ronaldo é do Timão#^comentario-27462|#27462]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27432|#27432]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27438|#27438]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27439|#27439]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27475|#27475]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27621|#27621]]
+- [[Posts/2854 - Vascão B|#2854]] - Vascão B · [[Posts/2854 - Vascão B#^comentario-27660|#27660]]
+- [[Posts/2867 - Traffic, no Palmeiras, Ituano, Botafogo…pode|#2867]] - Traffic, no Palmeiras, Ituano, Botafogo…pode? · [[Posts/2867 - Traffic, no Palmeiras, Ituano, Botafogo…pode#^comentario-27623|#27623]]
+- [[Posts/2867 - Traffic, no Palmeiras, Ituano, Botafogo…pode|#2867]] - Traffic, no Palmeiras, Ituano, Botafogo…pode? · [[Posts/2867 - Traffic, no Palmeiras, Ituano, Botafogo…pode#^comentario-27945|#27945]]
+- [[Posts/2875 - Madonna no Mengão e Cuca também|#2875]] - Madonna no Mengão e Cuca também
+- [[Posts/288 - Copa do Brasil e Libertadores|#288]] - Copa do Brasil e Libertadores · [[Posts/288 - Copa do Brasil e Libertadores#^comentario-1181|#1181]]
+- [[Posts/2885 - Mil perdões pelo post repetido, mas…|#2885]] - Mil perdões pelo post repetido, mas… · [[Posts/2885 - Mil perdões pelo post repetido, mas…#^comentario-27678|#27678]]
+- [[Posts/2891 - Esquenta o clima entre Flamengo e Adriano|#2891]] - Esquenta o clima entre Flamengo e Adriano · [[Posts/2891 - Esquenta o clima entre Flamengo e Adriano#^comentario-27768|#27768]]
+- [[Posts/29 - Capitão|#29]] - Capitão
+- [[Posts/2900 - Quantos neurônios tem Roberto Horcades|#2900]] - Quantos neurônios tem Roberto Horcades? · [[Posts/2900 - Quantos neurônios tem Roberto Horcades#^comentario-27826|#27826]]
+- [[Posts/2900 - Quantos neurônios tem Roberto Horcades|#2900]] - Quantos neurônios tem Roberto Horcades?
+- [[Posts/2907 - Mercado da Bola 2008 2009|#2907]] - Mercado da Bola 2008/2009 · [[Posts/2907 - Mercado da Bola 2008 2009#^comentario-27974|#27974]]
+- [[Posts/2907 - Mercado da Bola 2008 2009|#2907]] - Mercado da Bola 2008/2009 · [[Posts/2907 - Mercado da Bola 2008 2009#^comentario-28006|#28006]]
+- [[Posts/2907 - Mercado da Bola 2008 2009|#2907]] - Mercado da Bola 2008/2009 · [[Posts/2907 - Mercado da Bola 2008 2009#^comentario-28047|#28047]]
+- [[Posts/2907 - Mercado da Bola 2008 2009|#2907]] - Mercado da Bola 2008/2009 · [[Posts/2907 - Mercado da Bola 2008 2009#^comentario-28173|#28173]]
+- [[Posts/2907 - Mercado da Bola 2008 2009|#2907]] - Mercado da Bola 2008/2009 · [[Posts/2907 - Mercado da Bola 2008 2009#^comentario-28533|#28533]]
+- [[Posts/2910 - Blá Blá Política Internacional na SEXta|#2910]] - Blá Blá Política Internacional na SEXta · [[Posts/2910 - Blá Blá Política Internacional na SEXta#^comentario-27943|#27943]]
+- [[Posts/292 - Bolão 2ª Rodada|#292]] - Bolão 2ª Rodada
+- [[Posts/2934 - Timão, por eles mesmos|#2934]] - Timão, por eles mesmos · [[Posts/2934 - Timão, por eles mesmos#^comentario-28075|#28075]]
+- [[Posts/2938 - Quarentinha, o artilheiro que não sorria|#2938]] - Quarentinha, o artilheiro que não sorria · [[Posts/2938 - Quarentinha, o artilheiro que não sorria#^comentario-28121|#28121]]
+- [[Posts/2938 - Quarentinha, o artilheiro que não sorria|#2938]] - Quarentinha, o artilheiro que não sorria · [[Posts/2938 - Quarentinha, o artilheiro que não sorria#^comentario-31218|#31218]]
+- [[Posts/2943 - Os Trapalhões na Colina do Gigante - Todas as Segundas|#2943]] - Os Trapalhões na Colina do Gigante - Todas as Segundas. · [[Posts/2943 - Os Trapalhões na Colina do Gigante - Todas as Segundas#^comentario-28144|#28144]]
+- [[Posts/295 - Será que a Luma vai ao PAN|#295]] - Será que a Luma vai ao PAN?
+- [[Posts/2950 - Não perca essa chance, Botafogo|#2950]] - Não perca essa chance, Botafogo · [[Posts/2950 - Não perca essa chance, Botafogo#^comentario-28171|#28171]]
+- [[Posts/2950 - Não perca essa chance, Botafogo|#2950]] - Não perca essa chance, Botafogo
+- [[Posts/2955 - A Copa União do Basquete|#2955]] - A Copa União do Basquete
+- [[Posts/2958 - O Basquete não tem Estatuto do Torcedor|#2958]] - O Basquete não tem Estatuto do Torcedor
+- [[Posts/2961 - 2009 começou pro tênis… e pras sextas|#2961]] - 2009 começou pro tênis… e pras sextas · [[Posts/2961 - 2009 começou pro tênis… e pras sextas#^comentario-28248|#28248]]
+- [[Posts/2969 - Low-profile alvinegro|#2969]] - Low-profile alvinegro · [[Posts/2969 - Low-profile alvinegro#^comentario-30535|#30535]]
+- [[Posts/298 - Corinthians e seu tamanho|#298]] - Corinthians e seu tamanho · [[Posts/298 - Corinthians e seu tamanho#^comentario-1232|#1232]]
+- [[Posts/299 - Goiás, Flamengo, Grêmio, Fluminense|#299]] - Goiás, Flamengo, Grêmio, Fluminense
+- [[Posts/2995 - Para ser melhor do Mundo novamente|#2995]] - Para ser melhor do Mundo novamente
+- [[Posts/300 - Vasco 3×1 Sport|#300]] - Vasco 3×1 Sport · [[Posts/300 - Vasco 3×1 Sport#^comentario-1239|#1239]]
+- [[Posts/300 - Vasco 3×1 Sport|#300]] - Vasco 3×1 Sport · [[Posts/300 - Vasco 3×1 Sport#^comentario-1255|#1255]]
+- [[Posts/300 - Vasco 3×1 Sport|#300]] - Vasco 3×1 Sport · [[Posts/300 - Vasco 3×1 Sport#^comentario-1266|#1266]]
+- [[Posts/300 - Vasco 3×1 Sport|#300]] - Vasco 3×1 Sport · [[Posts/300 - Vasco 3×1 Sport#^comentario-1269|#1269]]
+- [[Posts/3003 - Uma placa para Julio Baptista|#3003]] - Uma placa para Julio Baptista · [[Posts/3003 - Uma placa para Julio Baptista#^comentario-28485|#28485]]
+- [[Posts/3003 - Uma placa para Julio Baptista|#3003]] - Uma placa para Julio Baptista
+- [[Posts/3008 - O Retorno dos Beatles|#3008]] - O Retorno dos Beatles · [[Posts/3008 - O Retorno dos Beatles#^comentario-28490|#28490]]
+- [[Posts/3008 - O Retorno dos Beatles|#3008]] - O Retorno dos Beatles · [[Posts/3008 - O Retorno dos Beatles#^comentario-28529|#28529]]
+- [[Posts/3008 - O Retorno dos Beatles|#3008]] - O Retorno dos Beatles · [[Posts/3008 - O Retorno dos Beatles#^comentario-28530|#28530]]
+- [[Posts/3008 - O Retorno dos Beatles|#3008]] - O Retorno dos Beatles · [[Posts/3008 - O Retorno dos Beatles#^comentario-28540|#28540]]
+- [[Posts/3008 - O Retorno dos Beatles|#3008]] - O Retorno dos Beatles
+- [[Posts/3011 - Tem gente que não bebe e tá morrendo…|#3011]] - Tem gente que não bebe e tá morrendo… · [[Posts/3011 - Tem gente que não bebe e tá morrendo…#^comentario-28511|#28511]]
+- [[Posts/3011 - Tem gente que não bebe e tá morrendo…|#3011]] - Tem gente que não bebe e tá morrendo… · [[Posts/3011 - Tem gente que não bebe e tá morrendo…#^comentario-28705|#28705]]
+- [[Posts/304 - Milan x Liverpool|#304]] - Milan x Liverpool · [[Posts/304 - Milan x Liverpool#^comentario-1289|#1289]]
+- [[Posts/304 - Milan x Liverpool|#304]] - Milan x Liverpool · [[Posts/304 - Milan x Liverpool#^comentario-1291|#1291]]
+- [[Posts/3045 - Ponto para Roberto Dinamite|#3045]] - Ponto para Roberto Dinamite · [[Posts/3045 - Ponto para Roberto Dinamite#^comentario-28642|#28642]]
+- [[Posts/305 - Boas Novas|#305]] - Boas Novas · [[Posts/305 - Boas Novas#^comentario-1296|#1296]]
+- [[Posts/3054 - Estreou o Flamengo 2009…e sem nenhum brinde|#3054]] - Estreou o Flamengo 2009…e sem nenhum brinde · [[Posts/3054 - Estreou o Flamengo 2009…e sem nenhum brinde#^comentario-28706|#28706]]
+- [[Posts/306 - O Grêmio não é o Flamengo|#306]] - O Grêmio não é o Flamengo · [[Posts/306 - O Grêmio não é o Flamengo#^comentario-1301|#1301]]
+- [[Posts/306 - O Grêmio não é o Flamengo|#306]] - O Grêmio não é o Flamengo · [[Posts/306 - O Grêmio não é o Flamengo#^comentario-1303|#1303]]
+- [[Posts/3067 - Fluminense 0x0 Madureira|#3067]] - Fluminense 0x0 Madureira
+- [[Posts/307 - Quem com ferro fere…|#307]] - Quem com ferro fere… · [[Posts/307 - Quem com ferro fere…#^comentario-1310|#1310]]
+- [[Posts/3075 - Raciocínio Asimoviano|#3075]] - Raciocínio Asimoviano
+- [[Posts/308 - Santos x Grêmio nas semi-finais da Libertadores|#308]] - Santos x Grêmio nas semi-finais da Libertadores
+- [[Posts/309 - E vai seguindo o Fluminense|#309]] - E vai seguindo o Fluminense · [[Posts/309 - E vai seguindo o Fluminense#^comentario-1315|#1315]]
+- [[Posts/309 - E vai seguindo o Fluminense|#309]] - E vai seguindo o Fluminense · [[Posts/309 - E vai seguindo o Fluminense#^comentario-1317|#1317]]
+- [[Posts/309 - E vai seguindo o Fluminense|#309]] - E vai seguindo o Fluminense
+- [[Posts/3093 - Mesquita 0X2 Botafogo|#3093]] - Mesquita 0X2 Botafogo · [[Posts/3093 - Mesquita 0X2 Botafogo#^comentario-28792|#28792]]
+- [[Posts/3099 - O Maracanã vai fechar|#3099]] - O Maracanã vai fechar
+- [[Posts/31 - Ganhar é o suficiente|#31]] - Ganhar é o suficiente ?
+- [[Posts/310 - O jogo dos 7 erros|#310]] - O jogo dos 7 erros · [[Posts/310 - O jogo dos 7 erros#^comentario-1318|#1318]]
+- [[Posts/310 - O jogo dos 7 erros|#310]] - O jogo dos 7 erros · [[Posts/310 - O jogo dos 7 erros#^comentario-1325|#1325]]
+- [[Posts/3104 - Rafael acertou com Fluminense|#3104]] - Rafael acertou com Fluminense
+- [[Posts/3106 - Dia de Alex e Dorival|#3106]] - Dia de Alex e Dorival · [[Posts/3106 - Dia de Alex e Dorival#^comentario-28918|#28918]]
+- [[Posts/3111 - Duque de Caxias 3×2 Fluminense|#3111]] - Duque de Caxias 3×2 Fluminense
+- [[Posts/3113 - Exemplos para as crianças|#3113]] - Exemplos para as crianças
+- [[Posts/312 - Flu joga a primeira partida da final no Rio|#312]] - Flu joga a primeira partida da final no Rio · [[Posts/312 - Flu joga a primeira partida da final no Rio#^comentario-1344|#1344]]
+- [[Posts/312 - Flu joga a primeira partida da final no Rio|#312]] - Flu joga a primeira partida da final no Rio
+- [[Posts/3125 - Até no Caverna do Dragão o Vasco é vice|#3125]] - Até no Caverna do Dragão o Vasco é vice
+- [[Posts/3127 - Um desperdício (será )|#3127]] - Um desperdício (será?)
+- [[Posts/313 - Boas Novas 2|#313]] - Boas Novas 2 · [[Posts/313 - Boas Novas 2#^comentario-1349|#1349]]
+- [[Posts/313 - Boas Novas 2|#313]] - Boas Novas 2 · [[Posts/313 - Boas Novas 2#^comentario-1351|#1351]]
+- [[Posts/3132 - Preocupa-te Dunga|#3132]] - Preocupa-te Dunga
+- [[Posts/3135 - Ruim com NET, pior sem NET|#3135]] - Ruim com NET, pior sem NET · [[Posts/3135 - Ruim com NET, pior sem NET#^comentario-29215|#29215]]
+- [[Posts/3141 - A grande contratação|#3141]] - A grande contratação · [[Posts/3141 - A grande contratação#^comentario-29055|#29055]]
+- [[Posts/3141 - A grande contratação|#3141]] - A grande contratação · [[Posts/3141 - A grande contratação#^comentario-29062|#29062]]
+- [[Posts/3141 - A grande contratação|#3141]] - A grande contratação · [[Posts/3141 - A grande contratação#^comentario-29090|#29090]]
+- [[Posts/315 - A primeira bandeirinha da história que fez cagada|#315]] - A primeira bandeirinha da história que fez cagada · [[Posts/315 - A primeira bandeirinha da história que fez cagada#^comentario-1355|#1355]]
+- [[Posts/3154 - Vasco perde 6 pontos|#3154]] - Vasco perde 6 pontos · [[Posts/3154 - Vasco perde 6 pontos#^comentario-29116|#29116]]
+- [[Posts/3163 - Penalty em… Fernando Henrique|#3163]] - Penalty em… Fernando Henrique · [[Posts/3163 - Penalty em… Fernando Henrique#^comentario-29121|#29121]]
+- [[Posts/3163 - Penalty em… Fernando Henrique|#3163]] - Penalty em… Fernando Henrique
+- [[Posts/317 - Será a vez do Fluminense|#317]] - Será a vez do Fluminense? · [[Posts/317 - Será a vez do Fluminense#^comentario-1366|#1366]]
+- [[Posts/317 - Será a vez do Fluminense|#317]] - Será a vez do Fluminense?
+- [[Posts/3173 - Como é bom ter jogador sério no time…|#3173]] - Como é bom ter jogador sério no time… · [[Posts/3173 - Como é bom ter jogador sério no time…#^comentario-29223|#29223]]
+- [[Posts/3178 - Domingo de clássicos|#3178]] - Domingo de clássicos
+- [[Posts/318 - O Inter que preocupa (os colorados)|#318]] - O Inter que preocupa (os colorados)
+- [[Posts/319 - GP de Mônaco|#319]] - GP de Mônaco · [[Posts/319 - GP de Mônaco#^comentario-1374|#1374]]
+- [[Posts/319 - GP de Mônaco|#319]] - GP de Mônaco
+- [[Posts/3197 - Futebol de verdade|#3197]] - Futebol de verdade · [[Posts/3197 - Futebol de verdade#^comentario-29263|#29263]]
+- [[Posts/3199 - Recurso negado e…eliminado|#3199]] - Recurso negado e…eliminado? · [[Posts/3199 - Recurso negado e…eliminado#^comentario-29287|#29287]]
+- [[Posts/3199 - Recurso negado e…eliminado|#3199]] - Recurso negado e…eliminado? · [[Posts/3199 - Recurso negado e…eliminado#^comentario-29295|#29295]]
+- [[Posts/3199 - Recurso negado e…eliminado|#3199]] - Recurso negado e…eliminado? · [[Posts/3199 - Recurso negado e…eliminado#^comentario-29358|#29358]]
+- [[Posts/32 - Arte|#32]] - Arte
+- [[Posts/320 - A Mulher de César|#320]] - A Mulher de César · [[Posts/320 - A Mulher de César#^comentario-1375|#1375]]
+- [[Posts/320 - A Mulher de César|#320]] - A Mulher de César · [[Posts/320 - A Mulher de César#^comentario-1380|#1380]]
+- [[Posts/320 - A Mulher de César|#320]] - A Mulher de César · [[Posts/320 - A Mulher de César#^comentario-1383|#1383]]
+- [[Posts/320 - A Mulher de César|#320]] - A Mulher de César · [[Posts/320 - A Mulher de César#^comentario-1392|#1392]]
+- [[Posts/320 - A Mulher de César|#320]] - A Mulher de César
+- [[Posts/3203 - Da série os saudáveis campeões olímpicos|#3203]] - Da série os saudáveis campeões olímpicos · [[Posts/3203 - Da série os saudáveis campeões olímpicos#^comentario-29334|#29334]]
+- [[Posts/3209 - Nacional-PB 0x1 Fluminense|#3209]] - Nacional-PB 0x1 Fluminense
+- [[Posts/3218 - As 50 piores coisas do futebol moderno|#3218]] - As 50 piores coisas do futebol moderno
+- [[Posts/322 - Campeonatinho chato|#322]] - Campeonatinho chato · [[Posts/322 - Campeonatinho chato#^comentario-1404|#1404]]
+- [[Posts/322 - Campeonatinho chato|#322]] - Campeonatinho chato · [[Posts/322 - Campeonatinho chato#^comentario-1405|#1405]]
+- [[Posts/322 - Campeonatinho chato|#322]] - Campeonatinho chato · [[Posts/322 - Campeonatinho chato#^comentario-1407|#1407]]
+- [[Posts/322 - Campeonatinho chato|#322]] - Campeonatinho chato · [[Posts/322 - Campeonatinho chato#^comentario-1410|#1410]]
+- [[Posts/323 - Homenagem Banal|#323]] - Homenagem Banal · [[Posts/323 - Homenagem Banal#^comentario-1412|#1412]]
+- [[Posts/323 - Homenagem Banal|#323]] - Homenagem Banal · [[Posts/323 - Homenagem Banal#^comentario-1413|#1413]]
+- [[Posts/3238 - Escrito nas Estrelas|#3238]] - Escrito nas Estrelas · [[Posts/3238 - Escrito nas Estrelas#^comentario-29466|#29466]]
+- [[Posts/3238 - Escrito nas Estrelas|#3238]] - Escrito nas Estrelas · [[Posts/3238 - Escrito nas Estrelas#^comentario-29481|#29481]]
+- [[Posts/324 - O Bando de Dunga|#324]] - O Bando de Dunga · [[Posts/324 - O Bando de Dunga#^comentario-1419|#1419]]
+- [[Posts/324 - O Bando de Dunga|#324]] - O Bando de Dunga · [[Posts/324 - O Bando de Dunga#^comentario-1422|#1422]]
+- [[Posts/324 - O Bando de Dunga|#324]] - O Bando de Dunga · [[Posts/324 - O Bando de Dunga#^comentario-1425|#1425]]
+- [[Posts/324 - O Bando de Dunga|#324]] - O Bando de Dunga
+- [[Posts/325 - Megalomania de Maradona|#325]] - Megalomania de Maradona · [[Posts/325 - Megalomania de Maradona#^comentario-1428|#1428]]
+- [[Posts/325 - Megalomania de Maradona|#325]] - Megalomania de Maradona
+- [[Posts/3252 - Ao feliz vencedor da Taça Guanabara|#3252]] - Ao feliz vencedor da Taça Guanabara
+- [[Posts/3255 - Gol do Santos|#3255]] - Gol do Santos
+- [[Posts/326 - Vai uma cervejinha depois do futebol|#326]] - Vai uma cervejinha depois do futebol? · [[Posts/326 - Vai uma cervejinha depois do futebol#^comentario-1431|#1431]]
+- [[Posts/326 - Vai uma cervejinha depois do futebol|#326]] - Vai uma cervejinha depois do futebol?
+- [[Posts/3260 - Mais uma m… à vista|#3260]] - Mais uma m… à vista · [[Posts/3260 - Mais uma m… à vista#^comentario-29543|#29543]]
+- [[Posts/3265 - Ronaldo estréia no Corinthians|#3265]] - Ronaldo estréia no Corinthians · [[Posts/3265 - Ronaldo estréia no Corinthians#^comentario-29583|#29583]]
+- [[Posts/3265 - Ronaldo estréia no Corinthians|#3265]] - Ronaldo estréia no Corinthians
+- [[Posts/3273 - Celso Fábio Fred no Fluminense|#3273]] - Celso? Fábio? Fred no Fluminense · [[Posts/3273 - Celso Fábio Fred no Fluminense#^comentario-29747|#29747]]
+- [[Posts/3273 - Celso Fábio Fred no Fluminense|#3273]] - Celso? Fábio? Fred no Fluminense · [[Posts/3273 - Celso Fábio Fred no Fluminense#^comentario-37619|#37619]]
+- [[Posts/3273 - Celso Fábio Fred no Fluminense|#3273]] - Celso? Fábio? Fred no Fluminense
+- [[Posts/3280 - Apresentação de Fred no Fluminense|#3280]] - Apresentação de Fred no Fluminense · [[Posts/3280 - Apresentação de Fred no Fluminense#^comentario-29762|#29762]]
+- [[Posts/3280 - Apresentação de Fred no Fluminense|#3280]] - Apresentação de Fred no Fluminense
+- [[Posts/3282 - Douglas entra para a história|#3282]] - Douglas entra para a história · [[Posts/3282 - Douglas entra para a história#^comentario-29893|#29893]]
+- [[Posts/3282 - Douglas entra para a história|#3282]] - Douglas entra para a história · [[Posts/3282 - Douglas entra para a história#^comentario-29894|#29894]]
+- [[Posts/3282 - Douglas entra para a história|#3282]] - Douglas entra para a história
+- [[Posts/329 - 1 Ano|#329]] - 1 Ano
+- [[Posts/3292 - Oitavas UCL 2008 2009 – Partidas de volta|#3292]] - Oitavas UCL 2008/2009 – Partidas de volta · [[Posts/3292 - Oitavas UCL 2008 2009 – Partidas de volta#^comentario-29892|#29892]]
+- [[Posts/3292 - Oitavas UCL 2008 2009 – Partidas de volta|#3292]] - Oitavas UCL 2008/2009 – Partidas de volta · [[Posts/3292 - Oitavas UCL 2008 2009 – Partidas de volta#^comentario-29904|#29904]]
+- [[Posts/3292 - Oitavas UCL 2008 2009 – Partidas de volta|#3292]] - Oitavas UCL 2008/2009 – Partidas de volta
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-29900|#29900]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-29902|#29902]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-30125|#30125]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-32093|#32093]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-32883|#32883]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-33270|#33270]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-40162|#40162]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-40998|#40998]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-51472|#51472]]
+- [[Posts/3296 - Sobre a fraude Ronaldo|#3296]] - Sobre a fraude Ronaldo · [[Posts/3296 - Sobre a fraude Ronaldo#^comentario-74527|#74527]]
+- [[Posts/33 - Nota triste|#33]] - Nota triste
+- [[Posts/3301 - O rumo do Botafogo|#3301]] - O rumo do Botafogo
+- [[Posts/3309 - Para os entendidos em marquetingue|#3309]] - Para os entendidos em marquetingue
+- [[Posts/331 - Cúcuta confirma favoritismo|#331]] - Cúcuta confirma favoritismo
+- [[Posts/3311 - Bruno passeia com filho de Andrade|#3311]] - Bruno passeia com filho de Andrade
+- [[Posts/3319 - Sem frescuras|#3319]] - Sem frescuras · [[Posts/3319 - Sem frescuras#^comentario-30071|#30071]]
+- [[Posts/3319 - Sem frescuras|#3319]] - Sem frescuras
+- [[Posts/3324 - SUUURRRAAAAA!!!!!!|#3324]] - SUUURRRAAAAA!!!!!! · [[Posts/3324 - SUUURRRAAAAA!!!!!!#^comentario-30096|#30096]]
+- [[Posts/3326 - O lado surrado|#3326]] - O lado surrado · [[Posts/3326 - O lado surrado#^comentario-30098|#30098]]
+- [[Posts/334 - Enquanto isso, na Sala de Justiça…|#334]] - Enquanto isso, na Sala de Justiça…
+- [[Posts/3342 - Não canso de avisar…|#3342]] - Não canso de avisar… · [[Posts/3342 - Não canso de avisar…#^comentario-30145|#30145]]
+- [[Posts/3342 - Não canso de avisar…|#3342]] - Não canso de avisar… · [[Posts/3342 - Não canso de avisar…#^comentario-30148|#30148]]
+- [[Posts/3342 - Não canso de avisar…|#3342]] - Não canso de avisar… · [[Posts/3342 - Não canso de avisar…#^comentario-30176|#30176]]
+- [[Posts/3342 - Não canso de avisar…|#3342]] - Não canso de avisar… · [[Posts/3342 - Não canso de avisar…#^comentario-30311|#30311]]
+- [[Posts/3342 - Não canso de avisar…|#3342]] - Não canso de avisar… · [[Posts/3342 - Não canso de avisar…#^comentario-30336|#30336]]
+- [[Posts/335 - 1º Seminário de Aikido com Sensei Nishida em Niterói|#335]] - 1º Seminário de Aikido com Sensei Nishida em Niterói · [[Posts/335 - 1º Seminário de Aikido com Sensei Nishida em Niterói#^comentario-1480|#1480]]
+- [[Posts/335 - 1º Seminário de Aikido com Sensei Nishida em Niterói|#335]] - 1º Seminário de Aikido com Sensei Nishida em Niterói
+- [[Posts/3356 - Como é fácil fazer gol|#3356]] - Como é fácil fazer gol. · [[Posts/3356 - Como é fácil fazer gol#^comentario-30193|#30193]]
+- [[Posts/3367 - All in|#3367]] - All in · [[Posts/3367 - All in#^comentario-30251|#30251]]
+- [[Posts/3367 - All in|#3367]] - All in
+- [[Posts/3369 - Expulsaram o árbitro!|#3369]] - Expulsaram o árbitro! · [[Posts/3369 - Expulsaram o árbitro!#^comentario-30284|#30284]]
+- [[Posts/3376 - Corinthians x Santos|#3376]] - Corinthians x Santos · [[Posts/3376 - Corinthians x Santos#^comentario-30313|#30313]]
+- [[Posts/3376 - Corinthians x Santos|#3376]] - Corinthians x Santos · [[Posts/3376 - Corinthians x Santos#^comentario-30400|#30400]]
+- [[Posts/3376 - Corinthians x Santos|#3376]] - Corinthians x Santos
+- [[Posts/3390 - Assédio Moral|#3390]] - Assédio Moral
+- [[Posts/34 - Uhhhhhhhhh FORA!!!|#34]] - Uhhhhhhhhh FORA!!!
+- [[Posts/3404 - IBAMA tirará 6 pontos do Vasco|#3404]] - IBAMA tirará 6 pontos do Vasco · [[Posts/3404 - IBAMA tirará 6 pontos do Vasco#^comentario-30490|#30490]]
+- [[Posts/3404 - IBAMA tirará 6 pontos do Vasco|#3404]] - IBAMA tirará 6 pontos do Vasco · [[Posts/3404 - IBAMA tirará 6 pontos do Vasco#^comentario-30505|#30505]]
+- [[Posts/3404 - IBAMA tirará 6 pontos do Vasco|#3404]] - IBAMA tirará 6 pontos do Vasco · [[Posts/3404 - IBAMA tirará 6 pontos do Vasco#^comentario-30506|#30506]]
+- [[Posts/3412 - Internazionale 3×0 Reggina|#3412]] - Internazionale 3×0 Reggina · [[Posts/3412 - Internazionale 3×0 Reggina#^comentario-30521|#30521]]
+- [[Posts/3412 - Internazionale 3×0 Reggina|#3412]] - Internazionale 3×0 Reggina · [[Posts/3412 - Internazionale 3×0 Reggina#^comentario-30596|#30596]]
+- [[Posts/3412 - Internazionale 3×0 Reggina|#3412]] - Internazionale 3×0 Reggina
+- [[Posts/3434 - Foi dado o motivo|#3434]] - Foi dado o motivo. · [[Posts/3434 - Foi dado o motivo#^comentario-30646|#30646]]
+- [[Posts/3449 - Vale a bronca|#3449]] - Vale a bronca · [[Posts/3449 - Vale a bronca#^comentario-30729|#30729]]
+- [[Posts/3462 - Um fim de turno eletrizante!|#3462]] - Um fim de turno eletrizante! · [[Posts/3462 - Um fim de turno eletrizante!#^comentario-30783|#30783]]
+- [[Posts/3470 - Conselhos para a temporada, por Pai Edésio de Ogum|#3470]] - Conselhos para a temporada, por Pai Edésio de Ogum · [[Posts/3470 - Conselhos para a temporada, por Pai Edésio de Ogum#^comentario-30784|#30784]]
+- [[Posts/3470 - Conselhos para a temporada, por Pai Edésio de Ogum|#3470]] - Conselhos para a temporada, por Pai Edésio de Ogum · [[Posts/3470 - Conselhos para a temporada, por Pai Edésio de Ogum#^comentario-30786|#30786]]
+- [[Posts/3476 - Juninho Pernambucano de volta ao Vasco|#3476]] - Juninho Pernambucano de volta ao Vasco · [[Posts/3476 - Juninho Pernambucano de volta ao Vasco#^comentario-30790|#30790]]
+- [[Posts/3476 - Juninho Pernambucano de volta ao Vasco|#3476]] - Juninho Pernambucano de volta ao Vasco · [[Posts/3476 - Juninho Pernambucano de volta ao Vasco#^comentario-30791|#30791]]
+- [[Posts/3476 - Juninho Pernambucano de volta ao Vasco|#3476]] - Juninho Pernambucano de volta ao Vasco · [[Posts/3476 - Juninho Pernambucano de volta ao Vasco#^comentario-31934|#31934]]
+- [[Posts/348 - A escolha de Renato|#348]] - A escolha de Renato
+- [[Posts/3488 - Basta seguir a Inglaterra|#3488]] - Basta seguir a Inglaterra · [[Posts/3488 - Basta seguir a Inglaterra#^comentario-31643|#31643]]
+- [[Posts/3488 - Basta seguir a Inglaterra|#3488]] - Basta seguir a Inglaterra
+- [[Posts/3493 - Fds cheião|#3493]] - Fds cheião · [[Posts/3493 - Fds cheião#^comentario-30849|#30849]]
+- [[Posts/3493 - Fds cheião|#3493]] - Fds cheião · [[Posts/3493 - Fds cheião#^comentario-30876|#30876]]
+- [[Posts/35 - Veio o 2º tempo|#35]] - Veio o 2º tempo
+- [[Posts/350 - Fluminense Campeão da Copa do Brasil 2007|#350]] - Fluminense Campeão da Copa do Brasil 2007
+- [[Posts/3503 - Malditos Julios|#3503]] - Malditos Julios
+- [[Posts/3510 - Clubes, países, geopolítica, viagens…|#3510]] - Clubes, países, geopolítica, viagens… · [[Posts/3510 - Clubes, países, geopolítica, viagens…#^comentario-31088|#31088]]
+- [[Posts/3518 - A hora e a vez dos ex-excluídos|#3518]] - A hora e a vez dos ex-excluídos · [[Posts/3518 - A hora e a vez dos ex-excluídos#^comentario-31130|#31130]]
+- [[Posts/3522 - Datas do Pão-de-Queijão divulgadas|#3522]] - Datas do Pão-de-Queijão divulgadas. · [[Posts/3522 - Datas do Pão-de-Queijão divulgadas#^comentario-31077|#31077]]
+- [[Posts/353 - Torcer pelo Fluminense requer talento|#353]] - Torcer pelo Fluminense requer talento
+- [[Posts/3532 - Quem são os melhores|#3532]] - Quem são os melhores? · [[Posts/3532 - Quem são os melhores#^comentario-31397|#31397]]
+- [[Posts/354 - Grêmio x Boca Jrs|#354]] - Grêmio x Boca Jrs.
+- [[Posts/3542 - OBINA É DO VASCÃO!!!|#3542]] - OBINA É DO VASCÃO!!! · [[Posts/3542 - OBINA É DO VASCÃO!!!#^comentario-31124|#31124]]
+- [[Posts/3551 - OLÉ! Bolívia 6 x 1 Argentina|#3551]] - OLÉ! Bolívia 6 x 1 Argentina · [[Posts/3551 - OLÉ! Bolívia 6 x 1 Argentina#^comentario-31150|#31150]]
+- [[Posts/3551 - OLÉ! Bolívia 6 x 1 Argentina|#3551]] - OLÉ! Bolívia 6 x 1 Argentina · [[Posts/3551 - OLÉ! Bolívia 6 x 1 Argentina#^comentario-31151|#31151]]
+- [[Posts/3561 - Termina maior parceria do futebol brasileiro|#3561]] - Termina maior parceria do futebol brasileiro · [[Posts/3561 - Termina maior parceria do futebol brasileiro#^comentario-31233|#31233]]
+- [[Posts/3566 - Chegarei atrasado na redação|#3566]] - Chegarei atrasado na redação · [[Posts/3566 - Chegarei atrasado na redação#^comentario-31278|#31278]]
+- [[Posts/357 - Pan no Rio – vale ou não vale|#357]] - Pan no Rio – vale ou não vale?
+- [[Posts/3570 - Botafogo 3X2 Madureira - ufa!|#3570]] - Botafogo 3X2 Madureira - ufa! · [[Posts/3570 - Botafogo 3X2 Madureira - ufa!#^comentario-31256|#31256]]
+- [[Posts/3570 - Botafogo 3X2 Madureira - ufa!|#3570]] - Botafogo 3X2 Madureira - ufa! · [[Posts/3570 - Botafogo 3X2 Madureira - ufa!#^comentario-31257|#31257]]
+- [[Posts/3570 - Botafogo 3X2 Madureira - ufa!|#3570]] - Botafogo 3X2 Madureira - ufa! · [[Posts/3570 - Botafogo 3X2 Madureira - ufa!#^comentario-31281|#31281]]
+- [[Posts/3588 - Não mete essa|#3588]] - Não mete essa
+- [[Posts/3593 - Enfim começa o campeonato|#3593]] - Enfim começa o campeonato · [[Posts/3593 - Enfim começa o campeonato#^comentario-31406|#31406]]
+- [[Posts/3593 - Enfim começa o campeonato|#3593]] - Enfim começa o campeonato · [[Posts/3593 - Enfim começa o campeonato#^comentario-31423|#31423]]
+- [[Posts/3593 - Enfim começa o campeonato|#3593]] - Enfim começa o campeonato · [[Posts/3593 - Enfim começa o campeonato#^comentario-31474|#31474]]
+- [[Posts/36 - Brasil X Autrália|#36]] - Brasil X Autrália
+- [[Posts/360 - Meio de Semana - Jogos Exclusivos|#360]] - Meio de Semana - Jogos Exclusivos
+- [[Posts/361 - 720 Gols|#361]] - 720 Gols
+- [[Posts/3615 - As divisões de base|#3615]] - As divisões de base · [[Posts/3615 - As divisões de base#^comentario-31479|#31479]]
+- [[Posts/3620 - Anti-clímax Sport 0×2 Palmeiras|#3620]] - Anti-clímax: Sport 0×2 Palmeiras · [[Posts/3620 - Anti-clímax Sport 0×2 Palmeiras#^comentario-31525|#31525]]
+- [[Posts/3620 - Anti-clímax Sport 0×2 Palmeiras|#3620]] - Anti-clímax: Sport 0×2 Palmeiras
+- [[Posts/3627 - O presente não veio|#3627]] - O presente não veio · [[Posts/3627 - O presente não veio#^comentario-31559|#31559]]
+- [[Posts/3640 - ‘Imperador’, tal qual 01, pede para sair|#3640]] - ‘Imperador’, tal qual 01, pede para sair · [[Posts/3640 - ‘Imperador’, tal qual 01, pede para sair#^comentario-31623|#31623]]
+- [[Posts/3655 - Corinthians x São Paulo – Pré-Jogo|#3655]] - Corinthians x São Paulo – Pré-Jogo · [[Posts/3655 - Corinthians x São Paulo – Pré-Jogo#^comentario-31658|#31658]]
+- [[Posts/3655 - Corinthians x São Paulo – Pré-Jogo|#3655]] - Corinthians x São Paulo – Pré-Jogo
+- [[Posts/366 - Ache o seu Nonô|#366]] - Ache o seu Nonô
+- [[Posts/3665 - Juan 1×0 FH…|#3665]] - Juan 1×0 FH… · [[Posts/3665 - Juan 1×0 FH…#^comentario-31761|#31761]]
+- [[Posts/3665 - Juan 1×0 FH…|#3665]] - Juan 1×0 FH…
+- [[Posts/3669 - Uma ofensa, um disparate|#3669]] - Uma ofensa, um disparate · [[Posts/3669 - Uma ofensa, um disparate#^comentario-31782|#31782]]
+- [[Posts/3669 - Uma ofensa, um disparate|#3669]] - Uma ofensa, um disparate
+- [[Posts/3674 - Luz no fim do túnel|#3674]] - Luz no fim do túnel? · [[Posts/3674 - Luz no fim do túnel#^comentario-31796|#31796]]
+- [[Posts/368 - Boca 3×0 Grêmio|#368]] - Boca 3×0 Grêmio
+- [[Posts/3684 - Tri-Vice ( ! )|#3684]] - Tri-Vice (?!?)\* · [[Posts/3684 - Tri-Vice ( ! )#^comentario-31819|#31819]]
+- [[Posts/3689 - E Maicon é banco|#3689]] - E Maicon é banco · [[Posts/3689 - E Maicon é banco#^comentario-31885|#31885]]
+- [[Posts/3689 - E Maicon é banco|#3689]] - E Maicon é banco
+- [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate|#3694]] - Sebastian Vettel e a irmã safada da Kate · [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate#^comentario-31888|#31888]]
+- [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate|#3694]] - Sebastian Vettel e a irmã safada da Kate · [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate#^comentario-31889|#31889]]
+- [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate|#3694]] - Sebastian Vettel e a irmã safada da Kate · [[Posts/3694 - Sebastian Vettel e a irmã safada da Kate#^comentario-31890|#31890]]
+- [[Posts/37 - Engomadinho Gaúcho|#37]] - Engomadinho Gaúcho
+- [[Posts/3705 - Flamengo x Botafogo – final v.2009|#3705]] - Flamengo x Botafogo – final v.2009
+- [[Posts/371 - Entrega das faixas será no Engenhão|#371]] - Entrega das faixas será no Engenhão
+- [[Posts/3736 - ‘94- ‘09 15 anos sem Senna (+1 dia sem Ratzenberger)|#3736]] - ‘94- ‘09: 15 anos sem Senna (+1 dia sem Ratzenberger) · [[Posts/3736 - ‘94- ‘09 15 anos sem Senna (+1 dia sem Ratzenberger)#^comentario-31931|#31931]]
+- [[Posts/3744 - Cuca quase consegue o tri|#3744]] - Cuca quase consegue o tri · [[Posts/3744 - Cuca quase consegue o tri#^comentario-31977|#31977]]
+- [[Posts/3744 - Cuca quase consegue o tri|#3744]] - Cuca quase consegue o tri
+- [[Posts/375 - Ao Bom Futebol - Ser campeão é subproduto|#375]] - Ao Bom Futebol - Ser campeão é subproduto
+- [[Posts/3750 - Campanhas do Cariocão 2009|#3750]] - Campanhas do Cariocão 2009
+- [[Posts/3761 - Palmeiras x Sport – Começa a Libertadores|#3761]] - Palmeiras x Sport – Começa a Libertadores · [[Posts/3761 - Palmeiras x Sport – Começa a Libertadores#^comentario-32154|#32154]]
+- [[Posts/3761 - Palmeiras x Sport – Começa a Libertadores|#3761]] - Palmeiras x Sport – Começa a Libertadores · [[Posts/3761 - Palmeiras x Sport – Começa a Libertadores#^comentario-32155|#32155]]
+- [[Posts/3761 - Palmeiras x Sport – Começa a Libertadores|#3761]] - Palmeiras x Sport – Começa a Libertadores
+- [[Posts/3782 - CE x RJ|#3782]] - CE x RJ · [[Posts/3782 - CE x RJ#^comentario-32253|#32253]]
+- [[Posts/3782 - CE x RJ|#3782]] - CE x RJ · [[Posts/3782 - CE x RJ#^comentario-33103|#33103]]
+- [[Posts/3785 - Bolão do Campeonato Brasileiro 2009|#3785]] - Bolão do Campeonato Brasileiro 2009 · [[Posts/3785 - Bolão do Campeonato Brasileiro 2009#^comentario-32361|#32361]]
+- [[Posts/3787 - Palpites para o Brasileirão 2009|#3787]] - Palpites para o Brasileirão 2009 · [[Posts/3787 - Palpites para o Brasileirão 2009#^comentario-32393|#32393]]
+- [[Posts/3787 - Palpites para o Brasileirão 2009|#3787]] - Palpites para o Brasileirão 2009 · [[Posts/3787 - Palpites para o Brasileirão 2009#^comentario-33442|#33442]]
+- [[Posts/3787 - Palpites para o Brasileirão 2009|#3787]] - Palpites para o Brasileirão 2009
+- [[Posts/380 - Obina x Afonso Alves|#380]] - Obina x Afonso Alves
+- [[Posts/3825 - Obrigado, Parreira|#3825]] - Obrigado, Parreira
+- [[Posts/3837 - Sinceramente, não sei!|#3837]] - Sinceramente, não sei! · [[Posts/3837 - Sinceramente, não sei!#^comentario-32520|#32520]]
+- [[Posts/384 - Ingressos para Grêmio x Boca|#384]] - Ingressos para Grêmio x Boca
+- [[Posts/3849 - Dia de Maurício|#3849]] - Dia de Maurício
+- [[Posts/3855 - Brawn segue exterminando|#3855]] - Brawn segue exterminando · [[Posts/3855 - Brawn segue exterminando#^comentario-32717|#32717]]
+- [[Posts/3860 - Bota-Teima|#3860]] - Bota-Teima · [[Posts/3860 - Bota-Teima#^comentario-32675|#32675]]
+- [[Posts/3860 - Bota-Teima|#3860]] - Bota-Teima · [[Posts/3860 - Bota-Teima#^comentario-33120|#33120]]
+- [[Posts/3860 - Bota-Teima|#3860]] - Bota-Teima
+- [[Posts/3869 - Como torcer contra Marcos|#3869]] - Como torcer contra Marcos? · [[Posts/3869 - Como torcer contra Marcos#^comentario-32832|#32832]]
+- [[Posts/3869 - Como torcer contra Marcos|#3869]] - Como torcer contra Marcos?
+- [[Posts/3882 - Vasco surra o Vitória 4×0|#3882]] - Vasco surra o Vitória 4×0 · [[Posts/3882 - Vasco surra o Vitória 4×0#^comentario-32790|#32790]]
+- [[Posts/3882 - Vasco surra o Vitória 4×0|#3882]] - Vasco surra o Vitória 4×0 · [[Posts/3882 - Vasco surra o Vitória 4×0#^comentario-32791|#32791]]
+- [[Posts/3899 - SEXta do Imperador|#3899]] - SEXta do Imperador · [[Posts/3899 - SEXta do Imperador#^comentario-32903|#32903]]
+- [[Posts/3899 - SEXta do Imperador|#3899]] - SEXta do Imperador · [[Posts/3899 - SEXta do Imperador#^comentario-32906|#32906]]
+- [[Posts/3899 - SEXta do Imperador|#3899]] - SEXta do Imperador · [[Posts/3899 - SEXta do Imperador#^comentario-32926|#32926]]
+- [[Posts/3903 - Vasco rompe com a Champs – Ponto pro Eurico|#3903]] - Vasco rompe com a Champs – Ponto pro Eurico · [[Posts/3903 - Vasco rompe com a Champs – Ponto pro Eurico#^comentario-33017|#33017]]
+- [[Posts/3905 - Ser Vasco|#3905]] - Ser Vasco · [[Posts/3905 - Ser Vasco#^comentario-33019|#33019]]
+- [[Posts/391 - Todo mundo quer ficar com o Engenhão|#391]] - Todo mundo quer ficar com o Engenhão
+- [[Posts/3910 - 0×0|#3910]] - 0×0 · [[Posts/3910 - 0×0#^comentario-33132|#33132]]
+- [[Posts/3910 - 0×0|#3910]] - 0×0
+- [[Posts/3915 - Troféu Josiel 2009|#3915]] - Troféu Josiel 2009 · [[Posts/3915 - Troféu Josiel 2009#^comentario-33143|#33143]]
+- [[Posts/3915 - Troféu Josiel 2009|#3915]] - Troféu Josiel 2009
+- [[Posts/393 - Ana Paula Oliveira vai posar nua na Playboy|#393]] - Ana Paula Oliveira vai posar nua na Playboy
+- [[Posts/3931 - Mais Você|#3931]] - Mais Você
+- [[Posts/3935 - A inveja de Parreira|#3935]] - A inveja de Parreira · [[Posts/3935 - A inveja de Parreira#^comentario-33325|#33325]]
+- [[Posts/3935 - A inveja de Parreira|#3935]] - A inveja de Parreira · [[Posts/3935 - A inveja de Parreira#^comentario-33383|#33383]]
+- [[Posts/3935 - A inveja de Parreira|#3935]] - A inveja de Parreira
+- [[Posts/3944 - Outro bom jogo|#3944]] - Outro bom jogo · [[Posts/3944 - Outro bom jogo#^comentario-33407|#33407]]
+- [[Posts/3946 - O Vasco será nosso|#3946]] - O Vasco será nosso? · [[Posts/3946 - O Vasco será nosso#^comentario-33422|#33422]]
+- [[Posts/3956 - Pra não dizer que não falei das flores…|#3956]] - Pra não dizer que não falei das flores… · [[Posts/3956 - Pra não dizer que não falei das flores…#^comentario-33388|#33388]]
+- [[Posts/3956 - Pra não dizer que não falei das flores…|#3956]] - Pra não dizer que não falei das flores… · [[Posts/3956 - Pra não dizer que não falei das flores…#^comentario-33514|#33514]]
+- [[Posts/3956 - Pra não dizer que não falei das flores…|#3956]] - Pra não dizer que não falei das flores… · [[Posts/3956 - Pra não dizer que não falei das flores…#^comentario-34044|#34044]]
+- [[Posts/3964 - Sexta|#3964]] - Sexta? · [[Posts/3964 - Sexta#^comentario-33482|#33482]]
+- [[Posts/3972 - Fácil, fácil…|#3972]] - Fácil, fácil… · [[Posts/3972 - Fácil, fácil…#^comentario-33459|#33459]]
+- [[Posts/3972 - Fácil, fácil…|#3972]] - Fácil, fácil… · [[Posts/3972 - Fácil, fácil…#^comentario-33612|#33612]]
+- [[Posts/3982 - Passeando pelo Principado|#3982]] - Passeando pelo Principado · [[Posts/3982 - Passeando pelo Principado#^comentario-33575|#33575]]
+- [[Posts/3987 - Um pulinho em Indy|#3987]] - Um pulinho em Indy · [[Posts/3987 - Um pulinho em Indy#^comentario-33592|#33592]]
+- [[Posts/3987 - Um pulinho em Indy|#3987]] - Um pulinho em Indy · [[Posts/3987 - Um pulinho em Indy#^comentario-33929|#33929]]
+- [[Posts/3993 - Copa 2014 cidades-sede|#3993]] - Copa 2014: cidades-sede · [[Posts/3993 - Copa 2014 cidades-sede#^comentario-33600|#33600]]
+- [[Posts/3993 - Copa 2014 cidades-sede|#3993]] - Copa 2014: cidades-sede · [[Posts/3993 - Copa 2014 cidades-sede#^comentario-33619|#33619]]
+- [[Posts/3995 - E a Torcida do Fla fez escola|#3995]] - E a Torcida do Fla fez escola · [[Posts/3995 - E a Torcida do Fla fez escola#^comentario-33594|#33594]]
+- [[Posts/3995 - E a Torcida do Fla fez escola|#3995]] - E a Torcida do Fla fez escola · [[Posts/3995 - E a Torcida do Fla fez escola#^comentario-33908|#33908]]
+- [[Posts/4013 - Rococó x Bauhaus|#4013]] - Rococó x Bauhaus · [[Posts/4013 - Rococó x Bauhaus#^comentario-33657|#33657]]
+- [[Posts/4013 - Rococó x Bauhaus|#4013]] - Rococó x Bauhaus
+- [[Posts/402 - Bebeto de Freitas|#402]] - Bebeto de Freitas · [[Posts/402 - Bebeto de Freitas#^comentario-7530|#7530]]
+- [[Posts/402 - Bebeto de Freitas|#402]] - Bebeto de Freitas · [[Posts/402 - Bebeto de Freitas#^comentario-16919|#16919]]
+- [[Posts/402 - Bebeto de Freitas|#402]] - Bebeto de Freitas · [[Posts/402 - Bebeto de Freitas#^comentario-16928|#16928]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33680|#33680]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33681|#33681]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33684|#33684]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33686|#33686]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33691|#33691]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33695|#33695]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33701|#33701]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33704|#33704]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33707|#33707]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33712|#33712]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33714|#33714]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33718|#33718]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33722|#33722]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33727|#33727]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33732|#33732]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33742|#33742]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33744|#33744]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33751|#33751]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33767|#33767]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33772|#33772]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33778|#33778]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33781|#33781]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33786|#33786]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33790|#33790]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33794|#33794]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33798|#33798]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33806|#33806]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33811|#33811]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33814|#33814]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33818|#33818]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33822|#33822]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33824|#33824]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33826|#33826]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33831|#33831]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33833|#33833]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33839|#33839]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-33852|#33852]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United · [[Posts/4023 - Barcelona x Manchester United#^comentario-34045|#34045]]
+- [[Posts/4023 - Barcelona x Manchester United|#4023]] - Barcelona x Manchester United
+- [[Posts/4029 - Quase, quase…|#4029]] - Quase, quase… · [[Posts/4029 - Quase, quase…#^comentario-33894|#33894]]
+- [[Posts/4029 - Quase, quase…|#4029]] - Quase, quase… · [[Posts/4029 - Quase, quase…#^comentario-33924|#33924]]
+- [[Posts/4032 - Valeu o ingresso!|#4032]] - Valeu o ingresso! · [[Posts/4032 - Valeu o ingresso!#^comentario-33897|#33897]]
+- [[Posts/4032 - Valeu o ingresso!|#4032]] - Valeu o ingresso! · [[Posts/4032 - Valeu o ingresso!#^comentario-34046|#34046]]
+- [[Posts/4039 - O Palmeiras mereceu sofrer o empate|#4039]] - O Palmeiras mereceu sofrer o empate
+- [[Posts/406 - Copa América|#406]] - Copa América
+- [[Posts/4065 - Advinha o que vai acontecer|#4065]] - Advinha o que vai acontecer · [[Posts/4065 - Advinha o que vai acontecer#^comentario-34043|#34043]]
+- [[Posts/4074 - Quanta diferença!|#4074]] - Quanta diferença! · [[Posts/4074 - Quanta diferença!#^comentario-34070|#34070]]
+- [[Posts/4074 - Quanta diferença!|#4074]] - Quanta diferença! · [[Posts/4074 - Quanta diferença!#^comentario-34079|#34079]]
+- [[Posts/4074 - Quanta diferença!|#4074]] - Quanta diferença! · [[Posts/4074 - Quanta diferença!#^comentario-34378|#34378]]
+- [[Posts/4077 - A dois passos…|#4077]] - A dois passos… · [[Posts/4077 - A dois passos…#^comentario-34081|#34081]]
+- [[Posts/4077 - A dois passos…|#4077]] - A dois passos… · [[Posts/4077 - A dois passos…#^comentario-34181|#34181]]
+- [[Posts/4077 - A dois passos…|#4077]] - A dois passos… · [[Posts/4077 - A dois passos…#^comentario-34189|#34189]]
+- [[Posts/4095 - Corinthians imerecido|#4095]] - Corinthians imerecido · [[Posts/4095 - Corinthians imerecido#^comentario-34232|#34232]]
+- [[Posts/4095 - Corinthians imerecido|#4095]] - Corinthians imerecido · [[Posts/4095 - Corinthians imerecido#^comentario-34262|#34262]]
+- [[Posts/4095 - Corinthians imerecido|#4095]] - Corinthians imerecido
+- [[Posts/4099 - Acabou o ano para o Vasco - E o Clube acerta com a Penalty|#4099]] - Acabou o ano para o Vasco - E o Clube acerta com a Penalty
+- [[Posts/41 - E aí|#41]] - E aí ?
+- [[Posts/4106 - Esse é o caminho|#4106]] - Esse é o caminho · [[Posts/4106 - Esse é o caminho#^comentario-34344|#34344]]
+- [[Posts/4111 - Corinthians na Palestina|#4111]] - Corinthians na Palestina
+- [[Posts/4114 - Obrigado,FIFA – Cerveja na Copa|#4114]] - Obrigado,FIFA – Cerveja na Copa
+- [[Posts/4119 - O bom e velho Pato|#4119]] - O bom e velho Pato · [[Posts/4119 - O bom e velho Pato#^comentario-34406|#34406]]
+- [[Posts/4127 - Valeu pelo 2º tempo|#4127]] - Valeu pelo 2º tempo
+- [[Posts/4135 - Allez, Roger!!!!|#4135]] - Allez, Roger!!!! · [[Posts/4135 - Allez, Roger!!!!#^comentario-34441|#34441]]
+- [[Posts/414 - Jabá – The Feitos|#414]] - Jabá – The Feitos
+- [[Posts/415 - Juca Kfouri discorda de Bender|#415]] - Juca Kfouri discorda de Bender
+- [[Posts/4160 - Empate com o líder|#4160]] - Empate com o líder · [[Posts/4160 - Empate com o líder#^comentario-34460|#34460]]
+- [[Posts/4162 - Chuta que é macumba|#4162]] - Chuta que é macumba
+- [[Posts/4167 - Eu Acredito|#4167]] - Eu Acredito · [[Posts/4167 - Eu Acredito#^comentario-34512|#34512]]
+- [[Posts/4167 - Eu Acredito|#4167]] - Eu Acredito
+- [[Posts/4170 - Virou circo|#4170]] - Virou circo? · [[Posts/4170 - Virou circo#^comentario-34506|#34506]]
+- [[Posts/4170 - Virou circo|#4170]] - Virou circo? · [[Posts/4170 - Virou circo#^comentario-34577|#34577]]
+- [[Posts/4174 - Vuvuzelas|#4174]] - Vuvuzelas
+- [[Posts/4182 - Querida Penalty…|#4182]] - Querida Penalty… · [[Posts/4182 - Querida Penalty…#^comentario-34538|#34538]]
+- [[Posts/4186 - De Joel para Saulo|#4186]] - De Joel para Saulo · [[Posts/4186 - De Joel para Saulo#^comentario-34614|#34614]]
+- [[Posts/4190 - Como eu amo futebol!!! E um pouco mais o Cruzeiro!|#4190]] - Como eu amo futebol!!! E um pouco mais o Cruzeiro! · [[Posts/4190 - Como eu amo futebol!!! E um pouco mais o Cruzeiro!#^comentario-34630|#34630]]
+- [[Posts/4190 - Como eu amo futebol!!! E um pouco mais o Cruzeiro!|#4190]] - Como eu amo futebol!!! E um pouco mais o Cruzeiro! · [[Posts/4190 - Como eu amo futebol!!! E um pouco mais o Cruzeiro!#^comentario-34632|#34632]]
+- [[Posts/4191 - BoCruzeiro|#4191]] - BoCruzeiro
+- [[Posts/42 - Mesmo em época de COPA …|#42]] - Mesmo em época de COPA …
+- [[Posts/4204 - Matemática egípcia|#4204]] - Matemática egípcia · [[Posts/4204 - Matemática egípcia#^comentario-34670|#34670]]
+- [[Posts/4206 - Jucilei é Seleção|#4206]] - Jucilei é Seleção
+- [[Posts/4218 - Renovar é preciso|#4218]] - Renovar é preciso
+- [[Posts/4220 - Um carro que te dá asas|#4220]] - Um carro que te dá asas · [[Posts/4220 - Um carro que te dá asas#^comentario-34719|#34719]]
+- [[Posts/4233 - Cruzeiro x Grêmio|#4233]] - Cruzeiro x Grêmio · [[Posts/4233 - Cruzeiro x Grêmio#^comentario-34726|#34726]]
+- [[Posts/4233 - Cruzeiro x Grêmio|#4233]] - Cruzeiro x Grêmio · [[Posts/4233 - Cruzeiro x Grêmio#^comentario-34727|#34727]]
+- [[Posts/4233 - Cruzeiro x Grêmio|#4233]] - Cruzeiro x Grêmio · [[Posts/4233 - Cruzeiro x Grêmio#^comentario-34729|#34729]]
+- [[Posts/4233 - Cruzeiro x Grêmio|#4233]] - Cruzeiro x Grêmio
+- [[Posts/4243 - Passe vertical|#4243]] - Passe vertical
+- [[Posts/4255 - Un pasito!|#4255]] - Un pasito! · [[Posts/4255 - Un pasito!#^comentario-34732|#34732]]
+- [[Posts/4255 - Un pasito!|#4255]] - Un pasito! · [[Posts/4255 - Un pasito!#^comentario-34744|#34744]]
+- [[Posts/4255 - Un pasito!|#4255]] - Un pasito! · [[Posts/4255 - Un pasito!#^comentario-34745|#34745]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34747|#34747]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34750|#34750]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34752|#34752]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34754|#34754]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34755|#34755]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34756|#34756]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34757|#34757]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34758|#34758]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34763|#34763]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34769|#34769]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34771|#34771]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão · [[Posts/4256 - África do Sul x Faustão#^comentario-34778|#34778]]
+- [[Posts/4256 - África do Sul x Faustão|#4256]] - África do Sul x Faustão
+- [[Posts/4268 - Uma sarna para Dunga se coçar|#4268]] - Uma sarna para Dunga se coçar
+- [[Posts/4272 - Pra matar a saudade|#4272]] - Pra matar a saudade · [[Posts/4272 - Pra matar a saudade#^comentario-34834|#34834]]
+- [[Posts/428 - Jogão para inauguração|#428]] - Jogão para inauguração.
+- [[Posts/4283 - Mascotes, identidades e fluxo de caixa|#4283]] - Mascotes, identidades e fluxo de caixa · [[Posts/4283 - Mascotes, identidades e fluxo de caixa#^comentario-34913|#34913]]
+- [[Posts/4293 - O Brasil como Brasil|#4293]] - O Brasil como Brasil · [[Posts/4293 - O Brasil como Brasil#^comentario-34967|#34967]]
+- [[Posts/4293 - O Brasil como Brasil|#4293]] - O Brasil como Brasil
+- [[Posts/4294 - Brasil 3×2 EUA|#4294]] - Brasil 3×2 EUA · [[Posts/4294 - Brasil 3×2 EUA#^comentario-34929|#34929]]
+- [[Posts/4294 - Brasil 3×2 EUA|#4294]] - Brasil 3×2 EUA
+- [[Posts/430 - Um pouco de Fórmula-1|#430]] - Um pouco de Fórmula-1
+- [[Posts/4300 - Quem precisa acordar|#4300]] - Quem precisa acordar? · [[Posts/4300 - Quem precisa acordar#^comentario-34963|#34963]]
+- [[Posts/4306 - Rei do 0x0|#4306]] - Rei do 0x0 · [[Posts/4306 - Rei do 0x0#^comentario-35003|#35003]]
+- [[Posts/4312 - Para animar o pessoal a se mexer|#4312]] - Para animar o pessoal a se mexer
+- [[Posts/4324 - Corinthians Campeão da Copa do Brasil 2009|#4324]] - Corinthians Campeão da Copa do Brasil 2009 · [[Posts/4324 - Corinthians Campeão da Copa do Brasil 2009#^comentario-35018|#35018]]
+- [[Posts/4324 - Corinthians Campeão da Copa do Brasil 2009|#4324]] - Corinthians Campeão da Copa do Brasil 2009 · [[Posts/4324 - Corinthians Campeão da Copa do Brasil 2009#^comentario-35022|#35022]]
+- [[Posts/4324 - Corinthians Campeão da Copa do Brasil 2009|#4324]] - Corinthians Campeão da Copa do Brasil 2009
+- [[Posts/4331 - Estudiantes aguarda|#4331]] - Estudiantes aguarda
+- [[Posts/4336 - Cantilena gremista|#4336]] - Cantilena gremista
+- [[Posts/4338 - À FINAL!!!|#4338]] - À FINAL!!! · [[Posts/4338 - À FINAL!!!#^comentario-35081|#35081]]
+- [[Posts/4350 - Gre-Nal|#4350]] - Gre-Nal · [[Posts/4350 - Gre-Nal#^comentario-35116|#35116]]
+- [[Posts/4350 - Gre-Nal|#4350]] - Gre-Nal
+- [[Posts/4353 - Musas 2009|#4353]] - Musas 2009 · [[Posts/4353 - Musas 2009#^comentario-35117|#35117]]
+- [[Posts/4358 - O retorno do rei|#4358]] - O retorno do rei · [[Posts/4358 - O retorno do rei#^comentario-35178|#35178]]
+- [[Posts/4365 - Cerveja ajuda na recuperação de atletas|#4365]] - Cerveja ajuda na recuperação de atletas · [[Posts/4365 - Cerveja ajuda na recuperação de atletas#^comentario-35195|#35195]]
+- [[Posts/4365 - Cerveja ajuda na recuperação de atletas|#4365]] - Cerveja ajuda na recuperação de atletas
+- [[Posts/4367 - Don’t worry, be happy!|#4367]] - Don’t worry, be happy! · [[Posts/4367 - Don’t worry, be happy!#^comentario-35204|#35204]]
+- [[Posts/4372 - Acompanhando a final Cruzeiro X Estudiantes – parte 1|#4372]] - Acompanhando a final Cruzeiro X Estudiantes – parte 1 · [[Posts/4372 - Acompanhando a final Cruzeiro X Estudiantes – parte 1#^comentario-35241|#35241]]
+- [[Posts/4383 - Fluminense embalado|#4383]] - Fluminense embalado · [[Posts/4383 - Fluminense embalado#^comentario-35420|#35420]]
+- [[Posts/4383 - Fluminense embalado|#4383]] - Fluminense embalado · [[Posts/4383 - Fluminense embalado#^comentario-35424|#35424]]
+- [[Posts/4383 - Fluminense embalado|#4383]] - Fluminense embalado
+- [[Posts/4386 - G4, G5, G6|#4386]] - G4, G5, G6
+- [[Posts/4389 - Deu a lógica (! ! ! ! !) no Mineirão|#4389]] - Deu a lógica (!?!?!?!?!) no Mineirão. · [[Posts/4389 - Deu a lógica (! ! ! ! !) no Mineirão#^comentario-35321|#35321]]
+- [[Posts/4397 - Flamengo perdeu 2 pontos|#4397]] - Flamengo perdeu 2 pontos · [[Posts/4397 - Flamengo perdeu 2 pontos#^comentario-35344|#35344]]
+- [[Posts/44 - Emoção|#44]] - Emoção
+- [[Posts/4403 - Enquanto isso em Porto Alegre…|#4403]] - Enquanto isso em Porto Alegre… · [[Posts/4403 - Enquanto isso em Porto Alegre…#^comentario-35360|#35360]]
+- [[Posts/4403 - Enquanto isso em Porto Alegre…|#4403]] - Enquanto isso em Porto Alegre… · [[Posts/4403 - Enquanto isso em Porto Alegre…#^comentario-35914|#35914]]
+- [[Posts/4406 - Fudeu de vez|#4406]] - Fudeu de vez · [[Posts/4406 - Fudeu de vez#^comentario-35406|#35406]]
+- [[Posts/4406 - Fudeu de vez|#4406]] - Fudeu de vez
+- [[Posts/441 - Hoje tem final|#441]] - Hoje tem final
+- [[Posts/4417 - Cruzeiro x Estudiantes|#4417]] - Cruzeiro x Estudiantes · [[Posts/4417 - Cruzeiro x Estudiantes#^comentario-35446|#35446]]
+- [[Posts/4417 - Cruzeiro x Estudiantes|#4417]] - Cruzeiro x Estudiantes · [[Posts/4417 - Cruzeiro x Estudiantes#^comentario-35518|#35518]]
+- [[Posts/4417 - Cruzeiro x Estudiantes|#4417]] - Cruzeiro x Estudiantes · [[Posts/4417 - Cruzeiro x Estudiantes#^comentario-35519|#35519]]
+- [[Posts/4417 - Cruzeiro x Estudiantes|#4417]] - Cruzeiro x Estudiantes
+- [[Posts/4425 - Vila Nova 0 x 2 Vasco|#4425]] - Vila Nova 0 x 2 Vasco · [[Posts/4425 - Vila Nova 0 x 2 Vasco#^comentario-35443|#35443]]
+- [[Posts/4432 - O Cruzeiro amarelou|#4432]] - O Cruzeiro amarelou · [[Posts/4432 - O Cruzeiro amarelou#^comentario-35523|#35523]]
+- [[Posts/4432 - O Cruzeiro amarelou|#4432]] - O Cruzeiro amarelou · [[Posts/4432 - O Cruzeiro amarelou#^comentario-35552|#35552]]
+- [[Posts/4432 - O Cruzeiro amarelou|#4432]] - O Cruzeiro amarelou
+- [[Posts/4445 - Inter 4×2 Flu|#4445]] - Inter 4×2 Flu · [[Posts/4445 - Inter 4×2 Flu#^comentario-35551|#35551]]
+- [[Posts/4451 - Mais material, por favor|#4451]] - Mais material, por favor · [[Posts/4451 - Mais material, por favor#^comentario-35600|#35600]]
+- [[Posts/4457 - Vaquinha para o Jornal dos Sports|#4457]] - Vaquinha para o Jornal dos Sports
+- [[Posts/446 - Fotos das Gêmeas do Pan – Ensaio O Dia|#446]] - Fotos das Gêmeas do Pan – Ensaio O Dia
+- [[Posts/4464 - A História contada pelos vencedores|#4464]] - A História contada pelos vencedores
+- [[Posts/4472 - Um último tango em BH…|#4472]] - Um último tango em BH… · [[Posts/4472 - Um último tango em BH…#^comentario-35645|#35645]]
+- [[Posts/4472 - Um último tango em BH…|#4472]] - Um último tango em BH… · [[Posts/4472 - Um último tango em BH…#^comentario-35648|#35648]]
+- [[Posts/4476 - Fim de semana para os cariocas|#4476]] - Fim de semana para os cariocas · [[Posts/4476 - Fim de semana para os cariocas#^comentario-35658|#35658]]
+- [[Posts/4476 - Fim de semana para os cariocas|#4476]] - Fim de semana para os cariocas · [[Posts/4476 - Fim de semana para os cariocas#^comentario-35687|#35687]]
+- [[Posts/4476 - Fim de semana para os cariocas|#4476]] - Fim de semana para os cariocas
+- [[Posts/4479 - Rivalidades a flor da pele|#4479]] - Rivalidades a flor da pele · [[Posts/4479 - Rivalidades a flor da pele#^comentario-35706|#35706]]
+- [[Posts/4479 - Rivalidades a flor da pele|#4479]] - Rivalidades a flor da pele · [[Posts/4479 - Rivalidades a flor da pele#^comentario-35766|#35766]]
+- [[Posts/4483 - O pesado turno do Botafogo|#4483]] - O pesado turno do Botafogo
+- [[Posts/4486 - Quem pode reclamar das arbitragens|#4486]] - Quem pode reclamar das arbitragens?
+- [[Posts/4496 - Fla não engrena|#4496]] - Fla não engrena · [[Posts/4496 - Fla não engrena#^comentario-35807|#35807]]
+- [[Posts/4504 - Desafio ao Boca de Aratéia|#4504]] - Desafio ao Boca de Aratéia · [[Posts/4504 - Desafio ao Boca de Aratéia#^comentario-35876|#35876]]
+- [[Posts/4504 - Desafio ao Boca de Aratéia|#4504]] - Desafio ao Boca de Aratéia
+- [[Posts/4510 - Fluminense x Cruzeiro|#4510]] - Fluminense x Cruzeiro · [[Posts/4510 - Fluminense x Cruzeiro#^comentario-35877|#35877]]
+- [[Posts/4510 - Fluminense x Cruzeiro|#4510]] - Fluminense x Cruzeiro · [[Posts/4510 - Fluminense x Cruzeiro#^comentario-35891|#35891]]
+- [[Posts/4510 - Fluminense x Cruzeiro|#4510]] - Fluminense x Cruzeiro · [[Posts/4510 - Fluminense x Cruzeiro#^comentario-35917|#35917]]
+- [[Posts/4510 - Fluminense x Cruzeiro|#4510]] - Fluminense x Cruzeiro · [[Posts/4510 - Fluminense x Cruzeiro#^comentario-35982|#35982]]
+- [[Posts/4514 - Amistoso internacional|#4514]] - Amistoso internacional · [[Posts/4514 - Amistoso internacional#^comentario-35906|#35906]]
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade · [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade#^comentario-36050|#36050]]
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade · [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade#^comentario-36059|#36059]]
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade · [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade#^comentario-36082|#36082]]
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade · [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade#^comentario-36101|#36101]]
+- [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade|#4540]] - 1000 jogos, Zé Carlos, Andrade · [[Posts/4540 - 1000 jogos, Zé Carlos, Andrade#^comentario-36193|#36193]]
+- [[Posts/4542 - Paul McCartney no Engenhão|#4542]] - Paul McCartney no Engenhão · [[Posts/4542 - Paul McCartney no Engenhão#^comentario-91511|#91511]]
+- [[Posts/4542 - Paul McCartney no Engenhão|#4542]] - Paul McCartney no Engenhão
+- [[Posts/4558 - Inter x Barça|#4558]] - Inter x Barça · [[Posts/4558 - Inter x Barça#^comentario-36021|#36021]]
+- [[Posts/456 - O importante é a classificação! – Por Juca Kfouri|#456]] - O importante é a classificação! – Por Juca Kfouri
+- [[Posts/4574 - Noite de Alex Teixeira – Vasco 2×1 Fortaleza|#4574]] - Noite de Alex Teixeira – Vasco 2×1 Fortaleza · [[Posts/4574 - Noite de Alex Teixeira – Vasco 2×1 Fortaleza#^comentario-36072|#36072]]
+- [[Posts/4574 - Noite de Alex Teixeira – Vasco 2×1 Fortaleza|#4574]] - Noite de Alex Teixeira – Vasco 2×1 Fortaleza · [[Posts/4574 - Noite de Alex Teixeira – Vasco 2×1 Fortaleza#^comentario-36117|#36117]]
+- [[Posts/4582 - Nauticozinho|#4582]] - Nauticozinho · [[Posts/4582 - Nauticozinho#^comentario-36165|#36165]]
+- [[Posts/4582 - Nauticozinho|#4582]] - Nauticozinho
+- [[Posts/4589 - O adeus de um ÍDOLO!|#4589]] - O adeus de um ÍDOLO! · [[Posts/4589 - O adeus de um ÍDOLO!#^comentario-36172|#36172]]
+- [[Posts/4589 - O adeus de um ÍDOLO!|#4589]] - O adeus de um ÍDOLO! · [[Posts/4589 - O adeus de um ÍDOLO!#^comentario-36192|#36192]]
+- [[Posts/4598 - Vasco já tem problemas com a Penalty|#4598]] - Vasco já tem problemas com a Penalty · [[Posts/4598 - Vasco já tem problemas com a Penalty#^comentario-36179|#36179]]
+- [[Posts/4603 - Mundial de Natação|#4603]] - Mundial de Natação · [[Posts/4603 - Mundial de Natação#^comentario-36208|#36208]]
+- [[Posts/4609 - Andrade é treinador|#4609]] - Andrade é treinador?
+- [[Posts/4611 - Flumineco|#4611]] - Flumineco
+- [[Posts/4617 - Valeu Léo Moura|#4617]] - Valeu Léo Moura · [[Posts/4617 - Valeu Léo Moura#^comentario-36393|#36393]]
+- [[Posts/4617 - Valeu Léo Moura|#4617]] - Valeu Léo Moura
+- [[Posts/4621 - Fla empata com o lanterna|#4621]] - Fla empata com o lanterna · [[Posts/4621 - Fla empata com o lanterna#^comentario-36285|#36285]]
+- [[Posts/4633 - Nem Pet foi páreo para o Goiás|#4633]] - Nem Pet foi páreo para o Goiás
+- [[Posts/4637 - Dr. Botafogo|#4637]] - Dr. Botafogo · [[Posts/4637 - Dr. Botafogo#^comentario-36411|#36411]]
+- [[Posts/4656 - Roni matou o Leão|#4656]] - Roni matou o Leão
+- [[Posts/4675 - O post que não estava lá|#4675]] - O post que não estava lá · [[Posts/4675 - O post que não estava lá#^comentario-36527|#36527]]
+- [[Posts/4675 - O post que não estava lá|#4675]] - O post que não estava lá · [[Posts/4675 - O post que não estava lá#^comentario-36529|#36529]]
+- [[Posts/4684 - O Fluminense tem um time|#4684]] - O Fluminense tem um time
+- [[Posts/4708 - Hoje tem Fla x Flu|#4708]] - Hoje tem Fla x Flu · [[Posts/4708 - Hoje tem Fla x Flu#^comentario-36622|#36622]]
+- [[Posts/4708 - Hoje tem Fla x Flu|#4708]] - Hoje tem Fla x Flu · [[Posts/4708 - Hoje tem Fla x Flu#^comentario-36661|#36661]]
+- [[Posts/4708 - Hoje tem Fla x Flu|#4708]] - Hoje tem Fla x Flu
+- [[Posts/4718 - Ser Flamengo|#4718]] - Ser Flamengo · [[Posts/4718 - Ser Flamengo#^comentario-36657|#36657]]
+- [[Posts/4718 - Ser Flamengo|#4718]] - Ser Flamengo · [[Posts/4718 - Ser Flamengo#^comentario-111369|#111369]]
+- [[Posts/4718 - Ser Flamengo|#4718]] - Ser Flamengo · [[Posts/4718 - Ser Flamengo#^comentario-111370|#111370]]
+- [[Posts/4724 - Adílio e Julio Cesar Uri Geller no Jô|#4724]] - Adílio e Julio Cesar Uri Geller no Jô
+- [[Posts/4728 - As jornalistas esportivas mais sensuais|#4728]] - As jornalistas esportivas mais sensuais · [[Posts/4728 - As jornalistas esportivas mais sensuais#^comentario-36724|#36724]]
+- [[Posts/4728 - As jornalistas esportivas mais sensuais|#4728]] - As jornalistas esportivas mais sensuais · [[Posts/4728 - As jornalistas esportivas mais sensuais#^comentario-69989|#69989]]
+- [[Posts/4736 - Como a CBF pagará por Kleberson|#4736]] - Como a CBF pagará por Kleberson
+- [[Posts/4741 - Depois da Família Scolari, a Família Paulada|#4741]] - Depois da Família Scolari, a Família Paulada. · [[Posts/4741 - Depois da Família Scolari, a Família Paulada#^comentario-36740|#36740]]
+- [[Posts/4741 - Depois da Família Scolari, a Família Paulada|#4741]] - Depois da Família Scolari, a Família Paulada. · [[Posts/4741 - Depois da Família Scolari, a Família Paulada#^comentario-38123|#38123]]
+- [[Posts/4746 - Calendário Europeu|#4746]] - Calendário Europeu · [[Posts/4746 - Calendário Europeu#^comentario-36886|#36886]]
+- [[Posts/4746 - Calendário Europeu|#4746]] - Calendário Europeu · [[Posts/4746 - Calendário Europeu#^comentario-36887|#36887]]
+- [[Posts/4746 - Calendário Europeu|#4746]] - Calendário Europeu · [[Posts/4746 - Calendário Europeu#^comentario-37093|#37093]]
+- [[Posts/4746 - Calendário Europeu|#4746]] - Calendário Europeu
+- [[Posts/4751 - Invasão Paraíba no Maracanã|#4751]] - Invasão Paraíba no Maracanã
+- [[Posts/4758 - Placar irreal|#4758]] - Placar irreal · [[Posts/4758 - Placar irreal#^comentario-36868|#36868]]
+- [[Posts/4764 - Esporte não é teatro|#4764]] - Esporte não é teatro
+- [[Posts/4777 - Mas…|#4777]] - Mas… · [[Posts/4777 - Mas…#^comentario-37001|#37001]]
+- [[Posts/4791 - R. Teixeira x Dunga|#4791]] - R. Teixeira x Dunga? · [[Posts/4791 - R. Teixeira x Dunga#^comentario-37200|#37200]]
+- [[Posts/48 - Agora é pra valer|#48]] - Agora é pra valer
+- [[Posts/480 - Sem dopping|#480]] - Sem dopping
+- [[Posts/4802 - Linda tarde vascaína|#4802]] - Linda tarde vascaína · [[Posts/4802 - Linda tarde vascaína#^comentario-37192|#37192]]
+- [[Posts/4824 - Enfim, a tal da faca entre os dentes|#4824]] - Enfim, a tal da faca entre os dentes · [[Posts/4824 - Enfim, a tal da faca entre os dentes#^comentario-37305|#37305]]
+- [[Posts/4824 - Enfim, a tal da faca entre os dentes|#4824]] - Enfim, a tal da faca entre os dentes · [[Posts/4824 - Enfim, a tal da faca entre os dentes#^comentario-37348|#37348]]
+- [[Posts/4840 - Batalha na Boca do Jacaré – E bem-vindas as penhoras!|#4840]] - Batalha na Boca do Jacaré – E bem-vindas as penhoras! · [[Posts/4840 - Batalha na Boca do Jacaré – E bem-vindas as penhoras!#^comentario-37396|#37396]]
+- [[Posts/4852 - A Segundona não será doce para o Fluminense|#4852]] - A Segundona não será doce para o Fluminense · [[Posts/4852 - A Segundona não será doce para o Fluminense#^comentario-37624|#37624]]
+- [[Posts/4852 - A Segundona não será doce para o Fluminense|#4852]] - A Segundona não será doce para o Fluminense
+- [[Posts/4855 - Ser Fluminense|#4855]] - Ser Fluminense · [[Posts/4855 - Ser Fluminense#^comentario-37465|#37465]]
+- [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|#4858]] - Fluminense passa por Flamengo com dois empates(?) no Maracanã · [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã#^comentario-37485|#37485]]
+- [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|#4858]] - Fluminense passa por Flamengo com dois empates(?) no Maracanã · [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã#^comentario-37502|#37502]]
+- [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|#4858]] - Fluminense passa por Flamengo com dois empates(?) no Maracanã
+- [[Posts/4873 - Ser Botafogo|#4873]] - Ser Botafogo · [[Posts/4873 - Ser Botafogo#^comentario-37497|#37497]]
+- [[Posts/4883 - Grupos da UEFA Champions League 2009 2010|#4883]] - Grupos da UEFA Champions League 2009/2010
+- [[Posts/4891 - Incompetência sem limites|#4891]] - Incompetência sem limites · [[Posts/4891 - Incompetência sem limites#^comentario-37563|#37563]]
+- [[Posts/49 - Comemorando com a torcida…|#49]] - Comemorando com a torcida…
+- [[Posts/4902 - Correr pra quê|#4902]] - Correr pra quê? · [[Posts/4902 - Correr pra quê#^comentario-37573|#37573]]
+- [[Posts/4902 - Correr pra quê|#4902]] - Correr pra quê? · [[Posts/4902 - Correr pra quê#^comentario-37598|#37598]]
+- [[Posts/491 - Nova Camisa da Argentina|#491]] - Nova Camisa da Argentina
+- [[Posts/4913 - Gremista defende a Xuxa|#4913]] - Gremista defende a Xuxa
+- [[Posts/4916 - Um Cachorro no Laranjal|#4916]] - Um Cachorro no Laranjal
+- [[Posts/4920 - Noite de Gala do Vílson – Vasco 0x2 Ceará|#4920]] - Noite de Gala do Vílson – Vasco 0x2 Ceará · [[Posts/4920 - Noite de Gala do Vílson – Vasco 0x2 Ceará#^comentario-37635|#37635]]
+- [[Posts/4933 - Botafogo 3X3 Grêmio – em imagens|#4933]] - Botafogo 3X3 Grêmio – em imagens · [[Posts/4933 - Botafogo 3X3 Grêmio – em imagens#^comentario-37662|#37662]]
+- [[Posts/4933 - Botafogo 3X3 Grêmio – em imagens|#4933]] - Botafogo 3X3 Grêmio – em imagens · [[Posts/4933 - Botafogo 3X3 Grêmio – em imagens#^comentario-37757|#37757]]
+- [[Posts/4938 - O vermelho na moda de novo|#4938]] - O vermelho na moda de novo · [[Posts/4938 - O vermelho na moda de novo#^comentario-37901|#37901]]
+- [[Posts/4938 - O vermelho na moda de novo|#4938]] - O vermelho na moda de novo · [[Posts/4938 - O vermelho na moda de novo#^comentario-37946|#37946]]
+- [[Posts/4942 - Para melhorar o astral do Fluminense|#4942]] - Para melhorar o astral do Fluminense · [[Posts/4942 - Para melhorar o astral do Fluminense#^comentario-37816|#37816]]
+- [[Posts/4942 - Para melhorar o astral do Fluminense|#4942]] - Para melhorar o astral do Fluminense · [[Posts/4942 - Para melhorar o astral do Fluminense#^comentario-37823|#37823]]
+- [[Posts/4942 - Para melhorar o astral do Fluminense|#4942]] - Para melhorar o astral do Fluminense · [[Posts/4942 - Para melhorar o astral do Fluminense#^comentario-37899|#37899]]
+- [[Posts/4942 - Para melhorar o astral do Fluminense|#4942]] - Para melhorar o astral do Fluminense
+- [[Posts/4948 - Fluminense-Unimed contrata Vanusa|#4948]] - Fluminense-Unimed contrata Vanusa · [[Posts/4948 - Fluminense-Unimed contrata Vanusa#^comentario-37810|#37810]]
+- [[Posts/4964 - Chelsea punido por aliciamento|#4964]] - Chelsea punido por aliciamento · [[Posts/4964 - Chelsea punido por aliciamento#^comentario-37878|#37878]]
+- [[Posts/4970 - A saga do Botafogo na Sulamericana 2009|#4970]] - A saga do Botafogo na Sulamericana 2009 · [[Posts/4970 - A saga do Botafogo na Sulamericana 2009#^comentario-37857|#37857]]
+- [[Posts/4987 - Decisões Antecipadas|#4987]] - Decisões Antecipadas · [[Posts/4987 - Decisões Antecipadas#^comentario-37927|#37927]]
+- [[Posts/4987 - Decisões Antecipadas|#4987]] - Decisões Antecipadas · [[Posts/4987 - Decisões Antecipadas#^comentario-37952|#37952]]
+- [[Posts/4988 - Kaká “sou mais completo”|#4988]] - Kaká: “sou mais completo” · [[Posts/4988 - Kaká “sou mais completo”#^comentario-37931|#37931]]
+- [[Posts/5 - Apresentação|#5]] - Apresentação
+- [[Posts/50 - Gus Hiddink|#50]] - Gus Hiddink
+- [[Posts/5000 - Michael Jackson vive!|#5000]] - Michael Jackson vive! · [[Posts/5000 - Michael Jackson vive!#^comentario-37938|#37938]]
+- [[Posts/5002 - Passeio brasileiro|#5002]] - Passeio brasileiro · [[Posts/5002 - Passeio brasileiro#^comentario-37966|#37966]]
+- [[Posts/5002 - Passeio brasileiro|#5002]] - Passeio brasileiro · [[Posts/5002 - Passeio brasileiro#^comentario-37980|#37980]]
+- [[Posts/5002 - Passeio brasileiro|#5002]] - Passeio brasileiro · [[Posts/5002 - Passeio brasileiro#^comentario-37988|#37988]]
+- [[Posts/5002 - Passeio brasileiro|#5002]] - Passeio brasileiro
+- [[Posts/5009 - Luis Fabiano e Robinho – um dia de treino na Seleção|#5009]] - Luis Fabiano e Robinho – um dia de treino na Seleção
+- [[Posts/5014 - Um time safado!|#5014]] - Um time safado! · [[Posts/5014 - Um time safado!#^comentario-38015|#38015]]
+- [[Posts/5014 - Um time safado!|#5014]] - Um time safado! · [[Posts/5014 - Um time safado!#^comentario-38029|#38029]]
+- [[Posts/5018 - Renato Maurício Prado x Márcio Braga|#5018]] - Renato Maurício Prado x Márcio Braga · [[Posts/5018 - Renato Maurício Prado x Márcio Braga#^comentario-55006|#55006]]
+- [[Posts/5018 - Renato Maurício Prado x Márcio Braga|#5018]] - Renato Maurício Prado x Márcio Braga
+- [[Posts/5021 - Como comentar isso|#5021]] - Como comentar isso? · [[Posts/5021 - Como comentar isso#^comentario-38143|#38143]]
+- [[Posts/5021 - Como comentar isso|#5021]] - Como comentar isso? · [[Posts/5021 - Como comentar isso#^comentario-38354|#38354]]
+- [[Posts/5021 - Como comentar isso|#5021]] - Como comentar isso? · [[Posts/5021 - Como comentar isso#^comentario-38746|#38746]]
+- [[Posts/5053 - 106 anos de Grêmio e um marco|#5053]] - 106 anos de Grêmio e um marco
+- [[Posts/5094 - O Sexo dos Anjos|#5094]] - O Sexo dos Anjos
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!! · [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!#^comentario-38407|#38407]]
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!! · [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!#^comentario-38427|#38427]]
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!! · [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!#^comentario-38462|#38462]]
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!! · [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!#^comentario-38507|#38507]]
+- [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!|#5111]] - O Melhor CLUBE Brasileiro do Século!!! · [[Posts/5111 - O Melhor CLUBE Brasileiro do Século!!!#^comentario-38508|#38508]]
+- [[Posts/5114 - Relatos do Fim de Semana|#5114]] - Relatos do Fim de Semana · [[Posts/5114 - Relatos do Fim de Semana#^comentario-38480|#38480]]
+- [[Posts/5132 - Revolta desnecessária|#5132]] - Revolta desnecessária · [[Posts/5132 - Revolta desnecessária#^comentario-38563|#38563]]
+- [[Posts/5132 - Revolta desnecessária|#5132]] - Revolta desnecessária · [[Posts/5132 - Revolta desnecessária#^comentario-38577|#38577]]
+- [[Posts/5160 - Rankings|#5160]] - Rankings · [[Posts/5160 - Rankings#^comentario-38621|#38621]]
+- [[Posts/5160 - Rankings|#5160]] - Rankings · [[Posts/5160 - Rankings#^comentario-38637|#38637]]
+- [[Posts/5181 - Cruzeiro x Palmeiras em um sentimento|#5181]] - Cruzeiro x Palmeiras em um sentimento. · [[Posts/5181 - Cruzeiro x Palmeiras em um sentimento#^comentario-38676|#38676]]
+- [[Posts/5185 - Botafogo Campeão Libertadores 2012|#5185]] - Botafogo Campeão Libertadores 2012 · [[Posts/5185 - Botafogo Campeão Libertadores 2012#^comentario-38703|#38703]]
+- [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec|#5188]] - A Saga continua – Botafogo 2×0 Emelec · [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec#^comentario-38729|#38729]]
+- [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec|#5188]] - A Saga continua – Botafogo 2×0 Emelec · [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec#^comentario-38730|#38730]]
+- [[Posts/52 - O melhor Ronaldo é o 9|#52]] - O melhor Ronaldo é o 9
+- [[Posts/5214 - Barueri 0×1 Cruzeiro|#5214]] - Barueri 0×1 Cruzeiro. · [[Posts/5214 - Barueri 0×1 Cruzeiro#^comentario-38880|#38880]]
+- [[Posts/523 - Taekwondo|#523]] - Taekwondo · [[Posts/523 - Taekwondo#^comentario-6716|#6716]]
+- [[Posts/5267 - Chuva 1×0 Jogo|#5267]] - Chuva 1×0 Jogo · [[Posts/5267 - Chuva 1×0 Jogo#^comentario-38956|#38956]]
+- [[Posts/5277 - Movimento pela volta do Mata-Mata|#5277]] - Movimento pela volta do Mata-Mata · [[Posts/5277 - Movimento pela volta do Mata-Mata#^comentario-38999|#38999]]
+- [[Posts/5277 - Movimento pela volta do Mata-Mata|#5277]] - Movimento pela volta do Mata-Mata · [[Posts/5277 - Movimento pela volta do Mata-Mata#^comentario-39104|#39104]]
+- [[Posts/5277 - Movimento pela volta do Mata-Mata|#5277]] - Movimento pela volta do Mata-Mata · [[Posts/5277 - Movimento pela volta do Mata-Mata#^comentario-39555|#39555]]
+- [[Posts/5287 - As Sereias na Libertadores|#5287]] - As Sereias na Libertadores · [[Posts/5287 - As Sereias na Libertadores#^comentario-39141|#39141]]
+- [[Posts/5287 - As Sereias na Libertadores|#5287]] - As Sereias na Libertadores · [[Posts/5287 - As Sereias na Libertadores#^comentario-39397|#39397]]
+- [[Posts/5287 - As Sereias na Libertadores|#5287]] - As Sereias na Libertadores · [[Posts/5287 - As Sereias na Libertadores#^comentario-39635|#39635]]
+- [[Posts/5287 - As Sereias na Libertadores|#5287]] - As Sereias na Libertadores · [[Posts/5287 - As Sereias na Libertadores#^comentario-41059|#41059]]
+- [[Posts/5287 - As Sereias na Libertadores|#5287]] - As Sereias na Libertadores
+- [[Posts/5294 - Agora é fora Dorival|#5294]] - Agora é fora Dorival · [[Posts/5294 - Agora é fora Dorival#^comentario-39122|#39122]]
+- [[Posts/53 - Elenco ganha jogo|#53]] - Elenco ganha jogo
+- [[Posts/531 - Alonso arrepia em Nürburgring|#531]] - Alonso arrepia em Nürburgring
+- [[Posts/5315 - Existe meia vergonha, Arnaldo|#5315]] - Existe meia vergonha, Arnaldo? · [[Posts/5315 - Existe meia vergonha, Arnaldo#^comentario-39311|#39311]]
+- [[Posts/5337 - Que pena, Goiás|#5337]] - Que pena, Goiás · [[Posts/5337 - Que pena, Goiás#^comentario-39499|#39499]]
+- [[Posts/5337 - Que pena, Goiás|#5337]] - Que pena, Goiás · [[Posts/5337 - Que pena, Goiás#^comentario-39592|#39592]]
+- [[Posts/5337 - Que pena, Goiás|#5337]] - Que pena, Goiás · [[Posts/5337 - Que pena, Goiás#^comentario-39603|#39603]]
+- [[Posts/5337 - Que pena, Goiás|#5337]] - Que pena, Goiás
+- [[Posts/5346 - Arranjem uma gata para o futebol feminino|#5346]] - Arranjem uma gata para o futebol feminino
+- [[Posts/5352 - Rio 2016 – Vice é o Caralho|#5352]] - Rio 2016 – Vice é o Caralho
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39600|#39600]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39601|#39601]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39606|#39606]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39617|#39617]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39620|#39620]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão · [[Posts/5361 - Adriano, O Poderoso Chefão#^comentario-39625|#39625]]
+- [[Posts/5361 - Adriano, O Poderoso Chefão|#5361]] - Adriano, O Poderoso Chefão
+- [[Posts/5372 - Rodada abençoada!|#5372]] - Rodada abençoada! · [[Posts/5372 - Rodada abençoada!#^comentario-39665|#39665]]
+- [[Posts/5372 - Rodada abençoada!|#5372]] - Rodada abençoada! · [[Posts/5372 - Rodada abençoada!#^comentario-39666|#39666]]
+- [[Posts/5372 - Rodada abençoada!|#5372]] - Rodada abençoada! · [[Posts/5372 - Rodada abençoada!#^comentario-39671|#39671]]
+- [[Posts/54 - Que bobagem|#54]] - Que bobagem
+- [[Posts/5406 - Fica Fred|#5406]] - Fica Fred
+- [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos|#5417]] - O Sucesso do Nacional de Pontos Corridos · [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos#^comentario-39893|#39893]]
+- [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos|#5417]] - O Sucesso do Nacional de Pontos Corridos · [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos#^comentario-39904|#39904]]
+- [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos|#5417]] - O Sucesso do Nacional de Pontos Corridos · [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos#^comentario-44059|#44059]]
+- [[Posts/5417 - O Sucesso do Nacional de Pontos Corridos|#5417]] - O Sucesso do Nacional de Pontos Corridos
+- [[Posts/5427 - Botafogo 3×1 Atlético-MG|#5427]] - Botafogo 3×1 Atlético-MG · [[Posts/5427 - Botafogo 3×1 Atlético-MG#^comentario-39957|#39957]]
+- [[Posts/5436 - Salve Short|#5436]] - Salve Short · [[Posts/5436 - Salve Short#^comentario-40038|#40038]]
+- [[Posts/544 - Agora é com André Lima|#544]] - Agora é com André Lima
+- [[Posts/5445 - Spread Global|#5445]] - Spread Global · [[Posts/5445 - Spread Global#^comentario-39986|#39986]]
+- [[Posts/5458 - Saudades da infância|#5458]] - Saudades da infância · [[Posts/5458 - Saudades da infância#^comentario-40111|#40111]]
+- [[Posts/5458 - Saudades da infância|#5458]] - Saudades da infância
+- [[Posts/5498 - De repente é aquela corrente pra frente|#5498]] - De repente é aquela corrente pra frente · [[Posts/5498 - De repente é aquela corrente pra frente#^comentario-40141|#40141]]
+- [[Posts/55 - Vocês acreditam na FIFA|#55]] - Vocês acreditam na FIFA?
+- [[Posts/5506 - O Botafogo não aprende|#5506]] - O Botafogo não aprende
+- [[Posts/5514 - Qual jogo você verá|#5514]] - Qual jogo você verá? · [[Posts/5514 - Qual jogo você verá#^comentario-40275|#40275]]
+- [[Posts/5514 - Qual jogo você verá|#5514]] - Qual jogo você verá?
+- [[Posts/5522 - Processem o Botafogo|#5522]] - Processem o Botafogo
+- [[Posts/5527 - Grandes Estrelas do Corinthians 2009|#5527]] - Grandes Estrelas do Corinthians 2009
+- [[Posts/5534 - Fred sente dor na coxa e preocupa para partida contra o Internacional|#5534]] - Fred sente dor na coxa e preocupa para partida contra o Internacional
+- [[Posts/5544 - Palmeiras x Flamengo|#5544]] - Palmeiras x Flamengo · [[Posts/5544 - Palmeiras x Flamengo#^comentario-40611|#40611]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40333|#40333]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40334|#40334]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40335|#40335]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40342|#40342]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40344|#40344]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40346|#40346]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40349|#40349]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40352|#40352]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40355|#40355]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40356|#40356]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40357|#40357]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40359|#40359]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40362|#40362]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40365|#40365]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40367|#40367]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40371|#40371]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40373|#40373]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40390|#40390]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40405|#40405]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana · [[Posts/5557 - Brasil 0×0 Gana#^comentario-40408|#40408]]
+- [[Posts/5557 - Brasil 0×0 Gana|#5557]] - Brasil 0x0 Gana
+- [[Posts/5566 - Nada como um turno após o outro!|#5566]] - Nada como um turno após o outro! · [[Posts/5566 - Nada como um turno após o outro!#^comentario-40416|#40416]]
+- [[Posts/5568 - O penalty de Maicon (o Sub-20)|#5568]] - O penalty de Maicon (o Sub-20)
+- [[Posts/5575 - Uma imagem|#5575]] - Uma imagem · [[Posts/5575 - Uma imagem#^comentario-40609|#40609]]
+- [[Posts/5575 - Uma imagem|#5575]] - Uma imagem · [[Posts/5575 - Uma imagem#^comentario-40659|#40659]]
+- [[Posts/5575 - Uma imagem|#5575]] - Uma imagem · [[Posts/5575 - Uma imagem#^comentario-40662|#40662]]
+- [[Posts/5575 - Uma imagem|#5575]] - Uma imagem · [[Posts/5575 - Uma imagem#^comentario-40757|#40757]]
+- [[Posts/5575 - Uma imagem|#5575]] - Uma imagem · [[Posts/5575 - Uma imagem#^comentario-40878|#40878]]
+- [[Posts/5589 - Diego Souza, o Chato|#5589]] - Diego Souza, o Chato
+- [[Posts/56 - Qual Copa vingar|#56]] - Qual Copa vingar?
+- [[Posts/5605 - I don’t bideou|#5605]] - I don’t bideou · [[Posts/5605 - I don’t bideou#^comentario-41323|#41323]]
+- [[Posts/5605 - I don’t bideou|#5605]] - I don’t bideou
+- [[Posts/5611 - Palmeiras balança|#5611]] - Palmeiras balança · [[Posts/5611 - Palmeiras balança#^comentario-41115|#41115]]
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo · [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo#^comentario-41154|#41154]]
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo · [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo#^comentario-41168|#41168]]
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo · [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo#^comentario-41198|#41198]]
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo · [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo#^comentario-41229|#41229]]
+- [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo|#5618]] - Atenção torcedores de Botafogo e Flamengo · [[Posts/5618 - Atenção torcedores de Botafogo e Flamengo#^comentario-41248|#41248]]
+- [[Posts/5636 - Ah, se o Joel faz isso…|#5636]] - Ah, se o Joel faz isso… · [[Posts/5636 - Ah, se o Joel faz isso…#^comentario-41264|#41264]]
+- [[Posts/5644 - O Sentimento não pode parar|#5644]] - O Sentimento não pode parar · [[Posts/5644 - O Sentimento não pode parar#^comentario-42472|#42472]]
+- [[Posts/5644 - O Sentimento não pode parar|#5644]] - O Sentimento não pode parar · [[Posts/5644 - O Sentimento não pode parar#^comentario-42563|#42563]]
+- [[Posts/5644 - O Sentimento não pode parar|#5644]] - O Sentimento não pode parar · [[Posts/5644 - O Sentimento não pode parar#^comentario-43124|#43124]]
+- [[Posts/5644 - O Sentimento não pode parar|#5644]] - O Sentimento não pode parar
+- [[Posts/5653 - Obrigado 31ª|#5653]] - Obrigado 31ª
+- [[Posts/5660 - Comendo pelas beiradas|#5660]] - Comendo pelas beiradas. · [[Posts/5660 - Comendo pelas beiradas#^comentario-41377|#41377]]
+- [[Posts/5660 - Comendo pelas beiradas|#5660]] - Comendo pelas beiradas. · [[Posts/5660 - Comendo pelas beiradas#^comentario-41378|#41378]]
+- [[Posts/5674 - A opinião botafoguense|#5674]] - A opinião botafoguense · [[Posts/5674 - A opinião botafoguense#^comentario-41469|#41469]]
+- [[Posts/5682 - Convocação contra a Inglaterra e Omã|#5682]] - Convocação contra a Inglaterra e Omã · [[Posts/5682 - Convocação contra a Inglaterra e Omã#^comentario-41526|#41526]]
+- [[Posts/5682 - Convocação contra a Inglaterra e Omã|#5682]] - Convocação contra a Inglaterra e Omã · [[Posts/5682 - Convocação contra a Inglaterra e Omã#^comentario-42654|#42654]]
+- [[Posts/5682 - Convocação contra a Inglaterra e Omã|#5682]] - Convocação contra a Inglaterra e Omã
+- [[Posts/57 - Eficiente x Eficiente – Moedinha|#57]] - Eficiente x Eficiente? – Moedinha
+- [[Posts/5703 - Dia do Torcedor Flamenguista|#5703]] - Dia do Torcedor Flamenguista
+- [[Posts/571 - Eu fui (e fiquei puto)|#571]] - Eu fui (e fiquei puto)
+- [[Posts/5710 - DePEnTência Barueri 2 x 0 Flamengo|#5710]] - DePEnTência? Barueri 2 x 0 Flamengo · [[Posts/5710 - DePEnTência Barueri 2 x 0 Flamengo#^comentario-41569|#41569]]
+- [[Posts/5711 - Noite de redenção|#5711]] - Noite de redenção. · [[Posts/5711 - Noite de redenção#^comentario-41570|#41570]]
+- [[Posts/5711 - Noite de redenção|#5711]] - Noite de redenção. · [[Posts/5711 - Noite de redenção#^comentario-41577|#41577]]
+- [[Posts/5711 - Noite de redenção|#5711]] - Noite de redenção. · [[Posts/5711 - Noite de redenção#^comentario-41588|#41588]]
+- [[Posts/573 - Eu vi o Basquete|#573]] - Eu vi o Basquete
+- [[Posts/5735 - A paradinha de Fred|#5735]] - A paradinha de Fred · [[Posts/5735 - A paradinha de Fred#^comentario-42099|#42099]]
+- [[Posts/5735 - A paradinha de Fred|#5735]] - A paradinha de Fred
+- [[Posts/5752 - A 33º rodada|#5752]] - A 33º rodada · [[Posts/5752 - A 33º rodada#^comentario-41784|#41784]]
+- [[Posts/5752 - A 33º rodada|#5752]] - A 33º rodada · [[Posts/5752 - A 33º rodada#^comentario-41785|#41785]]
+- [[Posts/5758 - Cada um tem o Pet que merece|#5758]] - Cada um tem o Pet que merece · [[Posts/5758 - Cada um tem o Pet que merece#^comentario-41786|#41786]]
+- [[Posts/5773 - Ah… aquele pontinho perdido|#5773]] - Ah… aquele pontinho perdido
+- [[Posts/578 - Só uma pergunta|#578]] - Só uma pergunta
+- [[Posts/5786 - Um botafoguense no Beira-Rio|#5786]] - Um botafoguense no Beira-Rio · [[Posts/5786 - Um botafoguense no Beira-Rio#^comentario-42286|#42286]]
+- [[Posts/579 - Alguém ainda acredita em Julio Cesar|#579]] - Alguém ainda acredita em Julio Cesar?
+- [[Posts/5796 - Alguma coisa está fora da ordem|#5796]] - Alguma coisa está fora da ordem
+- [[Posts/580 - Nelson Piquet de recuperação|#580]] - Nelson Piquet de recuperação
+- [[Posts/5803 - Eu já sabia – Recordar é horRiver|#5803]] - Eu já sabia – Recordar é horRiver · [[Posts/5803 - Eu já sabia – Recordar é horRiver#^comentario-42276|#42276]]
+- [[Posts/5816 - Um adversário insosso|#5816]] - Um adversário insosso · [[Posts/5816 - Um adversário insosso#^comentario-42387|#42387]]
+- [[Posts/5816 - Um adversário insosso|#5816]] - Um adversário insosso
+- [[Posts/583 - Alguém pode me explicar|#583]] - Alguém pode me explicar?
+- [[Posts/5832 - Criando dificuldades para vender facilidades|#5832]] - Criando dificuldades para vender facilidades
+- [[Posts/5842 - Eu, contraventor|#5842]] - Eu, contraventor · [[Posts/5842 - Eu, contraventor#^comentario-42456|#42456]]
+- [[Posts/5842 - Eu, contraventor|#5842]] - Eu, contraventor · [[Posts/5842 - Eu, contraventor#^comentario-42458|#42458]]
+- [[Posts/5842 - Eu, contraventor|#5842]] - Eu, contraventor
+- [[Posts/5849 - Unibambi|#5849]] - Unibambi
+- [[Posts/585 - Nova Tabela de pontuação da Temporada 2007 de Fórmula-1|#585]] - Nova Tabela de pontuação da Temporada 2007 de Fórmula-1
+- [[Posts/5856 - Vascriciúma – Mais uma camisa horrorosa|#5856]] - Vascriciúma – Mais uma camisa horrorosa · [[Posts/5856 - Vascriciúma – Mais uma camisa horrorosa#^comentario-42515|#42515]]
+- [[Posts/5863 - Vai que Dá! Mengão é o Rio no Brasileirão!|#5863]] - Vai que Dá! Mengão é o Rio no Brasileirão! · [[Posts/5863 - Vai que Dá! Mengão é o Rio no Brasileirão!#^comentario-42539|#42539]]
+- [[Posts/5863 - Vai que Dá! Mengão é o Rio no Brasileirão!|#5863]] - Vai que Dá! Mengão é o Rio no Brasileirão! · [[Posts/5863 - Vai que Dá! Mengão é o Rio no Brasileirão!#^comentario-42551|#42551]]
+- [[Posts/5868 - O lado bom do Apagão|#5868]] - O lado bom do Apagão · [[Posts/5868 - O lado bom do Apagão#^comentario-42632|#42632]]
+- [[Posts/5874 - Cadê o CT da soneca|#5874]] - Cadê o CT da soneca? · [[Posts/5874 - Cadê o CT da soneca#^comentario-42855|#42855]]
+- [[Posts/5874 - Cadê o CT da soneca|#5874]] - Cadê o CT da soneca? · [[Posts/5874 - Cadê o CT da soneca#^comentario-42902|#42902]]
+- [[Posts/5874 - Cadê o CT da soneca|#5874]] - Cadê o CT da soneca?
+- [[Posts/5876 - Expresso da Vitória Vascaíno|#5876]] - Expresso da Vitória Vascaíno
+- [[Posts/5877 - Young Flu. Que Fluminense é esse|#5877]] - Young Flu. Que Fluminense é esse? · [[Posts/5877 - Young Flu. Que Fluminense é esse#^comentario-42695|#42695]]
+- [[Posts/5877 - Young Flu. Que Fluminense é esse|#5877]] - Young Flu. Que Fluminense é esse?
+- [[Posts/5883 - E agora, Belluzzo|#5883]] - E agora, Belluzzo? · [[Posts/5883 - E agora, Belluzzo#^comentario-42709|#42709]]
+- [[Posts/5883 - E agora, Belluzzo|#5883]] - E agora, Belluzzo?
+- [[Posts/5886 - Mais uma rasgada no Estatuto do Torcedor – Vasco decide no Maracanã|#5886]] - Mais uma rasgada no Estatuto do Torcedor – Vasco decide no Maracanã · [[Posts/5886 - Mais uma rasgada no Estatuto do Torcedor – Vasco decide no Maracanã#^comentario-42737|#42737]]
+- [[Posts/5926 - Campanha Blá Blá Gol pela valorização da Sétima Arte|#5926]] - Campanha Blá Blá Gol pela valorização da Sétima Arte · [[Posts/5926 - Campanha Blá Blá Gol pela valorização da Sétima Arte#^comentario-42993|#42993]]
+- [[Posts/5929 - Que tal Flamengo x Grêmio em Volta Redonda|#5929]] - Que tal Flamengo x Grêmio em Volta Redonda?
+- [[Posts/5936 - A atuação de Fernando Henrique|#5936]] - A atuação de Fernando Henrique
+- [[Posts/5942 - Um jogo sulamericano de um time copeiro|#5942]] - Um jogo sulamericano de um time copeiro · [[Posts/5942 - Um jogo sulamericano de um time copeiro#^comentario-43035|#43035]]
+- [[Posts/5942 - Um jogo sulamericano de um time copeiro|#5942]] - Um jogo sulamericano de um time copeiro · [[Posts/5942 - Um jogo sulamericano de um time copeiro#^comentario-43091|#43091]]
+- [[Posts/5942 - Um jogo sulamericano de um time copeiro|#5942]] - Um jogo sulamericano de um time copeiro
+- [[Posts/5975 - Seleções da Copa do Mundo 2010|#5975]] - Seleções da Copa do Mundo 2010
+- [[Posts/5983 - Palmeiras balança 2|#5983]] - Palmeiras balança 2 · [[Posts/5983 - Palmeiras balança 2#^comentario-43049|#43049]]
+- [[Posts/599 - E Pato vai nadar em outros lagos|#599]] - E Pato vai nadar em outros lagos
+- [[Posts/6 - Entrei na área!|#6]] - Entrei na área!
+- [[Posts/6002 - Botafogo X São Paulo – pré-jogo|#6002]] - Botafogo X São Paulo – pré-jogo · [[Posts/6002 - Botafogo X São Paulo – pré-jogo#^comentario-43120|#43120]]
+- [[Posts/6005 - Palmeiras balança 3|#6005]] - Palmeiras balança 3
+- [[Posts/6024 - Flamengo Eternally – Hino em inglês|#6024]] - Flamengo Eternally – Hino em inglês
+- [[Posts/6029 - O Craque do Campeonato – Triagem|#6029]] - O Craque do Campeonato – Triagem · [[Posts/6029 - O Craque do Campeonato – Triagem#^comentario-43159|#43159]]
+- [[Posts/6029 - O Craque do Campeonato – Triagem|#6029]] - O Craque do Campeonato – Triagem · [[Posts/6029 - O Craque do Campeonato – Triagem#^comentario-43218|#43218]]
+- [[Posts/6029 - O Craque do Campeonato – Triagem|#6029]] - O Craque do Campeonato – Triagem
+- [[Posts/6036 - É o tipo da coisa do tal negócio…|#6036]] - É o tipo da coisa do tal negócio… · [[Posts/6036 - É o tipo da coisa do tal negócio…#^comentario-43207|#43207]]
+- [[Posts/6044 - Minutos fora da zona na vitória bônus|#6044]] - Minutos fora da zona na vitória bônus
+- [[Posts/6060 - Pfiu – Anticlímax|#6060]] - Pfiu – Anticlímax
+- [[Posts/6062 - Post Mãe Dinah! Faça sua previsão também!|#6062]] - Post Mãe Dinah! Faça sua previsão também! · [[Posts/6062 - Post Mãe Dinah! Faça sua previsão também!#^comentario-43245|#43245]]
+- [[Posts/6078 - Eu sou a Lenda|#6078]] - Eu sou a Lenda · [[Posts/6078 - Eu sou a Lenda#^comentario-43278|#43278]]
+- [[Posts/6086 - Flamengo sentiu a pressão da torcida – diz Bruno|#6086]] - Flamengo sentiu a pressão da torcida – diz Bruno · [[Posts/6086 - Flamengo sentiu a pressão da torcida – diz Bruno#^comentario-43331|#43331]]
+- [[Posts/6086 - Flamengo sentiu a pressão da torcida – diz Bruno|#6086]] - Flamengo sentiu a pressão da torcida – diz Bruno
+- [[Posts/6097 - Seleção do Brasileirão|#6097]] - Seleção do Brasileirão · [[Posts/6097 - Seleção do Brasileirão#^comentario-43436|#43436]]
+- [[Posts/6097 - Seleção do Brasileirão|#6097]] - Seleção do Brasileirão · [[Posts/6097 - Seleção do Brasileirão#^comentario-43467|#43467]]
+- [[Posts/61 - Caça às bruxas|#61]] - Caça às bruxas
+- [[Posts/6106 - 18 anos sem Freddie Mercury|#6106]] - 18 anos sem Freddie Mercury · [[Posts/6106 - 18 anos sem Freddie Mercury#^comentario-43550|#43550]]
+- [[Posts/6106 - 18 anos sem Freddie Mercury|#6106]] - 18 anos sem Freddie Mercury · [[Posts/6106 - 18 anos sem Freddie Mercury#^comentario-43572|#43572]]
+- [[Posts/6113 - Belluzzo na Veja – Mudernu|#6113]] - Belluzzo na Veja – Mudernu · [[Posts/6113 - Belluzzo na Veja – Mudernu#^comentario-43806|#43806]]
+- [[Posts/6113 - Belluzzo na Veja – Mudernu|#6113]] - Belluzzo na Veja – Mudernu
+- [[Posts/6122 - Fluguês – LDU 5×1 FLU|#6122]] - Fluguês – LDU 5×1 FLU · [[Posts/6122 - Fluguês – LDU 5×1 FLU#^comentario-43631|#43631]]
+- [[Posts/6122 - Fluguês – LDU 5×1 FLU|#6122]] - Fluguês – LDU 5×1 FLU · [[Posts/6122 - Fluguês – LDU 5×1 FLU#^comentario-43707|#43707]]
+- [[Posts/6132 - Contra a Quanti e a Quali|#6132]] - Contra a Quanti e a Quali · [[Posts/6132 - Contra a Quanti e a Quali#^comentario-43723|#43723]]
+- [[Posts/6132 - Contra a Quanti e a Quali|#6132]] - Contra a Quanti e a Quali · [[Posts/6132 - Contra a Quanti e a Quali#^comentario-43789|#43789]]
+- [[Posts/6132 - Contra a Quanti e a Quali|#6132]] - Contra a Quanti e a Quali
+- [[Posts/6140 - Cadê a Perimetral|#6140]] - Cadê a Perimetral? · [[Posts/6140 - Cadê a Perimetral#^comentario-43766|#43766]]
+- [[Posts/6140 - Cadê a Perimetral|#6140]] - Cadê a Perimetral? · [[Posts/6140 - Cadê a Perimetral#^comentario-43771|#43771]]
+- [[Posts/6140 - Cadê a Perimetral|#6140]] - Cadê a Perimetral? · [[Posts/6140 - Cadê a Perimetral#^comentario-43781|#43781]]
+- [[Posts/6146 - Jogos de hoje – Brasileirão|#6146]] - Jogos de hoje – Brasileirão · [[Posts/6146 - Jogos de hoje – Brasileirão#^comentario-43812|#43812]]
+- [[Posts/6146 - Jogos de hoje – Brasileirão|#6146]] - Jogos de hoje – Brasileirão
+- [[Posts/6148 - Resumo resumido da penúltima rodada do Brasileirão|#6148]] - Resumo resumido da penúltima rodada do Brasileirão · [[Posts/6148 - Resumo resumido da penúltima rodada do Brasileirão#^comentario-43925|#43925]]
+- [[Posts/6148 - Resumo resumido da penúltima rodada do Brasileirão|#6148]] - Resumo resumido da penúltima rodada do Brasileirão
+- [[Posts/615 - Luciano Almeida recuperado de lesão na casa do caralho|#615]] - Luciano Almeida recuperado de lesão na casa do caralho
+- [[Posts/6162 - E viva a isenção!|#6162]] - E viva a isenção! · [[Posts/6162 - E viva a isenção!#^comentario-44021|#44021]]
+- [[Posts/6162 - E viva a isenção!|#6162]] - E viva a isenção! · [[Posts/6162 - E viva a isenção!#^comentario-44708|#44708]]
+- [[Posts/6167 - Continuar pra quê|#6167]] - Continuar pra quê? · [[Posts/6167 - Continuar pra quê#^comentario-44078|#44078]]
+- [[Posts/6167 - Continuar pra quê|#6167]] - Continuar pra quê? · [[Posts/6167 - Continuar pra quê#^comentario-44092|#44092]]
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho · [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho#^comentario-44120|#44120]]
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho · [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho#^comentario-44183|#44183]]
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho · [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho#^comentario-44208|#44208]]
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho · [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho#^comentario-44693|#44693]]
+- [[Posts/6175 - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho|#6175]] - Ingressos para Flamengo x Grêmio, com uma Sulamericana no meio do caminho
+- [[Posts/6185 - Fluminense x LDU – Um risco na História|#6185]] - Fluminense x LDU – Um risco na História
+- [[Posts/6187 - Fred vai te afundar! LDU Campeão outra vez|#6187]] - Fred vai te afundar! LDU Campeão outra vez. · [[Posts/6187 - Fred vai te afundar! LDU Campeão outra vez#^comentario-44289|#44289]]
+- [[Posts/6187 - Fred vai te afundar! LDU Campeão outra vez|#6187]] - Fred vai te afundar! LDU Campeão outra vez. · [[Posts/6187 - Fred vai te afundar! LDU Campeão outra vez#^comentario-44409|#44409]]
+- [[Posts/6191 - Flamengo e Mídia|#6191]] - Flamengo e Mídia · [[Posts/6191 - Flamengo e Mídia#^comentario-44396|#44396]]
+- [[Posts/6191 - Flamengo e Mídia|#6191]] - Flamengo e Mídia · [[Posts/6191 - Flamengo e Mídia#^comentario-44496|#44496]]
+- [[Posts/62 - Aquecimento|#62]] - Aquecimento
+- [[Posts/6206 - Raspem a poupança|#6206]] - Raspem a poupança · [[Posts/6206 - Raspem a poupança#^comentario-44694|#44694]]
+- [[Posts/6206 - Raspem a poupança|#6206]] - Raspem a poupança
+- [[Posts/621 - O Botafogo deve passar impune no caso do doping|#621]] - O Botafogo deve passar impune no caso do doping?
+- [[Posts/6212 - Grupos da Copa do Mundo 2010|#6212]] - Grupos da Copa do Mundo 2010 · [[Posts/6212 - Grupos da Copa do Mundo 2010#^comentario-44550|#44550]]
+- [[Posts/6212 - Grupos da Copa do Mundo 2010|#6212]] - Grupos da Copa do Mundo 2010 · [[Posts/6212 - Grupos da Copa do Mundo 2010#^comentario-44647|#44647]]
+- [[Posts/6222 - Grupos da Copa – primeiros chutes Blablagolianos|#6222]] - Grupos da Copa – primeiros chutes Blablagolianos · [[Posts/6222 - Grupos da Copa – primeiros chutes Blablagolianos#^comentario-44654|#44654]]
+- [[Posts/6222 - Grupos da Copa – primeiros chutes Blablagolianos|#6222]] - Grupos da Copa – primeiros chutes Blablagolianos
+- [[Posts/6231 - A Derradeira|#6231]] - A Derradeira · [[Posts/6231 - A Derradeira#^comentario-44715|#44715]]
+- [[Posts/6231 - A Derradeira|#6231]] - A Derradeira · [[Posts/6231 - A Derradeira#^comentario-44728|#44728]]
+- [[Posts/6231 - A Derradeira|#6231]] - A Derradeira
+- [[Posts/6235 - Flamengo Campeão Brasileiro 2009|#6235]] - Flamengo Campeão Brasileiro 2009
+- [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem|#6274]] - Botafogo 2010: Tudo bem para o ano que vem · [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem#^comentario-44961|#44961]]
+- [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem|#6274]] - Botafogo 2010: Tudo bem para o ano que vem · [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem#^comentario-44963|#44963]]
+- [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem|#6274]] - Botafogo 2010: Tudo bem para o ano que vem · [[Posts/6274 - Botafogo 2010 Tudo bem para o ano que vem#^comentario-45428|#45428]]
+- [[Posts/6289 - Fluminense 2009 A dívida está paga|#6289]] - Fluminense 2009: A dívida está paga · [[Posts/6289 - Fluminense 2009 A dívida está paga#^comentario-45026|#45026]]
+- [[Posts/6289 - Fluminense 2009 A dívida está paga|#6289]] - Fluminense 2009: A dívida está paga
+- [[Posts/629 - Botafogo 0×2 São Paulo|#629]] - Botafogo 0×2 São Paulo
+- [[Posts/63 - Aleluia - 30 minutinhos ao menos|#63]] - Aleluia - 30 minutinhos ao menos
+- [[Posts/6303 - Cruzeiro 2009 para o bem e para o mal|#6303]] - Cruzeiro 2009: para o bem e para o mal. · [[Posts/6303 - Cruzeiro 2009 para o bem e para o mal#^comentario-45042|#45042]]
+- [[Posts/6304 - Programa de domingo ser Campeão Brasileiro|#6304]] - Programa de domingo: ser Campeão Brasileiro · [[Posts/6304 - Programa de domingo ser Campeão Brasileiro#^comentario-45051|#45051]]
+- [[Posts/6324 - Vasco 2009 Estamos de volta…|#6324]] - Vasco 2009: Estamos de volta… · [[Posts/6324 - Vasco 2009 Estamos de volta…#^comentario-45100|#45100]]
+- [[Posts/6324 - Vasco 2009 Estamos de volta…|#6324]] - Vasco 2009: Estamos de volta… · [[Posts/6324 - Vasco 2009 Estamos de volta…#^comentario-45101|#45101]]
+- [[Posts/6324 - Vasco 2009 Estamos de volta…|#6324]] - Vasco 2009: Estamos de volta… · [[Posts/6324 - Vasco 2009 Estamos de volta…#^comentario-46240|#46240]]
+- [[Posts/6324 - Vasco 2009 Estamos de volta…|#6324]] - Vasco 2009: Estamos de volta… · [[Posts/6324 - Vasco 2009 Estamos de volta…#^comentario-46589|#46589]]
+- [[Posts/6332 - Entenda o “Mimimi”|#6332]] - Entenda o “Mimimi” · [[Posts/6332 - Entenda o “Mimimi”#^comentario-45154|#45154]]
+- [[Posts/6332 - Entenda o “Mimimi”|#6332]] - Entenda o “Mimimi” · [[Posts/6332 - Entenda o “Mimimi”#^comentario-45299|#45299]]
+- [[Posts/6337 - Flamengo – 17 anos depois|#6337]] - Flamengo – 17 anos depois · [[Posts/6337 - Flamengo – 17 anos depois#^comentario-45445|#45445]]
+- [[Posts/6343 - Mercado da Bola 2009 2010|#6343]] - Mercado da Bola 2009/2010 · [[Posts/6343 - Mercado da Bola 2009 2010#^comentario-45256|#45256]]
+- [[Posts/6343 - Mercado da Bola 2009 2010|#6343]] - Mercado da Bola 2009/2010 · [[Posts/6343 - Mercado da Bola 2009 2010#^comentario-45726|#45726]]
+- [[Posts/6343 - Mercado da Bola 2009 2010|#6343]] - Mercado da Bola 2009/2010 · [[Posts/6343 - Mercado da Bola 2009 2010#^comentario-46008|#46008]]
+- [[Posts/6343 - Mercado da Bola 2009 2010|#6343]] - Mercado da Bola 2009/2010 · [[Posts/6343 - Mercado da Bola 2009 2010#^comentario-47009|#47009]]
+- [[Posts/6345 - O Melhor Jogador da Década|#6345]] - O Melhor Jogador da Década · [[Posts/6345 - O Melhor Jogador da Década#^comentario-45300|#45300]]
+- [[Posts/6345 - O Melhor Jogador da Década|#6345]] - O Melhor Jogador da Década · [[Posts/6345 - O Melhor Jogador da Década#^comentario-45312|#45312]]
+- [[Posts/6345 - O Melhor Jogador da Década|#6345]] - O Melhor Jogador da Década
+- [[Posts/635 - A mentira do Pan 2007|#635]] - A mentira do Pan 2007
+- [[Posts/6350 - Um País Continental|#6350]] - Um País Continental · [[Posts/6350 - Um País Continental#^comentario-46211|#46211]]
+- [[Posts/6350 - Um País Continental|#6350]] - Um País Continental · [[Posts/6350 - Um País Continental#^comentario-119456|#119456]]
+- [[Posts/6350 - Um País Continental|#6350]] - Um País Continental · [[Posts/6350 - Um País Continental#^comentario-151441|#151441]]
+- [[Posts/6350 - Um País Continental|#6350]] - Um País Continental
+- [[Posts/6358 - Santos 2009 O medo da figuração|#6358]] - Santos 2009: O medo da figuração · [[Posts/6358 - Santos 2009 O medo da figuração#^comentario-46044|#46044]]
+- [[Posts/636 - Flamengo tem é de fazer dever de casa|#636]] - Flamengo tem é de fazer dever de casa
+- [[Posts/639 - Fluminense volta a jogar bem contra o Santos|#639]] - Fluminense volta a jogar bem contra o Santos
+- [[Posts/64 - Isso sim, é a tradição… (enviado por Serginho Valente)|#64]] - Isso sim, é a tradição… (enviado por Serginho Valente)
+- [[Posts/6403 - A felicidade Seca-Fla|#6403]] - A felicidade Seca-Fla
+- [[Posts/6411 - Impossible is Nothing|#6411]] - Impossible is Nothing
+- [[Posts/6417 - Pré SEXta-Feira|#6417]] - Pré SEXta-Feira · [[Posts/6417 - Pré SEXta-Feira#^comentario-45734|#45734]]
+- [[Posts/6422 - Tudo mal Dodô bacalhau|#6422]] - Tudo mal? Dodô bacalhau · [[Posts/6422 - Tudo mal Dodô bacalhau#^comentario-45665|#45665]]
+- [[Posts/6428 - Análise gráfica do futebol brasileiro por UF – Tentativa 1|#6428]] - Análise gráfica do futebol brasileiro por UF – Tentativa 1 · [[Posts/6428 - Análise gráfica do futebol brasileiro por UF – Tentativa 1#^comentario-45807|#45807]]
+- [[Posts/6428 - Análise gráfica do futebol brasileiro por UF – Tentativa 1|#6428]] - Análise gráfica do futebol brasileiro por UF – Tentativa 1 · [[Posts/6428 - Análise gráfica do futebol brasileiro por UF – Tentativa 1#^comentario-97346|#97346]]
+- [[Posts/6445 - Clássicos em São Januário|#6445]] - Clássicos em São Januário
+- [[Posts/6451 - ESPANHA CAMPEÃ DO MUNDO EM 2010!!!|#6451]] - ESPANHA CAMPEÃ DO MUNDO EM 2010!!! · [[Posts/6451 - ESPANHA CAMPEÃ DO MUNDO EM 2010!!!#^comentario-45940|#45940]]
+- [[Posts/6474 - Corinthians 2009 Arrumando a casa para 2010|#6474]] - Corinthians 2009: Arrumando a casa para 2010 · [[Posts/6474 - Corinthians 2009 Arrumando a casa para 2010#^comentario-46045|#46045]]
+- [[Posts/6492 - Erros no Maracanã|#6492]] - Erros no Maracanã · [[Posts/6492 - Erros no Maracanã#^comentario-45978|#45978]]
+- [[Posts/6492 - Erros no Maracanã|#6492]] - Erros no Maracanã · [[Posts/6492 - Erros no Maracanã#^comentario-45980|#45980]]
+- [[Posts/6492 - Erros no Maracanã|#6492]] - Erros no Maracanã · [[Posts/6492 - Erros no Maracanã#^comentario-47212|#47212]]
+- [[Posts/65 - Na conta do chá|#65]] - Na conta do chá
+- [[Posts/6511 - 2009 – Quem subiu, quem desceu|#6511]] - 2009 – Quem subiu, quem desceu
+- [[Posts/6528 - Feliz Natal!|#6528]] - Feliz Natal! · [[Posts/6528 - Feliz Natal!#^comentario-46121|#46121]]
+- [[Posts/6528 - Feliz Natal!|#6528]] - Feliz Natal! · [[Posts/6528 - Feliz Natal!#^comentario-46216|#46216]]
+- [[Posts/6528 - Feliz Natal!|#6528]] - Feliz Natal! · [[Posts/6528 - Feliz Natal!#^comentario-46248|#46248]]
+- [[Posts/6528 - Feliz Natal!|#6528]] - Feliz Natal! · [[Posts/6528 - Feliz Natal!#^comentario-46485|#46485]]
+- [[Posts/6529 - Vasco 2009-2010|#6529]] - Vasco 2009-2010 · [[Posts/6529 - Vasco 2009-2010#^comentario-46137|#46137]]
+- [[Posts/6529 - Vasco 2009-2010|#6529]] - Vasco 2009-2010 · [[Posts/6529 - Vasco 2009-2010#^comentario-46145|#46145]]
+- [[Posts/6548 - O último ato – Adeus Sorin|#6548]] - O último ato – Adeus Sorin · [[Posts/6548 - O último ato – Adeus Sorin#^comentario-46212|#46212]]
+- [[Posts/6560 - Ele disse sim|#6560]] - Ele disse sim · [[Posts/6560 - Ele disse sim#^comentario-46244|#46244]]
+- [[Posts/6560 - Ele disse sim|#6560]] - Ele disse sim · [[Posts/6560 - Ele disse sim#^comentario-46245|#46245]]
+- [[Posts/6572 - Palmeiras 2009 Muita promessa pra um fim amargo|#6572]] - Palmeiras 2009: Muita promessa pra um fim amargo · [[Posts/6572 - Palmeiras 2009 Muita promessa pra um fim amargo#^comentario-46330|#46330]]
+- [[Posts/6572 - Palmeiras 2009 Muita promessa pra um fim amargo|#6572]] - Palmeiras 2009: Muita promessa pra um fim amargo · [[Posts/6572 - Palmeiras 2009 Muita promessa pra um fim amargo#^comentario-47125|#47125]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-46409|#46409]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-46931|#46931]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-47428|#47428]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-47693|#47693]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-48695|#48695]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-61544|#61544]]
+- [[Posts/6597 - O Rock n’ Roll e os anos 90|#6597]] - O Rock n’ Roll e os anos 90 · [[Posts/6597 - O Rock n’ Roll e os anos 90#^comentario-83350|#83350]]
+- [[Posts/66 - Fiquem à vontade|#66]] - Fiquem à vontade
+- [[Posts/6605 - Portuguesa 2009 Dois quintos lugares e cinco treinadores|#6605]] - Portuguesa 2009: Dois quintos lugares e cinco treinadores · [[Posts/6605 - Portuguesa 2009 Dois quintos lugares e cinco treinadores#^comentario-46469|#46469]]
+- [[Posts/6605 - Portuguesa 2009 Dois quintos lugares e cinco treinadores|#6605]] - Portuguesa 2009: Dois quintos lugares e cinco treinadores · [[Posts/6605 - Portuguesa 2009 Dois quintos lugares e cinco treinadores#^comentario-46659|#46659]]
+- [[Posts/663 - Ainda na 1ª rodada do re-turno|#663]] - Ainda na 1ª rodada do re-turno
+- [[Posts/6649 - “Apenas” o Pet é pouco|#6649]] - “Apenas” o Pet é pouco · [[Posts/6649 - “Apenas” o Pet é pouco#^comentario-46951|#46951]]
+- [[Posts/665 - Um dia eu torço para o Goiás|#665]] - Um dia eu torço para o Goiás
+- [[Posts/6662 - Parece fácil, mas é difícil|#6662]] - Parece fácil, mas é difícil · [[Posts/6662 - Parece fácil, mas é difícil#^comentario-47129|#47129]]
+- [[Posts/6662 - Parece fácil, mas é difícil|#6662]] - Parece fácil, mas é difícil · [[Posts/6662 - Parece fácil, mas é difícil#^comentario-47144|#47144]]
+- [[Posts/6669 - Lobby para Copa|#6669]] - Lobby para Copa · [[Posts/6669 - Lobby para Copa#^comentario-47207|#47207]]
+- [[Posts/6669 - Lobby para Copa|#6669]] - Lobby para Copa · [[Posts/6669 - Lobby para Copa#^comentario-47242|#47242]]
+- [[Posts/6675 - Regras para a Copa do Mundo|#6675]] - Regras para a Copa do Mundo
+- [[Posts/6687 - O Mistério de Xerém|#6687]] - O Mistério de Xerém
+- [[Posts/6695 - Arapuca Rubro-Negra|#6695]] - Arapuca Rubro-Negra · [[Posts/6695 - Arapuca Rubro-Negra#^comentario-47410|#47410]]
+- [[Posts/67 - Perguntar não ofende|#67]] - Perguntar não ofende.
+- [[Posts/6701 - A História do Tricampeonato Carioca de 1978 79 79|#6701]] - A História do Tricampeonato Carioca de 1978/79/79 · [[Posts/6701 - A História do Tricampeonato Carioca de 1978 79 79#^comentario-47433|#47433]]
+- [[Posts/6701 - A História do Tricampeonato Carioca de 1978 79 79|#6701]] - A História do Tricampeonato Carioca de 1978/79/79
+- [[Posts/6718 - Imbecilidades – Atualizado|#6718]] - Imbecilidades – Atualizado · [[Posts/6718 - Imbecilidades – Atualizado#^comentario-47461|#47461]]
+- [[Posts/6718 - Imbecilidades – Atualizado|#6718]] - Imbecilidades – Atualizado · [[Posts/6718 - Imbecilidades – Atualizado#^comentario-47490|#47490]]
+- [[Posts/6718 - Imbecilidades – Atualizado|#6718]] - Imbecilidades – Atualizado · [[Posts/6718 - Imbecilidades – Atualizado#^comentario-47509|#47509]]
+- [[Posts/6718 - Imbecilidades – Atualizado|#6718]] - Imbecilidades – Atualizado · [[Posts/6718 - Imbecilidades – Atualizado#^comentario-47554|#47554]]
+- [[Posts/673 - O couro vai comer|#673]] - O couro vai comer
+- [[Posts/675 - Leandrinho leva o Brasil à vitória|#675]] - Leandrinho leva o Brasil à vitória
+- [[Posts/6764 - E se o Flamengo não fosse o Campeão Brasileiro 2009|#6764]] - E se o Flamengo não fosse o Campeão Brasileiro 2009 · [[Posts/6764 - E se o Flamengo não fosse o Campeão Brasileiro 2009#^comentario-49110|#49110]]
+- [[Posts/6764 - E se o Flamengo não fosse o Campeão Brasileiro 2009|#6764]] - E se o Flamengo não fosse o Campeão Brasileiro 2009
+- [[Posts/6778 - Venezuela x Siena|#6778]] - Venezuela x Siena
+- [[Posts/6791 - Eurico Miranda eleito presidente do conselho no Vasco|#6791]] - Eurico Miranda eleito presidente do conselho no Vasco. · [[Posts/6791 - Eurico Miranda eleito presidente do conselho no Vasco#^comentario-47516|#47516]]
+- [[Posts/6798 - Roberto Dinamite pode e Carlos Alberto não|#6798]] - Roberto Dinamite pode e Carlos Alberto não? · [[Posts/6798 - Roberto Dinamite pode e Carlos Alberto não#^comentario-47594|#47594]]
+- [[Posts/6798 - Roberto Dinamite pode e Carlos Alberto não|#6798]] - Roberto Dinamite pode e Carlos Alberto não?
+- [[Posts/68 - Copyright AFP afp.com Victor Pimentel – Acabo…|#68]] - Copyright: AFP / afp.com Victor Pimentel – Acabo…
+- [[Posts/681 - Onde vai chegar o Flamengo|#681]] - Onde vai chegar o Flamengo?
+- [[Posts/682 - Essa é a graça do futebol e blá blá blá…|#682]] - Essa é a graça do futebol e blá blá blá…
+- [[Posts/6821 - Probabilidades na Copa – Parte 1 Valores das Seleções da Copa do Mundo 2010|#6821]] - Probabilidades na Copa – Parte 1: Valores das Seleções da Copa do Mundo 2010
+- [[Posts/6822 - Pão-De-Queijão 10 saindo do forno|#6822]] - Pão-De-Queijão/10 saindo do forno · [[Posts/6822 - Pão-De-Queijão 10 saindo do forno#^comentario-47611|#47611]]
+- [[Posts/6822 - Pão-De-Queijão 10 saindo do forno|#6822]] - Pão-De-Queijão/10 saindo do forno · [[Posts/6822 - Pão-De-Queijão 10 saindo do forno#^comentario-47625|#47625]]
+- [[Posts/6848 - Mostrando a que veio|#6848]] - Mostrando a que veio · [[Posts/6848 - Mostrando a que veio#^comentario-47675|#47675]]
+- [[Posts/6869 - O “crack” Jóbson|#6869]] - O “crack” Jóbson
+- [[Posts/6885 - Clássico, estréias e passeios|#6885]] - Clássico, estréias e passeios · [[Posts/6885 - Clássico, estréias e passeios#^comentario-47709|#47709]]
+- [[Posts/689 - Um abraço – Brasil x EUA|#689]] - Um abraço – Brasil x EUA
+- [[Posts/6899 - Bikini’s challenge|#6899]] - Bikini’s challenge · [[Posts/6899 - Bikini’s challenge#^comentario-47716|#47716]]
+- [[Posts/69 - Brasileirão|#69]] - Brasileirão
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-73318|#73318]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-74531|#74531]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-79991|#79991]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-144045|#144045]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-145552|#145552]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-145612|#145612]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-145965|#145965]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-67071|#67071]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-68564|#68564]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-69054|#69054]]
+- [[Posts/6907 - Pergunte ao Saulo|#6907]] - Pergunte ao Saulo · [[Posts/6907 - Pergunte ao Saulo#^comentario-69991|#69991]]
+- [[Posts/6911 - Pergunte ao Saulo|#6911]] - Pergunte ao Saulo
+- [[Posts/6925 - Dodo, Mancini e a estrela solitária!|#6925]] - Dodo, Mancini e a estrela solitária! · [[Posts/6925 - Dodo, Mancini e a estrela solitária!#^comentario-47823|#47823]]
+- [[Posts/6925 - Dodo, Mancini e a estrela solitária!|#6925]] - Dodo, Mancini e a estrela solitária! · [[Posts/6925 - Dodo, Mancini e a estrela solitária!#^comentario-47855|#47855]]
+- [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!|#6926]] - HUMILHAÇÃO! E fora Estevam! · [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!#^comentario-47865|#47865]]
+- [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!|#6926]] - HUMILHAÇÃO! E fora Estevam! · [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!#^comentario-47881|#47881]]
+- [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!|#6926]] - HUMILHAÇÃO! E fora Estevam! · [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!#^comentario-47897|#47897]]
+- [[Posts/6939 - Semana que vem tem Livorno|#6939]] - Semana que vem tem Livorno · [[Posts/6939 - Semana que vem tem Livorno#^comentario-47998|#47998]]
+- [[Posts/6939 - Semana que vem tem Livorno|#6939]] - Semana que vem tem Livorno
+- [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|#6951]] - Joel no Botafogo – A malandragem está de volta · [[Posts/6951 - Joel no Botafogo – A malandragem está de volta#^comentario-48039|#48039]]
+- [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|#6951]] - Joel no Botafogo – A malandragem está de volta · [[Posts/6951 - Joel no Botafogo – A malandragem está de volta#^comentario-48047|#48047]]
+- [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|#6951]] - Joel no Botafogo – A malandragem está de volta · [[Posts/6951 - Joel no Botafogo – A malandragem está de volta#^comentario-48385|#48385]]
+- [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|#6951]] - Joel no Botafogo – A malandragem está de volta
+- [[Posts/697 - Brasil não foi mal|#697]] - Brasil não foi mal
+- [[Posts/7 - Probabilidades – Matemática e Futebol|#7]] - Probabilidades – Matemática e Futebol · [[Posts/7 - Probabilidades – Matemática e Futebol#^comentario-141831|#141831]]
+- [[Posts/7 - Probabilidades – Matemática e Futebol|#7]] - Probabilidades – Matemática e Futebol
+- [[Posts/70 - Linha Burra|#70]] - Linha Burra
+- [[Posts/7000 - Aprenda, Velho Babaca|#7000]] - Aprenda, Velho Babaca · [[Posts/7000 - Aprenda, Velho Babaca#^comentario-55469|#55469]]
+- [[Posts/7000 - Aprenda, Velho Babaca|#7000]] - Aprenda, Velho Babaca
+- [[Posts/7001 - La Copa se mira!|#7001]] - La Copa se mira! · [[Posts/7001 - La Copa se mira!#^comentario-48117|#48117]]
+- [[Posts/7001 - La Copa se mira!|#7001]] - La Copa se mira! · [[Posts/7001 - La Copa se mira!#^comentario-48741|#48741]]
+- [[Posts/7001 - La Copa se mira!|#7001]] - La Copa se mira! · [[Posts/7001 - La Copa se mira!#^comentario-48924|#48924]]
+- [[Posts/701 - Flamengo vence|#701]] - Flamengo vence · [[Posts/701 - Flamengo vence#^comentario-131265|#131265]]
+- [[Posts/7021 - O tempo técnico|#7021]] - O tempo técnico · [[Posts/7021 - O tempo técnico#^comentario-48230|#48230]]
+- [[Posts/7021 - O tempo técnico|#7021]] - O tempo técnico
+- [[Posts/703 - Sábado de rock em Niterói|#703]] - Sábado de rock em Niterói
+- [[Posts/7030 - Real Potosí 1×1 Cruzeiro|#7030]] - Real Potosí 1×1 Cruzeiro · [[Posts/7030 - Real Potosí 1×1 Cruzeiro#^comentario-48249|#48249]]
+- [[Posts/7030 - Real Potosí 1×1 Cruzeiro|#7030]] - Real Potosí 1×1 Cruzeiro · [[Posts/7030 - Real Potosí 1×1 Cruzeiro#^comentario-48250|#48250]]
+- [[Posts/7048 - Robinho fracassou na Europa. E daí|#7048]] - Robinho fracassou na Europa. E daí? · [[Posts/7048 - Robinho fracassou na Europa. E daí#^comentario-51563|#51563]]
+- [[Posts/7048 - Robinho fracassou na Europa. E daí|#7048]] - Robinho fracassou na Europa. E daí? · [[Posts/7048 - Robinho fracassou na Europa. E daí#^comentario-55532|#55532]]
+- [[Posts/7048 - Robinho fracassou na Europa. E daí|#7048]] - Robinho fracassou na Europa. E daí?
+- [[Posts/705 - Teremos recorde de público para Botafogo x Flamengo|#705]] - Teremos recorde de público para Botafogo x Flamengo?
+- [[Posts/7058 - Botafogo 2×1 América – tempo quase real|#7058]] - Botafogo 2×1 América – tempo quase real · [[Posts/7058 - Botafogo 2×1 América – tempo quase real#^comentario-48416|#48416]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso · [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso#^comentario-48471|#48471]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso · [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso#^comentario-48478|#48478]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso · [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso#^comentario-48485|#48485]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso · [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso#^comentario-48522|#48522]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso · [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso#^comentario-48612|#48612]]
+- [[Posts/7070 - 005 – O Império do Amor contra o Cabacento Impetuoso|#7070]] - 005 – O Império do Amor contra o Cabacento Impetuoso
+- [[Posts/708 - Sobre Brasil x Porto Rico – não vi|#708]] - Sobre Brasil x Porto Rico – não vi.
+- [[Posts/7086 - Atlético Mineiro 2009 O Galo existe|#7086]] - Atlético Mineiro 2009: O Galo existe · [[Posts/7086 - Atlético Mineiro 2009 O Galo existe#^comentario-48659|#48659]]
+- [[Posts/7086 - Atlético Mineiro 2009 O Galo existe|#7086]] - Atlético Mineiro 2009: O Galo existe · [[Posts/7086 - Atlético Mineiro 2009 O Galo existe#^comentario-48665|#48665]]
+- [[Posts/71 - Desenferrujando|#71]] - Desenferrujando
+- [[Posts/7105 - Fair play|#7105]] - Fair play · [[Posts/7105 - Fair play#^comentario-48752|#48752]]
+- [[Posts/7107 - Cruzeiro 7 x 0 Real Potosí|#7107]] - Cruzeiro 7 x 0 Real Potosí · [[Posts/7107 - Cruzeiro 7 x 0 Real Potosí#^comentario-48817|#48817]]
+- [[Posts/7107 - Cruzeiro 7 x 0 Real Potosí|#7107]] - Cruzeiro 7 x 0 Real Potosí · [[Posts/7107 - Cruzeiro 7 x 0 Real Potosí#^comentario-48823|#48823]]
+- [[Posts/7112 - Tá quente, Batista|#7112]] - Tá quente, Batista? · [[Posts/7112 - Tá quente, Batista#^comentario-48841|#48841]]
+- [[Posts/7112 - Tá quente, Batista|#7112]] - Tá quente, Batista?
+- [[Posts/7117 - Até que… joguinho bom|#7117]] - Até que… joguinho bom · [[Posts/7117 - Até que… joguinho bom#^comentario-48938|#48938]]
+- [[Posts/7128 - A República do Ódio|#7128]] - A República do Ódio
+- [[Posts/7136 - “Entrevista” para o Meu Time de Botão|#7136]] - “Entrevista” para o Meu Time de Botão · [[Posts/7136 - “Entrevista” para o Meu Time de Botão#^comentario-49033|#49033]]
+- [[Posts/714 - Sobre narradores e comentaristas|#714]] - Sobre narradores e comentaristas · [[Posts/714 - Sobre narradores e comentaristas#^comentario-68575|#68575]]
+- [[Posts/714 - Sobre narradores e comentaristas|#714]] - Sobre narradores e comentaristas · [[Posts/714 - Sobre narradores e comentaristas#^comentario-73297|#73297]]
+- [[Posts/7145 - Luiz Alberto no Boca Juniors|#7145]] - Luiz Alberto no Boca Juniors · [[Posts/7145 - Luiz Alberto no Boca Juniors#^comentario-49101|#49101]]
+- [[Posts/7145 - Luiz Alberto no Boca Juniors|#7145]] - Luiz Alberto no Boca Juniors
+- [[Posts/7160 - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval!|#7160]] - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval! · [[Posts/7160 - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval!#^comentario-49115|#49115]]
+- [[Posts/7160 - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval!|#7160]] - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval! · [[Posts/7160 - Afinal, hoje é SEXta-Feira…Esquentando pro Carnaval!#^comentario-49305|#49305]]
+- [[Posts/7171 - Semi-finais da Taça Guanabara 2010|#7171]] - Semi-finais da Taça Guanabara 2010
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49178|#49178]]
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49195|#49195]]
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49213|#49213]]
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49220|#49220]]
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49255|#49255]]
+- [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who|#7179]] - New Orleans Saints Campeão no Super Bowl do The Who · [[Posts/7179 - New Orleans Saints Campeão no Super Bowl do The Who#^comentario-49445|#49445]]
+- [[Posts/7189 - Rogério Ceni reclama da paradinha de Neymar|#7189]] - Rogério Ceni reclama da paradinha de Neymar · [[Posts/7189 - Rogério Ceni reclama da paradinha de Neymar#^comentario-49692|#49692]]
+- [[Posts/7189 - Rogério Ceni reclama da paradinha de Neymar|#7189]] - Rogério Ceni reclama da paradinha de Neymar
+- [[Posts/7213 - La Cumbia del Loco|#7213]] - La Cumbia del Loco · [[Posts/7213 - La Cumbia del Loco#^comentario-49528|#49528]]
+- [[Posts/7213 - La Cumbia del Loco|#7213]] - La Cumbia del Loco
+- [[Posts/7222 - A nova Era Dunga|#7222]] - A nova Era Dunga · [[Posts/7222 - A nova Era Dunga#^comentario-49558|#49558]]
+- [[Posts/7222 - A nova Era Dunga|#7222]] - A nova Era Dunga
+- [[Posts/7242 - Se nem Tostão consegue…|#7242]] - Se nem Tostão consegue…
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49613|#49613]]
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49614|#49614]]
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49688|#49688]]
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49689|#49689]]
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49690|#49690]]
+- [[Posts/7244 - Vamos ao que interessa|#7244]] - Vamos ao que interessa · [[Posts/7244 - Vamos ao que interessa#^comentario-49736|#49736]]
+- [[Posts/7268 - A molecada nas Copas|#7268]] - A molecada nas Copas · [[Posts/7268 - A molecada nas Copas#^comentario-49752|#49752]]
+- [[Posts/7268 - A molecada nas Copas|#7268]] - A molecada nas Copas
+- [[Posts/7277 - Vasco mete 6 de novo e está na final – Semifinal Taça GB 2010|#7277]] - Vasco mete 6 de novo e está na final – Semifinal Taça GB 2010 · [[Posts/7277 - Vasco mete 6 de novo e está na final – Semifinal Taça GB 2010#^comentario-49960|#49960]]
+- [[Posts/7283 - Era uma camisa de bolinha amarelinha…|#7283]] - Era uma camisa de bolinha amarelinha… · [[Posts/7283 - Era uma camisa de bolinha amarelinha…#^comentario-49961|#49961]]
+- [[Posts/7293 - Classificação em 3 atos!|#7293]] - Classificação em 3 atos! · [[Posts/7293 - Classificação em 3 atos!#^comentario-50036|#50036]]
+- [[Posts/7294 - 1 Samuel 17 50|#7294]] - 1 Samuel 17:50 · [[Posts/7294 - 1 Samuel 17 50#^comentario-50051|#50051]]
+- [[Posts/73 - Futebol. Finalmente|#73]] - Futebol. Finalmente
+- [[Posts/7302 - Vasco x Botafogo – Final Taça GB 2010|#7302]] - Vasco x Botafogo – Final Taça GB 2010 · [[Posts/7302 - Vasco x Botafogo – Final Taça GB 2010#^comentario-50207|#50207]]
+- [[Posts/7302 - Vasco x Botafogo – Final Taça GB 2010|#7302]] - Vasco x Botafogo – Final Taça GB 2010 · [[Posts/7302 - Vasco x Botafogo – Final Taça GB 2010#^comentario-50328|#50328]]
+- [[Posts/7336 - Parabéns Botafogo! Campeão da Taça GB 2010|#7336]] - Parabéns Botafogo! Campeão da Taça GB 2010 · [[Posts/7336 - Parabéns Botafogo! Campeão da Taça GB 2010#^comentario-50415|#50415]]
+- [[Posts/7336 - Parabéns Botafogo! Campeão da Taça GB 2010|#7336]] - Parabéns Botafogo! Campeão da Taça GB 2010 · [[Posts/7336 - Parabéns Botafogo! Campeão da Taça GB 2010#^comentario-50426|#50426]]
+- [[Posts/7352 - E quem disse que não pode comemorar|#7352]] - E quem disse que não pode comemorar? · [[Posts/7352 - E quem disse que não pode comemorar#^comentario-50453|#50453]]
+- [[Posts/7364 - A probabilidade do Botafogo ser Campeão Carioca 2010|#7364]] - A probabilidade do Botafogo ser Campeão Carioca 2010
+- [[Posts/7372 - Um bom começo de ano|#7372]] - Um bom começo de ano. · [[Posts/7372 - Um bom começo de ano#^comentario-50600|#50600]]
+- [[Posts/7375 - Michael não morreu!|#7375]] - Michael não morreu! · [[Posts/7375 - Michael não morreu!#^comentario-50599|#50599]]
+- [[Posts/7386 - Aonde vai o chororô|#7386]] - Aonde vai o chororô? · [[Posts/7386 - Aonde vai o chororô#^comentario-50624|#50624]]
+- [[Posts/7390 - Promoção – As Melhores Seleções Brasileiras de Todos os Tempos|#7390]] - Promoção – As Melhores Seleções Brasileiras de Todos os Tempos
+- [[Posts/7400 - Flamengo x Universidad Católica|#7400]] - Flamengo x Universidad Católica · [[Posts/7400 - Flamengo x Universidad Católica#^comentario-50701|#50701]]
+- [[Posts/7402 - Libertadores 2010 – Estreias e recuperação|#7402]] - Libertadores 2010 – Estreias e recuperação · [[Posts/7402 - Libertadores 2010 – Estreias e recuperação#^comentario-50714|#50714]]
+- [[Posts/7402 - Libertadores 2010 – Estreias e recuperação|#7402]] - Libertadores 2010 – Estreias e recuperação · [[Posts/7402 - Libertadores 2010 – Estreias e recuperação#^comentario-50715|#50715]]
+- [[Posts/7430 - Jogos do Monterrey na Libertadores|#7430]] - Jogos do Monterrey na Libertadores · [[Posts/7430 - Jogos do Monterrey na Libertadores#^comentario-50739|#50739]]
+- [[Posts/7437 - Arbitragem emperra Confiança|#7437]] - Arbitragem emperra Confiança · [[Posts/7437 - Arbitragem emperra Confiança#^comentario-50773|#50773]]
+- [[Posts/7437 - Arbitragem emperra Confiança|#7437]] - Arbitragem emperra Confiança · [[Posts/7437 - Arbitragem emperra Confiança#^comentario-50782|#50782]]
+- [[Posts/7437 - Arbitragem emperra Confiança|#7437]] - Arbitragem emperra Confiança
+- [[Posts/7457 - Vamos ao que interessa 2|#7457]] - Vamos ao que interessa \[2\] · [[Posts/7457 - Vamos ao que interessa 2#^comentario-50843|#50843]]
+- [[Posts/7494 - Vasco 0×0 Sousa Guilhotina para Mancini|#7494]] - Vasco 0×0 Sousa: Guilhotina para Mancini · [[Posts/7494 - Vasco 0×0 Sousa Guilhotina para Mancini#^comentario-50937|#50937]]
+- [[Posts/75 - Notícia que mudará sua vida|#75]] - Notícia que mudará sua vida.
+- [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe|#7522]] - Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe? · [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe#^comentario-51471|#51471]]
+- [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe|#7522]] - Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?
+- [[Posts/753 - Todo mundo secou|#753]] - Todo mundo secou
+- [[Posts/7541 - Edno é um bom reforço para o Botafogo|#7541]] - Edno é um bom reforço para o Botafogo? · [[Posts/7541 - Edno é um bom reforço para o Botafogo#^comentario-51466|#51466]]
+- [[Posts/7584 - O verdadeiro motivo de Ronaldo Fenômeno encarar três travecos|#7584]] - O verdadeiro motivo de Ronaldo Fenômeno encarar três travecos
+- [[Posts/76 - Up Down|#76]] - Up Down
+- [[Posts/7606 - Probabilidades na Copa – Parte 3 Chances de classificação para as oitavas|#7606]] - Probabilidades na Copa – Parte 3: Chances de classificação para as oitavas
+- [[Posts/7619 - Uma noite de turista|#7619]] - Uma noite de turista · [[Posts/7619 - Uma noite de turista#^comentario-51691|#51691]]
+- [[Posts/7619 - Uma noite de turista|#7619]] - Uma noite de turista · [[Posts/7619 - Uma noite de turista#^comentario-51709|#51709]]
+- [[Posts/7629 - Grupos da Copa do Mundo Versão Didática|#7629]] - Grupos da Copa do Mundo: Versão Didática
+- [[Posts/7634 - Zaga do Duque de Caxias 2X1 Duque de Caxias|#7634]] - Zaga do Duque de Caxias 2X1 Duque de Caxias · [[Posts/7634 - Zaga do Duque de Caxias 2X1 Duque de Caxias#^comentario-51746|#51746]]
+- [[Posts/7670 - Como eu ia dizendo…|#7670]] - Como eu ia dizendo… · [[Posts/7670 - Como eu ia dizendo…#^comentario-51975|#51975]]
+- [[Posts/7670 - Como eu ia dizendo…|#7670]] - Como eu ia dizendo… · [[Posts/7670 - Como eu ia dizendo…#^comentario-52019|#52019]]
+- [[Posts/7680 - Fluminense 2×1 Botafogo Vitória por WO|#7680]] - Fluminense 2×1 Botafogo: Vitória por WO
+- [[Posts/7694 - 08 03 – Dia Internacional da Mulher|#7694]] - 08/03 – Dia Internacional da Mulher · [[Posts/7694 - 08 03 – Dia Internacional da Mulher#^comentario-52171|#52171]]
+- [[Posts/7698 - Foreign View|#7698]] - Foreign View · [[Posts/7698 - Foreign View#^comentario-52218|#52218]]
+- [[Posts/77 - Boi de Piranha|#77]] - Boi de Piranha
+- [[Posts/772 - EUA x Brasil|#772]] - EUA x Brasil
+- [[Posts/7724 - Manchester United 4×0 Milan|#7724]] - Manchester United 4×0 Milan
+- [[Posts/7732 - Santos 10×0 Naviraiense Um Show|#7732]] - Santos 10×0 Naviraiense: Um Show · [[Posts/7732 - Santos 10×0 Naviraiense Um Show#^comentario-52359|#52359]]
+- [[Posts/7732 - Santos 10×0 Naviraiense Um Show|#7732]] - Santos 10×0 Naviraiense: Um Show
+- [[Posts/7759 - Flamengo x Vasco da madrugada|#7759]] - Flamengo x Vasco da madrugada · [[Posts/7759 - Flamengo x Vasco da madrugada#^comentario-52541|#52541]]
+- [[Posts/7759 - Flamengo x Vasco da madrugada|#7759]] - Flamengo x Vasco da madrugada
+- [[Posts/776 - Para quem acha que Torcida Organizada é praga só de time grande|#776]] - Para quem acha que Torcida Organizada é praga só de time grande. · [[Posts/776 - Para quem acha que Torcida Organizada é praga só de time grande#^comentario-4366|#4366]]
+- [[Posts/776 - Para quem acha que Torcida Organizada é praga só de time grande|#776]] - Para quem acha que Torcida Organizada é praga só de time grande. · [[Posts/776 - Para quem acha que Torcida Organizada é praga só de time grande#^comentario-4367|#4367]]
+- [[Posts/776 - Para quem acha que Torcida Organizada é praga só de time grande|#776]] - Para quem acha que Torcida Organizada é praga só de time grande.
+- [[Posts/7774 - Porque não verei o Vasco hoje no Maraca|#7774]] - Porque não verei o Vasco hoje no Maraca · [[Posts/7774 - Porque não verei o Vasco hoje no Maraca#^comentario-52585|#52585]]
+- [[Posts/7774 - Porque não verei o Vasco hoje no Maraca|#7774]] - Porque não verei o Vasco hoje no Maraca · [[Posts/7774 - Porque não verei o Vasco hoje no Maraca#^comentario-52620|#52620]]
+- [[Posts/7781 - Ainda bem que não fui|#7781]] - Ainda bem que não fui · [[Posts/7781 - Ainda bem que não fui#^comentario-52684|#52684]]
+- [[Posts/7795 - O América que ninguém vê (nem eu)|#7795]] - O América que ninguém vê (nem eu) · [[Posts/7795 - O América que ninguém vê (nem eu)#^comentario-52709|#52709]]
+- [[Posts/7801 - “Nova” F1, velhos problemas|#7801]] - “Nova” F1, velhos problemas · [[Posts/7801 - “Nova” F1, velhos problemas#^comentario-52803|#52803]]
+- [[Posts/7818 - Samba do piloto doido|#7818]] - Samba do piloto doido · [[Posts/7818 - Samba do piloto doido#^comentario-52804|#52804]]
+- [[Posts/7842 - Matemática na Libertadores|#7842]] - Matemática na Libertadores · [[Posts/7842 - Matemática na Libertadores#^comentario-52949|#52949]]
+- [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome|#7845]] - Batavo, Olympikus, BMG e Flamengo – Você é o que consome · [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome#^comentario-52959|#52959]]
+- [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome|#7845]] - Batavo, Olympikus, BMG e Flamengo – Você é o que consome · [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome#^comentario-58331|#58331]]
+- [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome|#7845]] - Batavo, Olympikus, BMG e Flamengo – Você é o que consome · [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome#^comentario-61372|#61372]]
+- [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome|#7845]] - Batavo, Olympikus, BMG e Flamengo – Você é o que consome
+- [[Posts/7878 - Universidad do Chile 2×1 Flamengo Que mole|#7878]] - Universidad do Chile 2×1 Flamengo: Que mole · [[Posts/7878 - Universidad do Chile 2×1 Flamengo Que mole#^comentario-52978|#52978]]
+- [[Posts/7885 - Seminário do Prof. Gilmar – Direito Penal para Atletas do Amor|#7885]] - Seminário do Prof. Gilmar – Direito Penal para Atletas do Amor
+- [[Posts/79 - Reformulações|#79]] - Reformulações ?
+- [[Posts/7900 - Kalil “Quem é decidido usa rosa, quem tem dúvida a preto e branca”|#7900]] - Kalil: “Quem é decidido usa rosa, quem tem dúvida a preto e branca”
+- [[Posts/7904 - Ainda bem que não vi|#7904]] - Ainda bem que não vi · [[Posts/7904 - Ainda bem que não vi#^comentario-53239|#53239]]
+- [[Posts/7904 - Ainda bem que não vi|#7904]] - Ainda bem que não vi · [[Posts/7904 - Ainda bem que não vi#^comentario-53247|#53247]]
+- [[Posts/7909 - André Lima destoa de seus colegas|#7909]] - André Lima destoa de seus colegas
+- [[Posts/7925 - Você é o que consome 2|#7925]] - Você é o que consome 2 · [[Posts/7925 - Você é o que consome 2#^comentario-53255|#53255]]
+- [[Posts/794 - Vergonha Nacional|#794]] - Vergonha Nacional
+- [[Posts/7940 - O que falta para o América chegar lá|#7940]] - O que falta para o América chegar lá · [[Posts/7940 - O que falta para o América chegar lá#^comentario-53446|#53446]]
+- [[Posts/7940 - O que falta para o América chegar lá|#7940]] - O que falta para o América chegar lá
+- [[Posts/7949 - Com uma pulga (de nada) atrás da orelha|#7949]] - Com uma pulga (de nada) atrás da orelha · [[Posts/7949 - Com uma pulga (de nada) atrás da orelha#^comentario-53459|#53459]]
+- [[Posts/7949 - Com uma pulga (de nada) atrás da orelha|#7949]] - Com uma pulga (de nada) atrás da orelha · [[Posts/7949 - Com uma pulga (de nada) atrás da orelha#^comentario-53460|#53460]]
+- [[Posts/7949 - Com uma pulga (de nada) atrás da orelha|#7949]] - Com uma pulga (de nada) atrás da orelha · [[Posts/7949 - Com uma pulga (de nada) atrás da orelha#^comentario-53462|#53462]]
+- [[Posts/7949 - Com uma pulga (de nada) atrás da orelha|#7949]] - Com uma pulga (de nada) atrás da orelha · [[Posts/7949 - Com uma pulga (de nada) atrás da orelha#^comentario-53464|#53464]]
+- [[Posts/7950 - Junte os selos e ganhe um ingresso para o show do Paul McCartney em 2010|#7950]] - Junte os selos e ganhe um ingresso para o show do Paul McCartney em 2010
+- [[Posts/7967 - Futebol “cabeça” ou não|#7967]] - Futebol “cabeça” ou não? · [[Posts/7967 - Futebol “cabeça” ou não#^comentario-53628|#53628]]
+- [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã|#7975]] - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã · [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã#^comentario-53682|#53682]]
+- [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã|#7975]] - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã · [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã#^comentario-53685|#53685]]
+- [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã|#7975]] - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã
+- [[Posts/7978 - Como dizem os Saulos…|#7978]] - Como dizem os Saulos… · [[Posts/7978 - Como dizem os Saulos…#^comentario-53717|#53717]]
+- [[Posts/7982 - Armando Nogueira, 1927 – 2010|#7982]] - Armando Nogueira, 1927 – 2010 · [[Posts/7982 - Armando Nogueira, 1927 – 2010#^comentario-53713|#53713]]
+- [[Posts/7982 - Armando Nogueira, 1927 – 2010|#7982]] - Armando Nogueira, 1927 – 2010 · [[Posts/7982 - Armando Nogueira, 1927 – 2010#^comentario-53758|#53758]]
+- [[Posts/7989 - Vasco 3×0 Fluminense com as bençãos de André Lima|#7989]] - Vasco 3×0 Fluminense com as bençãos de André Lima
+- [[Posts/800 - Bagunçou|#800]] - Bagunçou
+- [[Posts/8004 - Action!!!|#8004]] - Action!!! · [[Posts/8004 - Action!!!#^comentario-53835|#53835]]
+- [[Posts/8009 - Pequenas sugestões|#8009]] - Pequenas sugestões · [[Posts/8009 - Pequenas sugestões#^comentario-53821|#53821]]
+- [[Posts/8019 - Quem tem medo da Argentina|#8019]] - Quem tem medo da Argentina? · [[Posts/8019 - Quem tem medo da Argentina#^comentario-59042|#59042]]
+- [[Posts/8019 - Quem tem medo da Argentina|#8019]] - Quem tem medo da Argentina?
+- [[Posts/8021 - Barcelona passeia no empate com Arsenal|#8021]] - Barcelona passeia no empate com Arsenal
+- [[Posts/8036 - As expectativas da Fórmula-1 no início de temporada 2010|#8036]] - As expectativas da Fórmula-1 no início de temporada 2010 · [[Posts/8036 - As expectativas da Fórmula-1 no início de temporada 2010#^comentario-53931|#53931]]
+- [[Posts/8044 - Classificação encaminhada|#8044]] - Classificação encaminhada · [[Posts/8044 - Classificação encaminhada#^comentario-53919|#53919]]
+- [[Posts/8046 - É a hora de Dinamite mostrar que é vascaíno|#8046]] - É a hora de Dinamite mostrar que é vascaíno
+- [[Posts/8062 - Botafogo passa de fase sem dificuldades na Copa do Brasil|#8062]] - Botafogo passa de fase sem dificuldades na Copa do Brasil · [[Posts/8062 - Botafogo passa de fase sem dificuldades na Copa do Brasil#^comentario-53941|#53941]]
+- [[Posts/8062 - Botafogo passa de fase sem dificuldades na Copa do Brasil|#8062]] - Botafogo passa de fase sem dificuldades na Copa do Brasil
+- [[Posts/807 - Para quem viu Corinthians 0×1 Botafogo na Globo|#807]] - Para quem viu Corinthians 0×1 Botafogo na Globo
+- [[Posts/8083 - Semifinais da Taça Rio 2010|#8083]] - Semifinais da Taça Rio 2010 · [[Posts/8083 - Semifinais da Taça Rio 2010#^comentario-54237|#54237]]
+- [[Posts/8083 - Semifinais da Taça Rio 2010|#8083]] - Semifinais da Taça Rio 2010 · [[Posts/8083 - Semifinais da Taça Rio 2010#^comentario-54414|#54414]]
+- [[Posts/8083 - Semifinais da Taça Rio 2010|#8083]] - Semifinais da Taça Rio 2010 · [[Posts/8083 - Semifinais da Taça Rio 2010#^comentario-54418|#54418]]
+- [[Posts/8083 - Semifinais da Taça Rio 2010|#8083]] - Semifinais da Taça Rio 2010
+- [[Posts/8089 - O Mata-Mata Mineiro|#8089]] - O Mata-Mata Mineiro · [[Posts/8089 - O Mata-Mata Mineiro#^comentario-54065|#54065]]
+- [[Posts/8096 - Protótipo do novo parque aquático do Rio de Janeiro|#8096]] - Protótipo do novo parque aquático do Rio de Janeiro · [[Posts/8096 - Protótipo do novo parque aquático do Rio de Janeiro#^comentario-54434|#54434]]
+- [[Posts/8096 - Protótipo do novo parque aquático do Rio de Janeiro|#8096]] - Protótipo do novo parque aquático do Rio de Janeiro
+- [[Posts/81 - Bola pra frente|#81]] - Bola pra frente
+- [[Posts/8104 - Agora foi…|#8104]] - Agora foi… · [[Posts/8104 - Agora foi…#^comentario-54333|#54333]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54334|#54334]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54336|#54336]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54338|#54338]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54344|#54344]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54346|#54346]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54355|#54355]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54357|#54357]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54359|#54359]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54361|#54361]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54362|#54362]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54366|#54366]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54372|#54372]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile · [[Posts/8109 - Que venha Flamengo x Universidad de Chile#^comentario-54385|#54385]]
+- [[Posts/8109 - Que venha Flamengo x Universidad de Chile|#8109]] - Que venha Flamengo x Universidad de Chile
+- [[Posts/8132 - ASSALTO – Flamengo 2 x 1 Vasco|#8132]] - ASSALTO – Flamengo 2 x 1 Vasco · [[Posts/8132 - ASSALTO – Flamengo 2 x 1 Vasco#^comentario-55051|#55051]]
+- [[Posts/8140 - Os Melhores do Campeonato Carioca 2010|#8140]] - Os Melhores do Campeonato Carioca 2010 · [[Posts/8140 - Os Melhores do Campeonato Carioca 2010#^comentario-54736|#54736]]
+- [[Posts/815 - Ato hostil e paternalismo|#815]] - Ato hostil e paternalismo
+- [[Posts/8152 - O Globo está certo O Fluminense acabou|#8152]] - O Globo está certo: O Fluminense acabou · [[Posts/8152 - O Globo está certo O Fluminense acabou#^comentario-54943|#54943]]
+- [[Posts/8152 - O Globo está certo O Fluminense acabou|#8152]] - O Globo está certo: O Fluminense acabou · [[Posts/8152 - O Globo está certo O Fluminense acabou#^comentario-55162|#55162]]
+- [[Posts/8152 - O Globo está certo O Fluminense acabou|#8152]] - O Globo está certo: O Fluminense acabou
+- [[Posts/8162 - Prioridades|#8162]] - Prioridades · [[Posts/8162 - Prioridades#^comentario-54892|#54892]]
+- [[Posts/8162 - Prioridades|#8162]] - Prioridades · [[Posts/8162 - Prioridades#^comentario-54962|#54962]]
+- [[Posts/8179 - O fator Barrichello|#8179]] - O fator Barrichello · [[Posts/8179 - O fator Barrichello#^comentario-55004|#55004]]
+- [[Posts/8180 - Taça de Bolinhas é entregue ao São Paulo|#8180]] - Taça de Bolinhas é entregue ao São Paulo · [[Posts/8180 - Taça de Bolinhas é entregue ao São Paulo#^comentario-54933|#54933]]
+- [[Posts/8180 - Taça de Bolinhas é entregue ao São Paulo|#8180]] - Taça de Bolinhas é entregue ao São Paulo
+- [[Posts/82 - Ainda a Copa do Brasil|#82]] - Ainda a Copa do Brasil
+- [[Posts/8201 - Fábulas Modernas do Futebol O Flamengo e a Taça de Bolinhas|#8201]] - Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas · [[Posts/8201 - Fábulas Modernas do Futebol O Flamengo e a Taça de Bolinhas#^comentario-55064|#55064]]
+- [[Posts/8201 - Fábulas Modernas do Futebol O Flamengo e a Taça de Bolinhas|#8201]] - Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas
+- [[Posts/8212 - “Daquele Jeito”|#8212]] - “Daquele Jeito” · [[Posts/8212 - “Daquele Jeito”#^comentario-55139|#55139]]
+- [[Posts/8224 - Não faz sentido sacarem Cuca do Fluminense|#8224]] - Não faz sentido sacarem Cuca do Fluminense · [[Posts/8224 - Não faz sentido sacarem Cuca do Fluminense#^comentario-55486|#55486]]
+- [[Posts/8224 - Não faz sentido sacarem Cuca do Fluminense|#8224]] - Não faz sentido sacarem Cuca do Fluminense
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55240|#55240]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55241|#55241]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55242|#55242]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55243|#55243]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55244|#55244]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55246|#55246]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55247|#55247]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55248|#55248]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55249|#55249]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa · [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa#^comentario-55250|#55250]]
+- [[Posts/8228 - São Paulo e Botafogo buscam fazer História fora de casa|#8228]] - São Paulo e Botafogo buscam fazer História fora de casa
+- [[Posts/8232 - Botafogo Ultramerecido Campeão Carioca 2010|#8232]] - Botafogo: Ultramerecido Campeão Carioca 2010
+- [[Posts/8237 - Silêncio na Favela|#8237]] - Silêncio na Favela · [[Posts/8237 - Silêncio na Favela#^comentario-55405|#55405]]
+- [[Posts/8237 - Silêncio na Favela|#8237]] - Silêncio na Favela
+- [[Posts/8247 - O Dia Depois de Amanhã|#8247]] - O Dia Depois de Amanhã · [[Posts/8247 - O Dia Depois de Amanhã#^comentario-55456|#55456]]
+- [[Posts/8252 - O show de Button no GP da China|#8252]] - O show de Button no GP da China · [[Posts/8252 - O show de Button no GP da China#^comentario-55607|#55607]]
+- [[Posts/8254 - Ronaldinho só não estará na Copa se não quiser|#8254]] - Ronaldinho só não estará na Copa se não quiser
+- [[Posts/826 - Coelho para a Seleção da CBF|#826]] - Coelho para a Seleção da CBF
+- [[Posts/8273 - Conca não deixa dúvidas para Maradona|#8273]] - Conca não deixa dúvidas para Maradona
+- [[Posts/828 - Manjada na bandeirinha|#828]] - Manjada na bandeirinha
+- [[Posts/8287 - A Libertadores que interessa|#8287]] - A Libertadores que interessa · [[Posts/8287 - A Libertadores que interessa#^comentario-55666|#55666]]
+- [[Posts/8288 - Andrade demitido evidencia estragos no Flamengo|#8288]] - Andrade demitido evidencia estragos no Flamengo · [[Posts/8288 - Andrade demitido evidencia estragos no Flamengo#^comentario-76685|#76685]]
+- [[Posts/8288 - Andrade demitido evidencia estragos no Flamengo|#8288]] - Andrade demitido evidencia estragos no Flamengo
+- [[Posts/8308 - Santo André e Santos enterraram os ‘coveiros de véspera’|#8308]] - Santo André e Santos enterraram os ‘coveiros de véspera’ · [[Posts/8308 - Santo André e Santos enterraram os ‘coveiros de véspera’#^comentario-55877|#55877]]
+- [[Posts/8308 - Santo André e Santos enterraram os ‘coveiros de véspera’|#8308]] - Santo André e Santos enterraram os ‘coveiros de véspera’
+- [[Posts/8321 - Ganso, Neymar e André com Luxemburgo|#8321]] - Ganso, Neymar e André com Luxemburgo
+- [[Posts/8345 - Cearense, Torcidas, Brasil e afins…|#8345]] - Cearense, Torcidas, Brasil e afins… · [[Posts/8345 - Cearense, Torcidas, Brasil e afins…#^comentario-55909|#55909]]
+- [[Posts/8345 - Cearense, Torcidas, Brasil e afins…|#8345]] - Cearense, Torcidas, Brasil e afins… · [[Posts/8345 - Cearense, Torcidas, Brasil e afins…#^comentario-55911|#55911]]
+- [[Posts/8345 - Cearense, Torcidas, Brasil e afins…|#8345]] - Cearense, Torcidas, Brasil e afins… · [[Posts/8345 - Cearense, Torcidas, Brasil e afins…#^comentario-55912|#55912]]
+- [[Posts/8359 - Barcelona 1×0 Internazionale joguinho vagabundo|#8359]] - Barcelona 1×0 Internazionale: joguinho vagabundo
+- [[Posts/8374 - Vantagem mínima para o Flamengo|#8374]] - Vantagem mínima para o Flamengo · [[Posts/8374 - Vantagem mínima para o Flamengo#^comentario-56076|#56076]]
+- [[Posts/8374 - Vantagem mínima para o Flamengo|#8374]] - Vantagem mínima para o Flamengo · [[Posts/8374 - Vantagem mínima para o Flamengo#^comentario-56082|#56082]]
+- [[Posts/8384 - Enfim, chega ao fim o Campeonato Carioca|#8384]] - Enfim, chega ao fim o Campeonato Carioca · [[Posts/8384 - Enfim, chega ao fim o Campeonato Carioca#^comentario-56120|#56120]]
+- [[Posts/839 - Três grupos distintos|#839]] - Três grupos distintos
+- [[Posts/8392 - Borges é tudo que André Lima jamais será|#8392]] - Borges é tudo que André Lima jamais será
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-56162|#56162]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-56545|#56545]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-56712|#56712]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-57240|#57240]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-57311|#57311]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-57982|#57982]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-57995|#57995]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-64054|#64054]]
+- [[Posts/8399 - Cartola FC 2010|#8399]] - Cartola FC 2010 · [[Posts/8399 - Cartola FC 2010#^comentario-66541|#66541]]
+- [[Posts/84 - Alguém se anima em ir ao estádio|#84]] - Alguém se anima em ir ao estádio ?
+- [[Posts/8405 - Santos Campeão Paulista 2010|#8405]] - Santos Campeão Paulista 2010
+- [[Posts/8416 - Dunga não será coerente|#8416]] - Dunga não será coerente · [[Posts/8416 - Dunga não será coerente#^comentario-56565|#56565]]
+- [[Posts/8416 - Dunga não será coerente|#8416]] - Dunga não será coerente · [[Posts/8416 - Dunga não será coerente#^comentario-56642|#56642]]
+- [[Posts/8416 - Dunga não será coerente|#8416]] - Dunga não será coerente
+- [[Posts/842 - Se a entrevista de Dualib fosse passada na integra…|#842]] - Se a entrevista de Dualib fosse passada na integra…
+- [[Posts/8424 - Jogai por nós|#8424]] - Jogai por nós · [[Posts/8424 - Jogai por nós#^comentario-56285|#56285]]
+- [[Posts/8430 - Cinco sentimentos para Vasco 3×1 Vitória|#8430]] - Cinco sentimentos para Vasco 3×1 Vitória · [[Posts/8430 - Cinco sentimentos para Vasco 3×1 Vitória#^comentario-56400|#56400]]
+- [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense|#8436]] - Grêmio abreviou o sofrimento do Fluminense · [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense#^comentario-56436|#56436]]
+- [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense|#8436]] - Grêmio abreviou o sofrimento do Fluminense · [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense#^comentario-56516|#56516]]
+- [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense|#8436]] - Grêmio abreviou o sofrimento do Fluminense
+- [[Posts/8437 - Em um cinema perto do Pacaembu|#8437]] - Em um cinema perto do Pacaembu
+- [[Posts/845 - Provando do mesmo remédio|#845]] - Provando do mesmo remédio
+- [[Posts/8454 - Que derrota!|#8454]] - Que derrota! · [[Posts/8454 - Que derrota!#^comentario-56435|#56435]]
+- [[Posts/8454 - Que derrota!|#8454]] - Que derrota! · [[Posts/8454 - Que derrota!#^comentario-56443|#56443]]
+- [[Posts/846 - Brasil x EUA – Futebol Feminino|#846]] - Brasil x EUA – Futebol Feminino
+- [[Posts/8463 - Campanha “Vista Gaburah como um Loco”|#8463]] - Campanha “Vista Gaburah como um Loco”
+- [[Posts/8464 - Mudança na regra da prorrogação na NFL|#8464]] - Mudança na regra da prorrogação na NFL · [[Posts/8464 - Mudança na regra da prorrogação na NFL#^comentario-56654|#56654]]
+- [[Posts/8476 - Cariocas estream sem vitória no Brasileirão|#8476]] - Cariocas estream sem vitória no Brasileirão
+- [[Posts/848 - Eu me rendo. É impossível convocar a Seleção Brasileira|#848]] - Eu me rendo. É impossível convocar a Seleção Brasileira
+- [[Posts/8484 - Webber fatura o GP da Espanha|#8484]] - Webber fatura o GP da Espanha · [[Posts/8484 - Webber fatura o GP da Espanha#^comentario-56847|#56847]]
+- [[Posts/8485 - O gol do Ceará e os 3 chororôs tricolores|#8485]] - O gol do Ceará e os 3 chororôs tricolores
+- [[Posts/8490 - Início azul no TEIXEIRÃO 2010|#8490]] - Início azul no TEIXEIRÃO/2010 · [[Posts/8490 - Início azul no TEIXEIRÃO 2010#^comentario-56677|#56677]]
+- [[Posts/8490 - Início azul no TEIXEIRÃO 2010|#8490]] - Início azul no TEIXEIRÃO/2010 · [[Posts/8490 - Início azul no TEIXEIRÃO 2010#^comentario-56697|#56697]]
+- [[Posts/8490 - Início azul no TEIXEIRÃO 2010|#8490]] - Início azul no TEIXEIRÃO/2010 · [[Posts/8490 - Início azul no TEIXEIRÃO 2010#^comentario-56728|#56728]]
+- [[Posts/8495 - Dunga convoca Grafite e mais 22|#8495]] - Dunga convoca Grafite e mais 22 · [[Posts/8495 - Dunga convoca Grafite e mais 22#^comentario-56741|#56741]]
+- [[Posts/8495 - Dunga convoca Grafite e mais 22|#8495]] - Dunga convoca Grafite e mais 22
+- [[Posts/85 - 5º colocado|#85]] - 5º colocado
+- [[Posts/850 - Botafogo conseguiu ser mais vergonhoso que o Náutico|#850]] - Botafogo conseguiu ser mais vergonhoso que o Náutico
+- [[Posts/8503 - Imperador fora da Copa|#8503]] - Imperador fora da Copa · [[Posts/8503 - Imperador fora da Copa#^comentario-56776|#56776]]
+- [[Posts/8503 - Imperador fora da Copa|#8503]] - Imperador fora da Copa · [[Posts/8503 - Imperador fora da Copa#^comentario-56786|#56786]]
+- [[Posts/8503 - Imperador fora da Copa|#8503]] - Imperador fora da Copa · [[Posts/8503 - Imperador fora da Copa#^comentario-56812|#56812]]
+- [[Posts/8513 - Highlights da convocação|#8513]] - Highlights da convocação
+- [[Posts/853 - O Blá blá Gol escala sua Seleção|#853]] - O Blá blá Gol escala sua Seleção
+- [[Posts/857 - Marta não é Pelé|#857]] - Marta não é Pelé
+- [[Posts/8578 - E que derrota…|#8578]] - E que derrota… · [[Posts/8578 - E que derrota…#^comentario-57068|#57068]]
+- [[Posts/8581 - Porco levantamento de participações dos convocados em clubes brasileiros|#8581]] - Porco levantamento de participações dos convocados em clubes brasileiros
+- [[Posts/8585 - Bastidores da derrota|#8585]] - Bastidores da derrota · [[Posts/8585 - Bastidores da derrota#^comentario-57108|#57108]]
+- [[Posts/859 - A tranquilidade permite|#859]] - A tranquilidade permite
+- [[Posts/86 - São Paulo x Internacional|#86]] - São Paulo x Internacional
+- [[Posts/861 - Trailer – Tropa de Sofredores – Breve em um camelô do Grupo General Severiano Ribeiro|#861]] - Trailer – Tropa de Sofredores – Breve em um camelô do Grupo General Severiano Ribeiro
+- [[Posts/8616 - Corinthians lidera com 100% (! )|#8616]] - Corinthians lidera com 100% (!?) · [[Posts/8616 - Corinthians lidera com 100% (! )#^comentario-57326|#57326]]
+- [[Posts/8616 - Corinthians lidera com 100% (! )|#8616]] - Corinthians lidera com 100% (!?)
+- [[Posts/8621 - O Pior Jogo da História|#8621]] - O Pior Jogo da História · [[Posts/8621 - O Pior Jogo da História#^comentario-57275|#57275]]
+- [[Posts/8652 - Webber deu as cartas nas ruas do Principado|#8652]] - Webber deu as cartas nas ruas do Principado · [[Posts/8652 - Webber deu as cartas nas ruas do Principado#^comentario-57376|#57376]]
+- [[Posts/8654 - O Fim da Paradinha|#8654]] - O Fim da Paradinha · [[Posts/8654 - O Fim da Paradinha#^comentario-57372|#57372]]
+- [[Posts/8654 - O Fim da Paradinha|#8654]] - O Fim da Paradinha
+- [[Posts/8694 - O avassalador Santos é o pesadelo de Dunga|#8694]] - O avassalador Santos é o pesadelo de Dunga · [[Posts/8694 - O avassalador Santos é o pesadelo de Dunga#^comentario-57424|#57424]]
+- [[Posts/8694 - O avassalador Santos é o pesadelo de Dunga|#8694]] - O avassalador Santos é o pesadelo de Dunga
+- [[Posts/87 - Esqueçam|#87]] - Esqueçam
+- [[Posts/8705 - Não costuma dar certo…|#8705]] - Não costuma dar certo… · [[Posts/8705 - Não costuma dar certo…#^comentario-57462|#57462]]
+- [[Posts/8705 - Não costuma dar certo…|#8705]] - Não costuma dar certo… · [[Posts/8705 - Não costuma dar certo…#^comentario-57464|#57464]]
+- [[Posts/8705 - Não costuma dar certo…|#8705]] - Não costuma dar certo… · [[Posts/8705 - Não costuma dar certo…#^comentario-57485|#57485]]
+- [[Posts/8705 - Não costuma dar certo…|#8705]] - Não costuma dar certo… · [[Posts/8705 - Não costuma dar certo…#^comentario-57513|#57513]]
+- [[Posts/8714 - Verón assistirá Andrézinho da África do Sul|#8714]] - Verón assistirá Andrézinho da África do Sul
+- [[Posts/8735 - Que venha Roland Garros|#8735]] - Que venha Roland Garros · [[Posts/8735 - Que venha Roland Garros#^comentario-57610|#57610]]
+- [[Posts/8740 - Palmeiras quer técnico para que|#8740]] - Palmeiras quer técnico para que? · [[Posts/8740 - Palmeiras quer técnico para que#^comentario-57622|#57622]]
+- [[Posts/8740 - Palmeiras quer técnico para que|#8740]] - Palmeiras quer técnico para que?
+- [[Posts/8751 - O erro de Gaciba|#8751]] - O erro de Gaciba
+- [[Posts/8765 - O tempo é o maior carrasco|#8765]] - O tempo é o maior carrasco · [[Posts/8765 - O tempo é o maior carrasco#^comentario-57663|#57663]]
+- [[Posts/8765 - O tempo é o maior carrasco|#8765]] - O tempo é o maior carrasco · [[Posts/8765 - O tempo é o maior carrasco#^comentario-63923|#63923]]
+- [[Posts/8775 - Aposentadoria para ex-campeões|#8775]] - Aposentadoria para ex-campeões · [[Posts/8775 - Aposentadoria para ex-campeões#^comentario-57675|#57675]]
+- [[Posts/8780 - Baderna|#8780]] - Baderna · [[Posts/8780 - Baderna#^comentario-57704|#57704]]
+- [[Posts/8780 - Baderna|#8780]] - Baderna · [[Posts/8780 - Baderna#^comentario-57776|#57776]]
+- [[Posts/8780 - Baderna|#8780]] - Baderna · [[Posts/8780 - Baderna#^comentario-57816|#57816]]
+- [[Posts/8780 - Baderna|#8780]] - Baderna · [[Posts/8780 - Baderna#^comentario-57817|#57817]]
+- [[Posts/8780 - Baderna|#8780]] - Baderna · [[Posts/8780 - Baderna#^comentario-57828|#57828]]
+- [[Posts/8791 - O problema do futebol mineiro|#8791]] - O problema do futebol mineiro · [[Posts/8791 - O problema do futebol mineiro#^comentario-57753|#57753]]
+- [[Posts/8797 - Dunga uma aposta extremamente válida|#8797]] - Dunga: uma aposta extremamente válida · [[Posts/8797 - Dunga uma aposta extremamente válida#^comentario-57772|#57772]]
+- [[Posts/88 - Jogo parelho, identificação, alternância e mentiras|#88]] - Jogo parelho, identificação, alternância e mentiras
+- [[Posts/880 - Ingressos à venda para o Fla x Flu|#880]] - Ingressos à venda para o Fla x Flu · [[Posts/880 - Ingressos à venda para o Fla x Flu#^comentario-5471|#5471]]
+- [[Posts/880 - Ingressos à venda para o Fla x Flu|#880]] - Ingressos à venda para o Fla x Flu · [[Posts/880 - Ingressos à venda para o Fla x Flu#^comentario-5473|#5473]]
+- [[Posts/880 - Ingressos à venda para o Fla x Flu|#880]] - Ingressos à venda para o Fla x Flu · [[Posts/880 - Ingressos à venda para o Fla x Flu#^comentario-5478|#5478]]
+- [[Posts/8819 - Vasco vira em São Januário com 10 em campo|#8819]] - Vasco vira em São Januário com 10 em campo · [[Posts/8819 - Vasco vira em São Januário com 10 em campo#^comentario-57941|#57941]]
+- [[Posts/8819 - Vasco vira em São Januário com 10 em campo|#8819]] - Vasco vira em São Januário com 10 em campo
+- [[Posts/8825 - Grandão não paga|#8825]] - Grandão não paga · [[Posts/8825 - Grandão não paga#^comentario-57892|#57892]]
+- [[Posts/883 - Os jogos da 30ª rodada|#883]] - Os jogos da 30ª rodada · [[Posts/883 - Os jogos da 30ª rodada#^comentario-5525|#5525]]
+- [[Posts/883 - Os jogos da 30ª rodada|#883]] - Os jogos da 30ª rodada · [[Posts/883 - Os jogos da 30ª rodada#^comentario-5532|#5532]]
+- [[Posts/883 - Os jogos da 30ª rodada|#883]] - Os jogos da 30ª rodada · [[Posts/883 - Os jogos da 30ª rodada#^comentario-5536|#5536]]
+- [[Posts/883 - Os jogos da 30ª rodada|#883]] - Os jogos da 30ª rodada · [[Posts/883 - Os jogos da 30ª rodada#^comentario-5544|#5544]]
+- [[Posts/883 - Os jogos da 30ª rodada|#883]] - Os jogos da 30ª rodada · [[Posts/883 - Os jogos da 30ª rodada#^comentario-5551|#5551]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5628|#5628]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5632|#5632]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5656|#5656]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5669|#5669]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5692|#5692]]
+- [[Posts/884 - Só acaba no fim|#884]] - Só acaba no fim · [[Posts/884 - Só acaba no fim#^comentario-5702|#5702]]
+- [[Posts/8842 - Vem Bolões por aí|#8842]] - Vem Bolões por aí
+- [[Posts/8846 - Blá blá Gol no Clube FIFA|#8846]] - Blá blá Gol no Clube FIFA · [[Posts/8846 - Blá blá Gol no Clube FIFA#^comentario-60899|#60899]]
+- [[Posts/8846 - Blá blá Gol no Clube FIFA|#8846]] - Blá blá Gol no Clube FIFA
+- [[Posts/885 - No pior, Flu foi melhor|#885]] - No pior, Flu foi melhor · [[Posts/885 - No pior, Flu foi melhor#^comentario-5608|#5608]]
+- [[Posts/8859 - Fluminense jogou sozinho no Mineirão|#8859]] - Fluminense jogou sozinho no Mineirão · [[Posts/8859 - Fluminense jogou sozinho no Mineirão#^comentario-58018|#58018]]
+- [[Posts/8859 - Fluminense jogou sozinho no Mineirão|#8859]] - Fluminense jogou sozinho no Mineirão · [[Posts/8859 - Fluminense jogou sozinho no Mineirão#^comentario-58023|#58023]]
+- [[Posts/8859 - Fluminense jogou sozinho no Mineirão|#8859]] - Fluminense jogou sozinho no Mineirão
+- [[Posts/8869 - Fluminense Full Time|#8869]] - Fluminense Full Time
+- [[Posts/8887 - A Copa não começou|#8887]] - A Copa não começou
+- [[Posts/8889 - Lições turcas|#8889]] - Lições turcas · [[Posts/8889 - Lições turcas#^comentario-58210|#58210]]
+- [[Posts/8889 - Lições turcas|#8889]] - Lições turcas · [[Posts/8889 - Lições turcas#^comentario-58213|#58213]]
+- [[Posts/8890 - Com que roupa eu vou|#8890]] - Com que roupa eu vou?
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5589|#5589]]
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5594|#5594]]
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5601|#5601]]
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5605|#5605]]
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5630|#5630]]
+- [[Posts/890 - Ingressos Brasil x Equador|#890]] - Ingressos: Brasil x Equador · [[Posts/890 - Ingressos Brasil x Equador#^comentario-5639|#5639]]
+- [[Posts/891 - Cavalo paraguaio|#891]] - Cavalo paraguaio · [[Posts/891 - Cavalo paraguaio#^comentario-5663|#5663]]
+- [[Posts/891 - Cavalo paraguaio|#891]] - Cavalo paraguaio · [[Posts/891 - Cavalo paraguaio#^comentario-5668|#5668]]
+- [[Posts/891 - Cavalo paraguaio|#891]] - Cavalo paraguaio · [[Posts/891 - Cavalo paraguaio#^comentario-5671|#5671]]
+- [[Posts/891 - Cavalo paraguaio|#891]] - Cavalo paraguaio
+- [[Posts/8913 - Flamengo respira ares de Zico|#8913]] - Flamengo respira ares de Zico · [[Posts/8913 - Flamengo respira ares de Zico#^comentario-58251|#58251]]
+- [[Posts/8913 - Flamengo respira ares de Zico|#8913]] - Flamengo respira ares de Zico · [[Posts/8913 - Flamengo respira ares de Zico#^comentario-58315|#58315]]
+- [[Posts/8913 - Flamengo respira ares de Zico|#8913]] - Flamengo respira ares de Zico · [[Posts/8913 - Flamengo respira ares de Zico#^comentario-58336|#58336]]
+- [[Posts/8913 - Flamengo respira ares de Zico|#8913]] - Flamengo respira ares de Zico
+- [[Posts/892 - Doping mais uma página triste do esporte|#892]] - Doping: mais uma página triste do esporte · [[Posts/892 - Doping mais uma página triste do esporte#^comentario-5701|#5701]]
+- [[Posts/892 - Doping mais uma página triste do esporte|#892]] - Doping: mais uma página triste do esporte · [[Posts/892 - Doping mais uma página triste do esporte#^comentario-5711|#5711]]
+- [[Posts/892 - Doping mais uma página triste do esporte|#892]] - Doping: mais uma página triste do esporte · [[Posts/892 - Doping mais uma página triste do esporte#^comentario-5716|#5716]]
+- [[Posts/893 - Ridículo, ridículo|#893]] - Ridículo, ridículo · [[Posts/893 - Ridículo, ridículo#^comentario-5735|#5735]]
+- [[Posts/893 - Ridículo, ridículo|#893]] - Ridículo, ridículo · [[Posts/893 - Ridículo, ridículo#^comentario-5742|#5742]]
+- [[Posts/893 - Ridículo, ridículo|#893]] - Ridículo, ridículo · [[Posts/893 - Ridículo, ridículo#^comentario-5766|#5766]]
+- [[Posts/8939 - Vasco 0 x 1 Guarani|#8939]] - Vasco 0 x 1 Guarani · [[Posts/8939 - Vasco 0 x 1 Guarani#^comentario-58383|#58383]]
+- [[Posts/8939 - Vasco 0 x 1 Guarani|#8939]] - Vasco 0 x 1 Guarani · [[Posts/8939 - Vasco 0 x 1 Guarani#^comentario-58384|#58384]]
+- [[Posts/897 - Isso existe!!!!!|#897]] - Isso existe!!!!! · [[Posts/897 - Isso existe!!!!!#^comentario-5760|#5760]]
+- [[Posts/898 - 1986, as Williams e o francês|#898]] - 1986, as Williams e o francês · [[Posts/898 - 1986, as Williams e o francês#^comentario-5775|#5775]]
+- [[Posts/898 - 1986, as Williams e o francês|#898]] - 1986, as Williams e o francês · [[Posts/898 - 1986, as Williams e o francês#^comentario-5782|#5782]]
+- [[Posts/898 - 1986, as Williams e o francês|#898]] - 1986, as Williams e o francês · [[Posts/898 - 1986, as Williams e o francês#^comentario-5787|#5787]]
+- [[Posts/898 - 1986, as Williams e o francês|#898]] - 1986, as Williams e o francês · [[Posts/898 - 1986, as Williams e o francês#^comentario-5820|#5820]]
+- [[Posts/898 - 1986, as Williams e o francês|#898]] - 1986, as Williams e o francês · [[Posts/898 - 1986, as Williams e o francês#^comentario-5867|#5867]]
+- [[Posts/8997 - Bolão Blá blá Gol da Copa 2010|#8997]] - Bolão Blá blá Gol da Copa 2010
+- [[Posts/9 - Maneiras de se ver um jogo|#9]] - Maneiras de se ver um jogo
+- [[Posts/90 - Duas notícias – A boa e a ruim|#90]] - Duas notícias – A boa e a ruim
+- [[Posts/9012 - O drama pré-Copa|#9012]] - O drama pré-Copa · [[Posts/9012 - O drama pré-Copa#^comentario-58484|#58484]]
+- [[Posts/9021 - O Fluminense antes da Copa|#9021]] - O Fluminense antes da Copa
+- [[Posts/9024 - A eterna sina alvinegra|#9024]] - A eterna sina alvinegra · [[Posts/9024 - A eterna sina alvinegra#^comentario-58535|#58535]]
+- [[Posts/9041 - A Final do Capixabão 2010|#9041]] - A Final do Capixabão 2010 · [[Posts/9041 - A Final do Capixabão 2010#^comentario-58645|#58645]]
+- [[Posts/9041 - A Final do Capixabão 2010|#9041]] - A Final do Capixabão 2010
+- [[Posts/9048 - Exercício de lógica pré-Copa para o Botafogo|#9048]] - Exercício de lógica pré-Copa para o Botafogo · [[Posts/9048 - Exercício de lógica pré-Copa para o Botafogo#^comentario-58627|#58627]]
+- [[Posts/907 - Brasil x Equador|#907]] - Brasil x Equador · [[Posts/907 - Brasil x Equador#^comentario-5805|#5805]]
+- [[Posts/907 - Brasil x Equador|#907]] - Brasil x Equador · [[Posts/907 - Brasil x Equador#^comentario-5810|#5810]]
+- [[Posts/907 - Brasil x Equador|#907]] - Brasil x Equador · [[Posts/907 - Brasil x Equador#^comentario-5811|#5811]]
+- [[Posts/907 - Brasil x Equador|#907]] - Brasil x Equador · [[Posts/907 - Brasil x Equador#^comentario-5819|#5819]]
+- [[Posts/9077 - Desespero|#9077]] - Desespero · [[Posts/9077 - Desespero#^comentario-58766|#58766]]
+- [[Posts/9083 - Globalização FC|#9083]] - Globalização FC
+- [[Posts/9098 - Crise na seleção|#9098]] - Crise na seleção · [[Posts/9098 - Crise na seleção#^comentario-58871|#58871]]
+- [[Posts/91 - Filho feio não tem pai|#91]] - Filho feio não tem pai
+- [[Posts/9106 - It´s Time for Africa…waka waka|#9106]] - It´s Time for Africa…waka waka · [[Posts/9106 - It´s Time for Africa…waka waka#^comentario-58931|#58931]]
+- [[Posts/9106 - It´s Time for Africa…waka waka|#9106]] - It´s Time for Africa…waka waka · [[Posts/9106 - It´s Time for Africa…waka waka#^comentario-58998|#58998]]
+- [[Posts/9106 - It´s Time for Africa…waka waka|#9106]] - It´s Time for Africa…waka waka · [[Posts/9106 - It´s Time for Africa…waka waka#^comentario-59022|#59022]]
+- [[Posts/9106 - It´s Time for Africa…waka waka|#9106]] - It´s Time for Africa…waka waka · [[Posts/9106 - It´s Time for Africa…waka waka#^comentario-89329|#89329]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo · [[Posts/912 - Porque não consegui ver Fluminense e São Paulo#^comentario-5808|#5808]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo · [[Posts/912 - Porque não consegui ver Fluminense e São Paulo#^comentario-5809|#5809]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo · [[Posts/912 - Porque não consegui ver Fluminense e São Paulo#^comentario-5873|#5873]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo · [[Posts/912 - Porque não consegui ver Fluminense e São Paulo#^comentario-5880|#5880]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo · [[Posts/912 - Porque não consegui ver Fluminense e São Paulo#^comentario-5883|#5883]]
+- [[Posts/912 - Porque não consegui ver Fluminense e São Paulo|#912]] - Porque não consegui ver Fluminense e São Paulo
+- [[Posts/9136 - Copa do Mundo dia 3|#9136]] - Copa do Mundo dia 3 · [[Posts/9136 - Copa do Mundo dia 3#^comentario-59111|#59111]]
+- [[Posts/914 - Novas chuteiras do Botafogo|#914]] - Novas chuteiras do Botafogo · [[Posts/914 - Novas chuteiras do Botafogo#^comentario-5898|#5898]]
+- [[Posts/914 - Novas chuteiras do Botafogo|#914]] - Novas chuteiras do Botafogo
+- [[Posts/9165 - Copa do Mundo dia 4|#9165]] - Copa do Mundo dia 4
+- [[Posts/9176 - A Copa no trabalho|#9176]] - A Copa no trabalho · [[Posts/9176 - A Copa no trabalho#^comentario-59183|#59183]]
+- [[Posts/919 - Fla 2×1 Vasco|#919]] - Fla 2×1 Vasco · [[Posts/919 - Fla 2×1 Vasco#^comentario-5974|#5974]]
+- [[Posts/919 - Fla 2×1 Vasco|#919]] - Fla 2×1 Vasco · [[Posts/919 - Fla 2×1 Vasco#^comentario-5980|#5980]]
+- [[Posts/919 - Fla 2×1 Vasco|#919]] - Fla 2×1 Vasco · [[Posts/919 - Fla 2×1 Vasco#^comentario-6013|#6013]]
+- [[Posts/919 - Fla 2×1 Vasco|#919]] - Fla 2×1 Vasco · [[Posts/919 - Fla 2×1 Vasco#^comentario-6019|#6019]]
+- [[Posts/9192 - A hora da onça beber água|#9192]] - A hora da onça beber água · [[Posts/9192 - A hora da onça beber água#^comentario-59239|#59239]]
+- [[Posts/9192 - A hora da onça beber água|#9192]] - A hora da onça beber água
+- [[Posts/9194 - Copa do Mundo dia 5|#9194]] - Copa do Mundo dia 5 · [[Posts/9194 - Copa do Mundo dia 5#^comentario-59194|#59194]]
+- [[Posts/9194 - Copa do Mundo dia 5|#9194]] - Copa do Mundo dia 5 · [[Posts/9194 - Copa do Mundo dia 5#^comentario-59207|#59207]]
+- [[Posts/9194 - Copa do Mundo dia 5|#9194]] - Copa do Mundo dia 5 · [[Posts/9194 - Copa do Mundo dia 5#^comentario-59290|#59290]]
+- [[Posts/92 - Agora Vai|#92]] - Agora Vai
+- [[Posts/9209 - Copa do Mundo dia 6|#9209]] - Copa do Mundo dia 6 · [[Posts/9209 - Copa do Mundo dia 6#^comentario-59310|#59310]]
+- [[Posts/922 - Cheios de ante-véspera|#922]] - Cheios de ante-véspera · [[Posts/922 - Cheios de ante-véspera#^comentario-6059|#6059]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6180|#6180]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6190|#6190]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6191|#6191]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6202|#6202]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6207|#6207]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6213|#6213]]
+- [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO|#923]] - ESPECIAL: GP DO BRASIL, KIMI CAMPEÃO · [[Posts/923 - ESPECIAL GP DO BRASIL, KIMI CAMPEÃO#^comentario-6303|#6303]]
+- [[Posts/9239 - Copa do Mundo dia 7|#9239]] - Copa do Mundo dia 7 · [[Posts/9239 - Copa do Mundo dia 7#^comentario-59381|#59381]]
+- [[Posts/9239 - Copa do Mundo dia 7|#9239]] - Copa do Mundo dia 7 · [[Posts/9239 - Copa do Mundo dia 7#^comentario-59455|#59455]]
+- [[Posts/9239 - Copa do Mundo dia 7|#9239]] - Copa do Mundo dia 7 · [[Posts/9239 - Copa do Mundo dia 7#^comentario-59549|#59549]]
+- [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão|#9258]] - Final da NBA 09/10 – Lakers Bicampeão · [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão#^comentario-59547|#59547]]
+- [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão|#9258]] - Final da NBA 09/10 – Lakers Bicampeão · [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão#^comentario-59563|#59563]]
+- [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão|#9258]] - Final da NBA 09/10 – Lakers Bicampeão · [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão#^comentario-59566|#59566]]
+- [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão|#9258]] - Final da NBA 09/10 – Lakers Bicampeão · [[Posts/9258 - Final da NBA 09 10 – Lakers Bicampeão#^comentario-59573|#59573]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59575|#59575]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59577|#59577]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59578|#59578]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59580|#59580]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59584|#59584]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59585|#59585]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59590|#59590]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59599|#59599]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59608|#59608]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59611|#59611]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59612|#59612]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59616|#59616]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59634|#59634]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59641|#59641]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59654|#59654]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59657|#59657]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59658|#59658]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59661|#59661]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59668|#59668]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59671|#59671]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59672|#59672]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59674|#59674]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59676|#59676]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59679|#59679]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59681|#59681]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59687|#59687]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59707|#59707]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59716|#59716]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59717|#59717]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8 · [[Posts/9263 - Copa do Mundo dia 8#^comentario-59743|#59743]]
+- [[Posts/9263 - Copa do Mundo dia 8|#9263]] - Copa do Mundo dia 8
+- [[Posts/927 - Aos farrapos|#927]] - Aos farrapos · [[Posts/927 - Aos farrapos#^comentario-6184|#6184]]
+- [[Posts/927 - Aos farrapos|#927]] - Aos farrapos · [[Posts/927 - Aos farrapos#^comentario-6186|#6186]]
+- [[Posts/927 - Aos farrapos|#927]] - Aos farrapos · [[Posts/927 - Aos farrapos#^comentario-6200|#6200]]
+- [[Posts/928 - Pena que vai tarde demais|#928]] - Pena que vai tarde demais. · [[Posts/928 - Pena que vai tarde demais#^comentario-6306|#6306]]
+- [[Posts/928 - Pena que vai tarde demais|#928]] - Pena que vai tarde demais. · [[Posts/928 - Pena que vai tarde demais#^comentario-6513|#6513]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59779|#59779]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59780|#59780]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59781|#59781]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59782|#59782]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59783|#59783]]
+- [[Posts/9283 - Copa do Mundo dia 9|#9283]] - Copa do Mundo dia 9 · [[Posts/9283 - Copa do Mundo dia 9#^comentario-59829|#59829]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59841|#59841]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59844|#59844]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59846|#59846]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59847|#59847]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59848|#59848]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59851|#59851]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59852|#59852]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59853|#59853]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59854|#59854]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59855|#59855]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59856|#59856]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59865|#59865]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59867|#59867]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59871|#59871]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59881|#59881]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59885|#59885]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59889|#59889]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59891|#59891]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59892|#59892]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59893|#59893]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59895|#59895]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59897|#59897]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59900|#59900]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59902|#59902]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59905|#59905]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59907|#59907]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59908|#59908]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59910|#59910]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59912|#59912]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59915|#59915]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59918|#59918]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59919|#59919]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59920|#59920]]
+- [[Posts/9291 - Copa do mundo dia 10|#9291]] - Copa do mundo dia 10 · [[Posts/9291 - Copa do mundo dia 10#^comentario-59995|#59995]]
+- [[Posts/93 - 3 primeiros do turno e Cérebro fecha o ciclo|#93]] - 3\*\* primeiros do turno e Cérebro fecha o ciclo
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60037|#60037]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60043|#60043]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60152|#60152]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60167|#60167]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60170|#60170]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60407|#60407]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim · [[Posts/9302 - Brasil 3×1 Costa do Marfim#^comentario-60408|#60408]]
+- [[Posts/9302 - Brasil 3×1 Costa do Marfim|#9302]] - Brasil 3×1 Costa do Marfim
+- [[Posts/9312 - Copa do Mundo dia 11|#9312]] - Copa do Mundo dia 11 · [[Posts/9312 - Copa do Mundo dia 11#^comentario-60028|#60028]]
+- [[Posts/9312 - Copa do Mundo dia 11|#9312]] - Copa do Mundo dia 11 · [[Posts/9312 - Copa do Mundo dia 11#^comentario-60054|#60054]]
+- [[Posts/9312 - Copa do Mundo dia 11|#9312]] - Copa do Mundo dia 11 · [[Posts/9312 - Copa do Mundo dia 11#^comentario-60133|#60133]]
+- [[Posts/9312 - Copa do Mundo dia 11|#9312]] - Copa do Mundo dia 11 · [[Posts/9312 - Copa do Mundo dia 11#^comentario-60151|#60151]]
+- [[Posts/9312 - Copa do Mundo dia 11|#9312]] - Copa do Mundo dia 11 · [[Posts/9312 - Copa do Mundo dia 11#^comentario-60154|#60154]]
+- [[Posts/9314 - Churrasco + cerveja + futebol|#9314]] - Churrasco + cerveja + futebol
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60196|#60196]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60201|#60201]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60224|#60224]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60241|#60241]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60254|#60254]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60268|#60268]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60269|#60269]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60277|#60277]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60290|#60290]]
+- [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade|#9358]] - Copa do Mundo dia 12 – A Hora da Verdade · [[Posts/9358 - Copa do Mundo dia 12 – A Hora da Verdade#^comentario-60305|#60305]]
+- [[Posts/9368 - ’1284′ – O último gol do Pelé – Brasil x Argentina|#9368]] - ’1284′ – O último gol do Pelé – Brasil x Argentina · [[Posts/9368 - ’1284′ – O último gol do Pelé – Brasil x Argentina#^comentario-60312|#60312]]
+- [[Posts/937 - Nike compra a Umbro|#937]] - Nike compra a Umbro · [[Posts/937 - Nike compra a Umbro#^comentario-6518|#6518]]
+- [[Posts/937 - Nike compra a Umbro|#937]] - Nike compra a Umbro · [[Posts/937 - Nike compra a Umbro#^comentario-6526|#6526]]
+- [[Posts/937 - Nike compra a Umbro|#937]] - Nike compra a Umbro · [[Posts/937 - Nike compra a Umbro#^comentario-6533|#6533]]
+- [[Posts/937 - Nike compra a Umbro|#937]] - Nike compra a Umbro · [[Posts/937 - Nike compra a Umbro#^comentario-148294|#148294]]
+- [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua|#9378]] - Copa do Mundo dia 13 – A Hora da Verdade Continua · [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua#^comentario-60459|#60459]]
+- [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua|#9378]] - Copa do Mundo dia 13 – A Hora da Verdade Continua · [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua#^comentario-60493|#60493]]
+- [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua|#9378]] - Copa do Mundo dia 13 – A Hora da Verdade Continua · [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua#^comentario-60501|#60501]]
+- [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua|#9378]] - Copa do Mundo dia 13 – A Hora da Verdade Continua · [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua#^comentario-60512|#60512]]
+- [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua|#9378]] - Copa do Mundo dia 13 – A Hora da Verdade Continua · [[Posts/9378 - Copa do Mundo dia 13 – A Hora da Verdade Continua#^comentario-60515|#60515]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60584|#60584]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60593|#60593]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60633|#60633]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60636|#60636]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60638|#60638]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60648|#60648]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60650|#60650]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60651|#60651]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60655|#60655]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60656|#60656]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60658|#60658]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60660|#60660]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60662|#60662]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60664|#60664]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60666|#60666]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60670|#60670]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F · [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F#^comentario-60768|#60768]]
+- [[Posts/9386 - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F|#9386]] - Copa do Mundo dia 14 – A hora e vez dos Grupos E e F
+- [[Posts/939 - Com a benção do baixinho|#939]] - Com a benção do baixinho · [[Posts/939 - Com a benção do baixinho#^comentario-6645|#6645]]
+- [[Posts/9397 - Eu acredito nos USA|#9397]] - Eu acredito nos USA · [[Posts/9397 - Eu acredito nos USA#^comentario-60619|#60619]]
+- [[Posts/9397 - Eu acredito nos USA|#9397]] - Eu acredito nos USA · [[Posts/9397 - Eu acredito nos USA#^comentario-60982|#60982]]
+- [[Posts/94 - hospício|#94]] - hospício
+- [[Posts/941 - Lewis Hamilton e Botafogo Campeões! Nunca Serão!|#941]] - Lewis Hamilton e Botafogo Campeões! Nunca Serão!
+- [[Posts/9413 - A mijada de Dunga|#9413]] - A mijada de Dunga · [[Posts/9413 - A mijada de Dunga#^comentario-60807|#60807]]
+- [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase|#9422]] - Copa do Mundo dia 15 – acaba a 1ª fase · [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase#^comentario-60809|#60809]]
+- [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase|#9422]] - Copa do Mundo dia 15 – acaba a 1ª fase · [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase#^comentario-60850|#60850]]
+- [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase|#9422]] - Copa do Mundo dia 15 – acaba a 1ª fase · [[Posts/9422 - Copa do Mundo dia 15 – acaba a 1ª fase#^comentario-60859|#60859]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60901|#60901]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60907|#60907]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60920|#60920]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60934|#60934]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60937|#60937]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60948|#60948]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60954|#60954]]
+- [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|#9440]] - Copa do Mundo dia 16 – começam as oitavas · [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas#^comentario-60981|#60981]]
+- [[Posts/945 - Um bom motivo para torcer pelo São Paulo|#945]] - Um bom motivo para torcer pelo São Paulo
+- [[Posts/9453 - Arriba México! Salve St. José Cuervo!|#9453]] - Arriba México! Salve St. José Cuervo! · [[Posts/9453 - Arriba México! Salve St. José Cuervo!#^comentario-60979|#60979]]
+- [[Posts/946 - Máquina Tricolor|#946]] - Máquina Tricolor · [[Posts/946 - Máquina Tricolor#^comentario-42663|#42663]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61000|#61000]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61002|#61002]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61024|#61024]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61030|#61030]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61040|#61040]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61044|#61044]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61048|#61048]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61052|#61052]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61059|#61059]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61075|#61075]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61077|#61077]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61080|#61080]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61089|#61089]]
+- [[Posts/9477 - Copa do Mundo dia 17 – tensão total|#9477]] - Copa do Mundo dia 17 – tensão total · [[Posts/9477 - Copa do Mundo dia 17 – tensão total#^comentario-61102|#61102]]
+- [[Posts/9495 - Aprovado com louvor|#9495]] - Aprovado com louvor
+- [[Posts/9515 - Copa do Mundo dia 19 – Batalha Ibérica|#9515]] - Copa do Mundo dia 19 – Batalha Ibérica · [[Posts/9515 - Copa do Mundo dia 19 – Batalha Ibérica#^comentario-61311|#61311]]
+- [[Posts/9515 - Copa do Mundo dia 19 – Batalha Ibérica|#9515]] - Copa do Mundo dia 19 – Batalha Ibérica · [[Posts/9515 - Copa do Mundo dia 19 – Batalha Ibérica#^comentario-61328|#61328]]
+- [[Posts/9520 - Sobre Hinos e Seleções Nacionais|#9520]] - Sobre Hinos e Seleções Nacionais · [[Posts/9520 - Sobre Hinos e Seleções Nacionais#^comentario-61253|#61253]]
+- [[Posts/9528 - Intermission|#9528]] - Intermission · [[Posts/9528 - Intermission#^comentario-61451|#61451]]
+- [[Posts/9528 - Intermission|#9528]] - Intermission · [[Posts/9528 - Intermission#^comentario-61604|#61604]]
+- [[Posts/9528 - Intermission|#9528]] - Intermission
+- [[Posts/9560 - O Tombo|#9560]] - O Tombo · [[Posts/9560 - O Tombo#^comentario-61545|#61545]]
+- [[Posts/9566 - Vettel vence um GP chato e polêmico|#9566]] - Vettel vence um GP chato e polêmico · [[Posts/9566 - Vettel vence um GP chato e polêmico#^comentario-61601|#61601]]
+- [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1|#9571]] - Copa do Mundo 2010 – Quartas de Final 1 · [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1#^comentario-61588|#61588]]
+- [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1|#9571]] - Copa do Mundo 2010 – Quartas de Final 1 · [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1#^comentario-61593|#61593]]
+- [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1|#9571]] - Copa do Mundo 2010 – Quartas de Final 1 · [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1#^comentario-61622|#61622]]
+- [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1|#9571]] - Copa do Mundo 2010 – Quartas de Final 1 · [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1#^comentario-61722|#61722]]
+- [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1|#9571]] - Copa do Mundo 2010 – Quartas de Final 1 · [[Posts/9571 - Copa do Mundo 2010 – Quartas de Final 1#^comentario-61824|#61824]]
+- [[Posts/9588 - Copa do Mundo 2010 – Quartas de Final 2|#9588]] - Copa do Mundo 2010 – Quartas de Final 2 · [[Posts/9588 - Copa do Mundo 2010 – Quartas de Final 2#^comentario-61892|#61892]]
+- [[Posts/9588 - Copa do Mundo 2010 – Quartas de Final 2|#9588]] - Copa do Mundo 2010 – Quartas de Final 2 · [[Posts/9588 - Copa do Mundo 2010 – Quartas de Final 2#^comentario-61896|#61896]]
+- [[Posts/9592 - Não estou nem aí para tecnologia auxiliando arbitragem|#9592]] - Não estou nem aí para tecnologia auxiliando arbitragem · [[Posts/9592 - Não estou nem aí para tecnologia auxiliando arbitragem#^comentario-62091|#62091]]
+- [[Posts/9592 - Não estou nem aí para tecnologia auxiliando arbitragem|#9592]] - Não estou nem aí para tecnologia auxiliando arbitragem
+- [[Posts/960 - A Copa do Mundo é nossa… É mesmo|#960]] - A Copa do Mundo é nossa… É mesmo??? · [[Posts/960 - A Copa do Mundo é nossa… É mesmo#^comentario-6734|#6734]]
+- [[Posts/960 - A Copa do Mundo é nossa… É mesmo|#960]] - A Copa do Mundo é nossa… É mesmo??? · [[Posts/960 - A Copa do Mundo é nossa… É mesmo#^comentario-6735|#6735]]
+- [[Posts/960 - A Copa do Mundo é nossa… É mesmo|#960]] - A Copa do Mundo é nossa… É mesmo??? · [[Posts/960 - A Copa do Mundo é nossa… É mesmo#^comentario-6738|#6738]]
+- [[Posts/960 - A Copa do Mundo é nossa… É mesmo|#960]] - A Copa do Mundo é nossa… É mesmo??? · [[Posts/960 - A Copa do Mundo é nossa… É mesmo#^comentario-6743|#6743]]
+- [[Posts/961 - Voltei (e satisfações)|#961]] - Voltei (e satisfações) · [[Posts/961 - Voltei (e satisfações)#^comentario-6728|#6728]]
+- [[Posts/961 - Voltei (e satisfações)|#961]] - Voltei (e satisfações)
+- [[Posts/9618 - Torço para quem eu quiser|#9618]] - Torço para quem eu quiser · [[Posts/9618 - Torço para quem eu quiser#^comentario-62189|#62189]]
+- [[Posts/962 - Poesia no Gramado (retirado do Blog do Juca)|#962]] - Poesia no Gramado (retirado do Blog do Juca) · [[Posts/962 - Poesia no Gramado (retirado do Blog do Juca)#^comentario-6733|#6733]]
+- [[Posts/962 - Poesia no Gramado (retirado do Blog do Juca)|#962]] - Poesia no Gramado (retirado do Blog do Juca) · [[Posts/962 - Poesia no Gramado (retirado do Blog do Juca)#^comentario-6749|#6749]]
+- [[Posts/9632 - Quem levará o Bolão do Blá blá Gol|#9632]] - Quem levará o Bolão do Blá blá Gol? · [[Posts/9632 - Quem levará o Bolão do Blá blá Gol#^comentario-63244|#63244]]
+- [[Posts/9632 - Quem levará o Bolão do Blá blá Gol|#9632]] - Quem levará o Bolão do Blá blá Gol?
+- [[Posts/9642 - Campanha Joel Santana é seleção!|#9642]] - Campanha Joel Santana é seleção! · [[Posts/9642 - Campanha Joel Santana é seleção!#^comentario-62028|#62028]]
+- [[Posts/9642 - Campanha Joel Santana é seleção!|#9642]] - Campanha Joel Santana é seleção! · [[Posts/9642 - Campanha Joel Santana é seleção!#^comentario-62061|#62061]]
+- [[Posts/9642 - Campanha Joel Santana é seleção!|#9642]] - Campanha Joel Santana é seleção! · [[Posts/9642 - Campanha Joel Santana é seleção!#^comentario-62071|#62071]]
+- [[Posts/966 - Ainda bem que tem jogos mais importantes|#966]] - Ainda bem que tem jogos mais importantes
+- [[Posts/9675 - ‘Amigos, amigos. Negócios à parte’|#9675]] - ‘Amigos, amigos. Negócios à parte’
+- [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda|#9677]] - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda · [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda#^comentario-62273|#62273]]
+- [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda|#9677]] - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda · [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda#^comentario-62344|#62344]]
+- [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda|#9677]] - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda · [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda#^comentario-62408|#62408]]
+- [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda|#9677]] - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda · [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda#^comentario-62415|#62415]]
+- [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda|#9677]] - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda · [[Posts/9677 - Copa do Mundo 2010 – Semifinais 1 – Uruguai x Holanda#^comentario-62457|#62457]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62554|#62554]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62585|#62585]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62639|#62639]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62707|#62707]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62709|#62709]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62713|#62713]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62726|#62726]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62741|#62741]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha · [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha#^comentario-62747|#62747]]
+- [[Posts/9684 - Copa do Mundo – Semifinais 2 – Alemanha x Espanha|#9684]] - Copa do Mundo – Semifinais 2 – Alemanha x Espanha
+- [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí|#969]] - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí? · [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí#^comentario-6760|#6760]]
+- [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí|#969]] - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí? · [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí#^comentario-6761|#6761]]
+- [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí|#969]] - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí? · [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí#^comentario-6768|#6768]]
+- [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí|#969]] - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí? · [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí#^comentario-6772|#6772]]
+- [[Posts/969 - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí|#969]] - São Paulo Bi-Campeão Brasileiro! Não me emocionei. E daí?
+- [[Posts/9693 - Clockwork Orange|#9693]] - Clockwork Orange · [[Posts/9693 - Clockwork Orange#^comentario-64835|#64835]]
+- [[Posts/9693 - Clockwork Orange|#9693]] - Clockwork Orange
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-62945|#62945]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-62948|#62948]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-62952|#62952]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-63048|#63048]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-63100|#63100]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-151834|#151834]]
+- [[Posts/9714 - Sobre a relação Bruno e Flamengo|#9714]] - Sobre a relação Bruno e Flamengo · [[Posts/9714 - Sobre a relação Bruno e Flamengo#^comentario-152051|#152051]]
+- [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP|#972]] - Fla 2×1 Timão, melhor que o jogo do SP · [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP#^comentario-6765|#6765]]
+- [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP|#972]] - Fla 2×1 Timão, melhor que o jogo do SP · [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP#^comentario-6774|#6774]]
+- [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP|#972]] - Fla 2×1 Timão, melhor que o jogo do SP · [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP#^comentario-6775|#6775]]
+- [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP|#972]] - Fla 2×1 Timão, melhor que o jogo do SP · [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP#^comentario-6777|#6777]]
+- [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP|#972]] - Fla 2×1 Timão, melhor que o jogo do SP · [[Posts/972 - Fla 2×1 Timão, melhor que o jogo do SP#^comentario-6783|#6783]]
+- [[Posts/9723 - 4° Seminário de Aikido com Nishida sensei – Niterói RJ 2010|#9723]] - 4° Seminário de Aikido com Nishida sensei – Niterói/RJ 2010 · [[Posts/9723 - 4° Seminário de Aikido com Nishida sensei – Niterói RJ 2010#^comentario-62943|#62943]]
+- [[Posts/9728 - Desculpem, eu sou preconceituoso|#9728]] - Desculpem, eu sou preconceituoso
+- [[Posts/9742 - A Seara gosta|#9742]] - A Seara gosta
+- [[Posts/9748 - Copa do Mundo – 3º e 4º Lugares – Uruguai x Alemanha|#9748]] - Copa do Mundo – 3º e 4º Lugares – Uruguai x Alemanha · [[Posts/9748 - Copa do Mundo – 3º e 4º Lugares – Uruguai x Alemanha#^comentario-63246|#63246]]
+- [[Posts/9748 - Copa do Mundo – 3º e 4º Lugares – Uruguai x Alemanha|#9748]] - Copa do Mundo – 3º e 4º Lugares – Uruguai x Alemanha
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6778|#6778]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6781|#6781]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6785|#6785]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6786|#6786]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6788|#6788]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6790|#6790]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6795|#6795]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6796|#6796]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6798|#6798]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6800|#6800]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6805|#6805]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6815|#6815]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6853|#6853]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6855|#6855]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6857|#6857]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6860|#6860]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6871|#6871]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6903|#6903]]
+- [[Posts/975 - Polêmica do Penta|#975]] - Polêmica do Penta · [[Posts/975 - Polêmica do Penta#^comentario-6916|#6916]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63278|#63278]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63291|#63291]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63306|#63306]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63308|#63308]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63326|#63326]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63349|#63349]]
+- [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL|#9759]] - Copa do Mundo 2010 – Afinal, a FINAL · [[Posts/9759 - Copa do Mundo 2010 – Afinal, a FINAL#^comentario-63352|#63352]]
+- [[Posts/9778 - Sem Papa na Língua|#9778]] - Sem Papa na Língua · [[Posts/9778 - Sem Papa na Língua#^comentario-63515|#63515]]
+- [[Posts/9784 - Feliz Dia Mundial do Rock 2010!|#9784]] - Feliz Dia Mundial do Rock 2010! · [[Posts/9784 - Feliz Dia Mundial do Rock 2010!#^comentario-63577|#63577]]
+- [[Posts/9784 - Feliz Dia Mundial do Rock 2010!|#9784]] - Feliz Dia Mundial do Rock 2010! · [[Posts/9784 - Feliz Dia Mundial do Rock 2010!#^comentario-63793|#63793]]
+- [[Posts/9791 - Os estrangeiros realmente atrapalham o futebol de um país|#9791]] - Os estrangeiros realmente atrapalham o futebol de um país? · [[Posts/9791 - Os estrangeiros realmente atrapalham o futebol de um país#^comentario-63572|#63572]]
+- [[Posts/98 - Famoso Quem|#98]] - Famoso Quem ?
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6822|#6822]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6824|#6824]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6831|#6831]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6832|#6832]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6834|#6834]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6835|#6835]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6839|#6839]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6850|#6850]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6874|#6874]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6882|#6882]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007? · [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007#^comentario-6886|#6886]]
+- [[Posts/981 - Quem seriam os melhores do Campeonato Brasileiro 2007|#981]] - Quem seriam os melhores do Campeonato Brasileiro 2007?
+- [[Posts/9818 - “Not bad for a 2 driver”|#9818]] - “Not bad for a #2 driver” · [[Posts/9818 - “Not bad for a 2 driver”#^comentario-63664|#63664]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta · [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta#^comentario-63819|#63819]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta · [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta#^comentario-63882|#63882]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta · [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta#^comentario-63883|#63883]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta · [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta#^comentario-63885|#63885]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta · [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta#^comentario-63887|#63887]]
+- [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|#9819]] - Acabou-se o que era doce. Brasileirão está de volta
+- [[Posts/982 - De dentro do Couto Pereira|#982]] - De dentro do Couto Pereira · [[Posts/982 - De dentro do Couto Pereira#^comentario-6879|#6879]]
+- [[Posts/982 - De dentro do Couto Pereira|#982]] - De dentro do Couto Pereira
+- [[Posts/9845 - Elizabeth Lambert a namoradinha de Van Bommel|#9845]] - Elizabeth Lambert: a namoradinha de Van Bommel
+- [[Posts/9846 - Um sábado qualquer|#9846]] - Um sábado qualquer · [[Posts/9846 - Um sábado qualquer#^comentario-63937|#63937]]
+- [[Posts/9846 - Um sábado qualquer|#9846]] - Um sábado qualquer · [[Posts/9846 - Um sábado qualquer#^comentario-114375|#114375]]
+- [[Posts/9850 - Fluminense 1×1 Prudente Empate mais que merecido|#9850]] - Fluminense 1×1 Prudente: Empate mais que merecido
+- [[Posts/9856 - Não é SEXta-feira mas…|#9856]] - Não é SEXta-feira mas… · [[Posts/9856 - Não é SEXta-feira mas…#^comentario-63897|#63897]]
+- [[Posts/9856 - Não é SEXta-feira mas…|#9856]] - Não é SEXta-feira mas… · [[Posts/9856 - Não é SEXta-feira mas…#^comentario-63908|#63908]]
+- [[Posts/987 - Vai chegando ao fim a era Eurico Miranda|#987]] - Vai chegando ao fim a era Eurico Miranda. · [[Posts/987 - Vai chegando ao fim a era Eurico Miranda#^comentario-6932|#6932]]
+- [[Posts/987 - Vai chegando ao fim a era Eurico Miranda|#987]] - Vai chegando ao fim a era Eurico Miranda. · [[Posts/987 - Vai chegando ao fim a era Eurico Miranda#^comentario-188388|#188388]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6933|#6933]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6934|#6934]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6939|#6939]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6960|#6960]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6978|#6978]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6983|#6983]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-6987|#6987]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7012|#7012]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7023|#7023]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7067|#7067]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7074|#7074]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7218|#7218]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-7221|#7221]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-25793|#25793]]
+- [[Posts/988 - A História de 1987|#988]] - A História de 1987 · [[Posts/988 - A História de 1987#^comentario-54979|#54979]]
+- [[Posts/9884 - Lúcio Flávio não é Diego Forlán|#9884]] - Lúcio Flávio não é Diego Forlán · [[Posts/9884 - Lúcio Flávio não é Diego Forlán#^comentario-64083|#64083]]
+- [[Posts/9884 - Lúcio Flávio não é Diego Forlán|#9884]] - Lúcio Flávio não é Diego Forlán · [[Posts/9884 - Lúcio Flávio não é Diego Forlán#^comentario-74323|#74323]]
+- [[Posts/9895 - Processem Patricia Amorim|#9895]] - Processem Patricia Amorim · [[Posts/9895 - Processem Patricia Amorim#^comentario-64093|#64093]]
+- [[Posts/9895 - Processem Patricia Amorim|#9895]] - Processem Patricia Amorim
+- [[Posts/99 - Aberração|#99]] - Aberração
+- [[Posts/992 - Time Amarelão|#992]] - Time Amarelão · [[Posts/992 - Time Amarelão#^comentario-6979|#6979]]
+- [[Posts/992 - Time Amarelão|#992]] - Time Amarelão · [[Posts/992 - Time Amarelão#^comentario-6992|#6992]]
+- [[Posts/992 - Time Amarelão|#992]] - Time Amarelão
+- [[Posts/993 - Vasco x Flamengo – em Niterói|#993]] - Vasco x Flamengo – em Niterói · [[Posts/993 - Vasco x Flamengo – em Niterói#^comentario-6940|#6940]]
+- [[Posts/993 - Vasco x Flamengo – em Niterói|#993]] - Vasco x Flamengo – em Niterói · [[Posts/993 - Vasco x Flamengo – em Niterói#^comentario-7029|#7029]]
+- [[Posts/993 - Vasco x Flamengo – em Niterói|#993]] - Vasco x Flamengo – em Niterói · [[Posts/993 - Vasco x Flamengo – em Niterói#^comentario-7181|#7181]]
+- [[Posts/993 - Vasco x Flamengo – em Niterói|#993]] - Vasco x Flamengo – em Niterói · [[Posts/993 - Vasco x Flamengo – em Niterói#^comentario-7193|#7193]]
+- [[Posts/9930 - A Copa vista pelo retrovisor|#9930]] - A Copa vista pelo retrovisor · [[Posts/9930 - A Copa vista pelo retrovisor#^comentario-64221|#64221]]
+- [[Posts/9930 - A Copa vista pelo retrovisor|#9930]] - A Copa vista pelo retrovisor · [[Posts/9930 - A Copa vista pelo retrovisor#^comentario-64222|#64222]]
+- [[Posts/9930 - A Copa vista pelo retrovisor|#9930]] - A Copa vista pelo retrovisor · [[Posts/9930 - A Copa vista pelo retrovisor#^comentario-64248|#64248]]
+- [[Posts/994 - A seleção dos piores do Brasileirão|#994]] - A seleção dos piores do Brasileirão · [[Posts/994 - A seleção dos piores do Brasileirão#^comentario-6942|#6942]]
+- [[Posts/994 - A seleção dos piores do Brasileirão|#994]] - A seleção dos piores do Brasileirão · [[Posts/994 - A seleção dos piores do Brasileirão#^comentario-6969|#6969]]
+- [[Posts/9965 - Salve a Transição|#9965]] - Salve a Transição · [[Posts/9965 - Salve a Transição#^comentario-64444|#64444]]
+- [[Posts/9970 - 10ª rodada do Brasileirão hierarquizada|#9970]] - 10ª rodada do Brasileirão hierarquizada · [[Posts/9970 - 10ª rodada do Brasileirão hierarquizada#^comentario-64557|#64557]]
+- [[Posts/9970 - 10ª rodada do Brasileirão hierarquizada|#9970]] - 10ª rodada do Brasileirão hierarquizada
+- [[Posts/998 - O Super Trunfo|#998]] - O Super Trunfo · [[Posts/998 - O Super Trunfo#^comentario-6989|#6989]]
+- [[Posts/9986 - Como|#9986]] - Como? · [[Posts/9986 - Como#^comentario-64477|#64477]]
+- [[Posts/9992 - 25 anos em 108 de Fluminense|#9992]] - 25 anos em 108 de Fluminense · [[Posts/9992 - 25 anos em 108 de Fluminense#^comentario-64608|#64608]]
+- [[Posts/9992 - 25 anos em 108 de Fluminense|#9992]] - 25 anos em 108 de Fluminense

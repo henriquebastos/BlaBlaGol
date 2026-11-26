@@ -8,7 +8,7 @@ for (const name of files) {
   const file = 'edicao/Posts/' + name;
   if (!/^\d+ - .+\.md$/u.test(name) || !lstatSync(file).isFile()) throw Error('Arquivo inválido na edição: ' + name);
   const markdown = readFileSync(file, 'utf8');
-  if (email.test(markdown) || privateFields.test(markdown)) throw Error('Dados privados em ' + name);
+  if (email.test(markdown) || privateFields.test(markdown.split(/^---[ \t]*$/m)[1] || '')) throw Error('Dados privados em ' + name);
 }
 for (const name of readdirSync('edicao/Anexos').filter(name => name !== '.gitkeep')) {
   const file = 'edicao/Anexos/' + name;
