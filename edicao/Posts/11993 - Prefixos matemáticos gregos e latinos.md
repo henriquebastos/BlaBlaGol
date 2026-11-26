@@ -161,10 +161,12 @@ mas sei lá,tem um artigo no wiki q diz QUÁDRUPLA COROA…
 
 Tríplice coroa \> Tetráplice coroa? Já que querem se inspirar nos helênicos … :D
 
-## 22/02/2011 12:19 - [[Pessoas/ATENÇÃO꞉ O Flamengo não é hexacampeão|ATENÇÃO: O Flamengo não é hexacampeão]] - #86940 ^comentario-86940
+# Referências de outros posts
+
+## 22/02/2011 12:19 - [[Posts/12707 - ATENÇÃO O Flamengo não é hexacampeão|ATENÇÃO: O Flamengo não é hexacampeão]] - #86940 ^comentario-86940
 
 \[…\] de forma errônea os prefixos (gregos ou latinos) para a contagem de títulos. Tais prefixos são utilizados para a contagem de títulos seguidos. \[…\]
 
-## 11/11/2011 1:27 - [[Pessoas/12.11.11꞉ Dia de comemorar a liderança do Fluminense|12.11.11: Dia de comemorar a liderança do Fluminense]] - #111498 ^comentario-111498
+## 11/11/2011 1:27 - [[Posts/15662 - 12.11.11 Dia de comemorar a liderança do Fluminense|12.11.11: Dia de comemorar a liderança do Fluminense]] - #111498 ^comentario-111498
 
 \[…\] liderança do Campeonato Brasileiro onde deverá permanecer até o final da 38ª rodada sagrando-se Dicampeão Brasileiro 2010/11 ou Tetra 1970/1984/2010/2011 para os menos \[…\]

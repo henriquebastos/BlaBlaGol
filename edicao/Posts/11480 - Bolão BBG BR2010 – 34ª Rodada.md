@@ -258,10 +258,12 @@ Já na parte de cima, o Flu está com a faca na mão.
 
 Voltei à velha forma nesta rodada. Tragédia total e absoluta.
 
-## 9/11/2010 9:55 - [[Pessoas/Washington carregado no colo|Washington carregado no colo]] - #74297 ^comentario-74297
+# Referências de outros posts
+
+## 9/11/2010 9:55 - [[Posts/11507 - Washington carregado no colo|Washington carregado no colo]] - #74297 ^comentario-74297
 
 \[...\] perceptível a pressão que sente Washington, algo que transparece em atitudes marcantes nas partidas como no jogo em que Conca teve de tirar a \[...\]
 
-## 2/12/2010 2:08 - [[Pessoas/Bolão BBG BR2010 – 38ª Rodada꞉ A Pseudo-Derradeira|Bolão BBG BR2010 – 38ª Rodada: A Pseudo-Derradeira]] - #76532 ^comentario-76532
+## 2/12/2010 2:08 - [[Posts/11867 - Bolão BBG BR2010 – 38ª Rodada A Pseudo-Derradeira|Bolão BBG BR2010 – 38ª Rodada: A Pseudo-Derradeira]] - #76532 ^comentario-76532
 
 \[...\] O critério de desempate definido na 34ª rodada está mantido: \[...\]

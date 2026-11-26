@@ -156,10 +156,12 @@ Poxa, ninguém fez aquela piadinha velha e básica:
 
 Ora, tem mais é que se…
 
-## 10/02/2011 16:42 - [[Pessoas/Um empate na conta de Muricy|Um empate na conta de Muricy]] - #84867 ^comentario-84867
-
-\[...\] Dito e feito. Somente uns 15.000 endinheirados compareceram ao Engenhão. Para mim foi ótimo, pois aproveitei a pouca densidade demográfica para levar meu pai ao desconfortável estádio de Egenho de Dentro. Peter Siemsen também gostou da grana que entrou, mas não entendeu muito bem a causa do público baixo. Segundo o mandatário do Fluminense/Unimed, todas as situações (sic) foram: \[...\]
-
 ## 10/02/2011 17:09 - [[Pessoas/luiz|luiz]] - #84888 ^comentario-84888
 
 poderia se fazer um bolao ate quando qual time vai chegar na libert
+
+# Referências de outros posts
+
+## 10/02/2011 16:42 - [[Posts/12592 - Um empate na conta de Muricy|Um empate na conta de Muricy]] - #84867 ^comentario-84867
+
+\[...\] Dito e feito. Somente uns 15.000 endinheirados compareceram ao Engenhão. Para mim foi ótimo, pois aproveitei a pouca densidade demográfica para levar meu pai ao desconfortável estádio de Egenho de Dentro. Peter Siemsen também gostou da grana que entrou, mas não entendeu muito bem a causa do público baixo. Segundo o mandatário do Fluminense/Unimed, todas as situações (sic) foram: \[...\]

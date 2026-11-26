@@ -33,10 +33,6 @@ Hauaehuha Dodo News…
 
 ta la no navio que leva o lixo heheh…
 
-## 26/02/2010 13:13 - [[Pessoas/Vasco 0×0 Sousa꞉ Guilhotina para Mancini|Vasco 0×0 Sousa: Guilhotina para Mancini]] - #50936 ^comentario-50936
-
-\[...\] Coutinho, o menos pior, tentou tabelas, deu alguns dribles, mas não tinha com quem jogar. Dodô, hostilizado pela torcida, mostrou a mesma inutilidade dos últimos jogos e foi sacado no \[...\]
-
 ## 26/02/2010 22:24 - [[Pessoas/fjv|fjv]] - #51056 ^comentario-51056
 
 esta perto do bagulho azul
@@ -44,3 +40,9 @@ esta perto do bagulho azul
 ## 27/02/2010 4:48 - Nome não exibido - #51064
 
 O maluco conseguiu achar um bagulho e só depois disso achou Dodô, faz sentido.
+
+# Referências de outros posts
+
+## 26/02/2010 13:13 - [[Posts/7494 - Vasco 0×0 Sousa Guilhotina para Mancini|Vasco 0×0 Sousa: Guilhotina para Mancini]] - #50936 ^comentario-50936
+
+\[...\] Coutinho, o menos pior, tentou tabelas, deu alguns dribles, mas não tinha com quem jogar. Dodô, hostilizado pela torcida, mostrou a mesma inutilidade dos últimos jogos e foi sacado no \[...\]

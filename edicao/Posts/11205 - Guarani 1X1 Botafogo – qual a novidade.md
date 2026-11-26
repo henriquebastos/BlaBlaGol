@@ -111,10 +111,6 @@ E Bender já foi 4 vezes neste segundo semestre, e assistiu a um jogo do Vasco n
 
 Hahaha… Matuza Valente já pode trabalhar no circo.
 
-## 6/10/2010 22:21 - [[Pessoas/BR2010 28ª rodada|BR2010 28ª rodada]] - #72541 ^comentario-72541
-
-\[...\] Guarani 1×1 Botafogo: El Loco é o novo Túlio Maravilha \[...\]
-
 ## 6/10/2010 22:52 - [[Pessoas/Gaburah|Gaburah]] - #72547 ^comentario-72547
 
 Brilha a inteligência do ÍDOLO:
@@ -385,3 +381,9 @@ Minha esperença está na volta de Mattos e Jobson.
 ## 7/10/2010 15:21 - Nome não exibido - #72652
 
 Achei Guarani melhor que os demais citados.
+
+# Referências de outros posts
+
+## 6/10/2010 22:21 - [[Posts/11185 - BR2010 28ª rodada|BR2010 28ª rodada]] - #72541 ^comentario-72541
+
+\[...\] Guarani 1×1 Botafogo: El Loco é o novo Túlio Maravilha \[...\]

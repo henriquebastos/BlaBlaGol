@@ -349,10 +349,6 @@ Qualquer análise com espaço amostral maior é mais confiável. Analisar só os
 
 Tipo, eu creio que o povão representa o passionalismo, e prá mim é legal ser o mais frio e imparcial possível, tal qual um economista a analisar o PIB dos estados, longe do passional.
 
-## 17/07/2011 15:05 - [[Pessoas/Atrás de todo jornalista tem um pretenso consultor|Atrás de todo jornalista tem um pretenso consultor]] - #101318 ^comentario-101318
-
-\[…\] torcer limita-se ao bairrismo respeitando-se como supracitado a abrangência da mídia, ou então de forma velada e até mesmo não-intencional (a melhor por manter o ESTADO DE \[…\]
-
 ## 6/12/2011 21:44 - [[Pessoas/fernando silva|fernando silva]] - #114144 ^comentario-114144
 
 APRESENTADORES OU APRESENTADORAS  
@@ -1202,3 +1198,9 @@ MARCIO GONTIJO REPORTER TIME PALMEIRAS
 JULIANA FRANCESCHI TIME FLAMENGO
 
 MARIO FRIAS TIME BOTAFOGO
+
+# Referências de outros posts
+
+## 17/07/2011 15:05 - [[Posts/14365 - Atrás de todo jornalista tem um pretenso consultor|Atrás de todo jornalista tem um pretenso consultor]] - #101318 ^comentario-101318
+
+\[…\] torcer limita-se ao bairrismo respeitando-se como supracitado a abrangência da mídia, ou então de forma velada e até mesmo não-intencional (a melhor por manter o ESTADO DE \[…\]

@@ -338,6 +338,8 @@ tabela da segundona
 
 Do tempo em que o Vasco sabia jogar com dois a mais…
 
-## 28/02/2010 23:46 - [[Pessoas/Santos 2×1 Corinthians꞉ Alguém consegue torcer contra o Peixe？|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51258 ^comentario-51258
+# Referências de outros posts
+
+## 28/02/2010 23:46 - [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51258 ^comentario-51258
 
 \[...\] espírito de Neymar é o espírito do time do Santos do Super Dorival. Espírito que mostrava em campo um Corinthians perdido, atônito e correndo atrás da \[...\]

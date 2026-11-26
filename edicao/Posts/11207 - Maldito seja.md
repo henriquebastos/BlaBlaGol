@@ -53,10 +53,6 @@ O Grêmio do excelente e vencedor **Renato Portaluppi** vem subindo forte na tab
 
 # Comentários
 
-## 6/10/2010 22:21 - [[Pessoas/BR2010 28ª rodada|BR2010 28ª rodada]] - #72540 ^comentario-72540
-
-\[...\] Fluminense 0×3 Santos: Muricy despirocou e Zé Eduardo agradeceu \[...\]
-
 ## 6/10/2010 22:25 - [[Pessoas/Juliana de Brito|Juliana de Brito]] - #72543 ^comentario-72543
 
 Bendito seja Santo Portaluppi.
@@ -593,3 +589,9 @@ SRN
 ## 8/10/2010 11:52 - Nome não exibido - #72717
 
 Muuuuito bom!!!!!
+
+# Referências de outros posts
+
+## 6/10/2010 22:21 - [[Posts/11185 - BR2010 28ª rodada|BR2010 28ª rodada]] - #72540 ^comentario-72540
+
+\[...\] Fluminense 0×3 Santos: Muricy despirocou e Zé Eduardo agradeceu \[...\]

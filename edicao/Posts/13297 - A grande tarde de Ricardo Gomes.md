@@ -217,12 +217,14 @@ Se o Vasco tivesse feito isso em 2000, teria sido campeao brasileiro e da Mercos
 
 Nao tenho opiniao formada sobre ser melhor o pior poupar jogadores. Mas se vai poupar, a classificação nao pode escorregar. O nautico nao vem pra passear.
 
-## 24/04/2011 13:05 - [[Pessoas/Hoje tem Clássico dos Lixões|Hoje tem Clássico dos Lixões]] - #92401 ^comentario-92401
-
-\[...\] Taça Rio em partida com times em condições praticamente simétricas de classificação aos que disputaram a boa semifinal de sábado, porém com mais mídia uma vez que vende-se camisas e marcas ao invés de \[...\]
-
 ## 24/04/2011 15:26 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #92416 ^comentario-92416
 
 [esse sentimento tá indo longe demais](<https://web.archive.org/web/*/http://www.lancenet.com.br/galerias/vasco-vence-olaria-e-esta-final/> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/galerias/vasco-vence-olaria-e-esta-final/")
 
 hauahhauahuauauahauhauahua
+
+# Referências de outros posts
+
+## 24/04/2011 13:05 - [[Posts/13320 - Hoje tem Clássico dos Lixões|Hoje tem Clássico dos Lixões]] - #92401 ^comentario-92401
+
+\[...\] Taça Rio em partida com times em condições praticamente simétricas de classificação aos que disputaram a boa semifinal de sábado, porém com mais mídia uma vez que vende-se camisas e marcas ao invés de \[...\]

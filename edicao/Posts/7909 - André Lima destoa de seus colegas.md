@@ -69,10 +69,12 @@ Eu gosto do André Lima.
 
 É um bonde, mas resolve. Só me irrita essa mania horrível que ele tem de reclamar de falta e tentar ficar cavando pênalti.
 
-## 29/03/2010 15:28 - [[Pessoas/Vasco 3×0 Fluminense com as bençãos de André Lima|Vasco 3×0 Fluminense com as bençãos de André Lima]] - #53736 ^comentario-53736
+# Referências de outros posts
+
+## 29/03/2010 15:28 - [[Posts/7989 - Vasco 3×0 Fluminense com as bençãos de André Lima|Vasco 3×0 Fluminense com as bençãos de André Lima]] - #53736 ^comentario-53736
 
 \[...\] Cada jogo que passa aumenta minha convicção da desmotivação em ver a bola bater lá na frente do…. É uma espécie de Washington sem poder, e que não assusta o adversário. \[...\]
 
-## 6/12/2010 6:42 - [[Pessoas/Grêmio 3×0 Botafogo – fim-de-festa|Grêmio 3×0 Botafogo – fim-de-festa]] - #76977 ^comentario-76977
+## 6/12/2010 6:42 - [[Posts/11940 - Grêmio 3×0 Botafogo – fim-de-festa|Grêmio 3×0 Botafogo – fim-de-festa]] - #76977 ^comentario-76977
 
 \[...\] bonde André Lima atropelou o seu ex-clube de coração (eu tenho certeza de que ele virou a casaca, \[...\]

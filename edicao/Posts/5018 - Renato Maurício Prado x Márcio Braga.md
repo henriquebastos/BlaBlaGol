@@ -236,10 +236,6 @@ Putz… não entende nada mesmo. Não consegue perceber que os interesses sempre
 
 Renato Maurício Prado é aquele cara que foi pego – literalmente – com a boca na botija em certos vestiários por aí?
 
-## 10/09/2009 23:48 - [[Pessoas/Como comentar isso？|Como comentar isso?]] - #38139 ^comentario-38139
-
-\[...\] à tona. Imagine só as coisas que permanecem - e permanecerão – ocultas? Certo estava o Victor. Não quero nem saber do que acontece na \[...\]
-
 ## 11/09/2009 16:07 - [[Pessoas/Rafael|Rafael]] - #38180 ^comentario-38180
 
 > **RMP, O Globo 11/09/2009**
@@ -477,3 +473,9 @@ NAO DIVULGUEM MEU NOME–
 Ontem em Universidad Católica 2×0 Flamengo, o “internauta” da Globo (que agora fica mais constrangedor ainda que tem vídeo) mandou a pergunta se era mais difícil jogar no Chile antigamente, lembrando o jogo contra o Cobreloa.
 
 Quem respondeu foi o *Zé Bob Wrong* dizendo que nos anos 80 os jogos eram muito mais difíceis porque não tinha anti-dopping.
+
+# Referências de outros posts
+
+## 10/09/2009 23:48 - [[Posts/5021 - Como comentar isso|Como comentar isso?]] - #38139 ^comentario-38139
+
+\[...\] à tona. Imagine só as coisas que permanecem - e permanecerão – ocultas? Certo estava o Victor. Não quero nem saber do que acontece na \[...\]

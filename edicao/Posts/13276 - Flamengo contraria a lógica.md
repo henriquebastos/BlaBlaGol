@@ -84,6 +84,8 @@ TN7 melhor contratação do rubro-negro da Gávea até aqui. FATO!
 
 Se o Dentuço REALMENTE se machucasse naquele lance e não jogasse o próximo jogo, acreditaria piamente nisso. Nunca torci tanto pra um jogador se machucar num lance como torci pra acontecer com ele.
 
-## 28/04/2011 1:57 - [[Pessoas/O Horizonte ficou. E qualé do Flamengo？|O Horizonte ficou. E qualé do Flamengo?]] - #93073 ^comentario-93073
+# Referências de outros posts
+
+## 28/04/2011 1:57 - [[Posts/13399 - O Horizonte ficou. E qualé do Flamengo|O Horizonte ficou. E qualé do Flamengo?]] - #93073 ^comentario-93073
 
 \[...\] de um grande resultado no RJ, o time do Ceará poderia acreditar numa classificação para as 4as da Copa do Brasil. Porém, uma \[...\]

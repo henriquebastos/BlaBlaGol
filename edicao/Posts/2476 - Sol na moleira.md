@@ -57,6 +57,8 @@ Lembro da época que tinha clássico no maraca às 17h horas (sua arquitetura fo
 
 Mas isso não é só no Brasil, é em todos os lugares do mundo, só pra lembrar que uma Oitava de Final de Libertadores de America foi disputada às 19h de uma terça feira por que era o horario de transmissão da FOX Sport, falar oq?!
 
-## 27/01/2010 19:54 - [[Pessoas/O tempo técnico|O tempo técnico]] - #48227 ^comentario-48227
+# Referências de outros posts
+
+## 27/01/2010 19:54 - [[Posts/7021 - O tempo técnico|O tempo técnico]] - #48227 ^comentario-48227
 
 \[...\] Ignorei os alvinegros na primeira rodada. E vi os multicores daquele meu jeito de não notar detalhes (tá lá em cima – torcedor sensato. Quem quer detalhe compre jornal). De qualquer forma, percebi a quebrada no jogo do Fluminense com o tal tempo técnico, que passou meio no deixa pra lá porque achei ser pelo calor. Não era novidade. \[...\]

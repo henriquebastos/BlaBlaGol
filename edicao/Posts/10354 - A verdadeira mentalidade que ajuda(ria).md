@@ -1706,10 +1706,6 @@ Jogo as 18:30h de sábado é desculpa pra beber depois!
 
 Melhor horário total!
 
-## 22/08/2010 11:58 - [[Pessoas/Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo|Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo]] - #68031 ^comentario-68031
-
-\[...\] Não acreditei nisso, porque a cena é comum com a torcida do dono da casa também, como a que voltou a se repetir no jogo em que a diretoria alvinegra fez um pedido para que sua Torcida comparecesse e ajudasse o clube. \[...\]
-
 ## 22/08/2010 17:40 - [[Pessoas/Gaburah|Gaburah]] - #68064 ^comentario-68064
 
 **Gilmar Ferreira** – [Botafogo já é o terceiro \_ Rodada 15 do Brasileiro](<https://web.archive.org/web/*/http://extra.globo.com/blogs/futebol/posts/2010/08/21/botafogo-ja-o-terceiro-rodada-15-do-brasileiro-318028.asp> "Captura ainda não verificada. Endereço original: http://extra.globo.com/blogs/futebol/posts/2010/08/21/botafogo-ja-o-terceiro-rodada-15-do-brasileiro-318028.asp")
@@ -1781,10 +1777,6 @@ Público de 30.664 pagantes (35.518 presentes).
 
 Vou comprar! hehe
 
-## 25/08/2010 11:43 - [[Pessoas/O Dia D do Botafogo|O Dia D do Botafogo]] - #68301 ^comentario-68301
-
-\[...\] uma lógica de mercado, para esta partida em horário encardido colocou o preço abaixo do ofertado na partida anterior contra o Avaí no excelente horário de sábado à \[...\]
-
 ## 27/08/2010 10:44 - [[Pessoas/Gaburah|Gaburah]] - #68484 ^comentario-68484
 
 \[Via @[iBotafogo](<https://web.archive.org/web/*/http://www.ibotafogo.com> "Captura ainda não verificada. Endereço original: http://www.ibotafogo.com")\]  
@@ -1795,3 +1787,13 @@ Para ver na dimensão adequada, [**clique aqui**](<https://web.archive.org/web/*
 ## 27/08/2010 11:35 - Nome não exibido - #68496
 
 UHUL!
+
+# Referências de outros posts
+
+## 22/08/2010 11:58 - [[Posts/10468 - Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo|Diretoria do Botafogo x Verdadeiros Torcedores do Botafogo]] - #68031 ^comentario-68031
+
+\[...\] Não acreditei nisso, porque a cena é comum com a torcida do dono da casa também, como a que voltou a se repetir no jogo em que a diretoria alvinegra fez um pedido para que sua Torcida comparecesse e ajudasse o clube. \[...\]
+
+## 25/08/2010 11:43 - [[Posts/10503 - O Dia D do Botafogo|O Dia D do Botafogo]] - #68301 ^comentario-68301
+
+\[...\] uma lógica de mercado, para esta partida em horário encardido colocou o preço abaixo do ofertado na partida anterior contra o Avaí no excelente horário de sábado à \[...\]

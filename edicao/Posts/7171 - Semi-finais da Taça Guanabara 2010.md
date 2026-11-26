@@ -439,11 +439,13 @@ Porque o RMP dedica uma coluna de domingo inteira para um emocionado pedido de u
  O Botafogo assusta tanto ou é só fanatismo mesmo?  
  (\*) O detalhe é que no sábado jogaram outra semidecisão (que não mereceu nem uma linha do RMP)que foi devidamente comentada pelo Calazans.
 
-## 18/02/2010 18:06 - [[Pessoas/Surpresa？ Segredo？ Nem na Sapucaí|Surpresa? Segredo? Nem na Sapucaí]] - #50128 ^comentario-50128
-
-\[...\] Dentro desse contexto, há 10 dias fiz um comentário que continha a seguinte parte (onde também concluo com o favoritismo do Flamengo indo junto com o mercado) acho muito difícil acontecer algum “massacre”. Jogo decisivo é sempre diferente da fase “pon… \[...\]
-
 ## 28/03/2010 21:26 - [[Pessoas/mateus|Mateus]] - #53681 ^comentario-53681
 
 Dalee Flamengo nessa bagaça…  
  Mais um vez… Pra calar a boca desses vascainos cuzão..
+
+# Referências de outros posts
+
+## 18/02/2010 18:06 - [[Posts/7309 - Surpresa Segredo Nem na Sapucaí|Surpresa? Segredo? Nem na Sapucaí]] - #50128 ^comentario-50128
+
+\[...\] Dentro desse contexto, há 10 dias fiz um comentário que continha a seguinte parte (onde também concluo com o favoritismo do Flamengo indo junto com o mercado) acho muito difícil acontecer algum “massacre”. Jogo decisivo é sempre diferente da fase “pon… \[...\]

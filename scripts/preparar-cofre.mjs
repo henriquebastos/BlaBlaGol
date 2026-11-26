@@ -85,7 +85,8 @@ for (const f of readdirSync(join(original,'Posts'),{withFileTypes:true})) {
   const themes = Array.isArray(meta.temas) ? meta.temas.map(dados) : [];
   const safeMeta = {tipo:'post',post_id:id,aliases:[title],publicado_em:date,autor:author||null,temas:themes};
   const lines = Object.entries(safeMeta).map(([key,value])=>key+': '+JSON.stringify(value));
-  const [body,...commentParts] = raw[2].trimStart().replace(/^# [^\n]*\n/,'').split(/^# Comentários\s*$/m);
+  const [discussion,...referenceParts] = raw[2].trimStart().replace(/^# [^\n]*\n/,'').split(/^# Referências de outros posts[ \t]*$/m);
+  const [body,...commentParts] = discussion.split(/^# Comentários\s*$/m);
   const ref = '[[Posts/'+name.slice(0,-3)+'|#'+id+']] - '+title;
   const entries = [];
   for (const comment of commentParts.join('\n').trim().split(/(?=^## [^\n]*#\d+(?: \^comentario-\d+)?\s*$)/m)) {
@@ -107,7 +108,8 @@ for (const f of readdirSync(join(original,'Posts'),{withFileTypes:true})) {
   }
   if (date) guardar(porAno,date.slice(0,4),ref);
   const safeBody = [821,1486].includes(id) ? 'Texto não incluído na edição pública.' : linksPublicos(body).trim();
-  const texto = ['---',...lines,'---','','# '+title,'',safeBody,entries.length ? '\n# Comentários\n\n'+entries.join('\n\n') : ''].join('\n').trimEnd()+'\n';
+  const references = linksPublicos(referenceParts.join('\n')).trim();
+  const texto = ['---',...lines,'---','','# '+title,'',safeBody,entries.length ? '\n# Comentários\n\n'+entries.join('\n\n') : '',references ? '\n# Referências de outros posts\n\n'+references : ''].join('\n').trimEnd()+'\n';
   writeFileSync(join(destino,'Posts',name),texto);
   posts++;
 }

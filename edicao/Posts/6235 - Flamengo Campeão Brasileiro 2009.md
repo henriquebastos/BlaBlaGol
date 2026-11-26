@@ -1916,14 +1916,16 @@ Enfim, em nosso coração cruzmaltino, o mundo do futebol é visto do ponto de v
 
 [http://www.youtube.com/watch?v=Rcg8UGojgK4&feature=player\_embedded](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=Rcg8UGojgK4&feature=player_embedded> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=Rcg8UGojgK4&feature=player_embedded")
 
-## 29/01/2010 11:18 - [[Pessoas/E se o Flamengo não fosse o Campeão Brasileiro 2009|E se o Flamengo não fosse o Campeão Brasileiro 2009]] - #48358 ^comentario-48358
-
-\[...\] Em questões de segundos após a conquista rubronegra do Brasileirão 2009, o post sobre o título no estava no ar aqui no Blá blá Gol. \[...\]
-
-## 18/03/2010 4:18 - [[Pessoas/Batavo, Olympikus, BMG e Flamengo – Você é o que consome|Batavo, Olympikus, BMG e Flamengo – Você é o que consome]] - #52919 ^comentario-52919
-
-\[...\] visitava a favela e decidia em campo, levando o Flamengo ao título de Campeão Brasileiro. Pelo caminho, alguns tropeços com faltas à treinos, queimaduras e um ou outro quiprocó, \[...\]
-
 ## 23/10/2010 15:08 - [[Pessoas/deivd|deivd]] - #73435 ^comentario-73435
 
 tomá no cu
+
+# Referências de outros posts
+
+## 29/01/2010 11:18 - [[Posts/6764 - E se o Flamengo não fosse o Campeão Brasileiro 2009|E se o Flamengo não fosse o Campeão Brasileiro 2009]] - #48358 ^comentario-48358
+
+\[...\] Em questões de segundos após a conquista rubronegra do Brasileirão 2009, o post sobre o título no estava no ar aqui no Blá blá Gol. \[...\]
+
+## 18/03/2010 4:18 - [[Posts/7845 - Batavo, Olympikus, BMG e Flamengo – Você é o que consome|Batavo, Olympikus, BMG e Flamengo – Você é o que consome]] - #52919 ^comentario-52919
+
+\[...\] visitava a favela e decidia em campo, levando o Flamengo ao título de Campeão Brasileiro. Pelo caminho, alguns tropeços com faltas à treinos, queimaduras e um ou outro quiprocó, \[...\]

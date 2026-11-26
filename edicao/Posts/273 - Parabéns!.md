@@ -67,6 +67,8 @@ A mensagem do gayzão aí só serviu pra eu ver que no post arco-irisense do Ser
 
 Eu não tinha visto isso ainda. HUAhuAHUHAUHAUha… a viúva do Eurico continua burrona! HUAhuhaUHAUu…
 
-## 13/07/2010 17:44 - [[Pessoas/Não deu|Não deu.]] - #63607 ^comentario-63607
+# Referências de outros posts
+
+## 13/07/2010 17:44 - [[Posts/274 - Não deu|Não deu.]] - #63607 ^comentario-63607
 
 \[...\] de ver no post anterior a exacerbação do desespero alheio. O que não precisava, visto que o Flamengo foi desclassificado \[...\]

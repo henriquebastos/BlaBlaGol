@@ -165,6 +165,8 @@ Na verdade isso é inveja do Vasco que aposentou a camisa 11 em homenagem ao Rom
 
 Minha sugestão é aposentarem também a camisa 13, 14 e 15. E claro que em homenagem aos árbitros e bandeirinhas reponsa´veis por todos os títulos do flamengo. Todos. Não tem um que ele não ganhe roubando.
 
-## [[Pessoas/Até que enfim uma dentro! ꞉ Blá blá Gol|Até que enfim uma dentro! : Blá blá Gol]] - #9116 ^comentario-9116
+# Referências de outros posts
+
+## [[Posts/1141 - Até que enfim uma dentro!|Até que enfim uma dentro!]] - #9116 ^comentario-9116
 
 \[...\] Pode parecer pouca coisa, mas na simplicidade muitas vezes encontramos grandes realizações. Alguém achou conveniente quando o estádio do Caio Martins foi batizado como “Mestre Ziza” (que em várias oportunidades foi algoz do Botafogo) ou a palhaçada recente de aposentar camisa 12 em homenagem à torcida? \[...\]

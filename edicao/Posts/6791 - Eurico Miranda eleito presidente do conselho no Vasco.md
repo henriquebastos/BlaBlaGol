@@ -241,6 +241,8 @@ O Conselho Deliberativo tem mais poder fiscalizador, mudar ítens do Estatuto e 
 
 Hehehe… O bom freguês sempre volta \[2\]
 
-## [[Pessoas/Roberto Dinamite pode e Carlos Alberto não？|Roberto Dinamite pode e Carlos Alberto não?]] - #47549 ^comentario-47549
+# Referências de outros posts
+
+## [[Posts/6798 - Roberto Dinamite pode e Carlos Alberto não|Roberto Dinamite pode e Carlos Alberto não?]] - #47549 ^comentario-47549
 
 \[...\] Pelo visto, a semana começou quente para Dinamite. \[...\]

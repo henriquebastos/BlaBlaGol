@@ -158,10 +158,6 @@ Grande trabalho de busca do atento e diligente, mas nem por isso profissional, E
 
 O CHORORÔ é tão grande que a Flapress nem quer saber o nome do juiz, o negócio é CHORAR !!
 
-## 19/09/2011 10:18 - [[Pessoas/Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO|Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO]] - #106610 ^comentario-106610
-
-\[...\] Final de jogo, empate ruim para ambos – ótimo pra quem quer vaga na Libertadores, péssimo pra quem quer o título. Melhor para a mulambada, que nos roubou dois pontos e a quem restou apenas chorar pelo defunto errado. \[...\]
-
 ## 19/09/2011 10:47 - [[Pessoas/Jorge Caldas|Jorge Caldas]] - #106613 ^comentario-106613
 
 Isso tudo ainda é revolta da atuação do Heber no jogo contra o Figueirense.
@@ -264,3 +260,9 @@ Muito coerente essa putinha! (bem, estou exercendo meu livre direito de express�
 ## 22/09/2011 1:00 - [[Pessoas/Bender|Bender]] - #106753 ^comentario-106753
 
 PUTZ!!! Que isso… HAHHAHAHAHAHA… incrivel mesmo.
+
+# Referências de outros posts
+
+## 19/09/2011 10:18 - [[Posts/15172 - Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO|Botafogo 1X1 framengo – Empate em dia da IMORTALIZAÇÃO de um ÍDOLO]] - #106610 ^comentario-106610
+
+\[...\] Final de jogo, empate ruim para ambos – ótimo pra quem quer vaga na Libertadores, péssimo pra quem quer o título. Melhor para a mulambada, que nos roubou dois pontos e a quem restou apenas chorar pelo defunto errado. \[...\]

@@ -271,10 +271,12 @@ tu es muito bonita. queres-me conhecer??
 
 \[...\] resolveu voltar com sua equipe no 2º tempo recuada para explorar os contra-ataques. O penalty de Victor Simões defendido por Bruno serviu de alerta que a estratégia não foi uma \[...\]
 
-## 24/09/2009 15:50 - [[Pessoas/A Saga continua – Botafogo 2×0 Emelec|A Saga continua – Botafogo 2×0 Emelec]] - #38726 ^comentario-38726
+# Referências de outros posts
+
+## 24/09/2009 15:50 - [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec|A Saga continua – Botafogo 2×0 Emelec]] - #38726 ^comentario-38726
 
 \[...\] ou o André Lima ou o Reinaldo para o banco. Não que o Victor Simões seja titular absoluto (e eu seria a última pessoa da face da terra a dizer isso). Mas o padrão tático do time está nitidamente sendo sacrificado pra que se mantenha dois \[...\]
 
-## 5/10/2009 16:36 - [[Pessoas/Rodada abençoada!|Rodada abençoada!]] - #39658 ^comentario-39658
+## 5/10/2009 16:36 - [[Posts/5372 - Rodada abençoada!|Rodada abençoada!]] - #39658 ^comentario-39658
 
 \[...\] Victor Simões; \[...\]

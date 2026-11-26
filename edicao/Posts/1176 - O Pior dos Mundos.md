@@ -152,6 +152,8 @@ De fato, só comentei porque acho uma situação um tanto surreal. Não defendi 
  Mas esse é só um dos problemas, por isso acho que os times que disputam a Libertadores TÊM que disputar a Copa do Brasil também. Valoriza o torneio e dá mais uma chance para conseguirem a vaga na Libertadores do ano seguinte. Até porque, quem fica de fora da Libertadores, tem mais chances de disputar o torneio no ano seguinte do que quem conseguiu vaga, já que este último precisa ser campeão da competição sulamericana para tanto. E, convenhamos, ganhar a Libertadores é um pouquinho mais difícil que ganhar a Copa do Brasil.  
  O problema é esse: pelo sistema atual, quem tem mérito pode ser castigado. De forma brutal.
 
-## Pingback on Jan 30th, 2008 at 23:39 - [[Pessoas/Cruzeiro 3×1 Cerro Porteño at Blá blá Gol|Cruzeiro 3×1 Cerro Porteño at Blá blá Gol]] - #9765 ^comentario-9765
+# Referências de outros posts
+
+## Pingback on Jan 30th, 2008 at 23:39 - [[Posts/1180 - Cruzeiro 3×1 Cerro Porteño|Cruzeiro 3×1 Cerro Porteño]] - #9765 ^comentario-9765
 
 _Texto não identificado na captura._

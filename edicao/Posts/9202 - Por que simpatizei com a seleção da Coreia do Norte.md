@@ -77,10 +77,6 @@ E eu achando que ele tava chorando porque se borrava de medo do Lúcio.
 
 Boa teoria… o Lúcio estava com uma cara de malvado…
 
-## 16/06/2010 10:01 - [[Pessoas/Copa do Mundo dia 5|Copa do Mundo dia 5]] - #59276 ^comentario-59276
-
-\[...\] BRASIL 2X1 Coréia do Norte – Baba. Obrigação de goleada. (Não foi. Viva a Alemanha, infelizmente) \[...\]
-
 ## 16/06/2010 10:57 - [[Pessoas/Bender|Bender]] - #59285 ^comentario-59285
 
 Brasileiro tem a tendência de sempre apoiar o mais fraquinho.
@@ -303,3 +299,9 @@ Não tenho dúvida nenhuma que Kaká está muito melhor.
 
 Depende cara.  
  Se for pro Circe Du Soleil, Ronaldinho sempre esteve em melhor momento.
+
+# Referências de outros posts
+
+## 16/06/2010 10:01 - [[Posts/9194 - Copa do Mundo dia 5|Copa do Mundo dia 5]] - #59276 ^comentario-59276
+
+\[...\] BRASIL 2X1 Coréia do Norte – Baba. Obrigação de goleada. (Não foi. Viva a Alemanha, infelizmente) \[...\]

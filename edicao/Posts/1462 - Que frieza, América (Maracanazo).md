@@ -614,10 +614,6 @@ Realmente o Flamengo vinha com vitórias, mas sempre com atuações ruins e muit
 
 Nunca babei o ovo do Kléberson e realmente sua fase não é boa. É óbvio que a falta de atividade é péssima para qualquer jogador. Ficou parado praticamente uma temporada inteira e perdeu totalmente o ritmo de competição. Nessas últimas partidas teve um ligeira subida de produção, por ser jogador com boa capacidade técnica, acredito na sua recuperação. Os casos de Toró e Jaílton, são irrecuperáveis porque eles brigam com a bola e sempre se desfazem dela.
 
-## 8/05/2008 16:13 - [[Pessoas/Flamengo patético, ridículo e irritante. at Blá blá Gol|Flamengo patético, ridículo e irritante. at Blá blá Gol]] - #17793 ^comentario-17793
-
-\[...\] Que frieza, América (Maracanazo) \[...\]
-
 ## 8/05/2008 16:29 - [[Pessoas/Serginho Valente|Serginho Valente]] - #17794 ^comentario-17794
 
 Bender, você errou, eu não escrevi aquela parada.
@@ -655,14 +651,6 @@ KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
 ADDDDDDDDDDDDDDDDDDOOOOOOOOOOOOOOOOOOOOOORRRRRRRROOOOOOOOOOOOOO
 
-## 27/08/2009 3:13 - [[Pessoas/Fluminense passa por Flamengo com dois empates(？) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37464 ^comentario-37464
-
-\[...\] anos seguidos que é eliminado precocemente para times que não são assim uma Brastemp. Defensor, América-Méx e agora \[...\]
-
-## 26/01/2010 2:02 - [[Pessoas/Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47939 ^comentario-47939
-
-\[...\] que sem nunca ter jogado por clubes brasileiros possui história por aqui devido ao sacode no Flamengo, Santos e Seleção Brasileira (isso sem esquecer que ainda se salvou na partida no \[...\]
-
 ## 24/02/2010 12:50 - [[Pessoas/Estreias e recuperação|Estreias e recuperação]] - #50709 ^comentario-50709
 
 \[...\] Império do Amor. O Mais Querido busca ter sucesso na sua empreitada pelo continente, já que o Maracanazzo de 2008 dói fundo na alma da torcida rubro-negra. Pelo menos, Cabañas, el IMORTAL, não fará parte dos \[...\]
@@ -672,3 +660,17 @@ ADDDDDDDDDDDDDDDDDDOOOOOOOOOOOOOOOOOOOOOORRRRRRRROOOOOOOOOOOOOO
 chora flamenguista o sonho acabou  
  libertadores  
  tambem não vouuuuuuuuuuu
+
+# Referências de outros posts
+
+## 8/05/2008 16:13 - [[Posts/1465 - Flamengo patético, ridículo e irritante|Flamengo patético, ridículo e irritante.]] - #17793 ^comentario-17793
+
+\[...\] Que frieza, América (Maracanazo) \[...\]
+
+## 27/08/2009 3:13 - [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37464 ^comentario-37464
+
+\[...\] anos seguidos que é eliminado precocemente para times que não são assim uma Brastemp. Defensor, América-Méx e agora \[...\]
+
+## 26/01/2010 2:02 - [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47939 ^comentario-47939
+
+\[...\] que sem nunca ter jogado por clubes brasileiros possui história por aqui devido ao sacode no Flamengo, Santos e Seleção Brasileira (isso sem esquecer que ainda se salvou na partida no \[...\]

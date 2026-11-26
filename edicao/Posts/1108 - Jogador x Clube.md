@@ -79,6 +79,8 @@ Agora.. vai é ficar chorando e perder a chance de jogar na libertadores.
 
 \[...\] Jogador x Clube \[...\]
 
-## 27/02/2008 19:49 - [[Pessoas/Ainda o caso Leandro Amaral at Blá blá Gol|Ainda o caso Leandro Amaral at Blá blá Gol]] - #10908 ^comentario-10908
+# Referências de outros posts
+
+## 27/02/2008 19:49 - [[Posts/1257 - Ainda o caso Leandro Amaral|Ainda o caso Leandro Amaral]] - #10908 ^comentario-10908
 
 \[...\] Sei lá. Serginho já tentou explicar o caso, e eu já emiti minha opinião à respeito da conduta de Leandro Amaral. Sobre o que foi decidido \[...\]

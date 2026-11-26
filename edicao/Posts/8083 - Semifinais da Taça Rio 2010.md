@@ -266,10 +266,6 @@ Bom, se estrutura é fundamental, entao o fato do cruzeiro ter demorado 33 anos 
 
 Exato! (2)
 
-## 4/04/2010 23:13 - [[Pessoas/O Mata-Mata Mineiro|O Mata-Mata Mineiro]] - #54058 ^comentario-54058
-
-\[...\] Por Marcus Oliveira (com ligeiras adaptações do original) \[...\]
-
 ## 5/04/2010 10:08 - [[Pessoas/Gaburah|Gaburah]] - #54078 ^comentario-54078
 
 Queria muito que o Botafogo pegasse o framengo nas semifinais. Não deu. Tenho fé que o Vasco vai encontrar força pra eliminar o urubu.
@@ -1324,10 +1320,16 @@ Edno me irrita.
 
 Jefferson me preocupa.
 
-## 13/04/2010 11:23 - [[Pessoas/Alguma surpresa？ Fla 2 x 1 Vasco|Alguma surpresa? Fla 2 x 1 Vasco]] - #54757 ^comentario-54757
-
-\[...\] Flamengo x Botafogo na decisão da Taça Rio (surpresa?) comentei há 1 semana: Para o Botafogo é a chance de ser campeão carioca direto em cima do maior rival e mostrar que a \[...\]
-
 ## 20/05/2010 9:21 - [[Pessoas/Alaor|Alaor]] - #57439 ^comentario-57439
 
 É hoje que Merdão vai me dar mais uma alegria – UNIVERSIDADE 4 x 0!!!!!!!!
+
+# Referências de outros posts
+
+## 4/04/2010 23:13 - [[Posts/8089 - O Mata-Mata Mineiro|O Mata-Mata Mineiro]] - #54058 ^comentario-54058
+
+\[...\] Por Marcus Oliveira (com ligeiras adaptações do original) \[...\]
+
+## 13/04/2010 11:23 - [[Posts/8137 - Alguma surpresa Fla 2 x 1 Vasco|Alguma surpresa? Fla 2 x 1 Vasco]] - #54757 ^comentario-54757
+
+\[...\] Flamengo x Botafogo na decisão da Taça Rio (surpresa?) comentei há 1 semana: Para o Botafogo é a chance de ser campeão carioca direto em cima do maior rival e mostrar que a \[...\]

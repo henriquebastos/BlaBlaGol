@@ -249,10 +249,12 @@ Liga a merda da sua TV e olha que nego tá trabalhando pra caralho para deixar o
 
 Então saia da sua casa de botas toda alagada.
 
-## 8/04/2010 13:51 - [[Pessoas/Que venha Flamengo x Universidad de Chile|Que venha Flamengo x Universidad de Chile]] - #54332 ^comentario-54332
-
-\[...\] Jogo esse que foi adiado de ontem para hoje por motivos óbvios. \[...\]
-
 ## 9/04/2010 22:09 - [[Pessoas/Victor|Victor]] - #54434 ^comentario-54434
 
 [Cão é resgatado e emociona os bombeiros no Morro do Bumba](<https://web.archive.org/web/*/http://eptv.globo.com/noticias/noticias_interna.aspx?294706> "Captura ainda não verificada. Endereço original: http://eptv.globo.com/noticias/noticias_interna.aspx?294706")
+
+# Referências de outros posts
+
+## 8/04/2010 13:51 - [[Posts/8109 - Que venha Flamengo x Universidad de Chile|Que venha Flamengo x Universidad de Chile]] - #54332 ^comentario-54332
+
+\[...\] Jogo esse que foi adiado de ontem para hoje por motivos óbvios. \[...\]

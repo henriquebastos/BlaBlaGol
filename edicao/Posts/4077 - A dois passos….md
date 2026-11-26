@@ -116,10 +116,6 @@ De qualquer forma, não vejo o Inter perder de nenhum dos dois. O time vive um m
 Queria sugerir um post sobre o Kaká que assinou com o Real Madrid!  
  Mas tem que ter uma foto bacana!
 
-## 3/06/2009 5:08 - [[Pessoas/Já é natal no Real|Já é natal no Real]] - #34109 ^comentario-34109
-
-\[...\] Atendendo a pedido. \[...\]
-
 ## 3/06/2009 9:48 - [[Pessoas/Rafael|Rafael]] - #34112 ^comentario-34112
 
 Que merda heim…de novo  
@@ -230,10 +226,6 @@ Acabou passando o melhor time mesmo, que quando resolveu jogar 10 minutos levou 
 
 O pênalti foi claríssimo, mas depois, com replay e câmera lenta. Não dá pra chiar por isso.
 
-## 4/06/2009 13:19 - [[Pessoas/Corinthians imerecido|Corinthians imerecido]] - #34201 ^comentario-34201
-
-\[...\] são esmiuçados, seguem relatórios dos conselheiros: Eliminado, mais uma vez (Dudu, cruzmaltino) DORIVAL FILHO DA PUTA!!!!!!!!! VAI BOTAR ENRICO E FERNANDINHO NO MEIO DO TEU RABO!!!!!!!!! (Serginho Valente, cruzmaltino) Estava fácil o Vasco se classificar, mas faltou qualidade, de \[...\]
-
 ## 4/06/2009 16:28 - [[Pessoas/Vitor Cot|Vitor Cot]] - #34228 ^comentario-34228
 
 Não dá pra fazer milagre sem um elenco melhor. O treinador faz o que pode com a equipe que tem.
@@ -247,3 +239,13 @@ Criticar faz parte, mas não sem racionalizar… Se o cara colocasse qualquer ou
 ## 4/06/2009 20:09 - Nome não exibido - #34240
 
 [http://www.blablagol.com.br/corinthians-imerecido/comment-page-1/#comment-34239](<http://www.blablagol.com.br/corinthians-imerecido/comment-page-1/#comment-34239>)
+
+# Referências de outros posts
+
+## 3/06/2009 5:08 - [[Posts/4087 - Já é natal no Real|Já é natal no Real]] - #34109 ^comentario-34109
+
+\[...\] Atendendo a pedido. \[...\]
+
+## 4/06/2009 13:19 - [[Posts/4095 - Corinthians imerecido|Corinthians imerecido]] - #34201 ^comentario-34201
+
+\[...\] são esmiuçados, seguem relatórios dos conselheiros: Eliminado, mais uma vez (Dudu, cruzmaltino) DORIVAL FILHO DA PUTA!!!!!!!!! VAI BOTAR ENRICO E FERNANDINHO NO MEIO DO TEU RABO!!!!!!!!! (Serginho Valente, cruzmaltino) Estava fácil o Vasco se classificar, mas faltou qualidade, de \[...\]

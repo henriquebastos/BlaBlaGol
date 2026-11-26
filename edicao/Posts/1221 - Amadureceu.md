@@ -173,6 +173,8 @@ Sobre o Cuca, tenho minhas dúvidas sobre se é o técnico que manda recuar ou s
 
 Acho temerário elogiar demasiadamente o treinador alvinegro nesse instante.
 
-## Pingback on Feb 18th, 2008 at 23:52 - [[Pessoas/Perdidinho da Silva (Gênio) at Blá blá Gol|Perdidinho da Silva (Gênio) at Blá blá Gol]] - #10389 ^comentario-10389
+# Referências de outros posts
+
+## Pingback on Feb 18th, 2008 at 23:52 - [[Posts/1226 - Perdidinho da Silva (Gênio)|Perdidinho da Silva (Gênio)]] - #10389 ^comentario-10389
 
 _Texto não identificado na captura._

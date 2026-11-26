@@ -33,10 +33,6 @@ Agora torcerei para 6 gols do Cruzeiro. **Masoquista tem de sofrer de verdade**.
 
 # Comentários
 
-## 3/07/2009 0:29 - [[Pessoas/À FINAL!!!|À FINAL!!!]] - #35075 ^comentario-35075
-
-\[...\] tomou o 1º, inclusive, aos 9 minutos, fiquei meio assim, assim. Coração é foda, né? E a tal da cantilena continuou me enxendo. “Pôxa, os caras não param um segundo. Podia pelo menos mudar a \[...\]
-
 ## 3/07/2009 10:58 - [[Pessoas/Rafael|Rafael]] - #35086 ^comentario-35086
 
 Puta merda, que coisa chata mesmo.  
@@ -95,3 +91,9 @@ ae mineirada bixa! DALHE TRICOLOR!! aquilo eh torcida de verdade!! apoio o time 
  eh o time mais coadjuvante do Brasil! uma vergonha de time sem-titulos!  
  o q jah ganharam? um Brasileiro em 71 e…….e soh! era isso!  
  vergonhoso!
+
+# Referências de outros posts
+
+## 3/07/2009 0:29 - [[Posts/4338 - À FINAL!!!|À FINAL!!!]] - #35075 ^comentario-35075
+
+\[...\] tomou o 1º, inclusive, aos 9 minutos, fiquei meio assim, assim. Coração é foda, né? E a tal da cantilena continuou me enxendo. “Pôxa, os caras não param um segundo. Podia pelo menos mudar a \[...\]

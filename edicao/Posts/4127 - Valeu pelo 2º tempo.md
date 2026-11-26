@@ -126,6 +126,8 @@ x
 
 Belas deduções.
 
-## 26/01/2010 2:04 - [[Pessoas/Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47941 ^comentario-47941
+# Referências de outros posts
+
+## 26/01/2010 2:04 - [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47941 ^comentario-47941
 
 \[...\] A Copa do Mundo já perdeu uma figuraça com a ausência de Joel, muito provavelmente perderá um outro personagem de destaque, Salvador Cabañas, que sem nunca ter jogado por clubes brasileiros possui história por aqui devido aos sacodes no Flamengo, Santos e Seleção Brasileira (isso sem esquecer que ainda se salvou na partida no Brasil). \[...\]

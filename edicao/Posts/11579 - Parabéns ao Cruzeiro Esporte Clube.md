@@ -990,17 +990,9 @@ Aí é opinião.
 
 Agora olha lá o lance do Chicão e vê se você não vê o braço direito dele nas costas do Parede.
 
-## 17/11/2010 11:58 - [[Pessoas/A perna de volta do Cruzeiro|A perna de volta do Cruzeiro]] - #75112 ^comentario-75112
-
-\[...\] Choram os cruzeirenses em um melodrama sem fim como se o Mundo tivesse acabado por uma derrota no Pacaembu. Se não encharcarem o papel com lágrimas ainda haverá espaço para fazer contas e constatar que o Cruzeiro está mais no páreo que nunca. \[...\]
-
 ## 21/11/2010 10:20 - [[Pessoas/Talita MG|Talita MG]] - #75367 ^comentario-75367
 
 Vergonha nacional. Os ladrões antes roubavam mais escondidos, agora estão robando em público.Só no Brasil mesmo;Um dos futebol mais conceituados do mundo com arbitros tão ruins ou seja beneficiam times paulistas. CBF cadê vc? Cruzeiro e corintias um dos jogos mais roubados do campeonato. O que será do nosso futebol nos próximos anos……..
-
-## 22/11/2010 10:31 - [[Pessoas/O Cruzeiro acredita|O Cruzeiro acredita]] - #75444 ^comentario-75444
-
-\[...\] faz muito bem. Depois de toda a celeuma criada em torno do jogo contra o Corinthians, cansei de ouvir que o Cuca mostraria sua face de chorão e que o Cruzeiro iria patinar nas rodadas \[...\]
 
 ## 22/11/2010 19:23 - [[Pessoas/WARLEY|WARLEY]] - #75542 ^comentario-75542
 
@@ -1086,3 +1078,13 @@ E parece que fez o seu sucessor nesse quesito. Só que com flagrante menor capac
 ## 6/01/2011 22:28 - [[Pessoas/jhonata|jhonata]] - #79828 ^comentario-79828
 
 na minha opiniao o cruzeiro perdeu muita foça estes ultimos tempos
+
+# Referências de outros posts
+
+## 17/11/2010 11:58 - [[Posts/11614 - A perna de volta do Cruzeiro|A perna de volta do Cruzeiro]] - #75112 ^comentario-75112
+
+\[...\] Choram os cruzeirenses em um melodrama sem fim como se o Mundo tivesse acabado por uma derrota no Pacaembu. Se não encharcarem o papel com lágrimas ainda haverá espaço para fazer contas e constatar que o Cruzeiro está mais no páreo que nunca. \[...\]
+
+## 22/11/2010 10:31 - [[Posts/11678 - O Cruzeiro acredita|O Cruzeiro acredita]] - #75444 ^comentario-75444
+
+\[...\] faz muito bem. Depois de toda a celeuma criada em torno do jogo contra o Corinthians, cansei de ouvir que o Cuca mostraria sua face de chorão e que o Cruzeiro iria patinar nas rodadas \[...\]

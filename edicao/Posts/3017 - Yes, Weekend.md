@@ -137,6 +137,8 @@ A sina do flamenguista ingênuo e cego.
 
 Caramba! Nunca ouvi isso. É a primeira vez! Que original! \[2\]
 
-## 21/05/2009 19:25 - [[Pessoas/Outro bom jogo|Outro bom jogo]] - #33373 ^comentario-33373
+# Referências de outros posts
+
+## 21/05/2009 19:25 - [[Posts/3944 - Outro bom jogo|Outro bom jogo]] - #33373 ^comentario-33373
 
 \[...\] Flamengo vai mostrando porque sobra no Rio. Mas para a disputa do brasileirão não é \[...\]

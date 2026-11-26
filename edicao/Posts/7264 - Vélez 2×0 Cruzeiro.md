@@ -217,6 +217,8 @@ o qui nao podemos e perder cempre nao e
 
 \[...\] (a.k.a. Casa de Todos os Sonhos), após a meia-tragédia que aconteceu na Argentina, quando perdeu dois jogadores e o jogo para o Vélez, em pleno Fortín. Como transformar a América em \[...\]
 
-## 25/02/2010 16:12 - [[Pessoas/É Libertadores, amigo|É Libertadores, amigo]] - #50822 ^comentario-50822
+# Referências de outros posts
+
+## 25/02/2010 16:12 - [[Posts/7455 - É Libertadores, amigo|É Libertadores, amigo]] - #50822 ^comentario-50822
 
 \[...\] Cruzeiro recuperou-se bem da derrota para o Vélez, pela 1ª rodada da Libertadores. Ontem, no “Campo dos Sonhos” (a.k.a. Mineirão), o \[...\]

@@ -91,6 +91,8 @@ Em tempo, pelo Estatuto do Torcedor, o regulamento de uma competição só pode 
 
 Esse Estatuto já tem 2 anos né? Então já pode ser alterado.
 
-## Pingback on Feb 12th, 2008 at 17:49 - [[Pessoas/Ingressos antecipados para as Semifinais da Taça GB 2008 - Serviço at Blá blá Gol|Ingressos antecipados para as Semifinais da Taça GB 2008 - Serviço at Blá blá Gol]] - #10142 ^comentario-10142
+# Referências de outros posts
+
+## Pingback on Feb 12th, 2008 at 17:49 - [[Posts/1211 - Ingressos antecipados para as Semifinais da Taça GB 2008 – Serviço|Ingressos antecipados para as Semifinais da Taça GB 2008 – Serviço]] - #10142 ^comentario-10142
 
 _Texto não identificado na captura._

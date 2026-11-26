@@ -63,10 +63,6 @@ Como disse lá no [dia 8 de junho](<http://www.blablagol.com.br/desespero-9077#c
 O subítulo do post poderia ser:  
   **Fred oficialmente bichado**
 
-## 29/07/2010 20:14 - [[Pessoas/Renato Mauricio Prado x Fred|Renato Mauricio Prado x Fred]] - #65342 ^comentario-65342
-
-\[...\] Fred é bichado, não há dúvidas e Renato Maurício Prado não está errado na crítica a esse fato comprovado estatisticamente. A \[...\]
-
 ## 31/07/2010 20:39 - [[Pessoas/Rodrigo|Rodrigo]] - #65514 ^comentario-65514
 
 Eu pessoalmente acho que ele se sai bem no flu.. tanto que foi artilheiro do brasileiro, mesmo com o flu lutando pra não cair!
@@ -182,3 +178,9 @@ Você não entendeu…
 ## 1/08/2010 16:39 - [[Pessoas/Saulo|saulo]] - #65549 ^comentario-65549
 
 Washington é um típico centroavante trombador com alguma técnica. Será um ótimo reserva para o cambaleante Fred. Não possui a categoria do seu titular, mas é ótimo para esse campeonato equilibrado e longo.
+
+# Referências de outros posts
+
+## 29/07/2010 20:14 - [[Posts/10148 - Renato Mauricio Prado x Fred|Renato Mauricio Prado x Fred]] - #65342 ^comentario-65342
+
+\[...\] Fred é bichado, não há dúvidas e Renato Maurício Prado não está errado na crítica a esse fato comprovado estatisticamente. A \[...\]

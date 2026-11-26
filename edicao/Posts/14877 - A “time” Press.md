@@ -862,6 +862,8 @@ até a rodada 33
  Fluminense 6  
  Vasco 12
 
-## 8/12/2011 17:13 - [[Pessoas/Time Press – parte 2|Time Press – parte 2]] - #114242 ^comentario-114242
+# Referências de outros posts
+
+## 8/12/2011 17:13 - [[Posts/15989 - Time Press – parte 2|Time Press – parte 2]] - #114242 ^comentario-114242
 
 \[...\] BBG publicou o primeiro levantamento após a rodada 16 e fomos acompanhando ao longo do campeonato. As transmissões por time seguiram relativamente equilibradas até a rodada 18. A partir da 19 a \[...\]

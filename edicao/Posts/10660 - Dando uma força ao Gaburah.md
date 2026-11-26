@@ -253,10 +253,6 @@ Seria melhor tentar(considerando os desfalques) Leandro Guerreiro, Marcelo Matto
 
 Utopia!
 
-## 5/09/2010 8:38 - [[Pessoas/Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69367 ^comentario-69367
-
-\[...\] Tão ruim que eu nem quis escrever sobre, restando ao bravo Zé Fogão o trabalho de tentar achar explicação para aquele show de horror. Merecida ou imerecidamente, no entanto, os três pontos \[...\]
-
 ## 6/09/2010 10:28 - [[Pessoas/Bender|Bender]] - #69395 ^comentario-69395
 
 Botafogos reclamam de uma derrota absolutamente normal pro atual campeão da Liberta no Beira Rio por 1×0. Reclamam quando o time ganha a partida e garante os 3 pontos. Reclamam quando não perdem.  
@@ -266,3 +262,9 @@ Botafogos reclamam de uma derrota absolutamente normal pro atual campeão da Lib
  E tem Joel no comando, um dos poucos treinadores que realmente faz diferença.  
  O Glorioso pode negociar bem as parcerias com Fla e Flu e aumentar (bastante) sua arrecadação.  
  O Botafogo é um dos candidatos ao título.
+
+# Referências de outros posts
+
+## 5/09/2010 8:38 - [[Posts/10689 - Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69367 ^comentario-69367
+
+\[...\] Tão ruim que eu nem quis escrever sobre, restando ao bravo Zé Fogão o trabalho de tentar achar explicação para aquele show de horror. Merecida ou imerecidamente, no entanto, os três pontos \[...\]

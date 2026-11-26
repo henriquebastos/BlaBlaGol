@@ -1331,10 +1331,6 @@ Concordo com o Bender 2011
 
 Rááááááááááááá!
 
-## 18/11/2011 8:02 - [[Pessoas/Quem quer mexer no regulamento do Estadual？ Fale agora ou cale-se para sempre|Quem quer mexer no regulamento do Estadual? Fale agora ou cale-se para sempre]] - #111921 ^comentario-111921
-
-\[…\] (ANT) e Frente Nacional dos Torcedores (FNT) nada tocam no tema em seus sites ocupados em hashtagear movimentos golpistas. Vai ver acreditam ser manifestação mais produtiva e eficiente que megafonear os direitos que já \[…\]
-
 ## 15/02/2012 21:53 - [[Pessoas/Saulo|saulo]] - #118626 ^comentario-118626
 
 A renúncia deverá ser antecipada:  
@@ -1404,3 +1400,9 @@ Blog do JUCA, no UOL ESPORTE e o post **inteiro** é
 > defender claramente a permanência de um governo fraco, mas legítimo, para que não prevaleçam os métodos obscuros de instituições fortes, mas autoritárias.
 
 Nem coloca mais o futebol como pano de fundo. Descaradão mesmo.
+
+# Referências de outros posts
+
+## 18/11/2011 8:02 - [[Posts/15704 - Quem quer mexer no regulamento do Estadual Fale agora ou cale-se para sempre|Quem quer mexer no regulamento do Estadual? Fale agora ou cale-se para sempre]] - #111921 ^comentario-111921
+
+\[…\] (ANT) e Frente Nacional dos Torcedores (FNT) nada tocam no tema em seus sites ocupados em hashtagear movimentos golpistas. Vai ver acreditam ser manifestação mais produtiva e eficiente que megafonear os direitos que já \[…\]

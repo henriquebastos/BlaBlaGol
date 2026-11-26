@@ -183,12 +183,14 @@ Para justificar o grande mercado consumidor dos times de São Paulo no próprio 
 
 Interessante… mas não entendi a conexão de suas idéias.
 
-## 22/06/2012 8:47 - [[Pessoas/Os potenciais de Engenhão, Laranjeiras e afins|Os potenciais de Engenhão, Laranjeiras e afins]] - #131533 ^comentario-131533
-
-\[…\] desses cruzamentos determinar o que seria o PIB de cada uma das 8 torcidas, que seria um indicador importante de potencial de mercado. \[…\]
-
 ## 25/06/2012 11:58 - [[Pessoas/Victor|Victor]] - #131720 ^comentario-131720
 
 ## 29/10/2012 23:27 - [[Pessoas/gmochel|gmochel]] - #143545 ^comentario-143545
 
 Mas tem um fator que você não ponderou. Seria melhor para uma empresa que a marca dela fosse visível na maior parte do território nacional. E isso ocorre com flamengo e vasco, os jogos dos times cariocas são transmitidos muito mais vezes para todo o brasil do que os paulistas. isso causa uma visibilidade imensa.
+
+# Referências de outros posts
+
+## 22/06/2012 8:47 - [[Posts/17424 - Os potenciais de Engenhão, Laranjeiras e afins|Os potenciais de Engenhão, Laranjeiras e afins]] - #131533 ^comentario-131533
+
+\[…\] desses cruzamentos determinar o que seria o PIB de cada uma das 8 torcidas, que seria um indicador importante de potencial de mercado. \[…\]

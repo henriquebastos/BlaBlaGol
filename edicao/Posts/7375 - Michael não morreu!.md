@@ -99,6 +99,8 @@ Um cara que chama a dupla de ataque de Império do Amor vem me falar de viadagen
 
 Se ninguém falar, depois eu falo.
 
-## 28/02/2010 23:40 - [[Pessoas/Santos 2×1 Corinthians꞉ Alguém consegue torcer contra o Peixe？|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51254 ^comentario-51254
+# Referências de outros posts
+
+## 28/02/2010 23:40 - [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51254 ^comentario-51254
 
 \[...\] que estava cagando e andando para o Timão. O interesse era na molecada (sem conotações rubronegras) do Peixe mesmo com a ausência de Robinho convocado para o joga da Seleção em Londres (para \[...\]

@@ -379,6 +379,8 @@ A discussão completa você acompanha [aqui](<http://www.blablagol.com.br/botafo
 
 E, claro…
 
-## 12/08/2010 9:09 - [[Pessoas/W. S. ‘El Loco’ Abreu G|W. S. ‘El Loco’ Abreu G.]] - #66794 ^comentario-66794
+# Referências de outros posts
+
+## 12/08/2010 9:09 - [[Posts/10278 - W. S. ‘El Loco’ Abreu G|W. S. ‘El Loco’ Abreu G.]] - #66794 ^comentario-66794
 
 \[...\] fator motivador da presença nos estádios. Mais até do que Magossuel – e catapultado pela grande exposição que deu ao Botafogo durante a grande campanha uruguaia na Copa do Mundo 2010 (para desespero de muita gente) – ‘El Loco’ faz a torcida comparecer e vibrar \[...\]

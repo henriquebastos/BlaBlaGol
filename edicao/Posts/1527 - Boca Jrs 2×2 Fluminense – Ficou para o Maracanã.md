@@ -250,6 +250,8 @@ Cóe Paulo! Contrata uma cozinheira…
 
 Prefiro cuzinheira rsrsrsrsr
 
-## 7/03/2012 12:03 - [[Pessoas/Mais um Boca Juniors x Fluminense para Lincoln de Castro|Mais um Boca Juniors x Fluminense para Lincoln de Castro]] - #119877 ^comentario-119877
+# Referências de outros posts
+
+## 7/03/2012 12:03 - [[Posts/16412 - Mais um Boca Juniors x Fluminense para Lincoln de Castro|Mais um Boca Juniors x Fluminense para Lincoln de Castro]] - #119877 ^comentario-119877
 
 \[...\] 2008 a partida em que o Fluminense calou o Boca na Argentina não ocorreu em La Bombonera, e sim Avellaneda onde o Tricolor jogava na condição de azarão e o \[...\]

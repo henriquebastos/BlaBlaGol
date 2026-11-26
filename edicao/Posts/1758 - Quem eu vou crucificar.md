@@ -274,6 +274,8 @@ Concordo com Zarga, o Botafogo do ano passado era melhor que esse Flamengo. É s
 
 Caio Jr. pode ser melhor que o Cuca, mas isso não muda muita coisa.
 
-## [[Pessoas/O Mistério de Xerém|O Mistério de Xerém]] - #47390 ^comentario-47390
+# Referências de outros posts
+
+## [[Posts/6687 - O Mistério de Xerém|O Mistério de Xerém]] - #47390 ^comentario-47390
 
 \[...\] Com o desmanche daquela equipe, Tartá foi ganhando, pela necessidade do momento, ainda mais destaque na equipe de Renato Gaúcho, apesar da mesma passar por crise. Marcou também momentos instáveis de Tartá ao entregar um gol e consequentemente um jogo para o Coritiba no Maracanã e expulsão contra a Portuguesa no Canindé. \[...\]

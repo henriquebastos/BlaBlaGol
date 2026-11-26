@@ -567,10 +567,6 @@ Posso afirmar: esse será o grupo mais truncado da copa. Todas as seleções tem
 
 A favorita Epanha só chegou hoje à África do Sul é? Xiii… depois não reclama…
 
-## 19/07/2010 0:47 - [[Pessoas/A Copa vista pelo retrovisor|A Copa vista pelo retrovisor]] - #64216 ^comentario-64216
-
-\[...\] não era o USA for Africa a cantar com uma duvidosa piedade seu “We are the World“. Foi a Shakira – também saída do terceiro mundo, mas que faz todo o mundo desenvolvido babar por ela \[...\]
-
 ## 16/03/2011 0:44 - [[Pessoas/Victor|Victor]] - #89329 ^comentario-89329
 
 [**Shakira** e Lenny Kravitz**estão confirmados para o Rock in Rio**](<https://web.archive.org/web/*/http://noticias.terra.com.br/noticias/0,,OI4994961-EI188,00-Shakira+e+Lenny+Kravitz+estao+confirmados+para+o+Rock+in+Rio.html> "Captura ainda não verificada. Endereço original: http://noticias.terra.com.br/noticias/0,,OI4994961-EI188,00-Shakira+e+Lenny+Kravitz+estao+confirmados+para+o+Rock+in+Rio.html")
@@ -594,3 +590,9 @@ Cê acha que a mulher dele deixa?
 ## 16/03/2011 8:00 - Nome não exibido - #89335
 
 Vai que ela é compreensiva… hehe
+
+# Referências de outros posts
+
+## 19/07/2010 0:47 - [[Posts/9930 - A Copa vista pelo retrovisor|A Copa vista pelo retrovisor]] - #64216 ^comentario-64216
+
+\[...\] não era o USA for Africa a cantar com uma duvidosa piedade seu “We are the World“. Foi a Shakira – também saída do terceiro mundo, mas que faz todo o mundo desenvolvido babar por ela \[...\]

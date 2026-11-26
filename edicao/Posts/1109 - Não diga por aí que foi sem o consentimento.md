@@ -351,6 +351,8 @@ Huahuahuauahua, dane-se o Vasco.
 Tem que usar gás também pra acender o Fogão.  
  (com trocadilho)
 
-## 27/02/2008 19:51 - [[Pessoas/Ainda o caso Leandro Amaral at Blá blá Gol|Ainda o caso Leandro Amaral at Blá blá Gol]] - #10909 ^comentario-10909
+# Referências de outros posts
+
+## 27/02/2008 19:51 - [[Posts/1257 - Ainda o caso Leandro Amaral|Ainda o caso Leandro Amaral]] - #10909 ^comentario-10909
 
 \[...\] Sei lá. Serginho já tentou explicar o caso, e eu já emiti minha opinião à respeito da conduta de Leandro Amaral. Sobre o que foi decidido agora, passo a bola. Só sei que \[...\]

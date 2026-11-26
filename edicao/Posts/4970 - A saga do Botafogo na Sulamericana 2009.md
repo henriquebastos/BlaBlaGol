@@ -135,10 +135,6 @@ Rumo à Guayaquil. Que nem *check point* de videogame.
 Em tempo:  
  10. Fahel… Fahel? FAHEL?
 
-## 24/09/2009 15:31 - [[Pessoas/A Saga continua – Botafogo 2×0 Emelec|A Saga continua – Botafogo 2×0 Emelec]] - #38722 ^comentario-38722
-
-\[...\] Renato tem feito sim a diferença sempre que entra. O Estevam podia mesmo arrumar um jeito de encaixar esse cara entre os titulares. Isso \[...\]
-
 ## 26/09/2009 19:16 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #38871 ^comentario-38871
 
 esse time do emelec eh um esgoto,se defenderam o jogo inteiro e poderiam ter tomado uma goleada,lá no equador sairão,portanto será mto fácil vencer,se porventura vier a ser elimnado entrará para a lista de vexames na sulamericana,q vai se tornando rotineira.
@@ -233,3 +229,9 @@ Até agora eu, tu e Henrique Goiano. Boca-de-Aratéia pensa no assunto. Vamos lo
 ## 5/11/2009 13:13 - [[Pessoas/Gaburah|Gaburah]] - #42293 ^comentario-42293
 
 Fim.
+
+# Referências de outros posts
+
+## 24/09/2009 15:31 - [[Posts/5188 - A Saga continua – Botafogo 2×0 Emelec|A Saga continua – Botafogo 2×0 Emelec]] - #38722 ^comentario-38722
+
+\[...\] Renato tem feito sim a diferença sempre que entra. O Estevam podia mesmo arrumar um jeito de encaixar esse cara entre os titulares. Isso \[...\]

@@ -35,10 +35,6 @@ Agora mais do que nunca faz-se necessário que os times do Rio de Janeiro classi
 
 # Comentários
 
-## 27/04/2008 11:05 - [[Pessoas/Bye, bye, torcedor do Palmeiras at Blá blá Gol|Bye, bye, torcedor do Palmeiras at Blá blá Gol]] - #16523 ^comentario-16523
-
-\[...\] Bye, bye, Cerveja \[...\]
-
 ## 27/04/2008 11:13 - [[Pessoas/Fabinho|Fabinho]] - #16525 ^comentario-16525
 
 Convivi com gente de torcida. O cara que briga no caminho, nas imediações e dentro do estádio (há muitos anos não tem mais confronto dentro dos estádios) não bebe no Maracanã.
@@ -106,14 +102,6 @@ Proíbem a cervejinha mas o cheiro de maconha nas arquibancadas continua.
 
 Brasil 5 x 0 Bolívia, no Maracanã com cerveja proibída. Muito engraçado eu, Serginho e Leo comprando e bebendo cerveja na arquibancada meio que escondido e o PM fingindo que não estava vendo.
 
-## 23/01/2009 11:19 - [[Pessoas/Tem gente que não bebe e tá morrendo…|Tem gente que não bebe e tá morrendo…]] - #28506 ^comentario-28506
-
-\[...\]Dentro do Maraca, a cana já tava proibida desde o ano passado, como o Blá blá Gol comentou exaustivamente.\[...\]
-
-## 10/06/2009 16:49 - [[Pessoas/Obrigado,FIFA - Cerveja na Copa|Obrigado,FIFA - Cerveja na Copa]] - #34393 ^comentario-34393
-
-\[...\] tão hipócrita e preguiçosa a medida da proibição de cerveja, resolvi até “deixar para lá” (porém, desde então não frequento mais as \[...\]
-
 ## 24/09/2009 12:14 - [[Pessoas/Cerveja na Copa « Além do Futebol – COPA 2014|Cerveja na Copa « Além do Futebol – COPA 2014]] - #38682 ^comentario-38682
 
 \[...\] Em blabla GOL, Victor critica a falta de referência quanto à metodologia utilizada ao afirmar que nos estádios onde não havia venda de cerveja os índices de violência foram menores. \[...\]
@@ -121,3 +109,17 @@ Brasil 5 x 0 Bolívia, no Maracanã com cerveja proibída. Muito engraçado eu, 
 ## 22/12/2009 16:35 - [[Pessoas/Douglas|Douglas]] - #46079 ^comentario-46079
 
 Bem, na Copa do Mundo vão liberar a cerveja. Pior que a poucos metros do Maraca – diga-se Mangueira – dá para comprar de tudo. De cerveja a crack em dia de jogo.
+
+# Referências de outros posts
+
+## 27/04/2008 11:05 - [[Posts/1426 - Bye, bye, torcedor do Palmeiras|Bye, bye, torcedor do Palmeiras]] - #16523 ^comentario-16523
+
+\[...\] Bye, bye, Cerveja \[...\]
+
+## 23/01/2009 11:19 - [[Posts/3011 - Tem gente que não bebe e tá morrendo…|Tem gente que não bebe e tá morrendo…]] - #28506 ^comentario-28506
+
+\[...\]Dentro do Maraca, a cana já tava proibida desde o ano passado, como o Blá blá Gol comentou exaustivamente.\[...\]
+
+## 10/06/2009 16:49 - [[Posts/4114 - Obrigado,FIFA – Cerveja na Copa|Obrigado,FIFA – Cerveja na Copa]] - #34393 ^comentario-34393
+
+\[...\] tão hipócrita e preguiçosa a medida da proibição de cerveja, resolvi até “deixar para lá” (porém, desde então não frequento mais as \[...\]

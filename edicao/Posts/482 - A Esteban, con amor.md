@@ -115,10 +115,12 @@ Perdón por nuestra sinceridad, mas las cositas que nosotros más gostar en bras
  Esteban crustille  
  Córdoba
 
-## 20/05/2010 22:26 - [[Pessoas/Verón assistirá Andrézinho da África do Sul|Verón assistirá Andrézinho da África do Sul]] - #57494 ^comentario-57494
-
-\[…\] caminho rumo ao bicampeonato da Santander. Pato não conseguiu e tal primazia ficou para o hincha Esteban Crustille, que empolgado com a vitória sobre os brazucas boludos de la mierda soltou rojões esfumaçando a \[…\]
-
 ## 10/06/2010 17:25 - [[Pessoas/Chicão|Chicão]] - #58892 ^comentario-58892
 
 Tu madre es una puta portenha e tu padre es um perro brasileño… Y tu es un maricón desamparado…
+
+# Referências de outros posts
+
+## 20/05/2010 22:26 - [[Posts/8714 - Verón assistirá Andrézinho da África do Sul|Verón assistirá Andrézinho da África do Sul]] - #57494 ^comentario-57494
+
+\[…\] caminho rumo ao bicampeonato da Santander. Pato não conseguiu e tal primazia ficou para o hincha Esteban Crustille, que empolgado com a vitória sobre os brazucas boludos de la mierda soltou rojões esfumaçando a \[…\]

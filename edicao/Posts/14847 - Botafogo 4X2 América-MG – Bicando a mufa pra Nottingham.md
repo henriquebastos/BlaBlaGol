@@ -264,6 +264,8 @@ Como eu disse muitas outras vezes, o América-MG é o maior clube de Minas.
 
 fui descoberto
 
-## 17/08/2011 23:59 - [[Pessoas/Internacional 1X0 Botafogo – Locodependência ou morte!|Internacional 1X0 Botafogo – Locodependência ou morte!]] - #104204 ^comentario-104204
+# Referências de outros posts
+
+## 17/08/2011 23:59 - [[Posts/14889 - Internacional 1X0 Botafogo – Locodependência ou morte!|Internacional 1X0 Botafogo – Locodependência ou morte!]] - #104204 ^comentario-104204
 
 \[...\] do Loco (contundido), do Euquesou (suspenso) e de Lucas (no banco) o Botafogo foi até Porto Alegre encarar um Colorado que almeja \[...\]

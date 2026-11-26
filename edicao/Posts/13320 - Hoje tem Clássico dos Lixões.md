@@ -738,10 +738,6 @@ O segundo tempo do jogo foi realmente menos complicado. Os erros do primeiro def
 
 Concordo 100%
 
-## 25/04/2011 10:00 - [[Pessoas/ANAF esculacha|ANAF esculacha]] - #92625 ^comentario-92625
-
-\[...\] dia em que outro de seus afiliados cometia nova performance no fra X Flu, a ANAF emitiu sua resposta ao clube alvinegro atirando mais pesado ainda, utilizando-se inclusive \[...\]
-
 ## 25/04/2011 11:03 - [[Pessoas/Saulo|saulo]] - #92643 ^comentario-92643
 
 O grande “lixão” é esse estadual inchado, fraco, esvaziado e sem graça. Espero que o Flamengo cumpra a sua parte e poupe o tempo dos jogadores e os torcedores desse “me engana que eu gosto”. 16 clubes está fora realidade econômica e técnica do Estado do Rio de Janeiro. Não apenas aqui, mas em vários Estados essa longa duração é questionada. O campeonato brasileiro deveria começar no início de Abril e poderia proporcionar espaços no calendário aos clubes cederem seus atletas a seleção sem prejuízos.  
@@ -1009,3 +1005,9 @@ Até porque se irritando o pessoal que não te conhece pode achar que é verdade
 ## 26/04/2011 12:11 - Nome não exibido - #92803
 
 Usou o Chaves, ganhou o meu respaldo.
+
+# Referências de outros posts
+
+## 25/04/2011 10:00 - [[Posts/13342 - ANAF esculacha|ANAF esculacha]] - #92625 ^comentario-92625
+
+\[...\] dia em que outro de seus afiliados cometia nova performance no fra X Flu, a ANAF emitiu sua resposta ao clube alvinegro atirando mais pesado ainda, utilizando-se inclusive \[...\]

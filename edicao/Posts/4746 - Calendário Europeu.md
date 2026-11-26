@@ -262,10 +262,6 @@ Os russos não precisam adequar ao calendário do resto da Europa. Por causa do 
 
 comcordo ate a copa e vde
 
-## 6/01/2011 15:27 - [[Pessoas/Timemania 1꞉ Ranking 2008∕09∕10|Timemania 1: Ranking 2008/09/10]] - #79778 ^comentario-79778
-
-\[…\] Não era para menos. Uma loteria envolvendo todos os clubes grandes e com viés populista de (mais uma) salvação do futebol brasileiro era o prato \[…\]
-
 ## 17/02/2012 13:23 - [[Pessoas/Bruna|bruna]] - #118817 ^comentario-118817
 
 achei incrivivelmente uma merda
@@ -281,3 +277,9 @@ ai seu te pego…BOSTA
 ## 10/09/2012 18:03 - [[Pessoas/TAYNA MACEDO DE LIRA|TAYNA MACEDO DE LIRA]] - #139069 ^comentario-139069
 
 ñ entendi nada mesmo cara q coisa é essa
+
+# Referências de outros posts
+
+## 6/01/2011 15:27 - [[Posts/12197 - Timemania 1 Ranking 2008 09 10|Timemania 1: Ranking 2008/09/10]] - #79778 ^comentario-79778
+
+\[…\] Não era para menos. Uma loteria envolvendo todos os clubes grandes e com viés populista de (mais uma) salvação do futebol brasileiro era o prato \[…\]

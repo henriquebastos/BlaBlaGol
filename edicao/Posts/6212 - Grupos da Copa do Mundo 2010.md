@@ -319,10 +319,6 @@ Grupo A – México e Uruguai
 
 Suíça campeã da Copa:
 
-## 4/12/2009 21:49 - [[Pessoas/Grupos da Copa – primeiros chutes Blablagolianos|Grupos da Copa – primeiros chutes Blablagolianos]] - #44653 ^comentario-44653
-
-\[...\] Brasil 3 x 0 Coreia Brasil 2 x 1 Costa do Marfim Brasil 1 x 1 Portugal Com algumas considerações à respeito desse grupo. \[...\]
-
 ## 16/01/2010 17:21 - [[Pessoas/Joao Vitor|Joao Vitor]] - #47441 ^comentario-47441
 
 Grupo A: África,França!  
@@ -333,3 +329,9 @@ Grupo A: África,França!
  Grupo F: Itália,Paraguai!  
  Grupo G: Brasil,Portugal!  
  Grupo H: Espanha,Honduras!
+
+# Referências de outros posts
+
+## 4/12/2009 21:49 - [[Posts/6222 - Grupos da Copa – primeiros chutes Blablagolianos|Grupos da Copa – primeiros chutes Blablagolianos]] - #44653 ^comentario-44653
+
+\[...\] Brasil 3 x 0 Coreia Brasil 2 x 1 Costa do Marfim Brasil 1 x 1 Portugal Com algumas considerações à respeito desse grupo. \[...\]

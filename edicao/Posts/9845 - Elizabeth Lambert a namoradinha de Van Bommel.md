@@ -117,10 +117,6 @@ A goleirinha sueca tirou o posto do Castillo de frangueiro mais carismático do 
 Jogar futebol com TPM é isso, amigo.  
  A puxada de cabelo foi a cereja do bolo.
 
-## 28/07/2010 11:29 - [[Pessoas/Mais do Mesmo|Mais do Mesmo]] - #65187 ^comentario-65187
-
-\[...\] Já que falamos em violência…A ineficiência absoluta do Brasil em aplicar suas leis, acaba sempre na produção de mais leis, na maioria das vezes redundantes. Com o famigerado e, praticamente, ignorado Estatuto do Torcedor não poderia ser diferente. \[...\]
-
 ## 28/07/2010 11:43 - [[Pessoas/Bender|Bender]] - #65195 ^comentario-65195
 
 Eu daria uns tapinhas na Beth Lambert.
@@ -141,3 +137,9 @@ HAUAHAUAHUAHUHUAUUHHUAUHAAHUHAUAHUAUHAUH
 ## 28/07/2010 14:30 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #65222 ^comentario-65222
 
 pra parar ela só com um [colar ELIZABETANO](<https://web.archive.org/web/*/http://www.villavet.com.br/produtos/colar.jpg> "Captura ainda não verificada. Endereço original: http://www.villavet.com.br/produtos/colar.jpg")
+
+# Referências de outros posts
+
+## 28/07/2010 11:29 - [[Posts/10100 - Mais do Mesmo|Mais do Mesmo]] - #65187 ^comentario-65187
+
+\[...\] Já que falamos em violência…A ineficiência absoluta do Brasil em aplicar suas leis, acaba sempre na produção de mais leis, na maioria das vezes redundantes. Com o famigerado e, praticamente, ignorado Estatuto do Torcedor não poderia ser diferente. \[...\]

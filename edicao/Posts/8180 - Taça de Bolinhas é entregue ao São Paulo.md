@@ -227,10 +227,6 @@ essa foto do christian com a taça de isopor da muita pena,escroteira pura !!!!!
  hauahauauaHAHUhauhahaauahuahauauahauahauahau  
  aksosjiasjjaiojdjsiai9aajjAAJAJUAUAUAUAUAAAUAU
 
-## 15/04/2010 11:50 - [[Pessoas/Fábulas Modernas do Futebol꞉ O Flamengo e a Taça de Bolinhas|Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas]] - #55015 ^comentario-55015
-
-\[...\] O Contexto contado aqui \[...\]
-
 ## 15/04/2010 12:02 - [[Pessoas/Glauco|Glauco]] - #55019 ^comentario-55019
 
 > *“Entre mortos e feridos, a Taça está guardada onde deveria estar. Com o clube que ostenta o título de primeiro clube a conquistar 5 vezes o Campeonato Brasileiro, muito embora não tenha sido o primeiro a ser 5 vezes campeão nacional, primazia que cabe única e exclusivamente ao Santos Futebol Clube.”*
@@ -549,3 +545,9 @@ Não, de forma alguma o São Paulo é o 1º Penta do Brasileiro, o Flamengo ganh
 ## 16/04/2010 22:21 - Nome não exibido - #55183
 
 **R**enato, **M**uito **P**ertinente seu comentário.
+
+# Referências de outros posts
+
+## 15/04/2010 11:50 - [[Posts/8201 - Fábulas Modernas do Futebol O Flamengo e a Taça de Bolinhas|Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas]] - #55015 ^comentario-55015
+
+\[...\] O Contexto contado aqui \[...\]

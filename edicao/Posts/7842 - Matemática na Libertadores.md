@@ -93,6 +93,8 @@ Observações:
 
 \[...\] situação está longe de ser desesperadora. Pela metedologia Blablagoliana o time que fizer 12 pontos estará praticamente classificado. Para o Flamengo basta ganhar seus 2 \[...\]
 
-## 16/04/2010 11:50 - [[Pessoas/“Daquele Jeito”|“Daquele Jeito”]] - #55132 ^comentario-55132
+# Referências de outros posts
+
+## 16/04/2010 11:50 - [[Posts/8212 - “Daquele Jeito”|“Daquele Jeito”]] - #55132 ^comentario-55132
 
 \[...\] almas(?), mas está classificado. Ao empatar com o Colo-Colo em Santiago e chegar aos 11 pontos, depois da Matemática bater perfeitamente com as previsões, o time não pode mais ser alcançado pelos 2 piores segundos colocados dos outros \[...\]

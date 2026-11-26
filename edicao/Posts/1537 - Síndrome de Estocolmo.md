@@ -403,14 +403,16 @@ Ditador só sai do poder por uma revolução ou morto. Depois da era Eurico, os 
 
 [http://www.lancenet.com.br/clubes/VASCO/noticias/08-06-02/305125.stm?vasco-tera-30-dias-para-realizar-novas-eleicoes](<https://web.archive.org/web/*/http://www.lancenet.com.br/clubes/VASCO/noticias/08-06-02/305125.stm?vasco-tera-30-dias-para-realizar-novas-eleicoes> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/clubes/VASCO/noticias/08-06-02/305125.stm?vasco-tera-30-dias-para-realizar-novas-eleicoes")
 
-## 27/01/2010 16:09 - [[Pessoas/Aprenda, Velho Babaca|Aprenda, Velho Babaca]] - #48196 ^comentario-48196
-
-\[...\] 1º de dezembro de 1988, o timaço do Vasco enfiou uma piaba no Botafogo, há 20 anos na fila, pela Copa União e a gandula caiu no choro \[...\]
-
-## 8/08/2010 21:54 - [[Pessoas/O Vasco não é Carlos Alberto|O Vasco não é Carlos Alberto]] - #66418 ^comentario-66418
-
-\[...\] feliz dele não jogar a próxima partida. Eu que já vi grandes craques que passaram pelo Vasco não consigo ver a torcida cruzmaltina apoiando-se neste limitado jogador (sem condições de dizer \[...\]
-
 ## 11/02/2011 11:20 - [[Pessoas/Victor|Victor]] - #84977 ^comentario-84977
 
 **[Da infância até a fantasia](<https://web.archive.org/web/*/http://migre.me/3RiY3> "Captura ainda não verificada. Endereço original: http://migre.me/3RiY3")** – por *Raphael Zarko*, Yougol.
+
+# Referências de outros posts
+
+## 27/01/2010 16:09 - [[Posts/7000 - Aprenda, Velho Babaca|Aprenda, Velho Babaca]] - #48196 ^comentario-48196
+
+\[...\] 1º de dezembro de 1988, o timaço do Vasco enfiou uma piaba no Botafogo, há 20 anos na fila, pela Copa União e a gandula caiu no choro \[...\]
+
+## 8/08/2010 21:54 - [[Posts/10259 - O Vasco não é Carlos Alberto|O Vasco não é Carlos Alberto]] - #66418 ^comentario-66418
+
+\[...\] feliz dele não jogar a próxima partida. Eu que já vi grandes craques que passaram pelo Vasco não consigo ver a torcida cruzmaltina apoiando-se neste limitado jogador (sem condições de dizer \[...\]

@@ -605,6 +605,8 @@ Leandro Amaral tem tudo pra dar certo e ser ídolo no Flamengo.
 Terá que fazer muitos gols ou conquistar títulos.  
  Torço para isso. Mas sei que não é do feitio dele.
 
-## 10/09/2010 10:36 - [[Pessoas/Fred x Michel Simoni|Fred x Michel Simoni]] - #69569 ^comentario-69569
+# Referências de outros posts
+
+## 10/09/2010 10:36 - [[Posts/10741 - Fred x Michel Simoni|Fred x Michel Simoni]] - #69569 ^comentario-69569
 
 \[...\] expor Simoni para se defender de quem não tem obrigação de jogar por ele, Fred briga com quem trabalha por ele da mesma forma que contra quem não trabalha e fode com a \[...\]

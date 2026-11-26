@@ -177,6 +177,8 @@ Putz! Victor lembrou do Noronha, o Muhn-Ra do jornalismo esportivo!
  ESPN Brasil também têm bons narradores e comentaristas – via a Copa, basicamente pela ESPN – exceto quando os citados do SporTV estavam na tela.  
  Futebol na Globo só com a tecla MUTE ligada. Band, nem pensar!
 
-## 23/07/2010 12:56 - [[Pessoas/Agora é Muricy|Agora é Muricy]] - #64691 ^comentario-64691
+# Referências de outros posts
+
+## 23/07/2010 12:56 - [[Posts/10019 - Agora é Muricy|Agora é Muricy]] - #64691 ^comentario-64691
 
 \[…\] Yuri levantou a bola que toda análise e conjecturas sobre o LUDOPÉDIO ocorria em BLOGUES e que jor…. \[…\]

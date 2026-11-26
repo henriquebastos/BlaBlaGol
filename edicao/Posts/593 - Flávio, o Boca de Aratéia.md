@@ -166,14 +166,16 @@ Gaburah,
 Prezado Asimov,  
  estarei iniciando conversas com a GOL no sentido de viabilizar o projeto “´Blá blá gol no Fogão”.
 
-## [[Pessoas/Blá blá Gol » Blog Archive » Gaburah, o Boca-de-Aratéia|Blá blá Gol » Blog Archive » Gaburah, o Boca-de-Aratéia]] - #4478 ^comentario-4478
+# Referências de outros posts
+
+## [[Posts/789 - Gaburah, o Boca-de-Aratéia|Gaburah, o Boca-de-Aratéia]] - #4478 ^comentario-4478
 
 \[...\] o Flávio anda meio sumido, tiveram que atacar de Gaburah \[...\]
 
-## [[Pessoas/Blá blá Gol » Blog Archive » De dentro do Couto Pereira|Blá blá Gol » Blog Archive » De dentro do Couto Pereira]] - #6875 ^comentario-6875
+## [[Posts/982 - De dentro do Couto Pereira|De dentro do Couto Pereira]] - #6875 ^comentario-6875
 
 \[...\] de mandarmos Flávio, o Boca de Aratéia, para a Bombonera, sobrou ainda um pouquinho de dinheiro. Cogitamos em mandar Robínson para \[...\]
 
-## [[Pessoas/Um jogo sulamericano de um time copeiro|Um jogo sulamericano de um time copeiro]] - #43037 ^comentario-43037
+## [[Posts/5942 - Um jogo sulamericano de um time copeiro|Um jogo sulamericano de um time copeiro]] - #43037 ^comentario-43037
 
 \[...\] era o torcedor botafoguense no Maracanã? Gaburah, Rafael Botafoguense, Asimov, Zobaran, Karlitus, Boca-de-Aratéia ou Anderson \[...\]

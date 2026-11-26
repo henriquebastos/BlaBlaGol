@@ -572,6 +572,8 @@ Edno é um bom jogador e tem tudo para dar certo no Botafogo.
 Grande abraço,  
  Leonardo Resende
 
-## 23/03/2010 9:43 - [[Pessoas/A Fotografia do Botafogo|A Fotografia do Botafogo]] - #53234 ^comentario-53234
+# Referências de outros posts
+
+## 23/03/2010 9:43 - [[Posts/7917 - A Fotografia do Botafogo|A Fotografia do Botafogo]] - #53234 ^comentario-53234
 
 \[...\] cornetar, mas o Edno já não me convence. O Renan Canuto o comparou com outra grande merda vinda da Portuguesa – o jogador que mais odiei em toda a minha história de torcedor botafoguense. Quase chorava de \[...\]

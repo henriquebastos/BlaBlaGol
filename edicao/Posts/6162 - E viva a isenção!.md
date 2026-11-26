@@ -439,6 +439,8 @@ Eu tenho uma “amiga” que já rodou numa dessas…
 
 Cuidado que a Suzie fica estressada quando falam nisso…mas hoje não tem jeito.
 
-## 5/11/2011 15:40 - [[Pessoas/O Pateta Ilan – @joseilan|O Pateta Ilan – @joseilan]] - #111004 ^comentario-111004
+# Referências de outros posts
+
+## 5/11/2011 15:40 - [[Posts/15620 - O Pateta Ilan – @joseilan|O Pateta Ilan – @joseilan]] - #111004 ^comentario-111004
 
 \[...\] foram cornetados pelo isento José Ilan, o Ombudsman de atreta \[...\]

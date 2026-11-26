@@ -106,10 +106,6 @@ Abaixo, um vídeo motivador à galera gremista.
 
 [Link](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=xuQfpiBxFeg&eurl=http://www.clicrbs.com.br/blog/jsp/default.jsp?source=DYNAMIC,blog.BlogDataServer,getBlog&pg=1&template=3361.d> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=xuQfpiBxFeg&eurl=http://www.clicrbs.com.br/blog/jsp/default.jsp?source=DYNAMIC,blog.BlogDataServer,getBlog&pg=1&template=3361.d")[http://www.youtube.com/watch?v=xuQfpiBxFeg&eu](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=xuQfpiBxFeg&eu> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=xuQfpiBxFeg&eu")…
 
-## 11/06/2007 23:49 - [[Pessoas/Meio de Semana - Jogos Exclusivos at Blá blá Gol|Meio de Semana - Jogos Exclusivos at Blá blá Gol]] - #1625 ^comentario-1625
-
-\[…\] Gaburah on BolãoVictor Pimentel on BolãoVictor Pimentel on Vasco 4 x 0…Tricolor on Grêmio x Boca Jrs.Antonio Ramalho on BolãoSerginho Valente on Vasco 4 x 0…Saulo on Vasco 4 x 0…Serginho Valente \[…\]
-
 ## 12/06/2007 6:45 - [[Pessoas/Victor Pimentel|Victor Pimentel]] - #1635 ^comentario-1635
 
 Já que foi falado de torcida que joga, fica aqui um link da torcida do Galo ao vencer a 2ª Divisão: [http://www.youtube.com/watch?v=LRS-6N93oGM](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=LRS-6N93oGM> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=LRS-6N93oGM")
@@ -224,3 +220,9 @@ hahahahahaaaaahhaahahah, dá-lhe Bocaaaaaaaaaaa!
 
 atenção quarta feira 21:45 começa o jogo do século 3 x 0 no tempo normal e mais 1 gol na prorrogação Grêmio tricampeão da libertadores com passaporte carimbado para o Japão.  
  Quem viver verá.
+
+# Referências de outros posts
+
+## 11/06/2007 23:49 - [[Posts/360 - Meio de Semana - Jogos Exclusivos|Meio de Semana - Jogos Exclusivos]] - #1625 ^comentario-1625
+
+\[…\] Gaburah on BolãoVictor Pimentel on BolãoVictor Pimentel on Vasco 4 x 0…Tricolor on Grêmio x Boca Jrs.Antonio Ramalho on BolãoSerginho Valente on Vasco 4 x 0…Saulo on Vasco 4 x 0…Serginho Valente \[…\]

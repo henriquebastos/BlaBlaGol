@@ -381,6 +381,8 @@ Caraca, é choradeira achar roubalheira o jogo do Atlético x Flamengo??? Meu De
  Não se pode falar em corrupção de árbitros q os flamenguistas querem internar a gente, chamando isso tudo de teoria da conspiração (e do famoso e na moda chororô)…  
  Tem q conspirar muito pra achar q o Wright tava mal intencionado naquela partida mesmo, tadinho dele…
 
-## 17/03/2008 10:38 - [[Pessoas/Viola é o cara at Blá blá Gol|Viola é o cara at Blá blá Gol]] - #12414 ^comentario-12414
+# Referências de outros posts
+
+## 17/03/2008 10:38 - [[Posts/1318 - Viola é o cara|Viola é o cara]] - #12414 ^comentario-12414
 
 \[...\] da homenagem de Lincoln, Cotovia e da torcida vascaína ao Viola, aí vai a \[...\]

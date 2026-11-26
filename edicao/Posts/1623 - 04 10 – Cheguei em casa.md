@@ -902,6 +902,8 @@ Não era mesmo.
  Mas que não era, não era.  
  (depois eu tento achar o vídeo dele no início de carreira. Tinha visto no Globoesporte).
 
-## 14/07/2009 20:45 - [[Pessoas/Grande Vice-Campeão da América|Grande Vice-Campeão da América]] - #35435 ^comentario-35435
+# Referências de outros posts
+
+## 14/07/2009 20:45 - [[Posts/1627 - Grande Vice-Campeão da América|Grande Vice-Campeão da América]] - #35435 ^comentario-35435
 
 \[...\] sensações, sabia o que sentia, intuia pelo que era, mas não sabia exatamente o que era. Ao ler o comentário de Serginho sobre a derrota do Fluminense, pude retomar um pouco da consciência pragmática do que representou no mundo cartesiano esta \[...\]

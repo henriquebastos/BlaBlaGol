@@ -721,6 +721,8 @@ Há muito tempo, Sergio, só se fosse antes de ter entrado…
 
 Eu já teria mandado embora depois do jogo contra o Olaria. Pra mim, perderam sim muito tempo, o suficiente por exemplo, pra colocar o Vasco na situação delicada em que está no campeonato.
 
-## 29/03/2010 15:21 - [[Pessoas/Como dizem os Saulos…|Como dizem os Saulos…]] - #53735 ^comentario-53735
+# Referências de outros posts
+
+## 29/03/2010 15:21 - [[Posts/7978 - Como dizem os Saulos…|Como dizem os Saulos…]] - #53735 ^comentario-53735
 
 \[...\] “Por enquanto o bom senso prevaleceu e a diretoria parece que leu meus comentários aqui no Blablagol” \[...\]

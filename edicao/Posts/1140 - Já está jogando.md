@@ -91,6 +91,8 @@ O Pato não precisava jogar pra todo mundo saber que ele é melhor do que os ata
 
 **E que agora ainda amortece a bola com [aquele cabelo](<https://web.archive.org/web/*/http://blog.estadao.com.br/blog/media/xampoo.jpg> "Captura ainda não verificada. Endereço original: http://blog.estadao.com.br/blog/media/xampoo.jpg").**
 
-## 3/03/2010 0:13 - [[Pessoas/Robinho fracassou na Europa. E daí？|Robinho fracassou na Europa. E daí?]] - #51551 ^comentario-51551
+# Referências de outros posts
+
+## 3/03/2010 0:13 - [[Posts/7048 - Robinho fracassou na Europa. E daí|Robinho fracassou na Europa. E daí?]] - #51551 ^comentario-51551
 
 \[...\] tem todo o direito de preferir outro atacante em seu lugar sem ser chamado de louco. Nilmar, Pato, Neymar e cia estão aí para \[...\]

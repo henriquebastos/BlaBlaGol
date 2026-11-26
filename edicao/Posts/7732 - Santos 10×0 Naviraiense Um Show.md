@@ -379,6 +379,8 @@ Problema. Mais que o sonoro 10 x 0, foi a forma de jogar.
 
 **10 x 0** – sinistro.
 
-## 5/08/2010 0:28 - [[Pessoas/Santos Campeão da Copa do Brasil 2010|Santos Campeão da Copa do Brasil 2010]] - #65857 ^comentario-65857
+# Referências de outros posts
+
+## 5/08/2010 0:28 - [[Posts/10209 - Santos Campeão da Copa do Brasil 2010|Santos Campeão da Copa do Brasil 2010]] - #65857 ^comentario-65857
 
 \[...\] espetáculo quando o adversário permitia e jogando competitivamente quando necessário. Sempre \[...\]

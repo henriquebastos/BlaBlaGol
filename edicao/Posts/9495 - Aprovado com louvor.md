@@ -138,6 +138,8 @@ Depois melhorou. Mas ainda tá destoando, até por ser ótimo jogador.
 
 Acho ele um bom jogador. Consegue ir bem no Barcelona por que o técnico cria um esquema que o favorece mais, fazendo com que ele não precise defender tanto assim. Acho o Maicon muito mais completo justamente por isso.
 
-## 30/06/2010 8:21 - [[Pessoas/Copa do Mundo dia 18 – Máquinas em ação|Copa do Mundo dia 18 – Máquinas em ação]] - #61377 ^comentario-61377
+# Referências de outros posts
+
+## 30/06/2010 8:21 - [[Posts/9491 - Copa do Mundo dia 18 – Máquinas em ação|Copa do Mundo dia 18 – Máquinas em ação]] - #61377 ^comentario-61377
 
 \[...\] Brasil 3×0 Chile – Massacre brasileiro à vista. \> Aprovado com louvor. \[...\]

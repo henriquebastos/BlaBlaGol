@@ -330,6 +330,8 @@ O limite máximo de sensatez de um torcedor é incentivar uma campanha contra o 
 
 não funciona com o rudi völler
 
-## 23/04/2010 0:57 - [[Pessoas/Nanopops|Nanopops]] - #55653 ^comentario-55653
+# Referências de outros posts
+
+## 23/04/2010 0:57 - [[Posts/159 - Nanopops|Nanopops]] - #55653 ^comentario-55653
 
 \[…\] respotas encontram-se aqui para evitar spoiler para quem quiser encarar o \[…\]

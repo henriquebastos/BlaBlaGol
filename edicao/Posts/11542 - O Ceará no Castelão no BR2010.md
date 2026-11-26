@@ -53,10 +53,6 @@ Se não acreditam em mim, [perguntem ao tricampeão Muricy](<http://www.blablago
 
 # Comentários
 
-## 11/11/2010 10:40 - [[Pessoas/Bolão BBG BR2010 – 35ª Rodada꞉ Semifinal antecipada|Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada]] - #74530 ^comentario-74530
-
-\[…\] Ceará 2×2 Botafogo: Ataques produziram, goleiros defenderam. Belo jogo pago pela Neo-Quimica \[…\]
-
 ## 11/11/2010 11:58 - [[Pessoas/Gaburah|Gaburah]] - #74539 ^comentario-74539
 
 Boa. Boa parte dos corneteiros (inclusive da torcida do Botafogo) deveria ter acesso a isso.
@@ -78,3 +74,9 @@ E o Vasco deveria então ganhar uma vaga na Libertadores.
 \[Via @[gilmarferreira](<https://web.archive.org/web/*/http://twitter.com/gilmarferreira/status/2902437975298048> "Captura ainda não verificada. Endereço original: http://twitter.com/gilmarferreira/status/2902437975298048")\]
 
 > Perfeito! RT @Gaburah: Mas a questão é q o Ceará é um time a ser respeitado, sem dúvida. Não dá pra tirar os brios do #Botafogo no 2° tempo.
+
+# Referências de outros posts
+
+## 11/11/2010 10:40 - [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada|Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada]] - #74530 ^comentario-74530
+
+\[…\] Ceará 2×2 Botafogo: Ataques produziram, goleiros defenderam. Belo jogo pago pela Neo-Quimica \[…\]

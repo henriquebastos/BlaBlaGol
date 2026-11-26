@@ -158,6 +158,8 @@ Infelizmente não consigo ver nenhum desses links aqui no trabalho.
 
 Mas o que eu não lembro é do Sport Recife no álbum, ele estava lá?
 
-## Pingback on Mar 27th, 2008 at 23:32 - [[Pessoas/Gol Minhoca do maluco do Grêmio at Blá blá Gol|Gol Minhoca do maluco do Grêmio at Blá blá Gol]] - #13302 ^comentario-13302
+# Referências de outros posts
+
+## Pingback on Mar 27th, 2008 at 23:32 - [[Posts/1342 - Gol Minhoca do maluco do Grêmio|Gol Minhoca do maluco do Grêmio]] - #13302 ^comentario-13302
 
 _Texto não identificado na captura._

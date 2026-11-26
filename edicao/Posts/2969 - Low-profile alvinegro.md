@@ -565,10 +565,6 @@ homenagem pro gérson.
 
 episódio 4 do incêndio. bem maneiro esse.
 
-## 3/08/2011 12:58 - [[Pessoas/Causos do Futebol Brasileiro꞉ A Raposa e o Engenhão|Causos do Futebol Brasileiro: A Raposa e o Engenhão]] - #103045 ^comentario-103045
-
-\[...\] Maurição Assumpção, \[...\]
-
 ## 10/10/2011 14:22 - [[Pessoas/Gaburah|Gaburah]] - #108186 ^comentario-108186
 
 Assumpção: [**Quem não tem estádio que se vire.**](<http://www.blablagol.com.br/quem-nao-tem-estadio-que-se-vire-15347>) [[Posts/15347 - Quem não tem estádio que se vire|no acervo]]
@@ -853,3 +849,9 @@ Bem intencionado, André Silva sempre foi. Cara preocupado mesmo. Mas era figura
 Ou passou a ser, depois que Anderson Barros assumiu como o real homem forte do futebol alvinegro.
 
 Cara de boa índole. Obrigado e boa sorte.
+
+# Referências de outros posts
+
+## 3/08/2011 12:58 - [[Posts/14721 - ‘Causos’ do Futebol Brasileiro A Raposa e o Engenhão|‘Causos’ do Futebol Brasileiro: A Raposa e o Engenhão]] - #103045 ^comentario-103045
+
+\[...\] Maurição Assumpção, \[...\]

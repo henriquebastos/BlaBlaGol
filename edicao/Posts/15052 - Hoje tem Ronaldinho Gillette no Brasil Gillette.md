@@ -24,10 +24,6 @@ PS: Procter & Gamble, para anunciar no BBG, favor entrar em [contato](<http://ww
 
 # Comentários
 
-## 5/09/2011 10:55 - [[Pessoas/Estreia do Flamengo no 2º turno é adiada|Estreia do Flamengo no 2º turno é adiada]] - #105648 ^comentario-105648
-
-\[...\] A CBF/Seara/Gillette não deu pro CRF/Gillette a molezinha que tem o \[...\]
-
 ## 5/09/2011 18:27 - [[Pessoas/Andre Bona|Andre Bona]] - #105666 ^comentario-105666
 
 Quando Ronaldinho merecidamente foi o melhor jogador do mundo, atuando pelo Barça daquela forma como atuou, nem naquela época, eu vi uma emissora de tv babar tanto o ovo do sujeito como baba hoje em dia.
@@ -390,3 +386,9 @@ Pra mim esse Mano tá voltando a fazer as mesmas experiencias do Dunga e não du
  Tenho muito medo que ele estrague a seleção olimpica que está arredondadinha pelo Ney Franco.
 
 Estamos enxugando gelo na seleção…nada de novo, nada de bom…somente mais do mesmo.
+
+# Referências de outros posts
+
+## 5/09/2011 10:55 - [[Posts/15077 - Estreia do Flamengo no 2º turno é adiada|Estreia do Flamengo no 2º turno é adiada]] - #105648 ^comentario-105648
+
+\[...\] A CBF/Seara/Gillette não deu pro CRF/Gillette a molezinha que tem o \[...\]

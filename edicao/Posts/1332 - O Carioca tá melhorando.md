@@ -479,6 +479,8 @@ Zarga,
 
 Deixa de papo e vamos pro Maraca contra o Bolonhesa?
 
-## Pingback on Mar 23rd, 2008 at 23:45 - [[Pessoas/Direto do Maraca at Blá blá Gol|Direto do Maraca at Blá blá Gol]] - #12978 ^comentario-12978
+# Referências de outros posts
+
+## Pingback on Mar 23rd, 2008 at 23:45 - [[Posts/1333 - Direto do Maraca|Direto do Maraca]] - #12978 ^comentario-12978
 
 _Texto não identificado na captura._

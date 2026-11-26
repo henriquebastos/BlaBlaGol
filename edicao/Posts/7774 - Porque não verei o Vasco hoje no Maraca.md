@@ -183,10 +183,6 @@ Nao vi o jogo. Faltou luz aqui no meio do jogo do botafogo.
 Unico comentario a fazer é que até eu jpa cansei de dar chance ao Dodo.  
  Acho que chega… e se o Mancini não mudar drasticamente tambem melhor vazar senao seremos rebaixados novamente. Realmente o jogo contra o botafogo 6×0 foi atipico.
 
-## 15/03/2010 11:17 - [[Pessoas/Ainda bem que não fui|Ainda bem que não fui]] - #52668 ^comentario-52668
-
-\[...\] aos fatores já explicados, escapei de estar no Maracanã durante o espetacular temporal de ontem, e escapei de assistir ao \[...\]
-
 ## 15/03/2010 14:58 - [[Pessoas/wendel|wendel]] - #52702 ^comentario-52702
 
 eu sou roludo
@@ -203,3 +199,9 @@ oi larissa mamo vc e bom te adoro tb
 
 hahahahahahahahahahahahahaha  
  figura!
+
+# Referências de outros posts
+
+## 15/03/2010 11:17 - [[Posts/7781 - Ainda bem que não fui|Ainda bem que não fui]] - #52668 ^comentario-52668
+
+\[...\] aos fatores já explicados, escapei de estar no Maracanã durante o espetacular temporal de ontem, e escapei de assistir ao \[...\]

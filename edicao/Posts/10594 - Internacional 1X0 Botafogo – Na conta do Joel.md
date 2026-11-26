@@ -152,10 +152,6 @@ O cara é bom.
 
 Não fui não. Vou comentar lá no outro, apesar de não ter sido um post sobre o jogo propriamente.
 
-## 29/08/2010 14:45 - [[Pessoas/Dedé, O Gigante da Colina|Dedé, O Gigante da Colina]] - #68663 ^comentario-68663
-
-\[…\] colocam a derrota do Botafogo na conta do Joel, o empate em São Januário pode ser colocado na conta do invicto PC Gusmão. Treinador de clube \[…\]
-
 ## 29/08/2010 15:41 - [[Pessoas/Gaburah|Gaburah]] - #68669 ^comentario-68669
 
 Concordo um pouco com cada um de vocês.
@@ -182,6 +178,12 @@ Via @[lediocarmona](<https://web.archive.org/web/*/http://www.twitter.com/ledioc
 
 > Nota do Carmona: **Resultado que não pode abalar o Botafogo**. Perder para o Inter no Beira-Rio é algo contornável mais à frente. **Os alvinegros conseguiram lastro na competição que permite tropeço como o do Beira-Rio.** E o Internacional, forte e decidido, dá sinais de quem também quer o Brasileiro. É bom acreditar no peso do time da camisa vermelha. E Leandro Damião se tornou mais uma solução.
 
-## 5/09/2010 8:36 - [[Pessoas/Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69366 ^comentario-69366
+# Referências de outros posts
+
+## 29/08/2010 14:45 - [[Posts/10603 - Dedé, O Gigante da Colina|Dedé, O Gigante da Colina]] - #68663 ^comentario-68663
+
+\[…\] colocam a derrota do Botafogo na conta do Joel, o empate em São Januário pode ser colocado na conta do invicto PC Gusmão. Treinador de clube \[…\]
+
+## 5/09/2010 8:36 - [[Posts/10689 - Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69366 ^comentario-69366
 
 \[…\] do Joel contra o Inter, o treinador oficial do Fluminense emprestado ao Grêmio preferiu não insistir no erro de sua \[…\]

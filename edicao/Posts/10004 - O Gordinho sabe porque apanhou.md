@@ -143,12 +143,14 @@ Recomendo **MUITO** acessar o site da Gabriela! hehehehehehe…
 
 Perfeita!
 
-## 24/07/2010 15:42 - [[Pessoas/Agora é Mano|Agora é Mano]] - #64783 ^comentario-64783
-
-\[…\] educado com jogadores, colegas de trabalho, adversários, companheiros de comissão e torcedores. O resto é ruido. AKPC\_IDS += "10025,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos \[…\]
-
 ## 29/07/2010 10:15 - [[Pessoas/Guilherme|Guilherme]] - #65284 ^comentario-65284
 
 Vc sabe porque o gordinho apanhou? Se não sabe: shut the fuck up!
 
 ## 29/07/2010 16:15 - Nome não exibido - #65316
+
+# Referências de outros posts
+
+## 24/07/2010 15:42 - [[Posts/10025 - Agora é Mano|Agora é Mano]] - #64783 ^comentario-64783
+
+\[…\] educado com jogadores, colegas de trabalho, adversários, companheiros de comissão e torcedores. O resto é ruido. AKPC\_IDS += "10025,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos \[…\]

@@ -258,10 +258,12 @@ Ringo, no aniversário do Mengão. Dia 15 de novembro.
 
 No mais, grande post, pra variar!
 
-## 2/11/2011 18:48 - [[Pessoas/Gp da Índia꞉ um novo país, um novo circuito, o mesmo vencedor de sempre|Gp da Índia: um novo país, um novo circuito, o mesmo vencedor de sempre]] - #110784 ^comentario-110784
-
-\[...\] conselho fosse bom… mas quem avisa, amigo é. Se Felipe Massa e Lewis Hamilton tivessem procurado a terapia de casal quando foram alertados pela mala que vos escreve, talvez eles poupassem seus times de mais um gasto \[...\]
-
 ## 27/11/2011 14:49 - [[Pessoas/sebastiao figueiredo|sebastiao figueiredo]] - #113126 ^comentario-113126
 
 foda-se pro vetel e pra qualquer destes merdas estrangeiros . vao correr no pro inferno. dont’t wedding in my county .
+
+# Referências de outros posts
+
+## 2/11/2011 18:48 - [[Posts/15554 - Gp da Índia um novo país, um novo circuito, o mesmo vencedor de sempre|Gp da Índia: um novo país, um novo circuito, o mesmo vencedor de sempre]] - #110784 ^comentario-110784
+
+\[...\] conselho fosse bom… mas quem avisa, amigo é. Se Felipe Massa e Lewis Hamilton tivessem procurado a terapia de casal quando foram alertados pela mala que vos escreve, talvez eles poupassem seus times de mais um gasto \[...\]

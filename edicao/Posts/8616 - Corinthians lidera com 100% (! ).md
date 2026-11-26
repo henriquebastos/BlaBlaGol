@@ -164,10 +164,6 @@ Hehehe
 
 Hahaha… porra! Depois atualiza lá!
 
-## 17/05/2010 12:25 - [[Pessoas/Botafogo ganhou essa bagaça|Botafogo ganhou essa bagaça]] - #57320 ^comentario-57320
-
-\[...\] o enlamaçado Sauleta colocou, a janela de transferências redefine o campeonato. Qualquer previsão antes dela é precipitada. Mas uma coisa já arrisco sem medo: o Botafogo \[...\]
-
 ## 17/05/2010 15:05 - [[Pessoas/Yuri|Yuri]] - #57323 ^comentario-57323
 
 2003 feelings?? Não sei. Na ocasião o Cruzeiro na segunda rodada já liderava, lembro-me como se fosse hoje.
@@ -260,3 +256,9 @@ Não sugeri afastar jogadores de time algum por orientação religiosa.
 ## 19/05/2010 18:30 - Nome não exibido - #57421
 
 Dunga é técnico do Palmeiras?
+
+# Referências de outros posts
+
+## 17/05/2010 12:25 - [[Posts/8637 - Botafogo ganhou essa bagaça|Botafogo ganhou essa bagaça]] - #57320 ^comentario-57320
+
+\[...\] o enlamaçado Sauleta colocou, a janela de transferências redefine o campeonato. Qualquer previsão antes dela é precipitada. Mas uma coisa já arrisco sem medo: o Botafogo \[...\]

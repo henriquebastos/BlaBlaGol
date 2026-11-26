@@ -146,6 +146,8 @@ Vou vestir minha camisa com muito mais vontade esse ano.
 
 Pelo menos não vai ser aquela palhaçada de 2006.
 
-## 12/05/2010 9:38 - [[Pessoas/Highlights da convocação|Highlights da convocação]] - #56859 ^comentario-56859
+# Referências de outros posts
+
+## 12/05/2010 9:38 - [[Posts/8513 - Highlights da convocação|Highlights da convocação]] - #56859 ^comentario-56859
 
 \[…\] vida pessoal nesses quatro meses de 2010 e bombardeou suas chances de ir para a Copa. Acrescento na lista do Saulo, as bombas mascaradas do Michel Bastos, que não é meu parente, e do Daniel Alves, que na minha \[…\]

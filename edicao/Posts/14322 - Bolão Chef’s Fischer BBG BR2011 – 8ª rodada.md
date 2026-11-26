@@ -113,6 +113,8 @@ Se fosse aquele meio campo brucutu do Joel, Gaburah apostaria na vitória.
 Quem não viu, perdeu uma boa partida entre Flamengo X São Paulo. Ronaldinho e o Thiago Neves foram os nomes do jogo, participaram o tempo todo. Apesar da vitória, Luxemburgo deveria voltar ao antigo esquema com dois armadores e Renato como volante. O meio campo ficou lento, burocrático e o David isolado. O grande problema do trio de volantes, foi o curto período de marcação da saída de bola do São Paulo. Além das trapalhadas do zagueiro Wellinton.  
  Segunda etapa o São Paulo recuou e limitou aos contra-ataques. O Flamengo tinha apenas os avanços do Léo Moura e as jogadas individuais do Thiago Neves e Ronaldinho. Luxemburgo enxergou o óbvio e fez duas substituições(Negueba e Bottinelli). Sacou o Aírton e entrou o Botinnelli, foi o jogador do qual deu a criatividade ao setor. Não por acaso, marcou o gol decisivo.
 
-## 7/07/2011 22:41 - [[Pessoas/Botafogo 1X1 Atlético-GO – a Mística, sempre a Mística|Botafogo 1X1 Atlético-GO – a Mística, sempre a Mística]] - #100423 ^comentario-100423
+# Referências de outros posts
+
+## 7/07/2011 22:41 - [[Posts/14354 - Botafogo 1X1 Atlético-GO – a Mística, sempre a Mística|Botafogo 1X1 Atlético-GO – a Mística, sempre a Mística]] - #100423 ^comentario-100423
 
 \[...\] Cantei a bola, meus amigos. Cantei sim: Adversário fraco, boa colocação na tabela, jogando em casa, time badalado… ou seja: TODOS os ingredientes pro #Botafogo perder hoje… =/ \[...\]

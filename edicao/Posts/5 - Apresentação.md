@@ -39,10 +39,6 @@ Sugestão de jornalista (grande b\*\*\*\*…): que cada um deixe explícito, em 
 Explico: a imprensa busca a imparcialidade, mas é parcial (até por ser a imparcialidade impossível ao ser humano). Fingindo ser imparcial ela se torna hipócrita.  
 Tá, futebol é um assunto light… mas mesmo assim! Os leitores têm a possibilidade de entender o porquê de cada post se conhecerem minimamente a “hitória futebolística” dos blogueiros. Nem que seja pra gente comentar que o cara que escreveu sobre o Dodô devia estar morrendo de raiva do cara, já que o botafoguense marcou um monte de gol contra o seu time… hehehehehe
 
-## 9/02/2010 2:19 - [[Pessoas/La Cumbia del Loco|La Cumbia del Loco]] - #49492 ^comentario-49492
-
-\[...\] pela pílula vermelha no dia 26 de maio de 2006. Como consequencia passei a gostar mais do jogo e menos do \[...\]
-
 ## 12/05/2011 0:05 - Nome não exibido - #94543
 
 é .. não consegui.
@@ -65,10 +61,16 @@ Ai minha conta bancária.
 
 Churrascão no Marieta patrocinado pelo Matheus.
 
-## 13/12/2011 17:21 - [[Pessoas/Auto-comemoração꞉ 5 anos|Auto-comemoração: 5 anos]] - #114543 ^comentario-114543
+# Referências de outros posts
+
+## 9/02/2010 2:19 - [[Posts/7213 - La Cumbia del Loco|La Cumbia del Loco]] - #49492 ^comentario-49492
+
+\[...\] pela pílula vermelha no dia 26 de maio de 2006. Como consequencia passei a gostar mais do jogo e menos do \[...\]
+
+## 13/12/2011 17:21 - [[Posts/16001 - Auto-comemoração 5 anos|Auto-comemoração: 5 anos]] - #114543 ^comentario-114543
 
 \[...\] apesar de não comentar logo de cara, acompanho a bagaça desde que começou lá nas profundezas do blogspot. Dois meses depois, tive um “post” em comemoração ao \[...\]
 
-## 26/05/2012 10:02 - [[Pessoas/6 anos de Blá blá Gol|6 anos de Blá blá Gol]] - #128858 ^comentario-128858
+## 26/05/2012 10:02 - [[Posts/17219 - 6 anos de Blá blá Gol|6 anos de Blá blá Gol]] - #128858 ^comentario-128858
 
 \[...\] data oficial do aniversário do BBG (não é a oficiosa, mas essa nem eu mesmo sei qual é). Reli a Apresentação que resume a singela intenção do blog e constato que está contindo ali o que o BBG se tornou, \[...\]

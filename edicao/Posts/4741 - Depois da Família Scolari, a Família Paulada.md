@@ -99,6 +99,8 @@ Vou ter que concordar com Saulo.
 
 [Afastado pelo técnico Vanderlei Luxemburgo por ter quebrado a perna do goleiro Rafael no treinamento do Santos, na última quarta-feira, **Domingos** está inconsolável.](<https://web.archive.org/web/*/http://globoesporte.globo.com/Esportes/Noticias/Times/Santos/0,,MUL1299833-9874,00-RESIGNADO+EM+RELACAO+A+PUNICAO+DE+LUXA+DOMINGOS+LAMENTA+TER+MACHUCADO+RAFAE.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/Esportes/Noticias/Times/Santos/0,,MUL1299833-9874,00-RESIGNADO+EM+RELACAO+A+PUNICAO+DE+LUXA+DOMINGOS+LAMENTA+TER+MACHUCADO+RAFAE.html")
 
-## 5/11/2009 1:00 - [[Pessoas/Alguma coisa está fora da ordem|Alguma coisa está fora da ordem]] - #42246 ^comentario-42246
+# Referências de outros posts
+
+## 5/11/2009 1:00 - [[Posts/5796 - Alguma coisa está fora da ordem|Alguma coisa está fora da ordem]] - #42246 ^comentario-42246
 
 \[...\] Olímpico, Túlio Gente Boa, figurinha carimbada da Família Paulada, conseguiu expulsar dois do São \[...\]

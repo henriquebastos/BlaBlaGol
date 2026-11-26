@@ -52,6 +52,8 @@ HUAHUhauhUHAuhUAHuhAuhuahuhAUHuahuHAuhAUh… Boa.
 Êta puladas-de-cerca caras…  
   [FACADA!](<https://web.archive.org/web/*/http://oglobo.globo.com/esportes/mat/2010/07/01/golfista-americano-tiger-woods-pagara-us-750-milhoes-por-divorcio-917032847.asp> "Captura ainda não verificada. Endereço original: http://oglobo.globo.com/esportes/mat/2010/07/01/golfista-americano-tiger-woods-pagara-us-750-milhoes-por-divorcio-917032847.asp")
 
-## 26/07/2010 14:01 - [[Pessoas/Maiores salários do esporte 2009-10|Maiores salários do esporte 2009-10]] - #64924 ^comentario-64924
+# Referências de outros posts
+
+## 26/07/2010 14:01 - [[Posts/10038 - Maiores salários do esporte 2009-10|Maiores salários do esporte 2009-10]] - #64924 ^comentario-64924
 
 \[...\] lá, jé é normal. Mas chama a atenção a posição do golfista número 1 do mundo. Depois dos escândalos extraconjugais e perder algumas centenas de milhões de dólares, o cara continua lá. É o \[...\]

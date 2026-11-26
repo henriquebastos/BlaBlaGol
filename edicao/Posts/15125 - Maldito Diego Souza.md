@@ -87,6 +87,8 @@ Alguém me explica pq o Bernardo não jogou esse jogo?
 
 Alguém me explica pq o Bernardo não joga todos os jogos?
 
-## 26/09/2011 10:26 - [[Pessoas/Bendito Diego Souza|Bendito Diego Souza]] - #107039 ^comentario-107039
+# Referências de outros posts
+
+## 26/09/2011 10:26 - [[Posts/15243 - Bendito Diego Souza|Bendito Diego Souza]] - #107039 ^comentario-107039
 
 \[...\] torcedor sensato que sou, SEMPRE soube o grande o jogador que é o camisa dez da Colina. Jogador rápido, lutador, objetivo, e decisivo. \[...\]

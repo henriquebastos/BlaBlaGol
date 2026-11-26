@@ -79,6 +79,8 @@ De qualquer forma, mesmo que de uma hora para a outra as duas competidoras do an
 
 Se bobear, ficará melhor Ferrari e McLaren investirem em P&D para 2010.
 
-## 17/11/2010 17:55 - [[Pessoas/O título para o verdadeiro campeão⧵∗|O título para o verdadeiro campeão*]] - #75186 ^comentario-75186
+# Referências de outros posts
+
+## 17/11/2010 17:55 - [[Posts/11608 - O título para o verdadeiro campeão|O título para o verdadeiro campeão\*]] - #75186 ^comentario-75186
 
 \[...\] Rosso é a finada Minardi vestida de azul) a primeira pole e vitória, subiu ao time principal e repetiu o feito. Ainda completou o serviço com o título de construtores e a cereja do bolo: o campeonato mundial \[...\]

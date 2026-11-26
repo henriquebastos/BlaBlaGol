@@ -502,10 +502,12 @@ FLUMINENSE GANHA GERAL.. Ñ TEM NINGUEM QUE BARRA A YOUNG FLU ………………
 
 De fato um post pra lá de pertinente. E longa vida à Garra Norueguesa Espero torcer com a GN num só coração durante a Copa de 2014.
 
-## 28/08/2009 16:56 - [[Pessoas/Um Cachorro no Laranjal|Um Cachorro no Laranjal]] - #37604 ^comentario-37604
-
-\[...\] como sabemos, o alvinegro não tirou muito proveito, entretanto, serviu para que este conhecesse a Garra Norueguesa: No caminho, encontro apenas um grupo de seis torcedores durante a viagem de metrô (nem nas idas \[...\]
-
 ## 19/04/2010 12:48 - [[Pessoas/lukas|lukas]] - #55370 ^comentario-55370
 
 usHASausuhAUHSUahsuhAUSHa vasco eo caralho vasco e favelado
+
+# Referências de outros posts
+
+## 28/08/2009 16:56 - [[Posts/4916 - Um Cachorro no Laranjal|Um Cachorro no Laranjal]] - #37604 ^comentario-37604
+
+\[...\] como sabemos, o alvinegro não tirou muito proveito, entretanto, serviu para que este conhecesse a Garra Norueguesa: No caminho, encontro apenas um grupo de seis torcedores durante a viagem de metrô (nem nas idas \[...\]

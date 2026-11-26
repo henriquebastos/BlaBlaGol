@@ -93,6 +93,8 @@ Não foi a solução perfeita, mas acho que ter o jogo acabou por eliminar o pro
 Teve jogo no mesmo Beira-Rio em 2007 (acho) com o campo nas mesmas condições entre Inter x Santos.  
  O jogo foi uma merda, mas o Inter tinha um Pato no lago e ganhou por 1×0.
 
-## 5/10/2009 19:43 - [[Pessoas/Domingo Imperial|Domingo Imperial]] - #39677 ^comentario-39677
+# Referências de outros posts
+
+## 5/10/2009 19:43 - [[Posts/5385 - Domingo Imperial|Domingo Imperial]] - #39677 ^comentario-39677
 
 \[...\] a chuva que caiu no Beira Rio (vou ser chato \[2\]), onde não houve futebol, e o Flamengo não estar completo para os próximos \[...\]

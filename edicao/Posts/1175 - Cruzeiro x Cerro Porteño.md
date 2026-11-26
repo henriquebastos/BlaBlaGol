@@ -142,11 +142,13 @@ hahaha. Valeu!
 Nunca tinha pensado nisso…  
  Mais uma aberração para a lista da Copa do Brasil versão anos 2000.
 
-## [[Pessoas/O Pior dos Mundos at Blá blá Gol|O Pior dos Mundos at Blá blá Gol]] - #9686 ^comentario-9686
-
-\[...\] na esteira da “Pré-Libertadores” que joga o Cruzeiro, Glauco do Futepoca fez um comentário assombrosamente pertinente e inteligente sobre a aberração que é o regulamento que expurga os times que jogam a Libertadores da Copa do \[...\]
-
 ## [[Pessoas/Gaburah|Gaburah]] - #9692 ^comentario-9692
 
 “*Cruzeiro e Cerro Porteño se enfrentam no tradicional horário das partidas importantes de meio de semana, depois da novela*“.  
  Aqui vai passar Vasco X Resende.
+
+# Referências de outros posts
+
+## [[Posts/1176 - O Pior dos Mundos|O Pior dos Mundos]] - #9686 ^comentario-9686
+
+\[...\] na esteira da “Pré-Libertadores” que joga o Cruzeiro, Glauco do Futepoca fez um comentário assombrosamente pertinente e inteligente sobre a aberração que é o regulamento que expurga os times que jogam a Libertadores da Copa do \[...\]

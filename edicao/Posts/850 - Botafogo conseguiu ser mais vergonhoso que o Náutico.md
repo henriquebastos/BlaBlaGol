@@ -421,6 +421,8 @@ Falar do Joílson do jogo de ontem é sacanagem mesmo.
 
 Vamos ver se o Capitão Nascimento consegue botar ordem na casa.
 
-## 25/10/2011 20:31 - [[Pessoas/A Saga do Botafogo na Copa Sulamericana – Versão 2011|A Saga do Botafogo na Copa Sulamericana – Versão 2011]] - #110010 ^comentario-110010
+# Referências de outros posts
+
+## 25/10/2011 20:31 - [[Posts/14816 - A Saga do Botafogo na Copa Sulamericana – Versão 2011|A Saga do Botafogo na Copa Sulamericana – Versão 2011]] - #110010 ^comentario-110010
 
 \[...\] para este tipo de torneio não é lá muito inspirador (pela Sula também temos a tradição de levantar defuntos e fazer partidas pouquíssimo dignas de nota), em 2011 é diferente e chegamos com \[...\]

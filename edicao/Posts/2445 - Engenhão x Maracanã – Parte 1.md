@@ -335,6 +335,8 @@ Huahauhauahuaha…essa é discussão mais chata e sem sentido de todos os tempos
 
 Parabéns a vocês dois!
 
-## 1/06/2010 20:18 - [[Pessoas/A Copa não começou|A Copa não começou]] - #58208 ^comentario-58208
+# Referências de outros posts
+
+## 1/06/2010 20:18 - [[Posts/8887 - A Copa não começou|A Copa não começou]] - #58208 ^comentario-58208
 
 \[...\] de casa e empates melancólicos em 0×0 no Engenhão e Maracanã contra Bolívia e Colômbia, com estádios vazios quando Zarga resumiu com propriedade o atual momento do time: A culpa não é do estádio. É da seleção \[...\]

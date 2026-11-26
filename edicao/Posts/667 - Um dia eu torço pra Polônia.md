@@ -78,6 +78,8 @@ Października ruszy w Szczyrku zgrupowanie przed Pucharem Świata reprezentacji 
 
 Eu sabia disso.
 
-## 29/09/2009 21:52 - [[Pessoas/As Sereias na Libertadores|As Sereias na Libertadores]] - #39112 ^comentario-39112
+# Referências de outros posts
+
+## 29/09/2009 21:52 - [[Posts/5287 - As Sereias na Libertadores|As Sereias na Libertadores]] - #39112 ^comentario-39112
 
 \[...\] aqueles que acreditam que um dia o futebol feminino chegará ao patamar de um vôlei e gostariam de acompanhar esse processo histórico, recomendo a cobertura do Futebol para Meninas \[...\]

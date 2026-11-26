@@ -954,6 +954,8 @@ Eu não vi o 2º tempo. No 1º tempo, ainda que Rodriguinho tenha ido bem, ele f
  Contra o Corinthians, eu não tinha gostado da forma como ele tinha sido fominha.  
  É algo que vou observar contra o Atlético-MG.
 
-## 27/05/2010 23:07 - [[Pessoas/Vasco vira em São Januário com 10 em campo|Vasco vira em São Januário com 10 em campo]] - #57938 ^comentario-57938
+# Referências de outros posts
+
+## 27/05/2010 23:07 - [[Posts/8819 - Vasco vira em São Januário com 10 em campo|Vasco vira em São Januário com 10 em campo]] - #57938 ^comentario-57938
 
 \[...\] Fluminense 2×1 Flamengo – Flamengo aprende que gol de goleiro não vale 2. \[...\]

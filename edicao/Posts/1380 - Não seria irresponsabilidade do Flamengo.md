@@ -337,10 +337,6 @@ Bandeirantes…
 
 A opinião dos governantes é que deveria aparecer. Coisa bem difícil de acontecer…
 
-## 12/03/2010 12:40 - [[Pessoas/Fair-Play no dos outros é refresco|Fair-Play no dos outros é refresco]] - #52505 ^comentario-52505
-
-\[…\] nenhuma declaração de dirigentes do Fla nesse sentido), ou Marcos Braz apenas descartou o chororô típico da gestão anterior e tocou para a frente com uma frase simples representando que não há que se \[…\]
-
 ## 14/02/2011 8:26 - [[Pessoas/Paulo Pimentel|Paulo Pimentel]] - #85250 ^comentario-85250
 
 Paulo Pimentel  
@@ -374,3 +370,9 @@ Paulo Pimentel
  Se é justo os brasileiros jogarem nas alturas, só por haver um campo e um gramado, porque não poderíamos jogar no Atacama com umidade zero? Ou na Patagônia com -40º? Ou ao meio dia do verão carioca?  
  Quando chove muito o jogo é interrompido, primeiro porque não se tem condições de dar um passe, mas também porque os atletas se expõem mais a contusões.  
  Utilizar de um benefício climático ou geográfico para se ter vantagens em competições esportivas não é justo, nem faz bem a saúde.
+
+# Referências de outros posts
+
+## 12/03/2010 12:40 - [[Posts/7751 - Fair-Play no dos outros é refresco|Fair-Play no dos outros é refresco]] - #52505 ^comentario-52505
+
+\[…\] nenhuma declaração de dirigentes do Fla nesse sentido), ou Marcos Braz apenas descartou o chororô típico da gestão anterior e tocou para a frente com uma frase simples representando que não há que se \[…\]

@@ -1009,10 +1009,12 @@ Ele guardou, mas penso que você não vai ler o que ele escreveu aqui.
 
 \[...\] tipo de festa… nada disso faça com que o time entre de salto alto e pague mais um mico, como ocorreu ano passado no pós-campeonato carioca (claro que a Libertadores é muito maior que a Copa do Brasil, mas a situação é similar). \[...\]
 
-## 21/10/2009 15:27 - [[Pessoas/I don’t bideou|I don’t bideou]] - #41016 ^comentario-41016
+# Referências de outros posts
+
+## 21/10/2009 15:27 - [[Posts/5605 - I don’t bideou|I don’t bideou]] - #41016 ^comentario-41016
 
 \[...\] Lula “nunca na história do nosso país…” serviu tão bem ao Joel. Depois daquele maior vexame da história rubro-negra, no episódio da eliminação depois daquela goleada no Maracanã diante do América do México, \[...\]
 
-## 13/05/2010 16:49 - [[Pessoas/E que derrota…|E que derrota…]] - #57057 ^comentario-57057
+## 13/05/2010 16:49 - [[Posts/8578 - E que derrota…|E que derrota…]] - #57057 ^comentario-57057
 
 \[...\] Não sei se teve pagode na “concentração”, mas o jogo de ontem lembrou coisas já vistas. \[...\]

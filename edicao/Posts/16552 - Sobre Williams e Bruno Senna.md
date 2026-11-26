@@ -211,6 +211,8 @@ O problema é o tamanho do telhado de vidro que ele colocou na casa dele.
 
 E aqui no Brasil, nego gosta muito de jogar pedra.
 
-## 23/03/2012 14:50 - [[Pessoas/Felipe Massa꞉ bem-vindo ao olho do furacão|Felipe Massa: bem-vindo ao olho do furacão]] - #121704 ^comentario-121704
+# Referências de outros posts
+
+## 23/03/2012 14:50 - [[Posts/16565 - Felipe Massa bem-vindo ao olho do furacão|Felipe Massa: bem-vindo ao olho do furacão]] - #121704 ^comentario-121704
 
 \[...\] desenvolvimento de talentos da Ferrari, poderia assumir o cockpit vermelho. Ainda foi feita uma enquete na Autosport, na qual o piloto favorito da torcida italiana para substituir Massa seria ninguém menos que \[...\]

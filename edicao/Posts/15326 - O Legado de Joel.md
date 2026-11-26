@@ -136,10 +136,6 @@ Comeu risoles estragado antes de escrever essa bobagem.
 
 Risole de cabelo, da sua mãe.
 
-## 7/10/2011 9:23 - [[Pessoas/O Legado de Mano|O Legado de Mano]] - #108012 ^comentario-108012
-
-\[...\] como o veterano Joel ou o iniciante Dunga, costumam deixarem legados por onde passam. O atual treinador do Brasil, Mano \[...\]
-
 ## 7/10/2011 11:43 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #108019 ^comentario-108019
 
 Não jogamos a libertadores esse ano por causa dele, cagou o campeonato carioca aí vem querer dar uma de fodão agora. Te foder, Caçador de Holofote!
@@ -162,3 +158,9 @@ O Ney Franco foi demitido injustamente pela atual direção, na época o Botafog
 Joel sim, esse conta com minha admiração.
 
 Deve ser isso mesmo. Não há nenhum motivo para não acreditar nele.
+
+# Referências de outros posts
+
+## 7/10/2011 9:23 - [[Posts/15331 - O Legado de Mano|O Legado de Mano]] - #108012 ^comentario-108012
+
+\[...\] como o veterano Joel ou o iniciante Dunga, costumam deixarem legados por onde passam. O atual treinador do Brasil, Mano \[...\]

@@ -146,6 +146,8 @@ Que gambiarra
 
 enfim… o texto começou no dia em que o fluminense ganhou o título, depois o site ficou um tempo fora do ar e depois eu fiquei enrolado, não deu para terminar. algumas coisas mudaram duas rodadas depois, e como o post publicou-se sozinho, primeiro tenho que escrever sobre a f1 antes que vire pão murcho de anteontem. depois eu remendo esse aqui…
 
-## 30/11/2012 6:07 - [[Pessoas/A Diferença entre Fluminense e Vasco|A Diferença entre Fluminense e Vasco]] - #145735 ^comentario-145735
+# Referências de outros posts
+
+## 30/11/2012 6:07 - [[Posts/18863 - A Diferença entre Fluminense e Vasco|A Diferença entre Fluminense e Vasco]] - #145735 ^comentario-145735
 
 \[...\] “campeão mais incontestável, mais irretocável, mais inapelável, mais irresistível de toda a história do esporte bretão em \[...\]

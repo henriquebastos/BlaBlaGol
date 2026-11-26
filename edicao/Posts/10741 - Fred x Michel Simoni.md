@@ -225,10 +225,6 @@ Rafael, que foi titular até a sexta rodada do Brasileirão, não gostou nada da
 
 Dá pra confiar? Eu venderia as duas moças ontem.
 
-## 12/09/2010 13:49 - [[Pessoas/O Dia do Dragão|O Dia do Dragão]] - #69861 ^comentario-69861
-
-\[…\] minha posição de antes da partida quanto à escalação dos goleiros do Fluminense: Se EU sou Muricy, não teria dúvidas: Ricardo \[…\]
-
 ## 15/09/2010 10:27 - [[Pessoas/Victor|Victor]] - #70142 ^comentario-70142
 
 **Terra: [Diguinho segue Fred e culpa médicos do Flu por ausência prolongada](<https://web.archive.org/web/*/http://esportes.terra.com.br/futebol/brasileiro/2010/noticias/0,,OI4678588-EI15406,00-Diguinho+segue+Fred+e+culpa+medicos+do+Flu+por+ausencia+prolongada.html> "Captura ainda não verificada. Endereço original: http://esportes.terra.com.br/futebol/brasileiro/2010/noticias/0,,OI4678588-EI15406,00-Diguinho+segue+Fred+e+culpa+medicos+do+Flu+por+ausencia+prolongada.html")**
@@ -295,3 +291,9 @@ EU SOU a melhor amiga do fred..
 ## 29/06/2011 18:40 - [[Pessoas/fred|fred]] - #99654 ^comentario-99654
 
 e´ verdade mesmo.sou amigo da fatima smach e do ti leifert….
+
+# Referências de outros posts
+
+## 12/09/2010 13:49 - [[Posts/10773 - O Dia do Dragão|O Dia do Dragão]] - #69861 ^comentario-69861
+
+\[…\] minha posição de antes da partida quanto à escalação dos goleiros do Fluminense: Se EU sou Muricy, não teria dúvidas: Ricardo \[…\]

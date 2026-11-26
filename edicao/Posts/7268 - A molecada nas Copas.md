@@ -216,18 +216,6 @@ Robinho é uma aposta arriscada pelo seu momento desde sua saída conturbada no 
 
 Igual estava antes de ficar deprimido, igual antes da Copa de 2006. Não lembro qual foi a última grande atuação do Adriano na seleção. Vai que ele enche o saco de jogar bola no meio da Copa? Sente saudades da favela onde nasceu? Vale à pena não.
 
-## 26/02/2010 10:04 - [[Pessoas/Promoção – As Melhores Seleções Brasileiras de Todos os Tempos|Promoção – As Melhores Seleções Brasileiras de Todos os Tempos]] - #50887 ^comentario-50887
-
-\[...\] Seleções Brasileiras Campeãs do Mundo e a emblemática Seleção de 1982 que melhor simboliza o período de trevas do Escrete Canarinho mas a discussão não se \[...\]
-
-## 28/02/2010 23:43 - [[Pessoas/Santos 2×1 Corinthians꞉ Alguém consegue torcer contra o Peixe？|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51256 ^comentario-51256
-
-\[...\] esse é um jogador que eu detestaria ver fora da Copa do Mundo. Aliás, estendo meu pedido aos superiores de Dunga na CBF, uma vez que Neymar se não estiver na \[...\]
-
-## 3/03/2010 0:15 - [[Pessoas/Robinho fracassou na Europa. E daí？|Robinho fracassou na Europa. E daí?]] - #51552 ^comentario-51552
-
-\[...\] tem todo o direito de preferir outro atacante em seu lugar sem ser chamado de louco. Nilmar, Pato, Neymar e cia estão aí para \[...\]
-
 ## 11/05/2010 23:39 - [[Pessoas/Ana Paula|Ana Paula]] - #56844 ^comentario-56844
 
 Dunga poderia ter chamado o Niemeyer
@@ -268,3 +256,17 @@ Espanha que vai peidar de novo.
 
 eu acho bacana que o brasilç tenha ganhado essas provas de vida eu achoum maximo mesmo eui adoro ver o brasil ganhando heh ainda mas adoroh o santos ganhando  
  bjuss de eu zinha
+
+# Referências de outros posts
+
+## 26/02/2010 10:04 - [[Posts/7390 - Promoção – As Melhores Seleções Brasileiras de Todos os Tempos|Promoção – As Melhores Seleções Brasileiras de Todos os Tempos]] - #50887 ^comentario-50887
+
+\[...\] Seleções Brasileiras Campeãs do Mundo e a emblemática Seleção de 1982 que melhor simboliza o período de trevas do Escrete Canarinho mas a discussão não se \[...\]
+
+## 28/02/2010 23:43 - [[Posts/7522 - Santos 2×1 Corinthians Alguém consegue torcer contra o Peixe|Santos 2×1 Corinthians: Alguém consegue torcer contra o Peixe?]] - #51256 ^comentario-51256
+
+\[...\] esse é um jogador que eu detestaria ver fora da Copa do Mundo. Aliás, estendo meu pedido aos superiores de Dunga na CBF, uma vez que Neymar se não estiver na \[...\]
+
+## 3/03/2010 0:15 - [[Posts/7048 - Robinho fracassou na Europa. E daí|Robinho fracassou na Europa. E daí?]] - #51552 ^comentario-51552
+
+\[...\] tem todo o direito de preferir outro atacante em seu lugar sem ser chamado de louco. Nilmar, Pato, Neymar e cia estão aí para \[...\]

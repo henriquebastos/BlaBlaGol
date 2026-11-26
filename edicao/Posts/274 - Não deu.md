@@ -27,6 +27,8 @@ AHUHAUHUAH que post enrustido!! Q.E.T. na cabeça !
 
 E o Diário do Vascão? Já saiu a 2ª edição?
 
-## 27/08/2009 3:11 - [[Pessoas/Fluminense passa por Flamengo com dois empates(？) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37462 ^comentario-37462
+# Referências de outros posts
+
+## 27/08/2009 3:11 - [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37462 ^comentario-37462
 
 \[...\] aí. Três anos seguidos que é eliminado precocemente para times que não são assim uma Brastemp. Defensor, América-Méx e agora \[...\]

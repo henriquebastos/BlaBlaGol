@@ -295,10 +295,6 @@ HUAhuAHuahuhAUhuaHua…
 
 É impressão minha ou a piada foi **bem** direcionada? hehehehehehehe…
 
-## 2/08/2010 21:53 - [[Pessoas/Eu também gasto mais com ração para o meu cachorro|Eu também gasto mais com ração para o meu cachorro]] - #65665 ^comentario-65665
-
-\[...\] Apenas a Apple com sua maçãzinha no laptop de um anônimo moleque da Vila, que sossegadamente via as fotos das filhas de Bebeto, Romário e Tita no Blá blá Gol, teve exposição \[...\]
-
 ## 4/08/2010 21:53 - [[Pessoas/Reginaldo marques|Reginaldo marques]] - #65856 ^comentario-65856
 
 sem duvida moniquinha e uma gracinha…ahu ahu ahu beijos…
@@ -310,3 +306,9 @@ o gol mais bonito foi o de bicicleta do ronaldinho gaúcho
 ## 17/01/2011 8:33 - Nome não exibido - #80782
 
 Putz…
+
+# Referências de outros posts
+
+## 2/08/2010 21:53 - [[Posts/10181 - Eu também gasto mais com ração para o meu cachorro|Eu também gasto mais com ração para o meu cachorro]] - #65665 ^comentario-65665
+
+\[...\] Apenas a Apple com sua maçãzinha no laptop de um anônimo moleque da Vila, que sossegadamente via as fotos das filhas de Bebeto, Romário e Tita no Blá blá Gol, teve exposição \[...\]

@@ -159,10 +159,6 @@ Leo moura te amo mais que tudo nessa vida
 
 Te amo sou tua fã que nuca vai esquece de você Leo moura
 
-## 16/09/2010 11:34 - [[Pessoas/Alívio no final do show de horror|Alívio no final do show de horror]] - #70312 ^comentario-70312
-
-\[…\] demonstra já é suficiente para ganhar a torcida. Quero ver sangue correndo nessas veias! Prefiro isso aqui do que o quê eu vi ontem. Dessa vez foi na \[…\]
-
 ## 25/08/2011 11:04 - [[Pessoas/tamires pereira|tamires pereira]] - #104831 ^comentario-104831
 
 te amoOW\*  
@@ -184,3 +180,9 @@ sou super sua fã agora com a saida do ronaldinho não irá fazer tanta falta po
 
 EU TE AMOOOOOOO MUITO LEONARDO DA SILVA MOURA  
  TORÇO MUITO POR VOCÊ
+
+# Referências de outros posts
+
+## 16/09/2010 11:34 - [[Posts/10870 - Alívio no final do show de horror|Alívio no final do show de horror]] - #70312 ^comentario-70312
+
+\[…\] demonstra já é suficiente para ganhar a torcida. Quero ver sangue correndo nessas veias! Prefiro isso aqui do que o quê eu vi ontem. Dessa vez foi na \[…\]

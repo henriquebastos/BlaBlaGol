@@ -9,8 +9,6 @@ temas: ["[[Temas/Tema 83c6f081b615|Aikido]]"]
 
 # “Don’t call me coach. You can call me Sensei”
 
-
-
 # Comentários
 
 ## 2/08/2010 11:14 - [[Pessoas/Gaburah|Gaburah]] - #65604 ^comentario-65604
@@ -56,10 +54,6 @@ Rampage foi mais franco, porém a cautela faz parte da estratégia de Lyoto – 
  Com essa vc se redimiu até, da palhaçada do #ArrancadaFinal!  
  Ri pra caraleo!
 
-## 22/12/2010 8:01 - [[Pessoas/Aikido – Harmonia e Hematomas|Aikido – Harmonia e Hematomas]] - #78754 ^comentario-78754
-
-\[...\] dúvida nenhuma, Seagal apresentava a eficácia do Aikido como instrumento de defesa pessoal, mas pecou por não deixar clara toda a carga filosófica nela profundamente \[...\]
-
 ## 23/03/2011 15:31 - [[Pessoas/Gaburah|Gaburah]] - #89997 ^comentario-89997
 
 \[Via @marcelohessel\] – HAHAHAHAHAHAHAHA!! SENSACIONAL!!  
@@ -92,3 +86,9 @@ Só lembrando que Lyoto Machida é filho de [**Yoshizo Machida**](<https://web.a
 E antes que alguém cornete, é lógico que esses *arremates* podem fazer **toda** a diferença. Mais uma vez fizeram.
 
 ## 4/06/2011 13:49 - [[Pessoas/Gaburah|Gaburah]] - #96685 ^comentario-96685
+
+# Referências de outros posts
+
+## 22/12/2010 8:01 - [[Posts/247 - Aikido – Harmonia e Hematomas|Aikido – Harmonia e Hematomas]] - #78754 ^comentario-78754
+
+\[...\] dúvida nenhuma, Seagal apresentava a eficácia do Aikido como instrumento de defesa pessoal, mas pecou por não deixar clara toda a carga filosófica nela profundamente \[...\]

@@ -565,10 +565,6 @@ O jogo foi parelho, mas o resultado foi péssimo pro Fluminense. O time vai ter 
 
 Pois é. Serginho falou tudo.
 
-## 15/05/2008 21:06 - [[Pessoas/Semi-Finais da Copa do Brasil 2008 at Blá blá Gol|Semi-Finais da Copa do Brasil 2008 at Blá blá Gol]] - #18357 ^comentario-18357
-
-\[...\] Não estou tão convicto quanto Pablo sobre uma final carioca, hoje, eu diria que está mais para Botafogo x Sport. Enviar por e-mail ‘ ‘Assine o Bla bla Gol OUTROS ARTIGOS \[...\]
-
 ## 16/05/2008 9:40 - [[Pessoas/Fabinho|Fabinho]] - #18371 ^comentario-18371
 
 Meu emprego semi-escravo só me permitiu entrar aqui agora.
@@ -698,3 +694,9 @@ Tb concordo com vc victor: o resultado foi ruim, porém normal e dá pra, no mí
 ## 17/05/2008 17:14 - [[Pessoas/Saulo|Saulo]] - #18461 ^comentario-18461
 
 O Renato errou feio em deixar Conca no banco. Ele poderia ajudar o Thiago Neves pela armação e pendurar todo o setor defensivo do São Paulo com cartões. A equipe paulista não possui qualidade pelo meio campo e o treinador do Fluminense com três volantes nivelou a partida por baixo e não impôs sua superioridade em campo. Morumbi tem as mesmas dimensões e a torcida fica bem longe do campo. Não existe nenhuma pressão por jogar em casa. Apenas do fraco meio, o São Paulo tem um bom sistema defensivo e vai ser muito difícil levar dois gols no Maracanã.
+
+# Referências de outros posts
+
+## 15/05/2008 21:06 - [[Posts/1481 - Semi-Finais da Copa do Brasil 2008|Semi-Finais da Copa do Brasil 2008]] - #18357 ^comentario-18357
+
+\[...\] Não estou tão convicto quanto Pablo sobre uma final carioca, hoje, eu diria que está mais para Botafogo x Sport. Enviar por e-mail ‘ ‘Assine o Bla bla Gol OUTROS ARTIGOS \[...\]

@@ -56,6 +56,8 @@ Qual e o melhor jogador do sao paulo?
 
 [Harlei](<http://www.blablagol.com.br/pfiu-anticlimax/>)
 
-## 22/11/2009 21:36 - [[Pessoas/Para o bem ou para o mal꞉ Botafogo 3×2 São Paulo|Para o bem ou para o mal: Botafogo 3×2 São Paulo]] - #43242 ^comentario-43242
+# Referências de outros posts
+
+## 22/11/2009 21:36 - [[Posts/6045 - Para o bem ou para o mal Botafogo 3×2 São Paulo|Para o bem ou para o mal: Botafogo 3×2 São Paulo]] - #43242 ^comentario-43242
 
 \[...\] de ser irrepreensível, o Botafogo fez uma partida digna da expectativa criada por pelo menos quatro torcidas. Alvinegros, tricolores paulistas e cariocas e rubro-negros \[...\]

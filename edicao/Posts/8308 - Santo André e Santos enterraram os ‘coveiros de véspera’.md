@@ -258,6 +258,8 @@ Boteco da Lusa – [Raspas e restos me interessam](<https://web.archive.org/web/
 
 Eu acho o Estadual uma bela porcaria. Mas ganhar quase sempre é melhor que perder, claro.
 
-## 28/04/2010 19:11 - [[Pessoas/Barcelona 1×0 Internazionale꞉ joguinho vagabundo|Barcelona 1×0 Internazionale: joguinho vagabundo]] - #55993 ^comentario-55993
+# Referências de outros posts
+
+## 28/04/2010 19:11 - [[Posts/8359 - Barcelona 1×0 Internazionale joguinho vagabundo|Barcelona 1×0 Internazionale: joguinho vagabundo]] - #55993 ^comentario-55993
 
 \[…\] Quem comprou na alta pela expectativa de jogão ficou no prejú. O meu foi amortizado pelo lucro do domingo. \[…\]

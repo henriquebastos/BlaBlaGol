@@ -238,14 +238,16 @@ Como estratégia de marketing, a direção acertou em cheio. Com as vendas em al
 
 Pior é ser Botafogo. Hehehe…
 
-## 5/02/2010 1:54 - [[Pessoas/Luiz Alberto no Boca Juniors|Luiz Alberto no Boca Juniors]] - #49061 ^comentario-49061
-
-\[...\] Brincadeiras à parte, Luiz Alberto ficou dando sopa depois que o Fluminense o afastou junto com uma penca de enconstados e partiu para cumprir sua obrigação no Brasileirão. \[...\]
-
 ## 17/04/2010 14:21 - [[Pessoas/Agora é hora do Cuca ficar at Vence o Fluminense|Agora é hora do Cuca ficar at Vence o Fluminense]] - #55203 ^comentario-55203
 
 \[...\] A consideração em questão, é que o Fluminense com Cuca apesar de afinar na hora do à vera contra times de mesmo quilate como nos clássicos estaduais que vem disputanto (onde só venceu o Botafogo na Taça Rio), joga bem contra os demais times (a verdade é que joga bem os clássicos também, mas perde) e vence. Jogou bem e venceu times medianos e da rabeira da tabela na arrancada final do Brasileirão de 2009. \[...\]
 
-## 2/05/2010 20:09 - [[Pessoas/Enfim, chega ao fim o Campeonato Carioca|Enfim, chega ao fim o Campeonato Carioca]] - #56176 ^comentario-56176
+# Referências de outros posts
+
+## 5/02/2010 1:54 - [[Posts/7145 - Luiz Alberto no Boca Juniors|Luiz Alberto no Boca Juniors]] - #49061 ^comentario-49061
+
+\[...\] Brincadeiras à parte, Luiz Alberto ficou dando sopa depois que o Fluminense o afastou junto com uma penca de enconstados e partiu para cumprir sua obrigação no Brasileirão. \[...\]
+
+## 2/05/2010 20:09 - [[Posts/8384 - Enfim, chega ao fim o Campeonato Carioca|Enfim, chega ao fim o Campeonato Carioca]] - #56176 ^comentario-56176
 
 \[...\] é seu rebento que por obra de um milagre escapou de nascer na 2ª \[...\]

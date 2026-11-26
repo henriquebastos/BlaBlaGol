@@ -207,10 +207,12 @@ Queria mandar um salve pra Jona da pizzaria, pro beto da loja de som, pra, pru, 
 
 os caras merecem…
 
-## 22/12/2010 13:44 - [[Pessoas/Cadê o Tri do Fluminense？|Cadê o Tri do Fluminense?]] - #78815 ^comentario-78815
-
-\[...\] lendo com atenção, percebe que antes de uma briga por oficialização ou não de títulos (coisa que eu não esperei para ver), este post é um Observatório. Por isso, ainda será necessário voltar a ele no futuro para ver \[...\]
-
 ## 27/12/2010 19:39 - [[Pessoas/XUPA|XUPA]] - #79200 ^comentario-79200
 
 XUPA invejosos, agora é oficial, Santos e Palmeiras os maiores campeões brasileiros da história! Parabéns aos clubes que lutaram para resgatar a história do futebol, e quem fala que isso é passado despreza a hitória do prórpio futebol, já que os melhores jogadores da história do futebol brasileiro jogaram nesta década! Quem é Ronaldo, Zico, Ronaldinho, messi, Zidane??? Pelé humilha todos eles, e Garrincha e Tostão mais ainda!
+
+# Referências de outros posts
+
+## 22/12/2010 13:44 - [[Posts/11421 - Cadê o Tri do Fluminense|Cadê o Tri do Fluminense?]] - #78815 ^comentario-78815
+
+\[...\] lendo com atenção, percebe que antes de uma briga por oficialização ou não de títulos (coisa que eu não esperei para ver), este post é um Observatório. Por isso, ainda será necessário voltar a ele no futuro para ver \[...\]

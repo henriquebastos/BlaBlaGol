@@ -171,6 +171,8 @@ A oposição, agora situação (eu tb já estou confuso), não tem esse planejam
 
 Não sei se eles foram pegos de surpresa ou não, mas com certeza não sabiam de tudo. Acredito que ainda não sabem de tudo. Acho que muita coisa podre ainda vai sair desse buraco.
 
-## 30/07/2010 7:01 - [[Pessoas/Qual o gol mais bonito？|Qual o gol mais bonito?]] - #65354 ^comentario-65354
+# Referências de outros posts
+
+## 30/07/2010 7:01 - [[Posts/10123 - Qual o gol mais bonito|Qual o gol mais bonito?]] - #65354 ^comentario-65354
 
 \[...\] Bebeto e Tita encantaram Brasil e mundo afora com seus belos gols e belas \[...\]

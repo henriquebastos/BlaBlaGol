@@ -93,12 +93,14 @@ Via rafael botafoguense, herói alvinegro.
 Posso ser mais sucinto e poético ao definir o botafoguense: “sofredor”!  
  huahuahuahuahuahuahua
 
-## 28/12/2010 17:43 - [[Pessoas/Blogues que amamos (ou odiamos)|Blogues que amamos (ou odiamos)]] - #79273 ^comentario-79273
-
-\[...\] Fogareiro: conheci o gordão graças a um comentário do rafael botafoguense. A paixão do cara empolga, uma \[...\]
-
 ## 7/02/2011 10:23 - [[Pessoas/Gaburah|Gaburah]] - #84403 ^comentario-84403
 
 ## 10/03/2011 11:52 - [[Pessoas/Gaburah|Gaburah]] - #88723 ^comentario-88723
 
 Este é mais um oferecimento de **rafael botafoguense**, MITO alvinegro do BBG:
+
+# Referências de outros posts
+
+## 28/12/2010 17:43 - [[Posts/11395 - Blogues que amamos (ou odiamos)|Blogues que amamos (ou odiamos)]] - #79273 ^comentario-79273
+
+\[...\] Fogareiro: conheci o gordão graças a um comentário do rafael botafoguense. A paixão do cara empolga, uma \[...\]

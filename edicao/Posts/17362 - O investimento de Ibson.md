@@ -691,10 +691,6 @@ Concordo inteiramente com o comentário. Nem lembro desse jogo do Santos mas END
 
 No Maracanã era de lei isso. É uma sensação que tenho.
 
-## 20/06/2012 11:36 - [[Pessoas/Mercado Potencial do Eixo|Mercado Potencial do Eixo]] - #131242 ^comentario-131242
-
-\[…\] próprio Bona explicou a metodologia: PIB SP/população = PIB percapta Pib percapta SP x torcida gambá = PIB SP gambá PIB Brasil – \[…\]
-
 ## 19/04/2013 16:30 - [[Pessoas/Victor|Victor]] - #157460 ^comentario-157460
 
 OBRIGADO DE NADA
@@ -716,3 +712,9 @@ E o mais interessante é que propositalmente *BAP e o pessoal que não entram pr
 > Porém, o volante não aceita sair provisoriamente, apenas em definitivo porque alega que se houver divisão do pagamento de salários, o Flamengo não cumpriria a parte que lhe caberia.
 
 Nessa parte não deu para não rir.
+
+# Referências de outros posts
+
+## 20/06/2012 11:36 - [[Posts/17416 - Mercado Potencial do Eixo|Mercado Potencial do Eixo]] - #131242 ^comentario-131242
+
+\[…\] próprio Bona explicou a metodologia: PIB SP/população = PIB percapta Pib percapta SP x torcida gambá = PIB SP gambá PIB Brasil – \[…\]

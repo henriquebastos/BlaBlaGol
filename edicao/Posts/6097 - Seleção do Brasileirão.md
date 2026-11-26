@@ -869,10 +869,6 @@ Pierre? Cara, ele é horroroso, além de ser desleal e bater o jogo todo.
 
 Nesse estilozinho dele, sou muito mais o Guinazu.
 
-## 25/11/2009 10:51 - [[Pessoas/Tostão é craque|Tostão é craque]] - #43540 ^comentario-43540
-
-\[...\] falando de craque do campeonato e surgem diversas definições, comparações, suposições, descrições, exposições, \[...\]
-
 ## 26/11/2009 22:22 - [[Pessoas/Paulo Pimentel|Paulo Pimentel]] - #43714 ^comentario-43714
 
 Melhor jogo: Flu e Bota no 2º turno.  
@@ -902,3 +898,9 @@ Treinador
 ## 27/11/2009 16:09 - [[Pessoas/Saulo|saulo]] - #43761 ^comentario-43761
 
 Para o menor pior árbitro, escolho Sandro Ricci.
+
+# Referências de outros posts
+
+## 25/11/2009 10:51 - [[Posts/6103 - Tostão é craque|Tostão é craque]] - #43540 ^comentario-43540
+
+\[...\] falando de craque do campeonato e surgem diversas definições, comparações, suposições, descrições, exposições, \[...\]

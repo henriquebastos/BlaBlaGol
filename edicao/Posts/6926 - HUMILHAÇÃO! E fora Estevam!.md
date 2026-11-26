@@ -594,10 +594,6 @@ Joel contratado pelo jeito
 
 [http://oglobo.globo.com/esportes/carioca2010/mat/2010/01/26/joel-santana-assume-comando-do-botafogo-915706478.asp](<https://web.archive.org/web/*/http://oglobo.globo.com/esportes/carioca2010/mat/2010/01/26/joel-santana-assume-comando-do-botafogo-915706478.asp> "Captura ainda não verificada. Endereço original: http://oglobo.globo.com/esportes/carioca2010/mat/2010/01/26/joel-santana-assume-comando-do-botafogo-915706478.asp")
 
-## 26/01/2010 2:04 - [[Pessoas/Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47940 ^comentario-47940
-
-\[...\] Estevam Soares caiu após a surra cruzmaltina sobre O Vergonhoso. Joel foi cogitado e posteriormente confirmado. \[...\]
-
 ## 26/01/2010 9:21 - [[Pessoas/Zarga|Zarga]] - #47955 ^comentario-47955
 
 Maracanazzos já tivemos vários pelos clubes cariocas e pela seleção. Esse terá sido o primeiro “Engenhazzo”?
@@ -694,3 +690,9 @@ Não. Apenas estimei 40 comentaristas.
 ## 26/01/2010 13:09 - Nome não exibido - #47995
 
 Joguei o modelo pra rodar no MATLAB com n=40 observações para esse intervalo de confiança. Saiu vc e o Ronaldo.
+
+# Referências de outros posts
+
+## 26/01/2010 2:04 - [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47940 ^comentario-47940
+
+\[...\] Estevam Soares caiu após a surra cruzmaltina sobre O Vergonhoso. Joel foi cogitado e posteriormente confirmado. \[...\]

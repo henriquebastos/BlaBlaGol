@@ -178,6 +178,8 @@ Fonte: [http://youtu.be/FJYh27YNDgU](<https://web.archive.org/web/*/http://youtu
 
 No fim, a ética de “o melhor técnico do Brasil” é igual a de seus pares. Ou TODOS OS JORNALISTAS EMBARCARAM NO CAÔ DO PVC.
 
-## 5/09/2011 10:58 - [[Pessoas/Estreia do Flamengo no 2º turno é adiada|Estreia do Flamengo no 2º turno é adiada]] - #105649 ^comentario-105649
+# Referências de outros posts
+
+## 5/09/2011 10:58 - [[Posts/15077 - Estreia do Flamengo no 2º turno é adiada|Estreia do Flamengo no 2º turno é adiada]] - #105649 ^comentario-105649
 
 \[...\] Não. A CBF/Seara/Gillette não deu pro CRF/Gillette a molezinha que tem o Santos/Seara. \[...\]

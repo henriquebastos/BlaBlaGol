@@ -107,10 +107,6 @@ O Brasil vai se fuder nesta copa
 
 Desses aí, os únicos que fazem diferença são Xavi, Iniesta e Casillas (apesar de já ter vivido melhor fase). Alonso, Torres, Fábregas e – pelamor!!! – Puyol são bem comuns, para mim.
 
-## 21/06/2010 9:32 - [[Pessoas/Copa do Mundo dia 11|Copa do Mundo dia 11]] - #60014 ^comentario-60014
-
-\[...\] Espanha x Honduras – O time de Pablo tem que golear pra desfazer a péssima imagem do primeiro jogo..Hoje é o dia de começar o “CALA A BOCA PELÉ!”, já que as profecias da parte dos time… \[...\]
-
 ## 11/07/2010 18:05 - [[Pessoas/Lincoln|Lincoln]] - #63340 ^comentario-63340
 
 EU JA SABIAAAAAAA
@@ -356,3 +352,9 @@ Demorou mas foi.
 ## 13/07/2010 19:22 - Nome não exibido - #63632
 
 Fábio \>\>\>\>\>\> Ambos.
+
+# Referências de outros posts
+
+## 21/06/2010 9:32 - [[Posts/9312 - Copa do Mundo dia 11|Copa do Mundo dia 11]] - #60014 ^comentario-60014
+
+\[...\] Espanha x Honduras – O time de Pablo tem que golear pra desfazer a péssima imagem do primeiro jogo..Hoje é o dia de começar o “CALA A BOCA PELÉ!”, já que as profecias da parte dos time… \[...\]

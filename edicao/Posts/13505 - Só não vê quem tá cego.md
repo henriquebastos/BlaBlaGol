@@ -418,6 +418,8 @@ Bem, quando esse Adilson pegou o Santos (de Neymar e Ganso) não conseguiu passa
 Fiz uma homenagem ao Flamengo. CEARÁ que vocês curtem?  
   [http://yougol.wordpress.com/2011/05/12/de-repente-mente/](<https://web.archive.org/web/*/http://yougol.wordpress.com/2011/05/12/de-repente-mente/> "Captura ainda não verificada. Endereço original: http://yougol.wordpress.com/2011/05/12/de-repente-mente/")
 
-## 16/05/2011 14:42 - [[Pessoas/As lições que a bola dá|As lições que a bola dá]] - #95129 ^comentario-95129
+# Referências de outros posts
+
+## 16/05/2011 14:42 - [[Posts/13605 - As lições que a bola dá|As lições que a bola dá]] - #95129 ^comentario-95129
 
 \[...\] A tragédia aconteceu, meus caros. Ninguém ofende o Saci Tipo Colômbia impunemente. E o Mundo caiu sobre as cabeças azuis. O título mineiro ficou complicado, a sanha atleticana cresceu, o primeiro jogo da final se aproximava e nuvens negras “pesaaaaaaadas” ameaçavam tapar o anil céu cruzeirense. \[...\]

@@ -52,6 +52,8 @@ No 1º tempo, achei inclusive que o Avaí se saiu melhor que o Fluminense envolv
 
 Sim, por isso mesmo que isentei de culpa o Muricy no jogo de hoje. O mérito foi todo do time do Avaí, porém, isso não quer dizer que o time do Flu foi de todo mal.
 
-## 30/09/2010 14:37 - [[Pessoas/Cruzeiro 3×0 Atlético-GO – Passeio na Arena|Cruzeiro 3×0 Atlético-GO – Passeio na Arena]] - #71883 ^comentario-71883
+# Referências de outros posts
+
+## 30/09/2010 14:37 - [[Posts/11128 - Cruzeiro 3×0 Atlético-GO – Passeio na Arena|Cruzeiro 3×0 Atlético-GO – Passeio na Arena]] - #71883 ^comentario-71883
 
 \[...\] Ou na bolinha do SporTV enquanto assisto à, sei lá, qualquer jogo sem qualquer importância, tipo Fluminense x Avaí? Não, não dá. O último jogo ao meu alcance na Arena em 2010 necessitava da minha presença. A \[...\]

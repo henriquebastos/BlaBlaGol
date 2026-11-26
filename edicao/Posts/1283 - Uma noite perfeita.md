@@ -764,14 +764,16 @@ o unko snstu aki eh polo affnsu
 
 Alguém deveria gravar os lances do Dodô na quarta-feira em DVD e dar de presente pro Lili hoje no Steak.
 
-## 13/03/2008 23:10 - [[Pessoas/Considerado… at Blá blá Gol|Considerado… at Blá blá Gol]] - #12197 ^comentario-12197
+# Referências de outros posts
+
+## 13/03/2008 23:10 - [[Posts/1307 - Considerado…|Considerado…]] - #12197 ^comentario-12197
 
 \[...\] de regra são de uma chatice ímpar, lineares, monótonas. Parecem seguir um formulário. Outro dia comentei à respeito do assunto quando ouvi a narração muito maneira do gol de Zidane em uma final de UEFA \[...\]
 
-## 15/05/2008 2:03 - [[Pessoas/São Paulo 1×0 Fluminense at Blá blá Gol|São Paulo 1×0 Fluminense at Blá blá Gol]] - #18315 ^comentario-18315
+## 15/05/2008 2:03 - [[Posts/1479 - Fifty One – Fourty Nine|Fifty One – Fourty Nine]] - #18315 ^comentario-18315
 
 \[...\] outro resultado, siginifica o esquecimento, pois este futebol, está longe de ser algo que se diga encantador. Uma \[...\]
 
-## 11/03/2010 0:43 - [[Pessoas/Santos 10×0 Naviraiense꞉ Um Show|Santos 10×0 Naviraiense: Um Show]] - #52318 ^comentario-52318
+## 11/03/2010 0:43 - [[Posts/7732 - Santos 10×0 Naviraiense Um Show|Santos 10×0 Naviraiense: Um Show]] - #52318 ^comentario-52318
 
 \[...\] Os maiores perdedores da noite foram corinthianos e flameguistas ocupados com suas partidas na Libertadores que não puderam ver a exibição santista que infelizmente não teve a pompa e circunstância suficiente para todo mundo assistir. \[...\]

@@ -416,10 +416,6 @@ Tudo isso só serve para dizer que:
  3) Gaburah não levou a plaquinha me zoando como pedi. FATO!  
  4) João Pedro, se o Avaí passar de fase, pode voltar aqui pra zoar, sem perdão! hehehe
 
-## 25/04/2011 9:51 - [[Pessoas/ANAF esculacha|ANAF esculacha]] - #92623 ^comentario-92623
-
-\[...\] pela comoção em torno da polêmica eliminação da Copa do Brasil na última quarta-feira, a diretoria alvinegra emitiu um comunicado oficial em tom áspero criticando a Associação \[...\]
-
 ## 26/04/2011 14:52 - [[Pessoas/Matheus|Matheus]] - #92819 ^comentario-92819
 
 Papelzinho feio esse que o Joel tá se prestando, hein?
@@ -521,3 +517,9 @@ O amor é cego
 ## 3/05/2011 10:26 - Nome não exibido - #93727
 
 Ou algo do tipo “Nóóóóóóóó! Sua mãe tem TRÊS pernas e a do meio **balança**!”
+
+# Referências de outros posts
+
+## 25/04/2011 9:51 - [[Posts/13342 - ANAF esculacha|ANAF esculacha]] - #92623 ^comentario-92623
+
+\[...\] pela comoção em torno da polêmica eliminação da Copa do Brasil na última quarta-feira, a diretoria alvinegra emitiu um comunicado oficial em tom áspero criticando a Associação \[...\]

@@ -364,10 +364,12 @@ Em tempo, enquete equilibrada essa. Quando eu votei estava 5×5, agora 11×11.
 Como é idiota os brasileiros que não tem cultura nenhuma que faz paidinha de tudo e que não tem capacidade de levar nada a serio!  
  Seus idiotas FUTEBOL NÃO TEM NADA DE CULTURA é só um bando de macho correndo atrás de uma bola e ganhando milhões enquanto troxas gastam seus salarios suados que o inseto do felipe disse gastar com ração do cachorro dele e vcs ficam babando ovo pra essa raça que na maioria das vezes não sabe nem o alfabeto completo, ai vcs acham ruim quando o satllone fala a VERDADE sobre o povo brasileiro…
 
-## 24/08/2010 23:38 - [[Pessoas/Luxemburgo, quais as garantias？|Luxemburgo, quais as garantias?]] - #68284 ^comentario-68284
-
-\[...\] Afinal, ele é uma personalidade no futebol brasileiro que tem algo a dizer ao contrário de Madson e Felipe. Inclusive, volta e meia ele toca em assuntos não pertinentes ao Galo, mas ao futebol em \[...\]
-
 ## 21/09/2010 23:26 - [[Pessoas/Dorival Jr. demitido do Santos|Dorival Jr. demitido do Santos]] - #70880 ^comentario-70880
 
 \[...\] entenda-se o período de desmandos prosaicos que ainda que não prejudicassem a equipe, indicavam quebra na hierarquia e perda de ascendência do comandante sobre os comandados. Outra coisa que eu acho que os times poderiam providenciar se é que não tem, é ter um escudo \[...\]
+
+# Referências de outros posts
+
+## 24/08/2010 23:38 - [[Posts/10497 - Luxemburgo, quais as garantias|Luxemburgo, quais as garantias?]] - #68284 ^comentario-68284
+
+\[...\] Afinal, ele é uma personalidade no futebol brasileiro que tem algo a dizer ao contrário de Madson e Felipe. Inclusive, volta e meia ele toca em assuntos não pertinentes ao Galo, mas ao futebol em \[...\]

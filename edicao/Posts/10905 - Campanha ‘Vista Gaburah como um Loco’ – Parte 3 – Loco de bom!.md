@@ -205,6 +205,8 @@ Huaheuaheuaheu UAHEauheaue
 Ivana, PREPARE-SE!  
  Gaburah terá 11 filhos para poder montar um time e dar VAZÃO a essa penca de camisas do Loco Abreu.
 
-## 10/11/2010 22:53 - [[Pessoas/Ceará 2X2 Botafogo – Loco em dose tripla|Ceará 2X2 Botafogo – Loco em dose tripla]] - #74480 ^comentario-74480
+# Referências de outros posts
+
+## 10/11/2010 22:53 - [[Posts/11535 - Ceará 2X2 Botafogo – Loco em dose tripla|Ceará 2X2 Botafogo – Loco em dose tripla]] - #74480 ^comentario-74480
 
 \[...\] e do ÍDOLO El Loco Abreu, que guardou o seu em posição escolhida a dedo dentro da área e me presenteou com mais uma Celeste Alvinegra, cortesia da Estilo Carioca (sigam!). O Ceará equilibrou a partida e superou o Botafogo, virando o \[...\]

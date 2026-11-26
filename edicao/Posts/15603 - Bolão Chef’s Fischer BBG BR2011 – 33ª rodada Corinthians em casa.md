@@ -56,10 +56,6 @@ Nossa… pouca teoria da conspiração é bobagem, certo?
 
 Teoria da conspiração é teoria somente antes da comprovação. Neste caso, nao falamos mais de conspiração. E sim de fato.
 
-## 4/11/2011 6:09 - [[Pessoas/Sobre Presidentes|Sobre Presidentes]] - #110939 ^comentario-110939
-
-\[...\] 33 do Campeonato Brasileiro, com Bolão BBG a todo vapor (palpitem!), e o assunto já (e ainda) é a 34ª rodada, quando Vasco e Botafogo se enfrentam em \[...\]
-
 ## 5/11/2011 20:06 - [[Pessoas/Andre Bona|Andre Bona]] - #111009 ^comentario-111009
 
 Botafogo facilitando…  
@@ -813,3 +809,9 @@ Se a tabela do Flamengo fosse a do Vasco era só cuidar para que MLH estivesse e
 ## 8/11/2011 9:45 - Nome não exibido - #111282
 
 Se MLH estivesse em forma o título estaria no papo.
+
+# Referências de outros posts
+
+## 4/11/2011 6:09 - [[Posts/15607 - Sobre Presidentes|Sobre Presidentes]] - #110939 ^comentario-110939
+
+\[...\] 33 do Campeonato Brasileiro, com Bolão BBG a todo vapor (palpitem!), e o assunto já (e ainda) é a 34ª rodada, quando Vasco e Botafogo se enfrentam em \[...\]

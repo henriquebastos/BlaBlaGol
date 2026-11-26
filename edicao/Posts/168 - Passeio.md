@@ -106,10 +106,6 @@ Buáááá buáááá buáááá!!!!
 
 putz….
 
-## 17/04/2011 21:53 - [[Pessoas/O fim da Gloriosa série 2006-2010|O fim da Gloriosa série 2006-2010]] - #91784 ^comentario-91784
-
-\[…\] um já surpreendente Botafogo no fim daquele Brasileiro que encantou torcidas País afora após um 2×0 sobre o Vasco frustando as pretensões Romaristas de fazer o Gol Mil no Fogão. Daí por diante, os holofotes iluminaram a Estrela Solitária com epopeias cocainômalas variando \[…\]
-
 ## 30/09/2012 23:42 - [[Pessoas/Yuri|Yuri]] - #141000 ^comentario-141000
 
 hahaha, quando Gaburah ainda era grafado “Gaburá”.
@@ -121,3 +117,9 @@ Para mim, que conheço o RB desde quando ele era só **rafael**, é curioso ver 
 Recordar é viver…
 
 Tava puto com o Romário pelo circo armado em cima do Botafogo. Mas reconheço os 1000 gols dele sim. Dêem o desconto da cabeça quente =)))
+
+# Referências de outros posts
+
+## 17/04/2011 21:53 - [[Posts/13205 - O fim da Gloriosa série 2006-2010|O fim da Gloriosa série 2006-2010]] - #91784 ^comentario-91784
+
+\[…\] um já surpreendente Botafogo no fim daquele Brasileiro que encantou torcidas País afora após um 2×0 sobre o Vasco frustando as pretensões Romaristas de fazer o Gol Mil no Fogão. Daí por diante, os holofotes iluminaram a Estrela Solitária com epopeias cocainômalas variando \[…\]

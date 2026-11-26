@@ -214,6 +214,8 @@ Se conseguir, vou verificar isso tb.
 
 hahahah futebol é fd…. por isso não curto, ta tudo errado!!!
 
-## 28/05/2012 15:07 - [[Pessoas/TimePress – 1ºsem∕2012|TimePress – 1ºsem/2012]] - #128983 ^comentario-128983
+# Referências de outros posts
+
+## 28/05/2012 15:07 - [[Posts/17249 - TimePress – 1ºsem 2012|TimePress – 1ºsem/2012]] - #128983 ^comentario-128983
 
 \[...\] aqui verifica-se que existe um padrão seguido. Inscreva seu e-mail e confirme pelo link eviado para receber novos artigos do Blá \[...\]

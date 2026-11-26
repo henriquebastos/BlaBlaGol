@@ -695,6 +695,8 @@ Minha nossa…
 
 Nem eu, Saulo.
 
-## 7/11/2010 16:04 - [[Pessoas/Harmonia e Integração no Engenhão|Harmonia e Integração no Engenhão]] - #74182 ^comentario-74182
+# Referências de outros posts
+
+## 7/11/2010 16:04 - [[Posts/11495 - Harmonia e Integração no Engenhão|Harmonia e Integração no Engenhão]] - #74182 ^comentario-74182
 
 \[...\] foto foi tirada no último clássico no Maracanã, que com todos os seus problemas permite franca integração entre os torcedores que desejam ser \[...\]

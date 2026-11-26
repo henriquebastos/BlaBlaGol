@@ -96,6 +96,8 @@ Por fim, torcedor deve cobrar empenho do time na arquibancada, ou não estando n
 
 esse time paunocu essa desgrasa vece sepre vece
 
-## [[Pessoas/Porque não verei o Vasco hoje no Maraca|Porque não verei o Vasco hoje no Maraca]] - #52584 ^comentario-52584
+# Referências de outros posts
+
+## [[Posts/7774 - Porque não verei o Vasco hoje no Maraca|Porque não verei o Vasco hoje no Maraca]] - #52584 ^comentario-52584
 
 \[...\] 1. Esses viados que ficam marcando pra se atracarem, se matarem, se agarrarem e etc. \[...\]

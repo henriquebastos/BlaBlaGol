@@ -413,10 +413,6 @@ Cara, analisando desde então:
  19 – Nautico  
  20 – Botafogo
 
-## 15/09/2009 15:10 - [[Pessoas/106 anos de Grêmio e um marco|106 anos de Grêmio e um marco]] - #38310 ^comentario-38310
-
-\[...\] Parabéns para o Galo pela campanha que vem fazendo, além das expectativas. Mas ainda não é nada para dizer que o Atlético se reergueu.\[...\]
-
 ## 19/09/2009 11:19 - [[Pessoas/Vinicius|vinicius]] - #38416 ^comentario-38416
 
 são paulo  
@@ -451,10 +447,6 @@ vcs sao nojentos,credo,como pode seculo 21 e ainda existe este tipo de idiotas,l
 
 Desculpe pôr tudo, Amanda.
 
-## 7/11/2009 19:23 - [[Pessoas/O Sentimento não pode parar|O Sentimento não pode parar]] - #42411 ^comentario-42411
-
-\[...\] teve Mar de Almirante na Série B, algo que quem acompanha o Blá blá Gol sabe que aconteceria desde antes da competição e no começo da mesma enquanto os times se ajeitavam (aqui) e (acolá). Se um gigante como o Vasco \[...\]
-
 ## 16/11/2009 14:16 - [[Pessoas/Luiz Felipe|luiz felipe]] - #42919 ^comentario-42919
 
 o brasileirao dete ano ja é do flamengooooooo
@@ -470,10 +462,20 @@ Para quem fez essas listas ai erraran toda
  teve tabela ai desses palpites que deixou o MENGAO la na degola  
  pois é pessoal palpite é so palpite dentro de campo e outra coisa
 
-## 24/12/2009 11:42 - [[Pessoas/2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46220 ^comentario-46220
-
-\[...\] Libertadores no fim pode ter sido uma ducha de água fria, mas considerando que brigar por isso já soava estranho, como não considerar 2009 um ano positivo para o \[...\]
-
 ## 27/12/2010 13:43 - [[Pessoas/Lobo|Lobo]] - #79169 ^comentario-79169
 
 Final Fla campeão e cala a boca de geral que falo o oposto de campeão !!!
+
+# Referências de outros posts
+
+## 15/09/2009 15:10 - [[Posts/5053 - 106 anos de Grêmio e um marco|106 anos de Grêmio e um marco]] - #38310 ^comentario-38310
+
+\[...\] Parabéns para o Galo pela campanha que vem fazendo, além das expectativas. Mas ainda não é nada para dizer que o Atlético se reergueu.\[...\]
+
+## 7/11/2009 19:23 - [[Posts/5644 - O Sentimento não pode parar|O Sentimento não pode parar]] - #42411 ^comentario-42411
+
+\[...\] teve Mar de Almirante na Série B, algo que quem acompanha o Blá blá Gol sabe que aconteceria desde antes da competição e no começo da mesma enquanto os times se ajeitavam (aqui) e (acolá). Se um gigante como o Vasco \[...\]
+
+## 24/12/2009 11:42 - [[Posts/6511 - 2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46220 ^comentario-46220
+
+\[...\] Libertadores no fim pode ter sido uma ducha de água fria, mas considerando que brigar por isso já soava estranho, como não considerar 2009 um ano positivo para o \[...\]

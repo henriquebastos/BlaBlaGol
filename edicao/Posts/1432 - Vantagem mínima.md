@@ -164,6 +164,8 @@ O que tá rolando pela internet
  Pra ver Obina jogar,  
  Fazendo gol no Fogo”
 
-## 5/05/2008 12:12 - [[Pessoas/Supremacia Rubro-Negra at Blá blá Gol|Supremacia Rubro-Negra at Blá blá Gol]] - #17438 ^comentario-17438
+# Referências de outros posts
+
+## 5/05/2008 12:12 - [[Posts/1451 - Supremacia Rubro-Negra|Supremacia Rubro-Negra]] - #17438 ^comentario-17438
 
 \[...\] Vantagem mínima \[...\]

@@ -83,6 +83,8 @@ Quanto ao vídeo, sou mais o q eles fizeram pra Copa América.
 
 Pontos corridos é o maior atentado contra a emoção do futebol. Nesse exato momento está passando Botafogo e Grêmio. Um saco. Parece que nem os jogadores estão com vontade de jogar.
 
-## 26/06/2011 19:22 - [[Pessoas/Botafogo 2X1 Grêmio – reservas mostram a que vieram|Botafogo 2X1 Grêmio – reservas mostram a que vieram]] - #99293 ^comentario-99293
+# Referências de outros posts
+
+## 26/06/2011 19:22 - [[Posts/14113 - Botafogo 2X1 Grêmio – reservas mostram a que vieram|Botafogo 2X1 Grêmio – reservas mostram a que vieram]] - #99293 ^comentario-99293
 
 \[…\] o último. O Botafogo começou bem os primeiros vinte mas caiu de produção, fazendo total jus ao comentário do Rafael Caruccio: Pontos corridos é o maior atentado contra a emoção do futebol. Nesse exato momento está \[…\]

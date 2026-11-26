@@ -520,10 +520,6 @@ Não abriu aqui.
 
 Como todos deveriam saber, quando existe um campeonato do qual apenas uma partida decide, o imponderável pode acontecer. Posso afirmar: quando rolar a decisão do campeão dos turnos, será bem diferente. Existe a possiblidade de recuperação na segunda partida. Isso aconteceu quando o Fluminense foi campeão contra o Volta Redonda. O caso do Flamego X Madureira é semelhante.
 
-## 22/02/2010 10:55 - [[Pessoas/E quem disse que não pode comemorar？|E quem disse que não pode comemorar?]] - #50429 ^comentario-50429
-
-\[...\] as considerações para o post altamente elegante do Serginho Valente. Aqui vai só a homenagem à conquista – que não garante nada, é verdade, mas dá um sopro \[...\]
-
 ## 22/02/2010 11:36 - [[Pessoas/Serginho Valente|Serginho Valente]] - #50438 ^comentario-50438
 
 Pessoal, gostaria de fazer algumas considerações sobre o que foi dito por aqui.
@@ -868,10 +864,6 @@ O que mais quero, hoje, é a redução da dívida vascaína. O resto eu sei que 
 
 [**Rei do Rio, Joel garante que não é fácil ser campeão carioca**](<https://web.archive.org/web/*/http://odia.terra.com.br/portal/ataque/botafogo/html/2010/2/rei_do_rio_joel_garante_que_nao_e_facil_ser_campeao_carioca_65529.html?utm_source=twitterfeed&utm_medium=twitter> "Captura ainda não verificada. Endereço original: http://odia.terra.com.br/portal/ataque/botafogo/html/2010/2/rei_do_rio_joel_garante_que_nao_e_facil_ser_campeao_carioca_65529.html?utm_source=twitterfeed&utm_medium=twitter")
 
-## 22/02/2010 19:54 - [[Pessoas/A probabilidade do Botafogo ser Campeão Carioca 2010|A probabilidade do Botafogo ser Campeão Carioca 2010]] - #50517 ^comentario-50517
-
-\[...\] 50% o Botafogo já adquiriu ao vencer o Vasco e levar a Taça Guanabara. \[...\]
-
 ## 19/04/2010 2:17 - [[Pessoas/Wendell Martins|Wendell Martins]] - #55294 ^comentario-55294
 
 OQUE VAI EMPORTAR AGORAAAA……..FLAMENGUISTAS PARECEM RATOS  
@@ -916,3 +908,13 @@ Pow,o flamengo quer virar freguês? perdeu outra vez pro botafogo? chato isso n�
 ## 10/07/2010 19:11 - [[Pessoas/Andre|Andre]] - #63203 ^comentario-63203
 
 como todos devem dizer bota fogo uma vez campeao sera sempre o nosso timao do coracao.
+
+# Referências de outros posts
+
+## 22/02/2010 10:55 - [[Posts/7352 - E quem disse que não pode comemorar|E quem disse que não pode comemorar?]] - #50429 ^comentario-50429
+
+\[...\] as considerações para o post altamente elegante do Serginho Valente. Aqui vai só a homenagem à conquista – que não garante nada, é verdade, mas dá um sopro \[...\]
+
+## 22/02/2010 19:54 - [[Posts/7364 - A probabilidade do Botafogo ser Campeão Carioca 2010|A probabilidade do Botafogo ser Campeão Carioca 2010]] - #50517 ^comentario-50517
+
+\[...\] 50% o Botafogo já adquiriu ao vencer o Vasco e levar a Taça Guanabara. \[...\]

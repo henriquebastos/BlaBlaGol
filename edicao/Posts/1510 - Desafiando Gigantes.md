@@ -598,10 +598,12 @@ Nao sei o que vc’s acham, mas talvez seja a melhor partida do Thiago neves, po
 
 É preciso humildade e determinação.
 
-## 14/07/2009 20:44 - [[Pessoas/Grande Vice-Campeão da América|Grande Vice-Campeão da América]] - #35432 ^comentario-35432
-
-\[...\] chover no molhado relembrar os épicos confrontos vencidos por 3×1 no Maracanã tanto contra São Paulo, como contra o \[...\]
-
 ## 28/11/2009 20:24 - [[Pessoas/jonathan|jonathan]] - #43805 ^comentario-43805
 
 e flu nos vai ganha a copa nos sempre estaramos pronto para todo o flu sepre nunca vai da as costas para nosso time o fluminese sempre proto para couque coisa saiba que eu sempre vou torse para fluminese um beijo para todos os tricolor carioca xau xau
+
+# Referências de outros posts
+
+## 14/07/2009 20:44 - [[Posts/1627 - Grande Vice-Campeão da América|Grande Vice-Campeão da América]] - #35432 ^comentario-35432
+
+\[...\] chover no molhado relembrar os épicos confrontos vencidos por 3×1 no Maracanã tanto contra São Paulo, como contra o \[...\]

@@ -388,10 +388,12 @@ Jorge, relaxa.
 
 O Jorge não aceita opiniões divergentes e dá esses ataques. Da minha parte, nunca pedi a cabeça do Luxemburgo. Antes mesmo deste vexame, já vinha criticando as mudanças implementadas quando optou pela entrada da dupla Aírton e Williams. Ambos tem características parecidas e juntos dificultam o passe e a manutenção da posse de bola. Ficou pior ainda quando escalou três autênticos zagueiros e deixou Áírton na armação.
 
-## 18/08/2011 23:46 - [[Pessoas/O buraco azul (e alguns outros) é mais embaixo|O buraco azul (e alguns outros) é mais embaixo]] - #104303 ^comentario-104303
+# Referências de outros posts
+
+## 18/08/2011 23:46 - [[Posts/14892 - O buraco azul (e alguns outros) é mais embaixo|O buraco azul (e alguns outros) é mais embaixo]] - #104303 ^comentario-104303
 
 \[...\] Perder para o Atlético-GO fora de casa é tropeço? E de goleada, em pleno Engenhão? É vexame, Saulo? \[...\]
 
-## 19/08/2011 7:02 - [[Pessoas/Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|Bolão Chef’s Fischer BBG BR2011 – 18ª rodada]] - #104327 ^comentario-104327
+## 19/08/2011 7:02 - [[Posts/14910 - Bolão Chef’s Fischer BBG BR2011 – 18ª rodada|Bolão Chef’s Fischer BBG BR2011 – 18ª rodada]] - #104327 ^comentario-104327
 
 \[...\] Não há mais invictos no Eixão 2011. O Dragão matou Maria de Fátima. \[...\]

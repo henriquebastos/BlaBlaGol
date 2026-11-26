@@ -292,10 +292,6 @@ Mancini. Nao me recordo do trabalho deste senhor.
 
 O treinador Vagner Mancini é um dos melhores da nova geração. A sua maior conquista foi a Copa do Brasil em 2005 diante do Fluminense no estádio de São Januário. Trata-se de uma grande aquisição. Diferente da maioria dos seus colegas, suas equipes privilegiam o futebol ofensivo e o trabalho a médio para longo prazo. E fora a sua falta de vaidade, algo raro no futebol brasileiro.
 
-## 23/12/2009 11:41 - [[Pessoas/Vasco 2009-2010|Vasco 2009-2010]] - #46129 ^comentario-46129
-
-\[…\] repetitivo nesse blog já que discutimos essa pauta durante o ano inteiro e mais especificamente no post do Sérginho. Ele focou mais na diretoria, eu vou tentar focar mais nos jogadores. Dorival revelou-se para os \[…\]
-
 ## 25/12/2009 12:31 - [[Pessoas/Victor|Victor]] - #46240 ^comentario-46240
 
 Para fins de registro:  
@@ -1339,3 +1335,9 @@ Reviravolta no Vasco: [http://www.lancenet.com.br/noticias/10-01-12/681451.stm?e
 ## 13/01/2010 8:35 - Nome não exibido - #47321
 
 Não houve reviravolta nenhuma.
+
+# Referências de outros posts
+
+## 23/12/2009 11:41 - [[Posts/6529 - Vasco 2009-2010|Vasco 2009-2010]] - #46129 ^comentario-46129
+
+\[…\] repetitivo nesse blog já que discutimos essa pauta durante o ano inteiro e mais especificamente no post do Sérginho. Ele focou mais na diretoria, eu vou tentar focar mais nos jogadores. Dorival revelou-se para os \[…\]

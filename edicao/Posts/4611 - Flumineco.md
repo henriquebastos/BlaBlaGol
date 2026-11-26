@@ -95,6 +95,8 @@ Paulo Baier seria o *Sr. QuaseRebaixamento*?
 
 Esse é o Geninho.
 
-## 7/08/2009 12:37 - [[Pessoas/Roni matou o Leão|Roni matou o Leão]] - #36499 ^comentario-36499
+# Referências de outros posts
+
+## 7/08/2009 12:37 - [[Posts/4656 - Roni matou o Leão|Roni matou o Leão]] - #36499 ^comentario-36499
 
 \[...\] ter servido para colocar um pouco de ordem na casa enquanto criava demanda para mais um atacante, opção tentada contra o adversário direto Atlético-PR, não bem \[...\]

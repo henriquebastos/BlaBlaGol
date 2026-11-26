@@ -39,14 +39,16 @@ Marcio Braga, presidente do Flamengo enviou ofício ao presidente da FERJ ressal
 
 E… (?)
 
-## 31/01/2008 15:18 - [[Pessoas/A Letra fria do Regulamento at Blá blá Gol|A Letra fria do Regulamento at Blá blá Gol]] - #9817 ^comentario-9817
-
-\[...\] A Letra quente de Marcio Braga \[...\]
-
 ## 1/02/2008 16:18 - [[Pessoas/Saulo|Saulo]] - #9852 ^comentario-9852
 
 O responsável pela segurança é a PM e pronto.Qual a novidade ?
 
-## 8/02/2008 11:05 - [[Pessoas/Fla no Engenhão at Blá blá Gol|Fla no Engenhão at Blá blá Gol]] - #9955 ^comentario-9955
+# Referências de outros posts
+
+## 31/01/2008 15:18 - [[Posts/1188 - A Letra fria do Regulamento|A Letra fria do Regulamento]] - #9817 ^comentario-9817
+
+\[...\] A Letra quente de Marcio Braga \[...\]
+
+## 8/02/2008 11:05 - [[Posts/1203 - Fla no Engenhão|Fla no Engenhão]] - #9955 ^comentario-9955
 
 \[...\] A Letra quente de Marcio Braga \[...\]

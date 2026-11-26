@@ -160,6 +160,8 @@ Encontrar melhor que o André Lima não é difícil.
 
 Em relação a isso, não dá mesmo pra discordar do Saulo. Mas temos que ver pelo lado bom. A idéia original era contratar o Kléber Pereira, mas pra sorte da torcida tricolor, o Inter chegou antes.
 
-## 6/05/2010 2:15 - [[Pessoas/Grêmio abreviou o sofrimento do Fluminense|Grêmio abreviou o sofrimento do Fluminense]] - #56418 ^comentario-56418
+# Referências de outros posts
+
+## 6/05/2010 2:15 - [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense|Grêmio abreviou o sofrimento do Fluminense]] - #56418 ^comentario-56418
 
 \[...\] na Vila Belmiro e o Flamengo eliminava os velhinhos no Pacaembu, eu pragmaticamente acompanhava a anunciada eliminação do Fluminense para o Grêmio no Olímpico, uma vez que antes do adjetivo sensato, há o substantivo \[...\]

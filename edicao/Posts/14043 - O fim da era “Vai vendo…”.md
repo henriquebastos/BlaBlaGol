@@ -273,6 +273,8 @@ Esse que o seu mal!
 *Ai Don Bi Dedú*  
   [http://glo.bo/m7Ez9I](<https://web.archive.org/web/*/http://glo.bo/m7Ez9I> "Captura ainda não verificada. Endereço original: http://glo.bo/m7Ez9I")
 
-## 27/06/2011 23:29 - [[Pessoas/Papai Joel, o estrelado|Papai Joel, o estrelado]] - #99442 ^comentario-99442
+# Referências de outros posts
+
+## 27/06/2011 23:29 - [[Posts/14192 - Papai Joel, o estrelado|Papai Joel, o estrelado]] - #99442 ^comentario-99442
 
 \[...\] sentir o baque pós-Libertadores, mesmo com um título Mineiro para dar uma alegrada no ambiente. Cu”caiu” depois de 5 jogos com 3 empates e 2 derrotas e o contratado foi a LENDA Joel \[...\]

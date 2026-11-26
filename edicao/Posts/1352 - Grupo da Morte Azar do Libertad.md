@@ -302,10 +302,12 @@ Tenho uma amiga rubro-negra que disse que se o Flamengo for eliminado na fase de
 
 Ainda bem que eu não conheço essa sua amiga.
 
-## Pingback on Apr 3rd, 2008 at 10:17 - [[Pessoas/Monstro at Blá blá Gol|Monstro at Blá blá Gol]] - #13657 ^comentario-13657
+# Referências de outros posts
+
+## Pingback on Apr 3rd, 2008 at 10:17 - [[Posts/1351 - Monstro|Monstro]] - #13657 ^comentario-13657
 
 _Texto não identificado na captura._
 
-## Pingback on Apr 7th, 2008 at 1:38 - [[Pessoas/Um pontinho para o fim do chororô at Blá blá Gol|Um pontinho para o fim do chororô at Blá blá Gol]] - #14031 ^comentario-14031
+## Pingback on Apr 7th, 2008 at 1:38 - [[Posts/1370 - Um pontinho para o fim do chororô|Um pontinho para o fim do chororô]] - #14031 ^comentario-14031
 
 _Texto não identificado na captura._

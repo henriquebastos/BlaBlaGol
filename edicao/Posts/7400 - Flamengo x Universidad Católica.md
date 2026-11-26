@@ -72,10 +72,6 @@ A questão é: não lembro minha senha, tampouco sei utilizar este site! #mongol
 
 Manda por email ou tasca nos comentários mesmo que algum gaiato sobe.
 
-## [[Pessoas/Libertadores 2010 – Estreias e recuperação|Libertadores 2010 – Estreias e recuperação]] - #50718 ^comentario-50718
-
-\[...\] Já o Flamengo busca uma boa estreia, com direito a otimismo de Bruno e Léo Moura rogando praga no resto das Américas com suas previsões sobre o (argh!) Império do Amor. O Mais Querido busca ter sucesso na sua empreitada pelo continente, já que o Maracanazzo de 2008 dói fundo na alma da torcida rubro-negra. Pelo menos, o Eterno Cabañas, el IMORTAL, não fará parte dos pesadelos do Ninho do Urubu. O jogo é as 21:50h, horário da Glob…quer dizer, de Brasília. \[...\]
-
 ## [[Pessoas/Saulo|saulo]] - #50726 ^comentario-50726
 
 Foi boa opção a entrada do Fabrício na zaga. Angerlin não estava bem e sua saída vai dar mais velocidade ao setor. Seu reserva deveria ser logo efetivado por se tratar de um zagueiro técnico, rápido e uma ótima opção nas faltas de longa distância em times fechados nos jogos no Maracanã. Por causa da suspensão na sul americana em 2009, David seria o companheiro ideal. No resto, a defesa rubro-negra não deverá ter muito trabalho pela proposta defesiva da equipe chilena. Não ser trata de uma partida de caráter eliminatório, em caso de empate ou uma derrota com poucos gols, será um bom resultado para o Universid Católica.
@@ -156,3 +152,9 @@ A histeria rubronegra causa repulsa e faz com que não deixemos nosso coração 
 Quem não viu o jogo e quer saber como foi é só ler [aqui](<https://web.archive.org/web/*/http://colunas.sportv.globo.com/lediocarmona/2010/02/25/o-camisa-2-que-jogou-por-dois/> "Captura ainda não verificada. Endereço original: http://colunas.sportv.globo.com/lediocarmona/2010/02/25/o-camisa-2-que-jogou-por-dois/").
 
 Só complemento com a não capacidade de se atestar a boa atuação do jovem zagueiro Fabrício. O rapaz foi bem, mas o time chileno mal atacou.
+
+# Referências de outros posts
+
+## [[Posts/7402 - Libertadores 2010 – Estreias e recuperação|Libertadores 2010 – Estreias e recuperação]] - #50718 ^comentario-50718
+
+\[...\] Já o Flamengo busca uma boa estreia, com direito a otimismo de Bruno e Léo Moura rogando praga no resto das Américas com suas previsões sobre o (argh!) Império do Amor. O Mais Querido busca ter sucesso na sua empreitada pelo continente, já que o Maracanazzo de 2008 dói fundo na alma da torcida rubro-negra. Pelo menos, o Eterno Cabañas, el IMORTAL, não fará parte dos pesadelos do Ninho do Urubu. O jogo é as 21:50h, horário da Glob…quer dizer, de Brasília. \[...\]

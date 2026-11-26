@@ -31,6 +31,8 @@ Esse livrin é legal de guardar.
 
 Hoje no Redação SporTV tava o MANDACHUVA d’o Globo, assumindo que é Fluminense. Não sabia. Acho que isso explica.
 
-## 28/05/2012 14:24 - [[Pessoas/TimePress – 1ºsem∕2012|TimePress – 1ºsem/2012]] - #128977 ^comentario-128977
+# Referências de outros posts
+
+## 28/05/2012 14:24 - [[Posts/17249 - TimePress – 1ºsem 2012|TimePress – 1ºsem/2012]] - #128977 ^comentario-128977
 
 \[...\] superou o Flamengo em 2 jogos, exatamente as duas finais de turno que fez. Campeão preterido: O Fluminense só passou em TV aberta no Carioca na final da Taça GB e nos 2 jogos da final do \[...\]

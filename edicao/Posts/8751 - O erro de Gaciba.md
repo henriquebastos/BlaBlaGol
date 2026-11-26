@@ -64,10 +64,6 @@ Fluminense perdeu mas fez por merecer melhor sorte.
 
 # Comentários
 
-## 23/05/2010 23:26 - [[Pessoas/Palmeiras quer técnico para que？|Palmeiras quer técnico para que?]] - #57621 ^comentario-57621
-
-\[...\] Corinthians 1×0 Fluminense – Timão martelado por 90 minutos. Mas futebol é bola na rede \[...\]
-
 ## 23/05/2010 23:38 - [[Pessoas/Douglas|Douglas]] - #57623 ^comentario-57623
 
 Não achei penal no Defederico (pura simulação). Mas me preocupa a quantidade de erros que são discutidos em torno dos jogos do Flu. O time está se apequenando a ponto de as arbitragens usarem dois pesos e duas medidas; ou o time está se apequenando a ponto de colocar a culpa de todo insucesso nas contas do apito. De qualquer forma, gostaria de ver – por pelo menos uma temporada – a mesma boa vontade que os árbitros têm com Flamengo, Corinthians e São Paulo com o meu time.  
@@ -227,6 +223,12 @@ Eu lembrava com certeza do lance do Rodriguinho, porque tinha certeza que levari
 
 O que é incompreensível é o Gaciba apitar a série A sem sequer ter passado nos últimos testes físicos. Na parte técnica ele é muito bom. Erra como todos. Ontem errou feio em não olhar para o assistênte e não assinalar sua marcação.
 
-## 31/05/2010 3:35 - [[Pessoas/Fluminense Full Time|Fluminense Full Time]] - #58081 ^comentario-58081
+# Referências de outros posts
+
+## 23/05/2010 23:26 - [[Posts/8740 - Palmeiras quer técnico para que|Palmeiras quer técnico para que?]] - #57621 ^comentario-57621
+
+\[...\] Corinthians 1×0 Fluminense – Timão martelado por 90 minutos. Mas futebol é bola na rede \[...\]
+
+## 31/05/2010 3:35 - [[Posts/8869 - Fluminense Full Time|Fluminense Full Time]] - #58081 ^comentario-58081
 
 \[...\] observo e isso salta aos olhos. Contra o Atlético Mineiro, o Fluminense jogou futebol similar à partida contra o Corinthians, porém fazendo \[...\]

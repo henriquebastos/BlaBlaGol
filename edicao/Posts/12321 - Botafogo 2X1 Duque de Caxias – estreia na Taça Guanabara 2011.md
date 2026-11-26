@@ -454,6 +454,8 @@ E fez uma bela campanha no Brasileiro. O único fiasco do Joel até agora foi a 
 
 Esse ano temos Carioca, CBr, Sulamiranda e BR11. Levo fé, pois o time é realmente bom e Joel é técnico de ponta.
 
-## 23/01/2011 20:30 - [[Pessoas/Cabofriense 0X5 Botafogo – Gol-Eber|Cabofriense 0X5 Botafogo – Gol-Eber]] - #81735 ^comentario-81735
+# Referências de outros posts
+
+## 23/01/2011 20:30 - [[Posts/12352 - Cabofriense 0X5 Botafogo – Gol-Eber|Cabofriense 0X5 Botafogo – Gol-Eber]] - #81735 ^comentario-81735
 
 \[...\] Botafogo, corroborando o resumo da rapadura do quiproquó da primeira rodada, Joel entrou com três zagueiros e três volantes. Lançou \[...\]

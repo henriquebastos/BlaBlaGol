@@ -69,10 +69,6 @@ Hahaha, estão aprendendo com a rede tv, Luciana Gimenez,
 
 acho que a cada semana poderíamos ter desfiles de lingerie, hehehe.
 
-## 12/03/2008 10:45 - [[Pessoas/A melhor defesa é o ataque. Literalmente. at Blá blá Gol|A melhor defesa é o ataque. Literalmente. at Blá blá Gol]] - #12072 ^comentario-12072
-
-\[...\] Samba Juliana… \[...\]
-
 ## 12/03/2008 16:58 - [[Pessoas/Rafael B|Rafael B.]] - #12098 ^comentario-12098
 
 Só Victor e Serginho mesmo pra não deixar a Ju aqui nem por 24 horas. Triste.
@@ -92,3 +88,9 @@ Toda Juliana é linda!!!! Tem encanto
 ## 27/10/2010 18:21 - Nome não exibido - #73709
 
 posta foto
+
+# Referências de outros posts
+
+## 12/03/2008 10:45 - [[Posts/1304 - A melhor defesa é o ataque. Literalmente|A melhor defesa é o ataque. Literalmente.]] - #12072 ^comentario-12072
+
+\[...\] Samba Juliana… \[...\]

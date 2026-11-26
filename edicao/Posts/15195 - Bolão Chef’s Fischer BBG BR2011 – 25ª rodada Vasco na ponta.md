@@ -546,6 +546,8 @@ E pra quem tava lá no estádio, realmente pareceu que ele não deu acréscimos 
 
 Pelo q vi no “surf de canais”, ele deu apenas 2 no segundo tempo, e acabou o jogo em cima.
 
-## 22/09/2011 22:50 - [[Pessoas/Grêmio 0X1 Botafogo – Palavra de Valente|Grêmio 0X1 Botafogo – Palavra de Valente]] - #106845 ^comentario-106845
+# Referências de outros posts
+
+## 22/09/2011 22:50 - [[Posts/15211 - Grêmio 0X1 Botafogo – Palavra de Valente|Grêmio 0X1 Botafogo – Palavra de Valente]] - #106845 ^comentario-106845
 
 \[...\] A Voz da Experiência falou, a Voz da Experiência avisou. Bote fé nos veinho \[...\]

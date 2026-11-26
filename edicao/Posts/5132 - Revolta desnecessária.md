@@ -198,10 +198,12 @@ Se o Liverpool realmente quisesse o Kléber, você acha que ele já não estaria
 
 Times medianos sempre arriscam levando jogadores bichados ou indisciplinados, o Kléber inclusive já esteve em um desses, e fracassou.
 
-## 23/09/2009 18:38 - [[Pessoas/Cruzeiro x Palmeiras – Pré-Jogo|Cruzeiro x Palmeiras – Pré-Jogo]] - #38638 ^comentario-38638
+# Referências de outros posts
+
+## 23/09/2009 18:38 - [[Posts/5167 - Cruzeiro x Palmeiras – Pré-Jogo|Cruzeiro x Palmeiras – Pré-Jogo]] - #38638 ^comentario-38638
 
 \[...\] meio à polêmica sobre o Gladiador, Cruzeiro e Palmeiras fecham a 25ª rodada do Campeonato Brasileiro às 21:50h de hoje, no Gigante \[...\]
 
-## 20/10/2009 23:52 - [[Pessoas/Diego Souza, o Chato|Diego Souza, o Chato]] - #40872 ^comentario-40872
+## 20/10/2009 23:52 - [[Posts/5589 - Diego Souza, o Chato|Diego Souza, o Chato]] - #40872 ^comentario-40872
 
 \[...\] as saídas de Valdívia e do ídolo cruzeirense de 2009, Diego Souza caiu nas graças da torcida verde auxiliado por um espírito aguerrido e um certo \[...\]

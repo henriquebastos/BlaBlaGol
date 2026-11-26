@@ -42,10 +42,6 @@ Não! Deixa ele no Galo!
 
 Se o problema fosse só falta de ânimo, a Unimed deveria contratar o Jim Carrey. Mas acho que nem um Muricy daria padrão a essa bando que veste a camisa tricolor.
 
-## 2/09/2009 10:39 - [[Pessoas/Fluminense-Unimed contrata Vanusa|Fluminense-Unimed contrata Vanusa]] - #37809 ^comentario-37809
-
-\[...\] as medidas para melhorar o Astral do Flu. A cantora vai abrir os jogos do Flu na \[...\]
-
 ## 2/09/2009 13:12 - [[Pessoas/Serginho Valente|Serginho Valente]] - #37815 ^comentario-37815
 
 Acho, aliás, que deveriam sempre se referir ao clube como Unimed-Fluminense.
@@ -141,3 +137,9 @@ Diretoria do Fluminense [reduziu os preços para o jogo contra o Náutico](<http
  Do valor absurdo passou para o normal.  
  Para mim, ainda é caro para um time na lanterna.  
  Pay-Per-View que te quero bem.
+
+# Referências de outros posts
+
+## 2/09/2009 10:39 - [[Posts/4948 - Fluminense-Unimed contrata Vanusa|Fluminense-Unimed contrata Vanusa]] - #37809 ^comentario-37809
+
+\[...\] as medidas para melhorar o Astral do Flu. A cantora vai abrir os jogos do Flu na \[...\]

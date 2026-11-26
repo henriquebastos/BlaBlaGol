@@ -576,6 +576,8 @@ Especialista explica que provavelmente ele entrou numa fria.
 
 HUAHuahHAu Ahu HAuhUAhUAh AHuHUAhUAhu AHuHAuHAUhAU
 
-## 11/01/2011 0:56 - [[Pessoas/Blá blá Gol saúda Ronaldinho no Flamengo|Blá blá Gol saúda Ronaldinho no Flamengo]] - #80170 ^comentario-80170
+# Referências de outros posts
+
+## 11/01/2011 0:56 - [[Posts/12235 - Blá blá Gol saúda Ronaldinho no Flamengo|Blá blá Gol saúda Ronaldinho no Flamengo]] - #80170 ^comentario-80170
 
 \[...\] pois no campo das imagens não importa o resultado desportivo que seja apresentado. Tal qual Ronaldo e em menor escala Fred, o impacto da contratação de Ronaldinho Sulista por parte do Flamengo já \[...\]

@@ -41,6 +41,8 @@ E quanto ao Promotor…
 
 Outro dia pensei exatamente a mesma coisa. Onde está o aparício? A entregadinha descarada dos clubes matou a credibilidade desta fórmula de campeonato por pontos corridos.
 
-## 28/11/2010 18:29 - [[Pessoas/Um domingo sem futebol|Um domingo sem futebol]] - #76078 ^comentario-76078
+# Referências de outros posts
+
+## 28/11/2010 18:29 - [[Posts/11758 - Um domingo sem futebol|Um domingo sem futebol]] - #76078 ^comentario-76078
 
 \[…\] neófito na observação do ludopédio, o 2º tempo serviu para não deixar dúvidas a ninguém, qualquer pessoa que seja. O Porco ridiculamente abdicou de qualquer coisa que lembrasse \[…\]

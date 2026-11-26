@@ -110,6 +110,8 @@ Dá pra confiar nesse tribunal?
 
 OBS: se bem que o Souza suspenso pode até ser encarado como reforço…
 
-## Pingback on Aug 8th, 2007 at 1:41 - [[Pessoas/Blá blá Gol » Blog Archive » O Botafogo deve passar impune no caso do doping？|Blá blá Gol » Blog Archive » O Botafogo deve passar impune no caso do doping?]] - #3246 ^comentario-3246
+# Referências de outros posts
+
+## Pingback on Aug 8th, 2007 at 1:41 - [[Posts/621 - O Botafogo deve passar impune no caso do doping|O Botafogo deve passar impune no caso do doping?]] - #3246 ^comentario-3246
 
 _Texto não identificado na captura._

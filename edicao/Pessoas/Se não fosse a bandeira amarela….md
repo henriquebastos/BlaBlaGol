@@ -1,3 +1,0 @@
-# Se não fosse a bandeira amarela…
-
-- [[Posts/10051 - THIS is ridiculous, Señor Alonso|#10051]] - THIS is ridiculous, Señor Alonso · [[Posts/10051 - THIS is ridiculous, Señor Alonso#^comentario-66264|#66264]]

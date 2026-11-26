@@ -159,10 +159,6 @@ Se um outro blablagoliano conseguir sem os canais mais baratos que os R$49,90 pe
  – Em até 2 horas o sinal estará restabelecido.  
  – **Obrigado. Mês que vem eu ligo para manter o valor da assinatura. Adeus**
 
-## 26/08/2012 19:50 - [[Pessoas/FDP com Juca Kfoury|FDP com Juca Kfoury]] - #137706 ^comentario-137706
-
-\[…\] 20:30, estreia a série FDP na HBO, teaserada assim pelo Guru: A saga do árbitro Juarez Gomes da Silva (protagonizado pelo ator Eucir \[…\]
-
 ## 23/11/2012 12:56 - [[Pessoas/Victor|Victor]] - #145355 ^comentario-145355
 
 – ClaroTV, boa noite.  
@@ -311,3 +307,9 @@ Não fosse esse meu desconhecimento do novo Universo, era a chance de ouro de me
 ## 16/07/2014 18:25 - [[Pessoas/Michele|Michele]] - #178941 ^comentario-178941
 
 Telecine
+
+# Referências de outros posts
+
+## 26/08/2012 19:50 - [[Posts/18046 - FDP com Juca Kfoury|FDP com Juca Kfoury]] - #137706 ^comentario-137706
+
+\[…\] 20:30, estreia a série FDP na HBO, teaserada assim pelo Guru: A saga do árbitro Juarez Gomes da Silva (protagonizado pelo ator Eucir \[…\]

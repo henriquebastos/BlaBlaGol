@@ -70,10 +70,6 @@ Perfeito eu tb! Viu os meus motivos pra torcer pelo Uruguay, que não são apena
 Sim. Brilhante. Mas tem quem se ofenda.  
  Coloca aqui também. Opiniões inteligentes são sempre bem-vindas.
 
-## 3/07/2010 11:54 - [[Pessoas/Jornais do Rio destacam Loco Abreu꞉ ‘Botafogo segue na Copa’|Jornais do Rio destacam Loco Abreu: ‘Botafogo segue na Copa’]] - #61865 ^comentario-61865
-
-\[...\] Ou não leia, caso se ofenda com facilidade. AKPC\_IDS += "9626,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos artigos do Blá blá Gol. OUTROS ARTIGOS \[...\]
-
 ## 3/07/2010 11:59 - [[Pessoas/Taís|Taís]] - #61870 ^comentario-61870
 
 Meus motivos para torcer pelo Uruguay (TORÇO PRA QUEM EU QUISER):
@@ -338,3 +334,9 @@ coisa genial… gostei do ESTILO. Mas VATICINE-SE que eu jamais havia CAPCHADO a
 ## 6/07/2010 18:36 - Nome não exibido - #62486
 
 Pode apostar que utilizarei o vocábulo POPULACHO em meus escritos NEÓFITOS daqui para a frente.
+
+# Referências de outros posts
+
+## 3/07/2010 11:54 - [[Posts/9626 - Jornais do Rio destacam Loco Abreu ‘Botafogo segue na Copa’|Jornais do Rio destacam Loco Abreu: ‘Botafogo segue na Copa’]] - #61865 ^comentario-61865
+
+\[...\] Ou não leia, caso se ofenda com facilidade. AKPC\_IDS += "9626,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos artigos do Blá blá Gol. OUTROS ARTIGOS \[...\]

@@ -187,6 +187,8 @@ Amigos alvinegros. Eu acredito no Carlos Alberto. O cara tem hormonio pra cacete
  Engraçado a dificuldade dos comentaristas em definir o melhor do jogo. Ficou entre Renan, Tiaguinho (muito bom), Diguinho, Túlio e Lucio Flavio. E com menção honrosa pra dupla de zaga que tem mandado muito bem.  
  Amanhã vamos no Engenhão Flavio, Victor e quem mais quiser?
 
-## 3/11/2010 22:23 - [[Pessoas/Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…|Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…]] - #74035 ^comentario-74035
+# Referências de outros posts
+
+## 3/11/2010 22:23 - [[Posts/11462 - Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…|Botafogo 3X2 Atlético-GO – Renê não teve tempo, mas ah se tivesse…]] - #74035 ^comentario-74035
 
 \[...\] informo a todos que me farei presente à Ressacada no domingo para o confronto contra o Avaí. O Orlando Scarpelli me credencia a tamanha \[...\]

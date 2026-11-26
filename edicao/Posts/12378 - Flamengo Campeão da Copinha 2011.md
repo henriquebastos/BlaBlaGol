@@ -299,6 +299,8 @@ Coloca na conta do Roberto. Uma jóia perdida.
 R$ 150 mil… Pechincha  
   [http://globoesporte.globo.com/futebol/times/flamengo/noticia/2011/02/fla-vai-comprar-50-dos-direitos-economicos-do-goleiro-cesar.html](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/times/flamengo/noticia/2011/02/fla-vai-comprar-50-dos-direitos-economicos-do-goleiro-cesar.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/times/flamengo/noticia/2011/02/fla-vai-comprar-50-dos-direitos-economicos-do-goleiro-cesar.html")
 
-## 28/02/2011 0:35 - [[Pessoas/Flamengo Campeão Taça GB 2011|Flamengo Campeão Taça GB 2011]] - #87827 ^comentario-87827
+# Referências de outros posts
+
+## 28/02/2011 0:35 - [[Posts/12780 - Flamengo Campeão Taça GB 2011|Flamengo Campeão Taça GB 2011]] - #87827 ^comentario-87827
 
 \[...\] Na verdade, 2011 já tinha sido melhor. Ou mesmo com as grandes contratações. \[...\]

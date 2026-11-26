@@ -614,10 +614,12 @@ Só tem que começar a fazer gol pra não se complicar, como se houvesse um empa
 
 Jogo contra o Palmeiras é importante e uma vitória vai ajudar demais.
 
-## 5/09/2010 8:36 - [[Pessoas/Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69365 ^comentario-69365
+# Referências de outros posts
+
+## 5/09/2010 8:36 - [[Posts/10689 - Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi|Botafogo 2X2 Grêmio – Aprendendo com o Portaluppi]] - #69365 ^comentario-69365
 
 \[...\] 18° rodada, o Botafogo fez uma partida tenebrosa contra o Barueri Prudente. Tão ruim que eu nem quis escrever sobre, restando ao bravo Zé Fogão o trabalho de tentar achar explicação para aquele show de horror. \[...\]
 
-## 28/11/2010 18:39 - [[Pessoas/Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final|Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final]] - #76080 ^comentario-76080
+## 28/11/2010 18:39 - [[Posts/11757 - Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final|Botafogo 3X1 Grêmio Prudente – partida típica de Botafogo modo reta final]] - #76080 ^comentario-76080
 
 \[...\] e qual a partida de ida contra o Prudente, o Botafogo fez péssimo jogo e ainda assim saiu com a \[...\]

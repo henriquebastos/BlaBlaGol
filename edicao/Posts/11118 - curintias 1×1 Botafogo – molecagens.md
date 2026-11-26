@@ -786,6 +786,8 @@ Sobre o jogo de amanhã, o Botafogo é **muito** favorito.
 
 De resto concordo com tudo.
 
-## 24/10/2010 7:56 - [[Pessoas/Botafogo 1X0 Vitória – invicto há nove rodadas|Botafogo 1X0 Vitória – invicto há nove rodadas]] - #73442 ^comentario-73442
+# Referências de outros posts
+
+## 24/10/2010 7:56 - [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas|Botafogo 1X0 Vitória – invicto há nove rodadas]] - #73442 ^comentario-73442
 
 \[...\] apresentação à altura de outras (onde jogou bem melhor mas só conseguiu empatar – por uma razão ou por outra), o Botafogo quebrou ontem o jejum de vitórias contra o Vitória (hahaha, sem \[...\]

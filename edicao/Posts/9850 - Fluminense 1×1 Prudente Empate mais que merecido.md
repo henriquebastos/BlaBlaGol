@@ -213,6 +213,8 @@ Prezado Cabelereca,
 \*\*\*\*  
  Saulo, volta para as páginas policiais que é onde se encontra o noticiário do teu time.
 
-## 23/07/2010 11:30 - [[Pessoas/3-5-2 na Berlinda|3-5-2 na Berlinda]] - #64682 ^comentario-64682
+# Referências de outros posts
+
+## 23/07/2010 11:30 - [[Posts/10014 - 3-5-2 na Berlinda|3-5-2 na Berlinda]] - #64682 ^comentario-64682
 
 \[…\] Ao contrário do jogo contra o Prudente, o Fluminense não merecia levar o gol. O clima de festinha da partida contra o Prudente deu lugar à apreensão. O empate deu lugar a vitória. \[…\]

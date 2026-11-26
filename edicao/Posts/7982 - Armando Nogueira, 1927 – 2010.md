@@ -440,6 +440,8 @@ Esporte é a antítese da guerra.
 
 Não usar a cor do time adversário deve ser algum tipo de daltonismo. Para ser bem legal com essas pessoas.
 
-## 30/03/2010 22:50 - [[Pessoas/Action!!!|Action!!!]] - #53834 ^comentario-53834
+# Referências de outros posts
+
+## 30/03/2010 22:50 - [[Posts/8004 - Action!!!|Action!!!]] - #53834 ^comentario-53834
 
 \[...\] tudo muito divertido. Para ele, podemos citar para ele uma frase que ao mesmo tempo rende uma justa homenagem ao nosso saudosíssimo botafoguense Armando Nogueira, que se nos deixou sem a sua presença, certamente nos enriquecerá para sempre com suas perolas \[...\]

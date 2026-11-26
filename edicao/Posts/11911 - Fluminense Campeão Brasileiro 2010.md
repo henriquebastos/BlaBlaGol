@@ -880,10 +880,6 @@ OBS: colocaram nessa fonte o titulo de 87 para o urubu… mas se o reconheciment
 
 galo q vai se fuder nessa história aí. sampa(ex-maior campeão)e corinthias (ultrpassado por todos de SP) também ficarão putos.
 
-## 19/12/2010 15:59 - [[Pessoas/Cadê o Tri do Fluminense？|Cadê o Tri do Fluminense?]] - #78416 ^comentario-78416
-
-\[...\] o Fluminense apenas como Campeão Brasileiro de 2010, no que entendo, agiu com correção técnica. O Blá blá Gol fez o mesmo \[2\]. Todavia, o Blá blá Gol faz isso por critérios de alguns editores em considerar o uso de \[...\]
-
 ## 20/12/2010 10:49 - [[Pessoas/Bender|Bender]] - #78473 ^comentario-78473
 
 > **Guerreiros**
@@ -929,3 +925,9 @@ Acho válida qualquer tentativa de mensuração. Mas é preciso uma certa habili
 ## 20/12/2010 11:20 - Nome não exibido - #78483
 
 Sem contar o seguinte: As Unimeds são independentes uma das outras. Se não me falha a memória, CB é o presidente da Unimed do Rio de Janeiro…
+
+# Referências de outros posts
+
+## 19/12/2010 15:59 - [[Posts/11421 - Cadê o Tri do Fluminense|Cadê o Tri do Fluminense?]] - #78416 ^comentario-78416
+
+\[...\] o Fluminense apenas como Campeão Brasileiro de 2010, no que entendo, agiu com correção técnica. O Blá blá Gol fez o mesmo \[2\]. Todavia, o Blá blá Gol faz isso por critérios de alguns editores em considerar o uso de \[...\]

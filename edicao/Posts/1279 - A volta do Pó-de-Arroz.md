@@ -87,6 +87,8 @@ Se a Unimed quisesse fazer propaganda aqui no blablagol, eu topava.\[2\]
 
 Se a Petrobrás patrocinasse o Blá Blá Gol, eu topava.
 
-## Pingback on Mar 6th, 2008 at 1:52 - [[Pessoas/Uma noite perfeita at Blá blá Gol|Uma noite perfeita at Blá blá Gol]] - #11408 ^comentario-11408
+# Referências de outros posts
+
+## Pingback on Mar 6th, 2008 at 1:52 - [[Posts/1283 - Uma noite perfeita|Uma noite perfeita]] - #11408 ^comentario-11408
 
 _Texto não identificado na captura._

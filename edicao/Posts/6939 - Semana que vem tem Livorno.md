@@ -60,6 +60,8 @@ Douglas (Bicuda FC) – [*Algumas manchetes mostram que certas pesssoas, por mai
 
 Está valendo neste tópico. Pelo visto, a saída de um significa a entrada do outro.
 
-## 9/02/2010 16:48 - [[Pessoas/A nova Era Dunga|A nova Era Dunga]] - #49541 ^comentario-49541
+# Referências de outros posts
+
+## 9/02/2010 16:48 - [[Posts/7222 - A nova Era Dunga|A nova Era Dunga]] - #49541 ^comentario-49541
 
 \[...\] A afliceta midiática apareceu na virada 2009/2010 de forma surpreendentemente tímida como um fraco lobby por Ronaldinho Gaúcho rapidamente dizmiado pela Internazionale de Julio Cesar e Lúcio. \[...\]

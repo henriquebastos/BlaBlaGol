@@ -181,6 +181,8 @@ Obs. 2009 no Brasil registrou a maior média da década por aqui.
 
 ## 2/12/2010 21:26 - [[Pessoas/Bender|Bender]] - #76655 ^comentario-76655
 
-## 16/05/2011 15:32 - [[Pessoas/Copa 2014 – primeiros números|Copa 2014 – primeiros números]] - #95139 ^comentario-95139
+# Referências de outros posts
+
+## 16/05/2011 15:32 - [[Posts/13610 - Copa 2014 – primeiros números|Copa 2014 – primeiros números]] - #95139 ^comentario-95139
 
 \[...\] da gastança da Copa, que será amplificada, o prejuízo já começou. Vai trazer "x" a valor \[...\]

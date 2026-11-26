@@ -260,6 +260,8 @@ Era bom ressaltar que o Raí estava em péssima fase naquela época. Ele foi esc
 
 Técnico?
 
-## 11/05/2009 1:09 - [[Pessoas/Dia de Maurício|Dia de Maurício]] - #32541 ^comentario-32541
+# Referências de outros posts
+
+## 11/05/2009 1:09 - [[Posts/3849 - Dia de Maurício|Dia de Maurício]] - #32541 ^comentario-32541
 
 \[...\] time do Fluminense contra o Goiás e contra o São Paulo entrou focado nas partidas com seus jogadores finalmente jogando, mesmo que \[...\]

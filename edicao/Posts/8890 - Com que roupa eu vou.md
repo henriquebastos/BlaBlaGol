@@ -112,6 +112,8 @@ na de 62 o garrincha tá estranho,foram tentar sair do clichê (sua foto mais fo
 
 \*grande parte já foi [violada](<https://web.archive.org/web/*/http://stencilart.blog.com/2008/05/04/libertas-que-sera-libertado/> "Captura ainda não verificada. Endereço original: http://stencilart.blog.com/2008/05/04/libertas-que-sera-libertado/") portanto recomendo [tinta](<https://web.archive.org/web/*/http://stencilart.blog.com/2009/01/30/coletivo-obama/> "Captura ainda não verificada. Endereço original: http://stencilart.blog.com/2009/01/30/coletivo-obama/")
 
-## 4/06/2010 20:13 - [[Pessoas/Bolão Blá blá Gol da Copa 2010|Bolão Blá blá Gol da Copa 2010]] - #58432 ^comentario-58432
+# Referências de outros posts
+
+## 4/06/2010 20:13 - [[Posts/8997 - Bolão Blá blá Gol da Copa 2010|Bolão Blá blá Gol da Copa 2010]] - #58432 ^comentario-58432
 
 \[...\] Já demos livros e camisa da Portuguesa em bolões anteriores. Neste aqui o prêmio será um vale-compras no valor de R$100,00 na El Cabriton Y Amigos, que já passou pelo BBG. \[...\]

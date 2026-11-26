@@ -45,10 +45,6 @@ A *fogo-press* trabalhou bem nesse início de campeonato colocando o Fogão pra 
 
 kkkkkkkkkkkkkkkkkkkkkk
 
-## 17/05/2010 11:55 - [[Pessoas/Corinthians lidera com 100% (!？)|Corinthians lidera com 100% (!?)]] - #57315 ^comentario-57315
-
-\[...\] São Paulo 1×2 Botafogo – Camisa 13 para Antonio Carlos já! \[...\]
-
 ## 17/05/2010 12:01 - [[Pessoas/Saulo|saulo]] - #57316 ^comentario-57316
 
 A vitória foi muito importante. O Botafogo disputa somente o brasileiro neste semestre e precisa mesmo aproveitar enquanto enfrenta times mistos ou reservas nesta fase pré-copa. Entrosado e sem a presença do El Loco, o time diminuiu aqueles chuverinhos incansáveis e passou a jogar a bola mais no chão. Prefiro essa formação no ataque, Caio e Herrera. E o Joel continua a insistir com o volante Somália na lateral esquerda. Pode ser bom marcador, mas não vai uma única vez na linha de fundo por dois motivos: é destro e não tem o menor cacoete.  
@@ -173,3 +169,9 @@ E realmente o setor carente do time é mesmo a defesa, que vacila demais e não 
 ## 17/05/2010 19:59 - Nome não exibido - #57340
 
 HAUAHAHUAHUAHUAHUAAHUAUHHAUAHUAHUAHUAUHA
+
+# Referências de outros posts
+
+## 17/05/2010 11:55 - [[Posts/8616 - Corinthians lidera com 100% (! )|Corinthians lidera com 100% (!?)]] - #57315 ^comentario-57315
+
+\[...\] São Paulo 1×2 Botafogo – Camisa 13 para Antonio Carlos já! \[...\]

@@ -176,10 +176,6 @@ mas a pergunta que fica ”a maior torcida do mundU” realmente faz a diferenç
 
 blablagol tem umas paradas meio sobrenaturais,nem coloquei foto,e apareceu do nada!
 
-## 22/11/2009 21:23 - [[Pessoas/Pfiu – Anticlímax|Pfiu – Anticlímax]] - #43240 ^comentario-43240
-
-\[...\] Alegria rubronegra no domingo só gozando com o dos outros. \[...\]
-
 ## 23/11/2009 9:35 - [[Pessoas/Flávio|Flávio]] - #43263 ^comentario-43263
 
 Cara, na boa, sempre tento ser polido nas minhas declarações e comentários, ainda que a paixão alvinegra potencialize a minha emoção, po, mas dessa vez o Saulo exagerou.
@@ -214,10 +210,6 @@ Para mim o Botafogo perde do Atlético-PR mas escapa contra o Palmeiras.
 
 Nos dois casos, SE ganhar **vai ser no sufoco**.
 
-## 23/11/2009 10:34 - [[Pessoas/Eu sou a Lenda|Eu sou a Lenda]] - #43274 ^comentario-43274
-
-\[...\] mundo”. Ficou muito maneiro, mas neguinho não teve muita paciência e ficou pouco tempo de pé. O que vai aparecer de foto mostrando falha vai ser uma festa…mas que ficou bonito, isso ficou. "- Achou vaga, \[...\]
-
 ## 23/11/2009 11:43 - [[Pessoas/Karlitus|Karlitus]] - #43294 ^comentario-43294
 
 Estevam Soares – [Vamos Comemorar !!](<https://web.archive.org/web/*/http://estevamsoares.blogspot.com/2009/11/vamos-comemorar.html> "Captura ainda não verificada. Endereço original: http://estevamsoares.blogspot.com/2009/11/vamos-comemorar.html")
@@ -227,3 +219,13 @@ Estevam Soares – [Vamos Comemorar !!](<https://web.archive.org/web/*/http://es
 Jogão! Emocionante. Que golaços do Jobson.
 
 Muito maneiro a Flamengada comemorando junto com o botafoguense.
+
+# Referências de outros posts
+
+## 22/11/2009 21:23 - [[Posts/6060 - Pfiu – Anticlímax|Pfiu – Anticlímax]] - #43240 ^comentario-43240
+
+\[...\] Alegria rubronegra no domingo só gozando com o dos outros. \[...\]
+
+## 23/11/2009 10:34 - [[Posts/6078 - Eu sou a Lenda|Eu sou a Lenda]] - #43274 ^comentario-43274
+
+\[...\] mundo”. Ficou muito maneiro, mas neguinho não teve muita paciência e ficou pouco tempo de pé. O que vai aparecer de foto mostrando falha vai ser uma festa…mas que ficou bonito, isso ficou. "- Achou vaga, \[...\]

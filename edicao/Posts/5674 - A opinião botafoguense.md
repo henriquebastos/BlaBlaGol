@@ -275,10 +275,6 @@ O Botafogo não merecia perder esse jogo por tudo que criou, principalmente no s
 
 Por que essa inveja com o Engenhão?
 
-## 28/10/2009 11:31 - [[Pessoas/Dia do Torcedor Flamenguista|Dia do Torcedor Flamenguista]] - #41538 ^comentario-41538
-
-\[...\] É oficial. Existe isso pelo menos no município do Rio de Janeiro e os festejos começaram no domingo. \[...\]
-
 ## 4/11/2009 16:48 - [[Pessoas/Rafael|Rafael]] - #42218 ^comentario-42218
 
 Gaburah,  
@@ -293,3 +289,9 @@ Passei rapidamente pelos comentários. O pior que acontece aqui é quando coloca
  Aqui proponho que acabe tb com Urubuzada e Fla-Manguaça. Se ainda não brigaram, um dia vão. Só lamento, perdeu pelas outras.
 
 Agora, *“Flamengo deveria perder mando de campo”* ou *“capricharam desta vez só porque o jogo foi no Engenhão”* ou *“incitação à violência”*… e outras tiradas desse tipo não vale nem comentar.
+
+# Referências de outros posts
+
+## 28/10/2009 11:31 - [[Posts/5703 - Dia do Torcedor Flamenguista|Dia do Torcedor Flamenguista]] - #41538 ^comentario-41538
+
+\[...\] É oficial. Existe isso pelo menos no município do Rio de Janeiro e os festejos começaram no domingo. \[...\]

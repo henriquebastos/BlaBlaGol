@@ -214,10 +214,6 @@ Palmeiras, Flamengo…
 
 Forças regionais, nacionais, continentais, mundiais…
 
-## 26/06/2010 9:16 - [[Pessoas/Copa do Mundo dia 16 – começam as oitavas|Copa do Mundo dia 16 – começam as oitavas]] - #60896 ^comentario-60896
-
-\[...\] Unidos X Gana – a não mais surpreendente equipe estadunidense enfrenta a equipe africana mais organizada taticamente. AKPC\_IDS += "9440,"; Inscreva seu \[...\]
-
 ## 26/06/2010 21:53 - [[Pessoas/Victor|Victor]] - #60982 ^comentario-60982
 
 Os caras entraram no clima da Copa mesmo. E pelo visto, a crítica gostou da participação do time, apesar da derrota:  
@@ -234,3 +230,9 @@ Em tempo,
  Contra Inglaterra, Eslovênia e Gana.
 
 Correr atrás pode ter dado a impressão que o time era melhor do que de fato é, porque jamais esteve bizonho nas partida, mas ainda é um time moleque-juvenil.
+
+# Referências de outros posts
+
+## 26/06/2010 9:16 - [[Posts/9440 - Copa do Mundo dia 16 – começam as oitavas|Copa do Mundo dia 16 – começam as oitavas]] - #60896 ^comentario-60896
+
+\[...\] Unidos X Gana – a não mais surpreendente equipe estadunidense enfrenta a equipe africana mais organizada taticamente. AKPC\_IDS += "9440,"; Inscreva seu \[...\]

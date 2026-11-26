@@ -87,10 +87,12 @@ Cruzeiro \>\>\>\>\>\>\>\>\>\>\>\>\> Inter e Flu.
 
 E Grêmio!
 
-## 9/11/2010 16:26 - [[Pessoas/Bolão BBG BR2010 – 35ª Rodada꞉ Semifinal antecipada|Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada]] - #74355 ^comentario-74355
+# Referências de outros posts
+
+## 9/11/2010 16:26 - [[Posts/11526 - Bolão BBG BR2010 – 35ª Rodada Semifinal antecipada|Bolão BBG BR2010 – 35ª Rodada: Semifinal antecipada]] - #74355 ^comentario-74355
 
 \[...\] Caberá à Cuca a tarefa de buscar fora de casa o resultado. Os mineiros quem devem subverter as probabilidades, ou apresentarão a frieza de Muricy? \[...\]
 
-## 11/11/2010 9:54 - [[Pessoas/O Ceará no Castelão no BR2010|O Ceará no Castelão no BR2010]] - #74520 ^comentario-74520
+## 11/11/2010 9:54 - [[Posts/11542 - O Ceará no Castelão no BR2010|O Ceará no Castelão no BR2010]] - #74520 ^comentario-74520
 
 \[...\] Se não acreditam em mim, perguntem ao tricampeão Muricy. \[...\]

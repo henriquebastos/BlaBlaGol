@@ -72,10 +72,6 @@ Abração e fé Nele!
 Valeu Renan. Realmente a situação e a perspectiva do Vasco não são nada animadoras. Mas somos Vasco, não estamos Vasco, fazer o que?  
  Abração!
 
-## 6/05/2010 3:05 - [[Pessoas/Grêmio abreviou o sofrimento do Fluminense|Grêmio abreviou o sofrimento do Fluminense]] - #56419 ^comentario-56419
-
-\[...\] Vasco eliminado apesar de boa apresentação (GOL, Blá blá) \[...\]
-
 ## 6/05/2010 9:52 - [[Pessoas/Lincoln|Lincoln]] - #56426 ^comentario-56426
 
 Pelo jeito Dinamite está estragando a única coisa boa do mandato dele…complexo de eurico na cabeça dele.. o presidente não pode interfirir tanto como o Caetano nao pode interfirir no trabalho do tecnico.. ai fica complicado.
@@ -124,3 +120,9 @@ Eu entendi. Com 3, até dá, se forem um lateral, um zagueiro e um atacante. Mas
 ## 7/05/2010 10:37 - [[Pessoas/Felipe|Felipe]] - #56541 ^comentario-56541
 
 Não acho que foi por pouco não. Se o Vasco se classificasse, seria quase um milagre. Um time que toma dois gols fora, e não fez nenhum no jogo de ida, não pode ficar contando com a sorte. A arbitragem brasileira é um lixo faz tempo. Tem que esperar qualquer coisa. Na dúvida, tem que fazer a obrigação. E a obrigação na Copa do Brasil é fazer gol fora de casa. Meu sentimento não para. Mas hoje ele é de desengano. O Vasco vai sofrer, e muito. Está entre os três piores times para começar o Brasileiro. Perdeu 5 meses do ano, não ganhou títulos, não montou uma base, não tem padrão de jogo. Carlos Alberto, a estrela, joga uma vez por mês. Ainda assim correm o risco de ir embora ele e o Coutinho. Trevas. A melhor notícia do Vasco, é que estaria tentando contratar Zé Boteco, Que durante a maior parte do ano passado foi o chinelinho reserva do Flamengo. É torcer muito para não cair de novo. Infelizmente, é o que penso. Mas vou torcer até o fim.
+
+# Referências de outros posts
+
+## 6/05/2010 3:05 - [[Posts/8436 - Grêmio abreviou o sofrimento do Fluminense|Grêmio abreviou o sofrimento do Fluminense]] - #56419 ^comentario-56419
+
+\[...\] Vasco eliminado apesar de boa apresentação (GOL, Blá blá) \[...\]

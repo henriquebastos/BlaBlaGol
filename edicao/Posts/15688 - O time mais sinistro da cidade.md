@@ -117,6 +117,8 @@ Hahahaha…
 
 Rafael Botafoguense Sóbis!
 
-## 20/11/2011 13:26 - [[Pessoas/Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi]] - #112164 ^comentario-112164
+# Referências de outros posts
+
+## 20/11/2011 13:26 - [[Posts/15734 - Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi|Hoje tem Super Santa Cruz Amado e Queridinho do Brasil x Tupi]] - #112164 ^comentario-112164
 
 \[...\] é dia do Time Mais Sinistro da Cidade sofrer bullying. Anti-Eugenistas estão \[...\]

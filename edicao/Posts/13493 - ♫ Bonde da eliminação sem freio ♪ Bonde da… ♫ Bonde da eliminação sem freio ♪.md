@@ -94,10 +94,6 @@ Sin duda.
 
 Vide 2008.
 
-## 5/05/2011 11:02 - [[Pessoas/Só não vê quem tá cego|Só não vê quem tá cego]] - #94062 ^comentario-94062
-
-\[...\] O Cruzeiro ontem achou que a parada tava ganha. Foi de uma preguiça de dar dó. Amarelou mermo, como disse o Frank. \[...\]
-
 ## 5/05/2011 11:29 - [[Pessoas/Frank|Frank]] - #94069 ^comentario-94069
 
 Gaburah, valeu por transformar meus PARCOS comentários em post… eheheheheh
@@ -283,3 +279,9 @@ Cada seleção joga com as cartas que tem. 1970 tinha Pelé, Tostão e Gerson. 1
 ## 10/05/2011 14:39 - Nome não exibido - #94496
 
 Para quem mora no Rio, é até tranqüilo. Eles fariam a festa e voltariam para casa. Em Uruguaiana, onde mora minha mãe, é que seria um inferno. Digno de dinamitar a ponte…
+
+# Referências de outros posts
+
+## 5/05/2011 11:02 - [[Posts/13505 - Só não vê quem tá cego|Só não vê quem tá cego]] - #94062 ^comentario-94062
+
+\[...\] O Cruzeiro ontem achou que a parada tava ganha. Foi de uma preguiça de dar dó. Amarelou mermo, como disse o Frank. \[...\]

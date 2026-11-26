@@ -359,6 +359,8 @@ Confronte o **título da matéria** com a **legenda da foto** que possui o “*p
 
 Maldição. Essa imprensa persegue o Flamengo e quer acabar com o bom futebol.
 
-## 19/01/2010 17:02 - [[Pessoas/Roberto Dinamite pode e Carlos Alberto não？|Roberto Dinamite pode e Carlos Alberto não?]] - #47548 ^comentario-47548
+# Referências de outros posts
+
+## 19/01/2010 17:02 - [[Posts/6798 - Roberto Dinamite pode e Carlos Alberto não|Roberto Dinamite pode e Carlos Alberto não?]] - #47548 ^comentario-47548
 
 \[...\] pela ocasião do primeiro Vasco x Flamengo da gestão Dinamite, O Blá blá Gol registrou o momento congratulando a iniciativa dos dirigentes da seguinte forma: A imagem abaixo poderia ser uma prática comum para não ser mais notícia. Mas \[...\]

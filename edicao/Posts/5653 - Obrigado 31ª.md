@@ -133,10 +133,6 @@ Endosso todo o seu comentário e ainda vou atualizar o post com os links.
 
 Mesmo os que torcem para o Figueirense… fato.
 
-## 26/10/2009 14:03 - [[Pessoas/Comendo pelas beiradas|Comendo pelas beiradas.]] - #41435 ^comentario-41435
-
-\[...\] é que, como lido aqui, a 31ª rodada deixou emoção pra tudo quanto é lado do Brasil. E, como a muito tempo não se \[...\]
-
 ## 26/10/2009 14:20 - [[Pessoas/Matheus|Matheus]] - #41442 ^comentario-41442
 
 Gaburéx, me arranja um Beagle?
@@ -159,3 +155,9 @@ De qualquer forma, vou esperar. Ainda não tá na hora. Só se aparecer um barat
 
 Que joguinho foi no Engenhão. Alguns bons momentos no primeiro tempo e um gol aos trancos e barrancos do Adriano. E mesmo com a defesa desfalcada, o Flamengo sobra zagueiros qualificados no setor. Na segunda etapa o time recuou e jogou como time pequeno. Desconfio essa mudança tática pelo cansaço físico. Alguns jogadores pareciam pregados em campo.  
  E o Botafogo mais uma vez não jogou nada. Desorganizado e mal distribuído em campo. Mesmo fora de posição, Reinaldo conseguiu ser o melhor e o Estevam equivocadamente o sacou. Seria melhor da próxima vez escalar o Renato e sacar o André Lima. E o Lúcio nem se fala, foi péssimo. A zaga então, sem comentários. Se atrapalhou toda no lance do gol. Se perder para o Naútico em casa, pode fechar o caixão e morrer abraçado com o Fluminense.
+
+# Referências de outros posts
+
+## 26/10/2009 14:03 - [[Posts/5660 - Comendo pelas beiradas|Comendo pelas beiradas.]] - #41435 ^comentario-41435
+
+\[...\] é que, como lido aqui, a 31ª rodada deixou emoção pra tudo quanto é lado do Brasil. E, como a muito tempo não se \[...\]

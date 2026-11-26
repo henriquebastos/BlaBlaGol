@@ -140,10 +140,12 @@ Eu não acredito que eu pudesse ser a única pessoa em 2006 a enxergar antecipad
 
 [http://colunas.sportv.globo.com/lediocarmona/2009/06/30/quem-pode-parar-o-brasil/](<https://web.archive.org/web/*/http://colunas.sportv.globo.com/lediocarmona/2009/06/30/quem-pode-parar-o-brasil/> "Captura ainda não verificada. Endereço original: http://colunas.sportv.globo.com/lediocarmona/2009/06/30/quem-pode-parar-o-brasil/")
 
-## 20/05/2010 1:22 - [[Pessoas/O avassalador Santos é o pesadelo de Dunga|O avassalador Santos é o pesadelo de Dunga]] - #57433 ^comentario-57433
+# Referências de outros posts
+
+## 20/05/2010 1:22 - [[Posts/8694 - O avassalador Santos é o pesadelo de Dunga|O avassalador Santos é o pesadelo de Dunga]] - #57433 ^comentario-57433
 
 \[...\] a Copa do Mundo começado imediatamente após a Copa das Confederações, o clima que Dunga iria encontrar para comandar o time na Copa seria um tanto quanto animador para o técnico e suas \[...\]
 
-## 1/06/2010 20:38 - [[Pessoas/A Copa não começou|A Copa não começou]] - #58212 ^comentario-58212
+## 1/06/2010 20:38 - [[Posts/8887 - A Copa não começou|A Copa não começou]] - #58212 ^comentario-58212
 
 \[...\] Jogos Olímpicos. Espírito esse que modificou-se na goleada contra o Uruguai em Montevidéu, Copa das Confederações e baile na Argentina em Rosário novamente com perfeito comentário de Saulo que não sentiu falta \[...\]

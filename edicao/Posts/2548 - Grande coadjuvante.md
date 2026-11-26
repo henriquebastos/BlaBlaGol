@@ -212,6 +212,8 @@ Pelo que eu entendi, as manifestações de racismo às quais ele se refere foram
 
 Triste isso – [**parte 2**](<https://web.archive.org/web/*/http://www.lancenet.com.br/especiais/FORMULA-1/noticias/08-11-03/421465.stm?rubinho-rouba-a-cena-e-cutuca-schumacher> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/especiais/FORMULA-1/noticias/08-11-03/421465.stm?rubinho-rouba-a-cena-e-cutuca-schumacher").
 
-## 17/11/2010 17:02 - [[Pessoas/O título para o verdadeiro campeão⧵∗|O título para o verdadeiro campeão*]] - #75177 ^comentario-75177
+# Referências de outros posts
+
+## 17/11/2010 17:02 - [[Posts/11608 - O título para o verdadeiro campeão|O título para o verdadeiro campeão\*]] - #75177 ^comentario-75177
 
 \[...\] de todos os tempos escreveu seu nome na história do esporte com uma virada espetacular. Venceu um jovem sim, ainda imaturo, um menino que cometeu erros ao longo da temporada, se expôs e sofreu \[...\]

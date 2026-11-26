@@ -23,10 +23,6 @@ Quem acaba primeiro?
 
 # Comentários
 
-## 16/05/2010 21:43 - [[Pessoas/Corinthians lidera com 100% (!？)|Corinthians lidera com 100% (!?)]] - #57267 ^comentario-57267
-
-\[...\] Vasco 0×0 Palmeiras – Dodô contagia companheiros e adversários. \[...\]
-
 ## 16/05/2010 22:43 - [[Pessoas/Victor|Victor]] - #57275 ^comentario-57275
 
 [Ponta do Iceberg?](<http://www.blablagol.com.br/levantamento-de-participacoes-dos-convocados-em-clubes-brasileiros-8581>) [[Posts/8581 - Porco levantamento de participações dos convocados em clubes brasileiros|no acervo]]
@@ -95,3 +91,9 @@ Porra!
 É fácil ganhar dinheiro com o Dinamite.
 
 Até eu manjo mais que o Roth.
+
+# Referências de outros posts
+
+## 16/05/2010 21:43 - [[Posts/8616 - Corinthians lidera com 100% (! )|Corinthians lidera com 100% (!?)]] - #57267 ^comentario-57267
+
+\[...\] Vasco 0×0 Palmeiras – Dodô contagia companheiros e adversários. \[...\]

@@ -813,6 +813,8 @@ Matheus, esse teu “Rá” me faz lembrar da risada de um personagem dos Simpso
 
 \[Via @marceloadnet0\] – [**Salvem as *cheerleaders***](<https://web.archive.org/web/*/http://oglobo.globo.com/esportes/mat/2010/09/11/salvem-as-cheerleaders-917608233.asp> "Captura ainda não verificada. Endereço original: http://oglobo.globo.com/esportes/mat/2010/09/11/salvem-as-cheerleaders-917608233.asp")
 
-## 21/09/2010 10:01 - [[Pessoas/Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!]] - #70811 ^comentario-70811
+# Referências de outros posts
+
+## 21/09/2010 10:01 - [[Posts/10905 - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!]] - #70811 ^comentario-70811
 
 \[...\] cercado de amigos, tomando grandes cervejas uruguaias e – principalmente – comemorando MUITO o lindo gol do ÍDOLO ‘Loco’ Abreu na vitória do Botafogo contra a equipe do litoral \[...\]

@@ -337,6 +337,8 @@ Isso foi matéria recentemente no jornal O Globo sobre a farta distribuição de
 
 Falando deste jogo?
 
-## 5/10/2009 19:51 - [[Pessoas/Domingo Imperial|Domingo Imperial]] - #39678 ^comentario-39678
+# Referências de outros posts
+
+## 5/10/2009 19:51 - [[Posts/5385 - Domingo Imperial|Domingo Imperial]] - #39678 ^comentario-39678
 
 \[...\] muita novidade depois do post do Victor mas queria falar do jogo. Na verdade, mais do Flamengo \[...\]

@@ -313,10 +313,6 @@ De qualquer forma, jogos do Goiás são legais de se ver. \[2\]
 
 \[...\] assumindo a honrosa comparação com o Lédio Carmona (pelo menos até entender o porquê), fico com a opinião do comentarista sobre o jogo: o Botafogo \[...\]
 
-## 5/11/2009 1:01 - [[Pessoas/Alguma coisa está fora da ordem|Alguma coisa está fora da ordem]] - #42247 ^comentario-42247
-
-\[...\] Engenhão, o traiçoeiro Cerro Porteño fez com que, pelo menos por 24 horas, o Fluminense seja o Brasil na Sulamericana. Este jogo encerra \[...\]
-
 ## 6/11/2009 10:56 - [[Pessoas/Blá blá Gol|Blá blá Gol]] - #42362 ^comentario-42362
 
 **Um adversário insosso…**
@@ -324,3 +320,9 @@ De qualquer forma, jogos do Goiás são legais de se ver. \[2\]
 A Universidad de Chile foi um time insosso e deixou a partida para que o Fluminense jogasse como bem entender. Dito isso, nada mais resta que analisar cada jogador tricolor individualmente  
  Goleiro e Defensores:  
  A Universidade do Chile foi inoperante du…
+
+# Referências de outros posts
+
+## 5/11/2009 1:01 - [[Posts/5796 - Alguma coisa está fora da ordem|Alguma coisa está fora da ordem]] - #42247 ^comentario-42247
+
+\[...\] Engenhão, o traiçoeiro Cerro Porteño fez com que, pelo menos por 24 horas, o Fluminense seja o Brasil na Sulamericana. Este jogo encerra \[...\]

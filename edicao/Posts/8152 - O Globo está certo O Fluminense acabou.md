@@ -178,10 +178,6 @@ Enquanto isso, todos continuemos lendo o gaiato rubro-negro para dizer coisas co
 O Globo está certo: O Fluminense acabou 4:  
   [http://flusocio.com.br/blog/2010/04/15/pior-para-os-fatos/](<https://web.archive.org/web/*/http://flusocio.com.br/blog/2010/04/15/pior-para-os-fatos/> "Captura ainda não verificada. Endereço original: http://flusocio.com.br/blog/2010/04/15/pior-para-os-fatos/")
 
-## 17/04/2010 14:31 - [[Pessoas/Não faz sentido sacarem Cuca do Fluminense|Não faz sentido sacarem Cuca do Fluminense]] - #55204 ^comentario-55204
-
-\[...\] a raiva pela perda insossa do Cariocão 2010, resta sentar e analisar o momento do time com vista às competições que seguem em 2010, a Copa \[...\]
-
 ## 13/10/2010 22:29 - [[Pessoas/Bender|Bender]] - #72900 ^comentario-72900
 
 O chororô do Victor deu resultado  
@@ -299,6 +295,12 @@ SORRIA,SORRIA,É TEMPO DE SORRIR,SORRIA… SORRIA PRA CHUCHU,QUE O CAMPEÃO É O
 
 CHUPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA TRI TRI
 
-## 20/04/2011 18:08 - [[Pessoas/Bullying|Bullying]] - #92044 ^comentario-92044
+# Referências de outros posts
+
+## 17/04/2010 14:31 - [[Posts/8224 - Não faz sentido sacarem Cuca do Fluminense|Não faz sentido sacarem Cuca do Fluminense]] - #55204 ^comentario-55204
+
+\[...\] a raiva pela perda insossa do Cariocão 2010, resta sentar e analisar o momento do time com vista às competições que seguem em 2010, a Copa \[...\]
+
+## 20/04/2011 18:08 - [[Posts/13249 - Bullying|Bullying]] - #92044 ^comentario-92044
 
 \[...\] Globo! Ignora mas não bullyna. Oferecer à torcida do Flamengo como bônus na transmissão o provável fracasso \[...\]

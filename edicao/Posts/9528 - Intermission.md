@@ -560,6 +560,8 @@ Mais gente anda fazendo seu balanço e começando a colocar seus destaques:
 > *Outro cuidado que tive de tomar, foi não confundir o desempenho na Copa, com o conceito que já tenho dos jogadores, em seus clubes. Então aí vai:  
 >   **Stekelenburg (Holanda), Lahm (Alemanha), Lúcio (Brasil), Juan (Brasil) e Coentrão (Portugal); Khedira (Alemanha), Müller (Alemanha), Iniesta (Espanha) e Messi (Argentina); Forlán (Uruguai) e Villa (Espanha)**.*
 
-## 12/07/2010 19:53 - [[Pessoas/Sem Papa na Língua|Sem Papa na Língua]] - #63511 ^comentario-63511
+# Referências de outros posts
+
+## 12/07/2010 19:53 - [[Posts/9778 - Sem Papa na Língua|Sem Papa na Língua]] - #63511 ^comentario-63511
 
 \[...\] injusto com o Johan Cruyff, chamando-o de gagá. O fato de discordar dele em uma opinião não era motivo suficiente para \[...\]

@@ -174,10 +174,12 @@ Pero la hinchada de Botafogo tiene más razónes de estar preocupada que la hinc
 
 [http://www.blablagol.com.br/implosao/](<http://www.blablagol.com.br/implosao/>)
 
-## 4/11/2009 11:41 - [[Pessoas/Um botafoguense no Beira-Rio|Um botafoguense no Beira-Rio]] - #42192 ^comentario-42192
+# Referências de outros posts
+
+## 4/11/2009 11:41 - [[Posts/5786 - Um botafoguense no Beira-Rio|Um botafoguense no Beira-Rio]] - #42192 ^comentario-42192
 
 \[...\] o tempo todo, ao invés de forçar as jogadas em velocidade e no drible para cima dos desprezíveis Fahel e Léo Silva (que por sinal, fez um bom segundo tempo pela \[...\]
 
-## 11/11/2009 15:59 - [[Pessoas/O lado bom do Apagão|O lado bom do Apagão]] - #42626 ^comentario-42626
+## 11/11/2009 15:59 - [[Posts/5868 - O lado bom do Apagão|O lado bom do Apagão]] - #42626 ^comentario-42626
 
 \[...\] goiano André Luiz de Freitas Castro. Até que, num lance isolado, Vilson (Vilson? Vilson? – créditos a Gaburah) foi derrubado/empurrado/atirado (faça sua escolha) dentro da grande área. Carlos Alberto, que \[...\]

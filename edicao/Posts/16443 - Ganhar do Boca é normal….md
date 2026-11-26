@@ -571,6 +571,8 @@ hummm
 Com um jogador a menos desde o 1º tempo com a partida em 0×0 o Boca venceu por 2×0 o Arsenal.  
  La Bombonera tem muito poder.
 
-## 12/04/2012 0:16 - [[Pessoas/Fluminense x Boca꞉ Um festivo jogo à vera|Fluminense x Boca: Um festivo jogo à vera]] - #123584 ^comentario-123584
+# Referências de outros posts
+
+## 12/04/2012 0:16 - [[Posts/16717 - Fluminense x Boca Um festivo jogo à vera|Fluminense x Boca: Um festivo jogo à vera]] - #123584 ^comentario-123584
 
 \[...\] A quem diga que o Tricolor pode jogar solto, mas deve jogar à vera. Vencer, buscar a 1ª colocação, encher-se de moral, incutir temor e reforçar a regojizante tiração de onda sob o nome do bam-bam-bam das Américas. \[...\]

@@ -842,10 +842,6 @@ Saulo,
 
 Em nenhum lugar do planeta isso é penalti.
 
-## 31/08/2010 18:14 - [[Pessoas/O emocionante EUA 70×68 Brasil|O emocionante EUA 70×68 Brasil]] - #68825 ^comentario-68825
-
-\[...\] é o Saulo e dispensa \[...\]
-
 ## 2/09/2010 1:15 - [[Pessoas/Victor|Victor]] - #69054 ^comentario-69054
 
 Saulo, você é parente de [**John Cazale**](<https://web.archive.org/web/*/http://upload.wikimedia.org/wikipedia/en/e/eb/John_Cazale.jpg> "Captura ainda não verificada. Endereço original: http://upload.wikimedia.org/wikipedia/en/e/eb/John_Cazale.jpg")?
@@ -1200,3 +1196,9 @@ Saulo, quem é RB?
 ## 5/10/2010 0:01 - Nome não exibido - #72347
 
 Resto de Bosta.
+
+# Referências de outros posts
+
+## 31/08/2010 18:14 - [[Posts/10633 - O emocionante EUA 70×68 Brasil|O emocionante EUA 70×68 Brasil]] - #68825 ^comentario-68825
+
+\[...\] é o Saulo e dispensa \[...\]

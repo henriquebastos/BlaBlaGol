@@ -54,6 +54,8 @@ Um zagueiro reserva do Fluminense que “humilhou” o maior ídolo atual da tor
 
 HUAHUAhuhUAHhuaUHAua
 
-## Pingback on Feb 14th, 2008 at 1:59 - [[Pessoas/O Corinthians é o Brasil na Libertadores at Blá blá Gol|O Corinthians é o Brasil na Libertadores at Blá blá Gol]] - #10201 ^comentario-10201
+# Referências de outros posts
+
+## Pingback on Feb 14th, 2008 at 1:59 - [[Posts/1216 - O Corinthians é o Brasil na Libertadores|O Corinthians é o Brasil na Libertadores]] - #10201 ^comentario-10201
 
 _Texto não identificado na captura._

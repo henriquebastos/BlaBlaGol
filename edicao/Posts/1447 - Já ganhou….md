@@ -290,6 +290,8 @@ E isto já ocorreu, tanto em São Paulo, como aqui no Rio mesmo. Já houveram cl
 
 [Victor, também concordo com você](<http://www.blablagol.com.br/voltando-ao-que-interessa/#comment-17226>). Quando eu falo em **pelo menos** 50% estou me referindo aos jogos sem mandantes.
 
-## Pingback on May 6th, 2008 at 10:09 - [[Pessoas/Flamengo rompe com a Nike at Blá blá Gol|Flamengo rompe com a Nike at Blá blá Gol]] - #17539 ^comentario-17539
+# Referências de outros posts
+
+## Pingback on May 6th, 2008 at 10:09 - [[Posts/1457 - Flamengo rompe com a Nike|Flamengo rompe com a Nike]] - #17539 ^comentario-17539
 
 _Texto não identificado na captura._

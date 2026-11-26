@@ -148,6 +148,8 @@ Lincoln é a imparcialidade absoluta! A não ser quando se fala em números…
 
 tem quer ser parcial. e eu acho que euricao deveria ter reclamado da federação sobre o irmao do ze roberto ter apitado. clara manifestação de manipulação de resultados feita pelo botafogo!
 
-## [[Pessoas/Uma noite perfeita at Blá blá Gol|Uma noite perfeita at Blá blá Gol]] - #11409 ^comentario-11409
+# Referências de outros posts
+
+## [[Posts/1283 - Uma noite perfeita|Uma noite perfeita]] - #11409 ^comentario-11409
 
 \[...\] que a bola rolou, o Arsenal recuou de uma forma inacreditável, o que faria até mesmo Lincoln ter de abandonar seu refrão tradicional de 1 minuto de jogo. Dizer que o Fluminense tinha alugado meio-campo era pouco. O Arsenal mal conseguia sair de sua \[...\]

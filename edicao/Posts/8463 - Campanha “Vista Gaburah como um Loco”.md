@@ -285,6 +285,8 @@ Se possuisse o direito de imagem de seu atleta, tem um clube aí que poderia lan
 
 [**Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!**](<http://www.blablagol.com.br/campanha-%e2%80%98vista-gaburah-como-um-loco%e2%80%99-%e2%80%93-parte-3-%e2%80%93-loco-de-bom-10905>) [[Posts/10905 - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|no acervo]]
 
-## 21/09/2010 10:01 - [[Pessoas/Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!]] - #70810 ^comentario-70810
+# Referências de outros posts
+
+## 21/09/2010 10:01 - [[Posts/10905 - Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!|Campanha ‘Vista Gaburah como um Loco’ – Parte 3 – Loco de bom!]] - #70810 ^comentario-70810
 
 \[...\] de inúmeras tentivas (frutíferas e infrutíferas) de conseguir a Celeste Olímpica original, um novo desafio se ergueu: conquistar um exemplar da \[...\]

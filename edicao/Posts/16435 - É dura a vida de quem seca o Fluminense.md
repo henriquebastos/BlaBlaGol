@@ -191,10 +191,12 @@ E o Botafogo?
 
 Tá num patamar superior, naturalmente.
 
-## 8/03/2012 9:50 - [[Pessoas/Ganhar do Boca é normal…|Ganhar do Boca é normal…]] - #119955 ^comentario-119955
-
-\[...\] Menos mal que logo em seguida Wellington Nem fez aquela jogada clássica de linha de fundo, deixou um zagueiro ver navios e centrou para a conclusão de Deco. A partir daí, o Boca perdeu as forças, e se conseguiu ameaçar em alguns lances, não tinha qualidade suficiente para igualar o placar. Aquela pressão boquense, que em outros tempos podia ser comparada ao irresistível abraço constritor de uma sucuri, se esvaiu, assim como sua torcida abandonou as arquibancadas antes do apito final. Isto é o Fluminense, na Bombonera ou no Engenhão. \[...\]
-
 ## 8/03/2012 17:29 - [[Pessoas/Páscoa 2012|Páscoa 2012]] - #120026 ^comentario-120026
 
 Caraca que engraçado a descrição de cada jogador, to urrando aqui heheheehehe.
+
+# Referências de outros posts
+
+## 8/03/2012 9:50 - [[Posts/16443 - Ganhar do Boca é normal…|Ganhar do Boca é normal…]] - #119955 ^comentario-119955
+
+\[...\] Menos mal que logo em seguida Wellington Nem fez aquela jogada clássica de linha de fundo, deixou um zagueiro ver navios e centrou para a conclusão de Deco. A partir daí, o Boca perdeu as forças, e se conseguiu ameaçar em alguns lances, não tinha qualidade suficiente para igualar o placar. Aquela pressão boquense, que em outros tempos podia ser comparada ao irresistível abraço constritor de uma sucuri, se esvaiu, assim como sua torcida abandonou as arquibancadas antes do apito final. Isto é o Fluminense, na Bombonera ou no Engenhão. \[...\]

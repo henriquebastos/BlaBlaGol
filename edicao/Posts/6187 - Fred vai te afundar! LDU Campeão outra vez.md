@@ -502,10 +502,12 @@ E a GARRA, homem de Deus? Cadê?
 O Fred é o cara. Ele é o Flu, hoje. Se ele cagar em campo, ou outros 10 tem que correr, TODOS de pazinha na mão, pra limpar. E sorrindo!!! Dez não, onze, o Cuca tem que passar o papel e o talquinho.  
  O que o Fred joga é um absurdo, e eu considero o Flu campeão sem o menor problema, já que o jogo da montanha não conta.
 
-## 21/07/2010 22:40 - [[Pessoas/25 anos em 108 de Fluminense|25 anos em 108 de Fluminense]] - #64554 ^comentario-64554
+# Referências de outros posts
+
+## 21/07/2010 22:40 - [[Posts/9992 - 25 anos em 108 de Fluminense|25 anos em 108 de Fluminense]] - #64554 ^comentario-64554
 
 \[...\] Inflamado Maracanã e final da Sulamericana 2009 contra LDU \[...\]
 
-## 8/12/2010 21:43 - [[Pessoas/Goiás x Independiente꞉ a final que todos podem ver|Goiás x Independiente: a final que todos podem ver]] - #77347 ^comentario-77347
+## 8/12/2010 21:43 - [[Posts/11850 - Goiás x Independiente a final que todos podem ver|Goiás x Independiente: a final que todos podem ver]] - #77347 ^comentario-77347
 
 \[...\] Em 2009, in loco, acompanhei Fred entregar o título da Sulamericana para a maldita LDU com êxito. \[...\]

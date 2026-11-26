@@ -101,6 +101,8 @@ Mística!
 
 Essas fotos que você arruma são sensacionais!!!!
 
-## 13/10/2011 0:25 - [[Pessoas/curintias 0X2 Botafogo – O Bruxo Fodão Que Vira Cachorro em nome da decência|curintias 0X2 Botafogo – O Bruxo Fodão Que Vira Cachorro em nome da decência]] - #108404 ^comentario-108404
+# Referências de outros posts
+
+## 13/10/2011 0:25 - [[Posts/15396 - curintias 0X2 Botafogo – O Bruxo Fodão Que Vira Cachorro em nome da decência|curintias 0X2 Botafogo – O Bruxo Fodão Que Vira Cachorro em nome da decência]] - #108404 ^comentario-108404
 
 \[...\] a ausência do hermano na frente inspirava preocupação a quem ainda tinha viva a lembrança da partida contra o Baêa. REPARUS \[...\]

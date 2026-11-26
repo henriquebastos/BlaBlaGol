@@ -124,6 +124,8 @@ Algumas das razões são técnicas, outras são barreiras estritamente psicológ
 
 Mas acho que o valor dele como piloto é inquestionável, apesar da sua capacidade ser muito mais reconhecida fora do Brasil. Não é à toa que ele está aí até hoje em uma das equipes mais vitoriosas da história da F1.
 
-## 1/04/2010 12:19 - [[Pessoas/As expectativas da Fórmula-1 no início de temporada 2010|As expectativas da Fórmula-1 no início de temporada 2010]] - #53894 ^comentario-53894
+# Referências de outros posts
+
+## 1/04/2010 12:19 - [[Posts/8036 - As expectativas da Fórmula-1 no início de temporada 2010|As expectativas da Fórmula-1 no início de temporada 2010]] - #53894 ^comentario-53894
 
 \[...\] demonstração de espírito de equipe do Alonso ao escoltar e proteger Massa do ataque de Hamilton e Webber não será esquecido pela cúpula da equipe. Com certeza ele queria \[...\]

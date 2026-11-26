@@ -345,10 +345,12 @@ Depois de Nelson Rodrigues, dá até calafrios em dizer que uma opinião é unâ
 
 Renato gayuchu eh tricoflor e eu naum prciso ler issu td pra sabe q ele eh viadu.
 
-## 28/04/2008 3:10 - [[Pessoas/Derrota merecida at Blá blá Gol|Derrota merecida at Blá blá Gol]] - #16558 ^comentario-16558
+# Referências de outros posts
+
+## 28/04/2008 3:10 - [[Posts/1428 - Derrota merecida|Derrota merecida]] - #16558 ^comentario-16558
 
 \[...\] Eu ganho, nós empatamos, eles perdem \[...\]
 
-## 12/08/2010 16:14 - [[Pessoas/Portaluppi e Grêmio não combinam|Portaluppi e Grêmio não combinam]] - #66901 ^comentario-66901
+## 12/08/2010 16:14 - [[Posts/10287 - Portaluppi e Grêmio não combinam|Portaluppi e Grêmio não combinam]] - #66901 ^comentario-66901
 
 \[...\] Renato esteve pelo Fluminense no olho do Furacão. Ressalvas e críticas ao trabalho do cara misturavam-se às ressalvas e críticas à sua personalidade. Também não escapei deste expediente. \[...\]

@@ -48,6 +48,8 @@ Melhor ver Tv do que Cássio Sadia em ação…
 
 Vâmo detoná todo mundo!!! Pode vir!!! Zé Roberto, Dodô…
 
-## Pingback on Feb 18th, 2008 at 23:53 - [[Pessoas/Perdidinho da Silva (Gênio) at Blá blá Gol|Perdidinho da Silva (Gênio) at Blá blá Gol]] - #10391 ^comentario-10391
+# Referências de outros posts
+
+## Pingback on Feb 18th, 2008 at 23:53 - [[Posts/1226 - Perdidinho da Silva (Gênio)|Perdidinho da Silva (Gênio)]] - #10391 ^comentario-10391
 
 _Texto não identificado na captura._

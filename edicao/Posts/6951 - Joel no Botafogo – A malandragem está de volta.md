@@ -1338,10 +1338,12 @@ Olha, como a esposa está trabalhando e já cansei de jogar God Of War, resolvi 
 
 E o time do América é ajeitadinho, tem um tal de Adriano que poderia compor elenco no Flamengo…
 
-## 3/02/2011 18:28 - [[Pessoas/Gaburah mordeu a isca|Gaburah mordeu a isca]] - #83965 ^comentario-83965
+# Referências de outros posts
+
+## 3/02/2011 18:28 - [[Posts/12501 - Gaburah mordeu a isca|Gaburah mordeu a isca]] - #83965 ^comentario-83965
 
 \[...\] de trabalho evoluir. Louvável. Entretanto, na maciota e contrapondo-se à seus anseios está o BOM MALANDRO Joel \[...\]
 
-## 5/02/2012 9:31 - [[Pessoas/O SONHO DE RICA|O SONHO DE RICA]] - #117477 ^comentario-117477
+## 5/02/2012 9:31 - [[Posts/16253 - O SONHO DE RICA|O SONHO DE RICA]] - #117477 ^comentario-117477
 
 \[...\] o Joel é figura e blablabla todo mundo já sabe e é bom nem insistir nisso senão atinge um hype SANTACRUZÍSTICO de babação de ovo. Mas a \[...\]

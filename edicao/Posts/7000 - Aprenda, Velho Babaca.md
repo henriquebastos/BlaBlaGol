@@ -198,6 +198,8 @@ Droga. Tivesse colocado antes, aposto que Velho Babaca estaria ali colado no Her
 
 SONJA INCENDIÁRIA AD FOREVIUM!!!!!!!!!
 
-## 17/04/2011 21:54 - [[Pessoas/O fim da Gloriosa série 2006-2010|O fim da Gloriosa série 2006-2010]] - #91785 ^comentario-91785
+# Referências de outros posts
+
+## 17/04/2011 21:54 - [[Posts/13205 - O fim da Gloriosa série 2006-2010|O fim da Gloriosa série 2006-2010]] - #91785 ^comentario-91785
 
 \[...\] curto período marcado pela redenção no Brasileiro de 2009 capitaneada pelo Filho do Trabalho e a chinelada vascaína no Engenhão que colocaram em momento propício duas entidades que encontravam-se no alinhamento astral: Joel e \[...\]

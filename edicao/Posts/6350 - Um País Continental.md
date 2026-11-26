@@ -393,10 +393,6 @@ Mas cada dia mais sinto vergonha alheia quando cruzeirenses ou atleticanos se zo
 
 Muita gente que fala isso, inclusive, só pode ver o seu time porque ele vai jogar no interior contra um Democrata, um Boa Esporte, um Tupi.
 
-## 17/07/2012 17:43 - [[Pessoas/QUEREMOS CLÁSSICOS VAZIOS|QUEREMOS CLÁSSICOS VAZIOS]] - #134050 ^comentario-134050
-
-\[…\] Hoje na reprise do Linha de Passe vi o Juca falar uma das maiores besteiras que já ouvi e lembrei imediatamente desse comentário. \[…\]
-
 ## 5/10/2012 22:31 - [[Pessoas/Yuri|Yuri]] - #141650 ^comentario-141650
 
 Acabei de ver um correspondente político brasileiro nos EUA perguntando por que o Brasileirão é em pontos-corridos e não adotam o lucrativo modelo americano… mas o que me surpreendeu foi a resposta.
@@ -535,3 +531,9 @@ Também gosto MT dos estaduais, e através do credenciamento através de taças 
 
 Fiz um rascunho de calendario em que esse sistema cabe em 2 períodos de temporada de 17 semanas cada, parando quase 2 meses no meio do ano, parando 5 semanas no fim do ano (exceto pros times q jogam o mundial) e com 6 semanas de pre temporada.  
  Dentro dessas condições, so nao contemplei todas as datas fifa, mas respeitei os períodos das competições de meio de ano (continentais, copas do mundo e confederações, e olimpíadas) com sobras. Datas sacrificadas por conta de datas fifa poderiam ser repostas nesse intervalo.
+
+# Referências de outros posts
+
+## 17/07/2012 17:43 - [[Posts/17665 - QUEREMOS CLÁSSICOS VAZIOS|QUEREMOS CLÁSSICOS VAZIOS]] - #134050 ^comentario-134050
+
+\[…\] Hoje na reprise do Linha de Passe vi o Juca falar uma das maiores besteiras que já ouvi e lembrei imediatamente desse comentário. \[…\]

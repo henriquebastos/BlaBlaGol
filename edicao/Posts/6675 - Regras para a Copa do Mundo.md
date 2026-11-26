@@ -119,10 +119,6 @@ Me diverti muito com as regras e já tem meu apoio. Estou até pensando em criar
  eu não comento, só me regozijo  
  =)
 
-## 5/03/2010 3:02 - [[Pessoas/Grupos da Copa do Mundo꞉ Versão Didática|Grupos da Copa do Mundo: Versão Didática]] - #51741 ^comentario-51741
-
-\[...\] vimos as Regras da Copa do Mundo para as digníssimas seguirem e os grupos do torneio apresentados pela ilustre Charlize \[...\]
-
 ## 13/05/2010 19:14 - [[Pessoas/diôdiô|diôdiô]] - #57103 ^comentario-57103
 
 nada disso me ajudou no trabalho de ED.FISICA e para de encher o saco das mulheres
@@ -154,3 +150,9 @@ Faltaram alguns itens:
 isso nao as 17 regras isso é uma pudisse  
  uma viadesa dos inferdo  
  vai tomar no cu todo mundo
+
+# Referências de outros posts
+
+## 5/03/2010 3:02 - [[Posts/7629 - Grupos da Copa do Mundo Versão Didática|Grupos da Copa do Mundo: Versão Didática]] - #51741 ^comentario-51741
+
+\[...\] vimos as Regras da Copa do Mundo para as digníssimas seguirem e os grupos do torneio apresentados pela ilustre Charlize \[...\]

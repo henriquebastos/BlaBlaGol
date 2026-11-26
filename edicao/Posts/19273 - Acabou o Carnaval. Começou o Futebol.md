@@ -604,10 +604,6 @@ Saulo, vc é lento. Investigar isso dura anos e nao dá em porra nenhuma. Exclua
 
 Ingenuidade em pensar na punição interna dentro das torcidas organizadas e dos dirigentes dos clubes. Existem interesses políticos envolvidos e um Eurico da vida sempre utiliza essa massa para virar deputado. Não tem importância se o processo de investigação é lento, é preciso chegar a essa bandidagem e colocar na cadeia. Alguns torcedores do flamengo estão presos e não precisou de muito tempo.
 
-## 22/02/2013 1:07 - [[Pessoas/“Nada mais importa diante da dor da família do menino”|“Nada mais importa diante da dor da família do menino”]] - #150252 ^comentario-150252
-
-\[…\] frase aí com qualquer outra roupagem tomou conta de qualquer meio opineiro do futebol. Quero que se fodam o menino e o Rosenery corinthiano específicos, mas não posso deixar passar a chance de fazer \[…\]
-
 ## 26/02/2013 23:57 - [[Pessoas/Yuri|Yuri]] - #150662 ^comentario-150662
 
 Arsenal 2 x 5 Galo.
@@ -2353,6 +2349,12 @@ E no jornal local, o apresentador fala, com risadas, dos torcedores corinthianos
 
 Que lindo! Vai Corinthians! Depois faz merda lá fora e é inocente.
 
-## 31/07/2014 12:57 - [[Pessoas/Libertadores 2013꞉ Oitavas de Final|Libertadores 2013: Oitavas de Final]] - #179386 ^comentario-179386
+# Referências de outros posts
+
+## 22/02/2013 1:07 - [[Posts/19349 - “Nada mais importa diante da dor da família do menino”|“Nada mais importa diante da dor da família do menino”]] - #150252 ^comentario-150252
+
+\[…\] frase aí com qualquer outra roupagem tomou conta de qualquer meio opineiro do futebol. Quero que se fodam o menino e o Rosenery corinthiano específicos, mas não posso deixar passar a chance de fazer \[…\]
+
+## 31/07/2014 12:57 - [[Posts/19792 - Libertadores 2013 Oitavas de Final|Libertadores 2013: Oitavas de Final]] - #179386 ^comentario-179386
 
 \[…\] o que já foi comentado das partidas anteriores e inicie-se a série comenteira das Oitavas da Libertadores 2013 por \[…\]

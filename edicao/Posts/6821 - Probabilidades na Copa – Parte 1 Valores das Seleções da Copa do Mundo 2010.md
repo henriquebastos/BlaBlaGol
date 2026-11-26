@@ -143,10 +143,6 @@ Por continente fica assim:
 
 E a maior diferença relativa é da África para a América do Norte. Não tem jeito, americano ainda meio que caga pro *Soccer*.
 
-## 10/02/2010 15:04 - [[Pessoas/Probabilidade na Copa – Parte 2꞉ Normalização das Seleções|Probabilidade na Copa – Parte 2: Normalização das Seleções]] - #49650 ^comentario-49650
-
-\[...\] listamos os valores estimados de mercado de cada Seleção que disputará a Copa da África do Sul com a ideia de buscar entender um pouco melhor as chances \[...\]
-
 ## 22/06/2010 9:33 - [[Pessoas/PAULA|paula]] - #60187 ^comentario-60187
 
 brasilllllllllllllllllllllllllllllllllllllllllllllllllllllll  
@@ -157,6 +153,12 @@ brasilllllllllllllllllllllllllllllllllllllllllllllllllllllll
 brasillllll  
  brasillllll
 
-## 22/06/2010 10:54 - [[Pessoas/Probabilidades na Copa – Parte 3꞉ Chances de classificação para as oitavas|Probabilidades na Copa – Parte 3: Chances de classificação para as oitavas]] - #60213 ^comentario-60213
+# Referências de outros posts
+
+## 10/02/2010 15:04 - [[Posts/7252 - Probabilidade na Copa – Parte 2 Normalização das Seleções|Probabilidade na Copa – Parte 2: Normalização das Seleções]] - #49650 ^comentario-49650
+
+\[...\] listamos os valores estimados de mercado de cada Seleção que disputará a Copa da África do Sul com a ideia de buscar entender um pouco melhor as chances \[...\]
+
+## 22/06/2010 10:54 - [[Posts/7606 - Probabilidades na Copa – Parte 3 Chances de classificação para as oitavas|Probabilidades na Copa – Parte 3: Chances de classificação para as oitavas]] - #60213 ^comentario-60213
 
 \[...\] sido jogadas duas rodadas, e ainda baseado na estimativa dos valores das Seleções no início do ano, seguem as chances de classificação de cada Seleção para as \[...\]

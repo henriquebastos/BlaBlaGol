@@ -131,10 +131,6 @@ Mas continuo afirmando, não é porque os jogadores do vasco são limitados que 
 
 completando… acho que contra o ataque do vasco ontem, até aquele time do Saulo na pelada de sabado conseguia sair sem tomar gols (exceto nos casos de penalti)
 
-## [[Pessoas/Fluminense 2×1 Vasco - Melhores Momentos e considerações sobre “torcidas” at Blá blá Gol|Fluminense 2×1 Vasco - Melhores Momentos e considerações sobre “torcidas” at Blá blá Gol]] - #13062 ^comentario-13062
-
-\[...\] Direto do Maraca \[...\]
-
 ## [[Pessoas/Gaburah|Gaburah]] - #13067 ^comentario-13067
 
 > Esse Flu pressionou o vasco desde o primeiro minuto, que se não fosse a mística vascaína, se fosse um Flamengo ou Botafogo da vida, teria aplicado a maior goleada do campeonato, pois jogou com a mesma vontade que entrou contra o Arsenal, e…
@@ -229,3 +225,9 @@ o flu do segundo turno é outro time…
 ## [[Pessoas/Felipe|felipe]] - #13100 ^comentario-13100
 
 O flu pode até perder pro botafogo, pois num jogo de futebol tudo pode acontecer, até um 7 a 1, mas a final do carioca caminha pra um fla-flu.
+
+# Referências de outros posts
+
+## [[Posts/1335 - Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”|Fluminense 2×1 Vasco – Melhores Momentos e considerações sobre “torcidas”]] - #13062 ^comentario-13062
+
+\[...\] Direto do Maraca \[...\]

@@ -1424,10 +1424,6 @@ Flamengo dá uma patrolada nos rivais em SP maior do que dá no próprio RJ. Sem
 
 Maneiro. Devem ser vários núcleos. Então não tem concentração, hehe…
 
-## 4/01/2013 16:16 - [[Pessoas/COPA UNIÃO CAMISAL|COPA UNIÃO CAMISAL]] - #147095 ^comentario-147095
-
-\[...\] acompanhou o post sobre a pesquisa de torcidas em Niterói, viu que eu iniciei uma curiosa competição: a apelidada NORTHEASTERN TEAM SHIRTS LEAGUE \[...\]
-
 ## 29/01/2013 14:33 - [[Pessoas/Victor|Victor]] - #148631 ^comentario-148631
 
 As pesquisas dão conta que o Botafogo tem mais torcida que o Fluminense e isso é recorrente independente de metodologia, instituto ou data.  
@@ -1452,3 +1448,9 @@ Assim esses caras me fazem tomar partido pelo eugenismo. Queria ter só o Flamen
 Muito bom!
 
 [http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/12/how-to-argue-with-research-you-dont-like/](<https://web.archive.org/web/*/http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/12/how-to-argue-with-research-you-dont-like/> "Captura ainda não verificada. Endereço original: http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/12/how-to-argue-with-research-you-dont-like/")
+
+# Referências de outros posts
+
+## 4/01/2013 16:16 - [[Posts/19027 - COPA UNIÃO CAMISAL|COPA UNIÃO CAMISAL]] - #147095 ^comentario-147095
+
+\[...\] acompanhou o post sobre a pesquisa de torcidas em Niterói, viu que eu iniciei uma curiosa competição: a apelidada NORTHEASTERN TEAM SHIRTS LEAGUE \[...\]

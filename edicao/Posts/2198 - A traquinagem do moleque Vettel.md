@@ -124,6 +124,8 @@ HUHAuhAUHAUhuahAU… boa Robinson.
 
 Mas eu fico mesmo é com o duelo do pior finlandês do ano.
 
-## 17/11/2010 15:12 - [[Pessoas/O título para o verdadeiro campeão⧵∗|O título para o verdadeiro campeão*]] - #75157 ^comentario-75157
+# Referências de outros posts
+
+## 17/11/2010 15:12 - [[Posts/11608 - O título para o verdadeiro campeão|O título para o verdadeiro campeão\*]] - #75157 ^comentario-75157
 
 \[...\] pela Toro Rosso e deu ao time (lembremos que a Toro Rosso é a finada Minardi vestida de azul) a primeira pole e vitória, subiu ao time principal e repetiu o feito. Ainda completou o serviço com o título de \[...\]

@@ -307,10 +307,6 @@ Em tempo, na Copa de 94, quando Baggio bateu o penal, tentei abraçar a TV igual
 
 Eu tava com bandeira do Brasil (oficial, meu pai tinha “hasteada” em casa a bandeira do brasil e do espírito santo) na mão, fui pro canto, coloquei ela toda amassada na cara, como se fosse uma toalha de rosto e chorei copiosamente.
 
-## 23/11/2011 9:24 - [[Pessoas/Sulamericana com S Maiúsculo|Sulamericana com S Maiúsculo]] - #112570 ^comentario-112570
-
-\[...\] de outros times também vão curtir estes jogos, com simpatia, ou com secador ligado. Torcedores são assim. E não há um que não sensibilize com uma verdadeira \[...\]
-
 ## 23/11/2011 10:49 - [[Pessoas/Alexandre|alexandre]] - #112572 ^comentario-112572
 
 Vcs nao largaram o futebol pq nao conhecem isso:  
@@ -422,3 +418,9 @@ Status: baixando o hino de Omã.
 Boa Vicente!
 
 [http://globoesporte.globo.com/futebol/copa-do-mundo/noticia/2011/11/estadios-deputado-quer-autorizar-venda-de-bebidas-e-uso-de-bandeiras.html](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/copa-do-mundo/noticia/2011/11/estadios-deputado-quer-autorizar-venda-de-bebidas-e-uso-de-bandeiras.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/copa-do-mundo/noticia/2011/11/estadios-deputado-quer-autorizar-venda-de-bebidas-e-uso-de-bandeiras.html")
+
+# Referências de outros posts
+
+## 23/11/2011 9:24 - [[Posts/15772 - Sulamericana com S Maiúsculo|Sulamericana com S Maiúsculo]] - #112570 ^comentario-112570
+
+\[...\] de outros times também vão curtir estes jogos, com simpatia, ou com secador ligado. Torcedores são assim. E não há um que não sensibilize com uma verdadeira \[...\]

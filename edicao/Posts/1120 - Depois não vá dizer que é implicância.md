@@ -229,6 +229,8 @@ Também fiquei preocuado quando vi essa foto. Ele deveria estar concentrado long
  Ele sabe que nãoi São Paulo não vai ter moleza, e o que é melhor, jpa mostrou a que veio no 1º jogo marcou os 2 gols.  
  Aposto na sua recuperação, ele vai trazer muitos títulos pra gente.
 
-## Pingback on Jan 20th, 2008 at 11:24 - [[Pessoas/Skol aumenta a força na perna esquerda ꞉ Blá blá Gol|Skol aumenta a força na perna esquerda : Blá blá Gol]] - #9284 ^comentario-9284
+# Referências de outros posts
+
+## Pingback on Jan 20th, 2008 at 11:24 - [[Posts/1148 - Skol aumenta a força na perna esquerda|Skol aumenta a força na perna esquerda]] - #9284 ^comentario-9284
 
 _Texto não identificado na captura._

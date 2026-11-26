@@ -50,10 +50,12 @@ Não quero saber quem seja, o que posso dizer é que nos proporcionou um maravil
 
 Abração Victor e amigos.
 
-## 26/07/2010 14:04 - [[Pessoas/Maiores salários do esporte 2009-10|Maiores salários do esporte 2009-10]] - #64925 ^comentario-64925
-
-\[...\] honrosa para Sharapova, primeira mulher a aparecer no ranking. AKPC\_IDS += "10038,"; Inscreva seu e-mail e confirme \[...\]
-
 ## 27/07/2010 8:45 - [[Pessoas/claudio berni|claudio berni]] - #65029 ^comentario-65029
 
 SHARAPOVA,JÁ VI ESSA FOTO AI.
+
+# Referências de outros posts
+
+## 26/07/2010 14:04 - [[Posts/10038 - Maiores salários do esporte 2009-10|Maiores salários do esporte 2009-10]] - #64925 ^comentario-64925
+
+\[...\] honrosa para Sharapova, primeira mulher a aparecer no ranking. AKPC\_IDS += "10038,"; Inscreva seu e-mail e confirme \[...\]

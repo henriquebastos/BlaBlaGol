@@ -53,6 +53,8 @@ Eu acho que o problema começa antes. Só fazem besteira! (a mais recente foi ac
 
 Fato é que o Maracanã é ralo de dinheiro público.Alguém duvida que depois de meio ano fechado, um funcionando à meia-bomba, com obras para aprontar para o Pan-Americano, vão inventar que não é suficiente para Copa do Mundo.E tasque mais obras.E vou além.As obras acontecerão. E mesmo assim, ainda vão dizer que é possível não ser utilizado o Estádio na Copa do MundoEm tempo, mesmo estádio que passou por reformas recentes para se adequar às exigências da FIFA para o tal "mundial de clubes" em 2000.
 
-## 10/05/2008 14:57 - [[Pessoas/Brasileirão 2008 - Brincando de Mãe Dinah at Blá blá Gol|Brasileirão 2008 - Brincando de Mãe Dinah at Blá blá Gol]] - #17931 ^comentario-17931
+# Referências de outros posts
+
+## 10/05/2008 14:57 - [[Posts/1468 - Brasileirão 2008 - Brincando de Mãe Dinah|Brasileirão 2008 - Brincando de Mãe Dinah]] - #17931 ^comentario-17931
 
 \[...\] No início de 2007 falei da linha assintótica em que entrou o futebol brasileiro, pelas perdas de jogadores que estão ainda aqui não serem mais tão drásticas, pois quem ficou não é tão 1ª linha assim. E isso acabou com que sem a diáspora os grandes se sobressaissem. \[...\]

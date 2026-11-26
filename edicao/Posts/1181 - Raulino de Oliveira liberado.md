@@ -73,11 +73,13 @@ De qualquer forma, mesmo o clube não podendo reclamar, nós podemos, e temos ma
 
 Os que não tem condições de jogo pelo Corpo de Bombeiros, Polícia Militar ou Vigilância Sanitária certamente teriam de ser vetados (e aí, de todos os jogos e não só os com grandes). Mas esse não é o caso do Raulino de Oliveira. Longe de ser. Mais longe ainda quando lembramos de 2005 que Flamengo, Fluminense e Botafogo mandaram jogos do Brasileiro lá. Se não me falha a memória teve até Fla x Flu lá (um jogo que um jogador do Flamengo desmaiou e Marcão do Flu quem o ajudou)
 
-## 19/03/2008 18:30 - [[Pessoas/Onde vale alguma coisa at Blá blá Gol|Onde vale alguma coisa at Blá blá Gol]] - #12707 ^comentario-12707
-
-\[...\] A onda sobre os jogos da Libertadores daqui a pouco é grande, mas à vera mesmo será Volta Redonda x Portuguesa pela Copa do Brasil, 20:30 no Raulino de Oliveira. \[...\]
-
 ## 29/05/2010 15:34 - [[Pessoas/korino|korino]] - #57999 ^comentario-57999
 
 esse site tem q ter tamanho do campo de futebol do rauino.  
  para os alunos faseren seus trabalhos e para tudo ……………………………………………………………………………………————-.————–\|——————–\>
+
+# Referências de outros posts
+
+## 19/03/2008 18:30 - [[Posts/1329 - Onde vale alguma coisa|Onde vale alguma coisa]] - #12707 ^comentario-12707
+
+\[...\] A onda sobre os jogos da Libertadores daqui a pouco é grande, mas à vera mesmo será Volta Redonda x Portuguesa pela Copa do Brasil, 20:30 no Raulino de Oliveira. \[...\]

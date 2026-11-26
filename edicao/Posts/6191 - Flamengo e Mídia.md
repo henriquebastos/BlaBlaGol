@@ -487,10 +487,12 @@ O Flamengo sempre foi beneficiado. O problema é que num país onde atos de corr
 
 Muito pelo contrário… é visto como esperteza…
 
-## 15/06/2010 11:18 - [[Pessoas/A hora da onça beber água|A hora da onça beber água]] - #59216 ^comentario-59216
-
-\[...\] A imprensa é o maior veículo da mídia e nada mais natural que buscar expor o produto de maior demanda, no caso, a Seleção Brasileira. Como em outras Copas, com nada de concreto efetivamente para mostrar até a primeira partida, imagens de treino e furtivas sonoras já preencheriam as grades dos canais com programação full-time como as TV’s fechadas (SporTV e ESPN Brasil), além de TV aberta com grande destaque de tempo como a TV Bandeirantes. \[...\]
-
 ## 9/11/2010 13:19 - [[Pessoas/Ramon Andrade|Ramon Andrade]] - #74331 ^comentario-74331
 
 A mídia é tão poderosa que tem o direito de desmentir a Confederação Brasileira de Futebol afirmando que o Flamengo é o legítimo campeão brasileiro de 87 e simplesmente não ter punição alguma. O troféu está com o Sport Club do Recife, por que a imprensa insiste em dizer que o urubu é hexa? Não existe favorecimento do Flamengo na mídia nacional? Piada! Eu não estou querendo abrir uma discussão em relação ao título de 87, estou apenas dizendo que a mídia prefere ficar do lado do Flamengo a ficar do lado do Leão e o motivo de tal atitude já está no gibi… Era melhor a mídia simplesmente parar de falar nessa porcaria de título do que ficar babando o time carioca. Mas se a CBF dá semelhante liberdade, esta atitude ridícula nunca terá um fim. Brasil…
+
+# Referências de outros posts
+
+## 15/06/2010 11:18 - [[Posts/9192 - A hora da onça beber água|A hora da onça beber água]] - #59216 ^comentario-59216
+
+\[...\] A imprensa é o maior veículo da mídia e nada mais natural que buscar expor o produto de maior demanda, no caso, a Seleção Brasileira. Como em outras Copas, com nada de concreto efetivamente para mostrar até a primeira partida, imagens de treino e furtivas sonoras já preencheriam as grades dos canais com programação full-time como as TV’s fechadas (SporTV e ESPN Brasil), além de TV aberta com grande destaque de tempo como a TV Bandeirantes. \[...\]

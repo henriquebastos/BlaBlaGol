@@ -992,10 +992,6 @@ A penalidade sequer aconteceu, o jogador do Fluminense dobrou a perna antes mesm
 
 Ok.
 
-## 10/10/2011 15:29 - [[Pessoas/Botafogo 2X2 Bahia – Joel, Fahel… What a hell!!|Botafogo 2X2 Bahia – Joel, Fahel… What a hell!!]] - #108197 ^comentario-108197
-
-\[...\] mais nada ae, peço desculpas pela demora em colocar o resumão. Nem vi o naipe dos comentários no post da 28° rodada ainda, e nem quero pra não gerar influência sobre o que vou escrever. Estará o Botafogo 2011 \[...\]
-
 ## 10/10/2011 16:40 - [[Pessoas/André Bona|André Bona]] - #108216 ^comentario-108216
 
 O urubu só deu azar do Inter vencer o jogo.
@@ -1060,3 +1056,9 @@ A torcida do Inter e os seus jogadores, pareciam que iam perder o controle a qua
 Mas aí veio o lance do pênalti e ele não deu, e então começou a errar para tudo que é lado. Enfim, me pareceu no final apenas mais um juiz gordo e ruim.
 
 Até agora o Vasco não tem do que reclamar de arbitragem nesse campeonato. Só é prejudicado por erros absolutamente normais.
+
+# Referências de outros posts
+
+## 10/10/2011 15:29 - [[Posts/15351 - Botafogo 2X2 Bahia – Joel, Fahel… What a hell!!|Botafogo 2X2 Bahia – Joel, Fahel… What a hell!!]] - #108197 ^comentario-108197
+
+\[...\] mais nada ae, peço desculpas pela demora em colocar o resumão. Nem vi o naipe dos comentários no post da 28° rodada ainda, e nem quero pra não gerar influência sobre o que vou escrever. Estará o Botafogo 2011 \[...\]

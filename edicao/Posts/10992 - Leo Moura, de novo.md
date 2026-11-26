@@ -120,11 +120,13 @@ Jogou 295, quase 300, e foi votado por Gerson como o melhor do jogo em 305.
 
 Hahaha… canhota tá igual ao Serginho, quanto mais velho, mais engraçado!
 
-## 4/10/2010 18:22 - [[Pessoas/Silas caiu|Silas caiu]] - #72310 ^comentario-72310
-
-\[...\] (10 jogos) conquistou 9 (1 vitória sobre o lanterna aos 46 minutos com gol chorado do Toró, 6 empates e 3 \[...\]
-
 ## 8/10/2010 15:17 - [[Pessoas/Bender|Bender]] - #72754 ^comentario-72754
 
 Para registro  
   [300 JOGOS](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/times/flamengo/noticia/2010/10/leo-moura-completa-300-jogos-pelo-fla-um-casamento-que-deu-certo.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/times/flamengo/noticia/2010/10/leo-moura-completa-300-jogos-pelo-fla-um-casamento-que-deu-certo.html")
+
+# Referências de outros posts
+
+## 4/10/2010 18:22 - [[Posts/11173 - Silas caiu|Silas caiu]] - #72310 ^comentario-72310
+
+\[...\] (10 jogos) conquistou 9 (1 vitória sobre o lanterna aos 46 minutos com gol chorado do Toró, 6 empates e 3 \[...\]

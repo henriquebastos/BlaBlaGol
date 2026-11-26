@@ -243,6 +243,8 @@ O Flamengo pecou de novo.
 
 O escroto do técnico do Goiás agora odeia todo um continente…
 
-## 18/09/2009 16:46 - [[Pessoas/O Sexo dos Anjos|O Sexo dos Anjos]] - #38397 ^comentario-38397
+# Referências de outros posts
+
+## 18/09/2009 16:46 - [[Posts/5094 - O Sexo dos Anjos|O Sexo dos Anjos]] - #38397 ^comentario-38397
 
 \[...\] influência a vinda de Fernandão ou é meramente um evento normal dentro do \[...\]

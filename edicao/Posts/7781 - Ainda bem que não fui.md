@@ -384,10 +384,6 @@ Figuráça!
 
 Hahahahahhahaha
 
-## 15/03/2010 19:48 - [[Pessoas/Bruno foi paredão|Bruno foi paredão]] - #52771 ^comentario-52771
-
-\[...\] fez umas 2 ou 3 boas defesas. Falta trabalhar mais a jogada e armar ataques mais contundentes. Victor comentou sobre a bela contratação que foi Vagner Love-2010. E para esse Flamengo (2010) falta o Pet-segundo turno Brasileirão \[...\]
-
 ## 15/03/2010 21:54 - [[Pessoas/JULIO CESAR|Julio Cesar]] - #52776 ^comentario-52776
 
 Venceu o melhor, o mais querido, o mais amado e o mais odiado clube do Brasil!  
@@ -406,3 +402,9 @@ Pra mim, o outro finalista é o Fluminense.
 ## 16/03/2010 8:18 - [[Pessoas/vanderleia|vanderleia]] - #52790 ^comentario-52790
 
 nao entendo por que o carlos alberto sempre corre quando o vasco mais precisa dele!
+
+# Referências de outros posts
+
+## 15/03/2010 19:48 - [[Posts/7806 - Bruno foi paredão|Bruno foi paredão]] - #52771 ^comentario-52771
+
+\[...\] fez umas 2 ou 3 boas defesas. Falta trabalhar mais a jogada e armar ataques mais contundentes. Victor comentou sobre a bela contratação que foi Vagner Love-2010. E para esse Flamengo (2010) falta o Pet-segundo turno Brasileirão \[...\]

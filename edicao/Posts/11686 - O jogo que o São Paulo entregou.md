@@ -377,6 +377,8 @@ GAMBAZADA CHORA NA CAMA QUE É LUGAR QUENTE.
 
 Foi do jeito que os bambis gostaram so abrindo as pernas e caindo de quatro bando de viadinhos.
 
-## 14/05/2011 12:14 - [[Pessoas/Meus 3 minutos de campeonato inglês|Meus 3 minutos de campeonato inglês]] - #94965 ^comentario-94965
+# Referências de outros posts
+
+## 14/05/2011 12:14 - [[Posts/13578 - Meus 3 minutos de campeonato inglês|Meus 3 minutos de campeonato inglês]] - #94965 ^comentario-94965
 
 \[…\] a saudade das decisivas partidas disputadas no Brasileirão do ano passado fora de casa contra São Paulo e \[…\]

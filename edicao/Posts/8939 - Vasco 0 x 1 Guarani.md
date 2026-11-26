@@ -23,10 +23,6 @@ Mais uma vez, o melhor em campo.
 
 # Comentários
 
-## 3/06/2010 23:44 - [[Pessoas/Flamengo respira ares de Zico|Flamengo respira ares de Zico]] - #58367 ^comentario-58367
-
-\[...\] Vasco x Guarani \[...\]
-
 ## 3/06/2010 23:53 - [[Pessoas/Robinson|Robinson]] - #58370 ^comentario-58370
 
 Já experimentou dizer ao Roth a diferença de direita e esquerda???
@@ -275,3 +271,9 @@ Poderia esperar fazer isso depois da última partida da copa. O Vasco ficara des
 ## 6/06/2010 21:22 - [[Pessoas/Andre Bona|Andre Bona]] - #58561 ^comentario-58561
 
 O Vasco nao precisa montar um time como os outros grandes clubes do Brasil. Ele pode montar um como o do Ceará, por exemplo. Mais barato e mais efetivo.
+
+# Referências de outros posts
+
+## 3/06/2010 23:44 - [[Posts/8913 - Flamengo respira ares de Zico|Flamengo respira ares de Zico]] - #58367 ^comentario-58367
+
+\[...\] Vasco x Guarani \[...\]

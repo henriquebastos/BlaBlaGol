@@ -159,6 +159,8 @@ Saulo, porque toda a turma do Scooby-doo anda apertadinha na cabine do furgão, 
 
 Se me responder por que o Superman usa cueca por cima da calça? Por que o Pato Donald não usa roupa de baixo, mas sai enrolado com a toalha de banho?
 
-## 27/04/2010 22:52 - [[Pessoas/Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55896 ^comentario-55896
+# Referências de outros posts
+
+## 27/04/2010 22:52 - [[Posts/8333 - Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55896 ^comentario-55896
 
 \[...\] Saulo Responde – Volume 2 AKPC\_IDS += "8333,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos artigos do Blá blá Gol. OUTROS ARTIGOS \[...\]

@@ -218,6 +218,8 @@ Tirando o “torci pro Inter”, concordo com tudo.
 
 \[...\] cabe ressaltar que o Estudiantes de Verón venceu o Internacional no tempo normal na partida de volta do Beira-Rio (embora o Colorado tenha se sagrado \[...\]
 
-## 1/12/2010 21:03 - [[Pessoas/Goiás x Independiente꞉ a final que todos podem ver|Goiás x Independiente: a final que todos podem ver]] - #76497 ^comentario-76497
+# Referências de outros posts
+
+## 1/12/2010 21:03 - [[Posts/11850 - Goiás x Independiente a final que todos podem ver|Goiás x Independiente: a final que todos podem ver]] - #76497 ^comentario-76497
 
 \[...\] Em 2008 vi Tite tentar entregar o título da Sulamericana sem êxito. \[...\]

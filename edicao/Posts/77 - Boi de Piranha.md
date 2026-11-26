@@ -98,6 +98,8 @@ Sem por lenha na fogueira, mas além de Zagallo (1970, 1974 e 1998)teve o Leão 
 
 Eu nao sei ate que ponto ter sido um craque de futebol ou mesmo jogador da selecao, com ou sem titulo, seja prenuncio de bom futebol e titulos como tecnico… Phill Jackson nunca jogou na NBA e foi o tecnico mais vitorioso a frente do Chicago Bulls. Acho que o Dunga, independente de ja ter sido campeao mundial, vai dar a energia que faltava ao Parreira. Nao sei ate que ponto ele podera ir, mas, como ja disse, tem que ser capaz de colocar o Brasil pelo menos na proxima Copa. Eh um puta risco colocar um sujeito sem experiencia a frente do melhor time de futebol do mundo, que tem obrigacao de ganhar, dando show, sem contar a de estar presente em todos os mundiais. Nao sei… Foi bom, mas…estranho. Pela inexperiencia, corre o risco de so estar ali para gritaR qdo, na verdade, seraO outros membros da comissao quem vaO escalar o time. Nao sei… vamos precisar de muitos amistosos ate o inicio das eliminatorias, no inicio do ano que vem. Abraco. JP
 
-## 26/05/2010 15:36 - [[Pessoas/Dunga꞉ uma aposta extremamente válida|Dunga: uma aposta extremamente válida]] - #57747 ^comentario-57747
+# Referências de outros posts
+
+## 26/05/2010 15:36 - [[Posts/8797 - Dunga uma aposta extremamente válida|Dunga: uma aposta extremamente válida]] - #57747 ^comentario-57747
 
 \[...\] da Seleção Brasileira pela CBF. Sua indicação já fora recebida com ceticismo pela crítica, Blá blá Gol incluso. Eis o que opinei em 25 de julho de \[...\]

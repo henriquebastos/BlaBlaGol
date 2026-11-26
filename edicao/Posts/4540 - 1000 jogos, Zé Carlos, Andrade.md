@@ -239,10 +239,6 @@ Putz… cada vez mais os esquemas escancaram.
 Se fode aí, Andrade:  
   [http://globoesporte.globo.com/Esportes/Noticias/Times/Flamengo/0,,MUL1251214-9865,00-ANDRADE+E+EFETIVADO+COMO+TECNICO.html](<https://web.archive.org/web/*/http://globoesporte.globo.com/Esportes/Noticias/Times/Flamengo/0,,MUL1251214-9865,00-ANDRADE+E+EFETIVADO+COMO+TECNICO.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/Esportes/Noticias/Times/Flamengo/0,,MUL1251214-9865,00-ANDRADE+E+EFETIVADO+COMO+TECNICO.html")
 
-## 23/04/2010 16:54 - [[Pessoas/Andrade demitido evidencia estragos no Flamengo|Andrade demitido evidencia estragos no Flamengo]] - #55672 ^comentario-55672
-
-\[...\] o episódio da renovação, Andrade trocou a imagem romântica de pessoa humilde vencendo na profissão com sentimentos de gratidão e amizade por uma de deslumbrada celetóide. O interino contou ao seu favor com a massa rubronegra defendendo \[...\]
-
 ## 18/11/2010 13:26 - [[Pessoas/Amarildo José Ramos|Amarildo José Ramos]] - #75235 ^comentario-75235
 
 Fico triste pela morte desse goleirão, onde o nome já diz tudo, Zé Grandão, e por ser torcedor do mengão e ter a chance de narrar um jogo do goleiro Zé Carlos, do flamengo,em 1999, na época defendendo o XV de Piracicaba contra o meu EC Paraguaçuense no estádio Carlos Affine…  
@@ -252,3 +248,9 @@ Fico triste pela morte desse goleirão, onde o nome já diz tudo, Zé Grandão, 
 ## 19/11/2010 10:53 - Nome não exibido - #75305
 
 Valeu pelo registro.
+
+# Referências de outros posts
+
+## 23/04/2010 16:54 - [[Posts/8288 - Andrade demitido evidencia estragos no Flamengo|Andrade demitido evidencia estragos no Flamengo]] - #55672 ^comentario-55672
+
+\[...\] o episódio da renovação, Andrade trocou a imagem romântica de pessoa humilde vencendo na profissão com sentimentos de gratidão e amizade por uma de deslumbrada celetóide. O interino contou ao seu favor com a massa rubronegra defendendo \[...\]

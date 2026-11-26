@@ -320,6 +320,8 @@ Dois gols, dois passes de Marcelo Cordeiro. Põe o Somália na direita e o Marce
 
 Jobson começa a pegar ritmo. Vai dar trabalho pra Joel encaixá-lo no time. Expulsão vergonhosa. Deu uma pedalada, apanhou de **DOIS** jogadores do Palmeiras e foi expulso.
 
-## 24/07/2010 18:02 - [[Pessoas/11ª rodada ainda com técnico da Seleção|11ª rodada ainda com técnico da Seleção]] - #64790 ^comentario-64790
+# Referências de outros posts
+
+## 24/07/2010 18:02 - [[Posts/10033 - 11ª rodada ainda com técnico da Seleção|11ª rodada ainda com técnico da Seleção]] - #64790 ^comentario-64790
 
 \[…\] números entre parênteses podem ser compreendidos aqui. AKPC\_IDS += "10033,"; Inscreva seu e-mail e confirme pelo link eviado para receber novos \[…\]

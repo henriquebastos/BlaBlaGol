@@ -499,10 +499,6 @@ cleber vai tama mu #@%¨##%@¨% flamenguinta de merda o jogo foi robado sou vasc
 
 Ah, coitado! Vai chorar que é melhor, pois, se não tem argumentos, fazer o quê? Pois, robo, pra mim, foi o que fizeram com o São Caetano, lembra-se?
 
-## 12/04/2010 13:07 - [[Pessoas/Alguma surpresa？ Fla 2 x 1 Vasco|Alguma surpresa? Fla 2 x 1 Vasco]] - #54600 ^comentario-54600
-
-\[...\] Fricotes e histerias a parte, jogo bom apenas no aspecto da emoção de uma semifinal com um (por enquanto) tradicional clássico. De resto, sem surpresas: um time dominando as primeiras ações com maior posse de bola e o outro levando mais perigo nos contra-ataques. \[...\]
-
 ## 12/04/2010 13:15 - [[Pessoas/caioovasc|caioovasc]] - #54602 ^comentario-54602
 
 vasco foi rou bado 2X1
@@ -1256,6 +1252,12 @@ Hahaha… que lixo!
 
 É muito óbvio o roubo descarado. O negócio foi tão ridículo que agora já tô achando até engraçado.
 
-## 14/11/2010 9:03 - [[Pessoas/Parabéns ao Cruzeiro Esporte Clube|Parabéns ao Cruzeiro Esporte Clube]] - #74840 ^comentario-74840
+# Referências de outros posts
+
+## 12/04/2010 13:07 - [[Posts/8137 - Alguma surpresa Fla 2 x 1 Vasco|Alguma surpresa? Fla 2 x 1 Vasco]] - #54600 ^comentario-54600
+
+\[...\] Fricotes e histerias a parte, jogo bom apenas no aspecto da emoção de uma semifinal com um (por enquanto) tradicional clássico. De resto, sem surpresas: um time dominando as primeiras ações com maior posse de bola e o outro levando mais perigo nos contra-ataques. \[...\]
+
+## 14/11/2010 9:03 - [[Posts/11579 - Parabéns ao Cruzeiro Esporte Clube|Parabéns ao Cruzeiro Esporte Clube]] - #74840 ^comentario-74840
 
 \[...\] Sem falar em faltas invertidas, faltas não marcadas, esse tipo de coisa que Serginho cansou de falar aqui. \[...\]

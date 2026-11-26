@@ -175,6 +175,8 @@ Piada pronta isso, né…hahahaha
 
 Realmente foi uma pena o que aconteceu com o Massa. Ele ia muito bem, se aproximando da liderança da competição.
 
-## 11/09/2009 0:37 - [[Pessoas/Como comentar isso？|Como comentar isso?]] - #38140 ^comentario-38140
+# Referências de outros posts
+
+## 11/09/2009 0:37 - [[Posts/5021 - Como comentar isso|Como comentar isso?]] - #38140 ^comentario-38140
 
 \[...\] seus companheiros de profissão ao confessar que deliberadamente jogou seu carro contra o muro no GP de Cingapura no ano passado, provocando a entrada do safety-car. A manobra teria sido arquitetada pelos cabeças da equipe, \[...\]

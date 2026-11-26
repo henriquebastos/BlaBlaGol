@@ -177,6 +177,8 @@ Vamos agradecê-lo ao vivo. Partiu?
 Tava no Maraca.  
  Nao me lembro de comemorar tanto um gol em minha vida (2)
 
-## 6/06/2011 20:15 - [[Pessoas/A saga para ver o último ato do Pet|A saga para ver o último ato do Pet]] - #96846 ^comentario-96846
+# Referências de outros posts
+
+## 6/06/2011 20:15 - [[Posts/13818 - A saga para ver o último ato do Pet|A saga para ver o último ato do Pet]] - #96846 ^comentario-96846
 
 \[...\] texto sobre o ídolo contemporâneo rubro-negro já está feito. E para falar do jogo basta dizer que o Pet foi bem (joga muito) e parou pela sabedoria que tem; \[...\]

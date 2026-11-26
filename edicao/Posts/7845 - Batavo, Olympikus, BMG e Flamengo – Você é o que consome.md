@@ -940,10 +940,6 @@ Aproveitei e li seu colega ao lado. Mas o Calazans geralmente é na diagonal mes
 
 Até vale, mas precisa mesmo ler?
 
-## 20/03/2010 8:35 - [[Pessoas/Royalties|Royalties]] - #53083 ^comentario-53083
-
-\[...\] Vamos falar sério. Sem fazer uso das SEXta-feiras hoje. O bafafá não pára. A confusão sobre a polêmica dos Royalties tá sendo mais noticiada que os casos de Chatuba. \[...\]
-
 ## 24/03/2010 9:49 - [[Pessoas/João Deiró|João Deiró]] - #53353 ^comentario-53353
 
 E a visão mais razoável do assunto vem de um tricolor:
@@ -989,10 +985,6 @@ Não estou entendendo porque a Roma ainda quer contratar o Adriano, tão precisa
 Achei que não voltaria a esse post. Ingênuo que sou.  
  Vamos à clipagem agora com o caso Bruno:  
   [Bruno é separado do grupo durante investigações do caso Eliza Samudio](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/times/flamengo/noticia/2010/06/bruno-e-afastado-do-grupo-durante-investigacoes-do-caso-eliza-samudio.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/times/flamengo/noticia/2010/06/bruno-e-afastado-do-grupo-durante-investigacoes-do-caso-eliza-samudio.html").
-
-## 17/07/2010 12:55 - [[Pessoas/Processem Patricia Amorim|Processem Patricia Amorim]] - #64089 ^comentario-64089
-
-\[...\] Uma tal comissão de notáveis foi contratada para enfeitar o pavão dando alguma credibilidade as decisões do Flamengo no caso. Comissão de notáveis é meu ovo esquerdo com cãibra. No dia 7 de julho, Sidney Resende e Gilmar Ferreira em seus blogues alertavam para o desgaste de imagem que o caso de Bruno trazia correlacionando com demais desmandos ocorridos com atletas do clube como por exemplo, o caso das interações de Adriano e Vagner Love com criminosos nas favelas do Rio de Janeiro. \[...\]
 
 ## 18/07/2010 0:06 - [[Pessoas/Swmy|Swmy]] - #64157 ^comentario-64157
 
@@ -1093,3 +1085,13 @@ Mulher: “Como sempre, o Adriano fazendo besteira…”
 
 P.S.: O jornaleiro vestia uma camisa do Flamengo.  
  P.S.2: Sim, foi verdade tudo isto que eu relatei aqui. Acreditem ou não.
+
+# Referências de outros posts
+
+## 20/03/2010 8:35 - [[Posts/7890 - Royalties|Royalties]] - #53083 ^comentario-53083
+
+\[...\] Vamos falar sério. Sem fazer uso das SEXta-feiras hoje. O bafafá não pára. A confusão sobre a polêmica dos Royalties tá sendo mais noticiada que os casos de Chatuba. \[...\]
+
+## 17/07/2010 12:55 - [[Posts/9895 - Processem Patricia Amorim|Processem Patricia Amorim]] - #64089 ^comentario-64089
+
+\[...\] Uma tal comissão de notáveis foi contratada para enfeitar o pavão dando alguma credibilidade as decisões do Flamengo no caso. Comissão de notáveis é meu ovo esquerdo com cãibra. No dia 7 de julho, Sidney Resende e Gilmar Ferreira em seus blogues alertavam para o desgaste de imagem que o caso de Bruno trazia correlacionando com demais desmandos ocorridos com atletas do clube como por exemplo, o caso das interações de Adriano e Vagner Love com criminosos nas favelas do Rio de Janeiro. \[...\]

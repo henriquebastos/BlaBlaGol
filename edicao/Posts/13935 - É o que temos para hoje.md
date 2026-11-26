@@ -375,6 +375,8 @@ chama-se falta de títulos, ou a síndrome do patinho feio que vc diz. o que é 
 
 Foda é que a gente (torcedor) vive esquecendo disso.
 
-## 20/06/2011 11:50 - [[Pessoas/O fim da era “Vai vendo…”|O fim da era “Vai vendo…”]] - #98447 ^comentario-98447
+# Referências de outros posts
+
+## 20/06/2011 11:50 - [[Posts/14043 - O fim da era “Vai vendo…”|O fim da era “Vai vendo…”]] - #98447 ^comentario-98447
 
 \[...\] Gaburah, o melhor antídoto para o pós-Cuca. O que eu posso dizer? Preferia Ney Franco, mas é o que temos para hoje. Desejo sorte ao novo comandante Azul, porque agora sua felicidade está diretamente ligada à \[...\]

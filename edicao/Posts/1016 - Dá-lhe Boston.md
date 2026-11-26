@@ -71,6 +71,8 @@ NOTÍCIAS DA NBA
 
 Sensacional! O Boston é o time da virada…hehehe.
 
-## [[Pessoas/2007 - Quem subiu, quem desceu ꞉ Blá blá Gol|2007 - Quem subiu, quem desceu : Blá blá Gol]] - #8546 ^comentario-8546
+# Referências de outros posts
+
+## [[Posts/1128 - 2007 – Quem subiu, quem desceu|2007 – Quem subiu, quem desceu]] - #8546 ^comentario-8546
 
 \[...\] próprio ponto de vista, podendo incluir caso queira o Futebol Internacional, Seleção Brasileira, Meghan, Riquelme, Milan, Kimi Raikkonem, Premier League, Marta, Seleção Feminina de Vôlei da Itália, \[...\]

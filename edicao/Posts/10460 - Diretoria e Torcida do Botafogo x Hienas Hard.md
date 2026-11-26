@@ -251,6 +251,8 @@ Hum.
 
 Então tá.
 
-## 19/09/2010 11:26 - [[Pessoas/O torcedor finalmente entendeu os Pontos Corridos|O torcedor finalmente entendeu os Pontos Corridos]] - #70662 ^comentario-70662
+# Referências de outros posts
+
+## 19/09/2010 11:26 - [[Posts/10916 - O torcedor finalmente entendeu os Pontos Corridos|O torcedor finalmente entendeu os Pontos Corridos]] - #70662 ^comentario-70662
 
 \[...\] Botafogo e Cruzeiro jogaram em um sábado no Engenhão para 14.128 pagantes, renda de R$305.080,00 e preço médio de R$21,59. Todos valores aquém aos obtidos na disputa do mesmo Botafogo em um outro sábado contra o Avaí. \[...\]

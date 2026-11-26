@@ -1302,6 +1302,8 @@ Sei lá cara… não to te entendendo já faz algumas semanas aqui no blog.
 
 Ah…sim, errei mesmo. Respondi algo que não me dizia respeito.
 
-## 26/02/2010 10:04 - [[Pessoas/Promoção – As Melhores Seleções Brasileiras de Todos os Tempos|Promoção – As Melhores Seleções Brasileiras de Todos os Tempos]] - #50886 ^comentario-50886
+# Referências de outros posts
+
+## 26/02/2010 10:04 - [[Posts/7390 - Promoção – As Melhores Seleções Brasileiras de Todos os Tempos|Promoção – As Melhores Seleções Brasileiras de Todos os Tempos]] - #50886 ^comentario-50886
 
 \[...\] a tentar engatar essa conversa tendo como pano de fundo o livro do Milton Leite sobre as Seleções Brasileiras Campeãs do Mundo \[...\]

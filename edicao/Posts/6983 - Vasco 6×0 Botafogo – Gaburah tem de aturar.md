@@ -65,10 +65,12 @@ num esboçei nem um sorriso…parada sem graça.
 
 \[...\]o Gigante da Colina não teve dificuldade para homologar uma goleada nos anais das rivalidades cariocas.\[...\]
 
-## 23/02/2010 21:34 - [[Pessoas/Onde está Dodô？|Onde está Dodô?]] - #50646 ^comentario-50646
-
-\[...\] dia é da caça, outro é do caçador \[...\]
-
 ## 19/04/2010 15:14 - [[Pessoas/bruno|Bruno]] - #55393 ^comentario-55393
 
 Comprei o fogão e ainda não acabei de pagar mas já deu pra cozinhar o bacalhau. Campeão da Taça Guanabara, Campeão da Taça Rio – Campeão Carioca 2010, e vocês?
+
+# Referências de outros posts
+
+## 23/02/2010 21:34 - [[Posts/7394 - Onde está Dodô|Onde está Dodô?]] - #50646 ^comentario-50646
+
+\[...\] dia é da caça, outro é do caçador \[...\]

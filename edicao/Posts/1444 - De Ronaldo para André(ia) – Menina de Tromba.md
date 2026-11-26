@@ -29,18 +29,6 @@ Victor, esse clipe é de fato comovente. Ouvi dizer que em Campinas está fazend
 
 Coitado do Ronaldinho. Agora sim ele vai ficar mais famoso que o Pelé.
 
-## 1/05/2008 11:32 - [[Pessoas/Solução para o Ronaldo at Blá blá Gol|Solução para o Ronaldo at Blá blá Gol]] - #16933 ^comentario-16933
-
-\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]
-
-## 1/05/2008 11:33 - [[Pessoas/Créu at Blá blá Gol|Créu at Blá blá Gol]] - #16935 ^comentario-16935
-
-\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]
-
-## 1/05/2008 11:49 - [[Pessoas/Ronaldo e o Travesti at Blá blá Gol|Ronaldo e o Travesti at Blá blá Gol]] - #16936 ^comentario-16936
-
-\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]
-
 ## 1/05/2008 15:49 - [[Pessoas/Vitor|Vitor]] - #16961 ^comentario-16961
 
 hauahuahuahuahuahuahauhaua
@@ -67,3 +55,17 @@ O Blablagol está sendo transformado num site gay?
 ## 3/05/2008 16:37 - [[Pessoas/Serginho Valente|Serginho Valente]] - #17250 ^comentario-17250
 
 [A suruba homossexual mais cara da história](<https://web.archive.org/web/*/http://oglobo.globo.com/rio/mat/2008/05/03/tim_rompe_com_ronaldo_fenomeno_depois_de_polemica_com_travestis-427185009.asp> "Captura ainda não verificada. Endereço original: http://oglobo.globo.com/rio/mat/2008/05/03/tim_rompe_com_ronaldo_fenomeno_depois_de_polemica_com_travestis-427185009.asp").
+
+# Referências de outros posts
+
+## 1/05/2008 11:32 - [[Posts/1439 - Solução para o Ronaldo|Solução para o Ronaldo]] - #16933 ^comentario-16933
+
+\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]
+
+## 1/05/2008 11:33 - [[Posts/1437 - Créu|Créu]] - #16935 ^comentario-16935
+
+\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]
+
+## 1/05/2008 11:49 - [[Posts/1434 - Ronaldo e o Travesti|Ronaldo e o Travesti]] - #16936 ^comentario-16936
+
+\[...\] De Ronaldo para André(ia) – Menina de Tromba \[...\]

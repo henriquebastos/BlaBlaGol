@@ -219,6 +219,8 @@ sempre defendi a fodeza da sulamita,estava certo.
 
 Independiente merece vencer. O maluco fez homenagem para o cachorro na camisa.
 
-## 28/11/2010 17:06 - [[Pessoas/Bolão BBG BR2010 – 37ª Rodada꞉ A Véspera|Bolão BBG BR2010 – 37ª Rodada: A Véspera]] - #76069 ^comentario-76069
+# Referências de outros posts
+
+## 28/11/2010 17:06 - [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|Bolão BBG BR2010 – 37ª Rodada: A Véspera]] - #76069 ^comentario-76069
 
 \[…\] rodada 37 sofreu a reviravolta com a eliminação palmeirense na Sulamericana. Felipão envergonhado deixará alguém fazer corpo mole contra o Fluminense? Kléber ganhará \[…\]

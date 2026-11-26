@@ -52,10 +52,6 @@ Pois é…
 
 ogostosa iscuta é inter é interuruuuuu!!!
 
-## 3/07/2009 13:28 - [[Pessoas/Musas 2009|Musas 2009]] - #35099 ^comentario-35099
-
-\[...\] concursos eu já torci pelo Inter e em uma final torci pelo Santos. Nenhuma \[...\]
-
 ## 16/07/2009 13:54 - [[Pessoas/ramiro|ramiro]] - #35537 ^comentario-35537
 
 que delicia!
@@ -81,3 +77,9 @@ VAI SER GOSTOSA ASSIM LÁ EM CASA !!!!!!!!!
 Flávio esteve na Gloriosa torcida alvinegra dentro do Gigante da Beira-Rio e contou como foi a vitória mais comemorada por rubronegros que por botafoguenses.  
  por Flávio  
  Ainda me refazendo da euforia e emoção por presenciar in loco a vitória alvinegra …
+
+# Referências de outros posts
+
+## 3/07/2009 13:28 - [[Posts/4353 - Musas 2009|Musas 2009]] - #35099 ^comentario-35099
+
+\[...\] concursos eu já torci pelo Inter e em uma final torci pelo Santos. Nenhuma \[...\]

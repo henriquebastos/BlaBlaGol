@@ -193,6 +193,8 @@ Para não me tacharem de ‘framenguista anarfabeto’.
 
 Vitor, pelas minhas contas de 0,091J. Verifica aí.
 
-## 24/04/2011 22:18 - [[Pessoas/Um técnico com urgência para o Fluminense|Um técnico com urgência para o Fluminense]] - #92518 ^comentario-92518
+# Referências de outros posts
+
+## 24/04/2011 22:18 - [[Posts/13337 - Um técnico com urgência para o Fluminense|Um técnico com urgência para o Fluminense]] - #92518 ^comentario-92518
 
 \[...\] ocasião faz o ladrão e com tudo praticamente perdido na Libertadores, Enderson fez A mudança no jogo e seguiu com moral junto com sua equipe que já jogava bem. Todavia, a \[...\]

@@ -32,11 +32,12 @@ function parsePost(name) {
   const title = String(data.aliases?.[0] ?? name.slice(id.length + 3, -3));
   const [first, ...rest] = parts[2].trimStart().split('\n');
   const raw = (/^# /.test(first) ? rest.join('\n') : parts[2]).trim();
-  const [body, ...sections] = raw.split(/^# Comentários\s*$/m);
+  const [discussion, ...references] = raw.split(/^# Referências de outros posts[ \t]*$/m);
+  const [body, ...sections] = discussion.split(/^# Comentários\s*$/m);
   const date = /^\d{4}-\d{2}-\d{2}$/.test(data.publicado_em) ? String(data.publicado_em) : '';
   return {id, title, date, year: date.slice(0,4) || 'sem-data', author: (/\[\[Pessoas\/([^\]|]+)/.exec(data.autor || '')?.[1] || textWiki(data.autor)).normalize('NFC'),
     catalogOnly: data.registro_historico === true, themes: Array.isArray(data.temas) ? data.temas.map(textWiki) : [], body: cleanPostBody(body),
-    comments: sections.join('\n# Comentários\n').trim()};
+    comments: sections.join('\n# Comentários\n').trim(), references: references.join('\n# Referências de outros posts\n').trim()};
 }
 
 export const posts = readdirSync(join(source, 'Posts'), {withFileTypes:true})

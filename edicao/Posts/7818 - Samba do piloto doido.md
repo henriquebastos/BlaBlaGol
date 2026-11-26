@@ -37,10 +37,6 @@ Vitor Meira tem muito a comemorar
 
 # Comentários
 
-## 16/03/2010 13:14 - [[Pessoas/“Nova” F1, velhos problemas|“Nova” F1, velhos problemas]] - #52798 ^comentario-52798
-
-\[...\] parte da tarde aqui do Brasil, mas se o tivessem feito, morreriam de inveja. Mesmo com toda aquela bagunça que marcou a corrida pelas ruas \[...\]
-
 ## 16/03/2010 14:34 - [[Pessoas/Victor|Victor]] - #52804 ^comentario-52804
 
 Outra coisa bem estranha foram em relação aos horários do que valia ou não em treinos da transmissão da TV.  
@@ -86,3 +82,9 @@ Será por que ninguem se importa com a indy aqui no Brasil, ou será que foi um 
 ## 17/03/2010 13:48 - Nome não exibido - #52869
 
 Acompanhei algumas notícias pelo portal globo.com (se é isso que você se refere como “mídia tradicional”) e vi destaques não muito grandes, mas que só apareciam na página inicial quando acontecia algo errado com o evento da categoria que um dia foi rival da F1.
+
+# Referências de outros posts
+
+## 16/03/2010 13:14 - [[Posts/7801 - “Nova” F1, velhos problemas|“Nova” F1, velhos problemas]] - #52798 ^comentario-52798
+
+\[...\] parte da tarde aqui do Brasil, mas se o tivessem feito, morreriam de inveja. Mesmo com toda aquela bagunça que marcou a corrida pelas ruas \[...\]

@@ -187,6 +187,8 @@ saulo *reply on March 16th, 2010 17:02*:
 
 De jeito nenhum. O Estadual como está será cada vez mais desinteressante e o prejuízo maior. Um grande clube não pode ter lucro em apenas cinco ou seis jogos durante essa competição. Se fosse feito um pré-estadual com os clubes menores e um torneio classificatório após os estadual para série D, ajudaria ter mais atividade durante o ano. Não dá para uniformizar o calendário para todos os clubes.
 
-## [[Pessoas/Ainda bem que não vi|Ainda bem que não vi]] - #53149 ^comentario-53149
+# Referências de outros posts
+
+## [[Posts/7904 - Ainda bem que não vi|Ainda bem que não vi]] - #53149 ^comentario-53149
 
 \[...\] Então, a situação chegou a este ponto, não me interesso por jogos do Vasco, e se ele perde, acho até normal, mesmo perdendo pro Olaria, que aliás considero a surpresa do campeonato. \[...\]

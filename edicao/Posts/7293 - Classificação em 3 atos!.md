@@ -45,10 +45,6 @@ HAHAHAAHAHAHA CADE IMPERIO DO AMOR???´´E SO FOGO DE PALHA É O IMPERIO DO TERR
  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  
  OOOOOOOOOOOOOOOOOOOOOOOOOO
 
-## 18/02/2010 0:37 - [[Pessoas/1 Samuel 17꞉50|1 Samuel 17:50]] - #49997 ^comentario-49997
-
-\[...\] E CHUPA, SAULO! Para receber os novos artigos inscreva seu e-mail pela caixa abaixo e faça a confirmação.Atenção: para receber os artigos é necessário que se faça a ativação pelo link enviado a seu e-mail OUTROS ARTIGOS \[...\]
-
 ## 18/02/2010 5:38 - [[Pessoas/Antônio Ramalho|Antônio Ramalho]] - #50010 ^comentario-50010
 
 Na boa… até me diverti hj. Assisti o jogo com o maior botafoguense de João Pessoa!!! E chegamos a uma conclusão… foi o maior “bambo” dos últimos anos do futebol brasileiro.
@@ -99,3 +95,9 @@ Colocou o tinha pra jogar do jeito certo. Se fechou como tinha que ser feito. Fe
 ## 19/02/2010 0:00 - [[Pessoas/Lincoln|Lincoln]] - #50164 ^comentario-50164
 
 Como eu ja disse antes [http://www.blablagol.com.br/joel-no-botafogo-a-malandragem-esta-de-volta-6951#comment-47943](<http://www.blablagol.com.br/joel-no-botafogo-a-malandragem-esta-de-volta-6951#comment-47943>) [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|no acervo]]
+
+# Referências de outros posts
+
+## 18/02/2010 0:37 - [[Posts/7294 - 1 Samuel 17 50|1 Samuel 17:50]] - #49997 ^comentario-49997
+
+\[...\] E CHUPA, SAULO! Para receber os novos artigos inscreva seu e-mail pela caixa abaixo e faça a confirmação.Atenção: para receber os artigos é necessário que se faça a ativação pelo link enviado a seu e-mail OUTROS ARTIGOS \[...\]

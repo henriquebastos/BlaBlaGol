@@ -137,6 +137,8 @@ Não tenho nada contra o Atlético. Pelo contrário. Teve um momento do campeona
 Não tenho opinião formada sobre a paradinha.  
  Seria um comentário que não precisaria existir, mas é o fato.
 
-## 25/02/2010 2:29 - [[Pessoas/Arbitragem emperra Confiança|Arbitragem emperra Confiança]] - #50762 ^comentario-50762
+# Referências de outros posts
+
+## 25/02/2010 2:29 - [[Posts/7437 - Arbitragem emperra Confiança|Arbitragem emperra Confiança]] - #50762 ^comentario-50762
 
 \[...\] Irresponsabilidade, também, seria se ele não treinasse e não estivesse convicto de que a paradinha é o melhor que pode fazer. E o histórico dele no Fluminense condiz com sua convicção. \[...\]

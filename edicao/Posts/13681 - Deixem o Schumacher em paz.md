@@ -230,6 +230,8 @@ Essa festinha no video abaixo, realizada em Jurerê (Floripa), é na mesma linha
 
 [http://www.youtube.com/watch?v=RC5XJKgbtW4](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=RC5XJKgbtW4> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=RC5XJKgbtW4")
 
-## 12/10/2011 22:55 - [[Pessoas/Vettel bi꞉ o novo sempre vem|Vettel bi: o novo sempre vem]] - #108372 ^comentario-108372
+# Referências de outros posts
+
+## 12/10/2011 22:55 - [[Posts/15368 - Vettel bi o novo sempre vem|Vettel bi: o novo sempre vem]] - #108372 ^comentario-108372
 
 \[...\] a Alemanha tem uma boa razão para beber um monte de cerveja para comemorar. E o mestre-samurai Michael Schumacher tem motivos para se sentir orgulhoso de seu pupilo. Essa é a ordem natural das coisas: um gênio \[...\]

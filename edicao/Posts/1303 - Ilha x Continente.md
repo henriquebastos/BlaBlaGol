@@ -183,6 +183,8 @@ Aliás, outro dia vi um jogo de Portugal (contra um timeco europeu desses, tipo 
 
 O problema é que na hora de finalizar… Postiga e Nuno Gomes são muito fracos…
 
-## 14/03/2008 13:40 - [[Pessoas/Quartas da UCL definidas at Blá blá Gol|Quartas da UCL definidas at Blá blá Gol]] - #12241 ^comentario-12241
+# Referências de outros posts
+
+## 14/03/2008 13:40 - [[Posts/1309 - Quartas da UCL definidas|Quartas da UCL definidas]] - #12241 ^comentario-12241
 
 \[...\] confrontos das quartas-de-finais da UEFA Champions League estão definidos. Roubarei a análise do meu xará Vitor sobre os jogos (em negrito, a aposta \[...\]

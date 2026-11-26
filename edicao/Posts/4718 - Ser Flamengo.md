@@ -204,10 +204,6 @@ VocÊ deve ser um viado tricolor!
 Juro que também ouvi tudo como se fosse uma ladainha só. Impossível de prestar atenção.  
  Artur da Távola é uma espécie de Saulo da subjetividade (ou Saulo é o Artur da Távola da objetividade)
 
-## 13/08/2009 10:35 - [[Pessoas/Adílio e Julio Cesar Uri Geller no Jô|Adílio e Julio Cesar Uri Geller no Jô]] - #36660 ^comentario-36660
-
-\[…\] entender o que é ser Flamengo, pode-se tentar digerir o texto insuportável do Artur da Távola. Missão \[…\]
-
 ## 13/08/2009 17:00 - [[Pessoas/Saulo|saulo]] - #36676 ^comentario-36676
 
 Um clube com a maior nação do mundo e muito mal tratada pelos seus dirigentes. Caso fosse bem administrada, poderia ser dez vezes campeão brasileiro com o potencial econômico e grande mercado de consumo.
@@ -1121,3 +1117,9 @@ bostafogo timeco de serie d
 ## 29/12/2015 18:44 - [[Pessoas/Samyres Silva Sanches|Samyres Silva Sanches]] - #180891 ^comentario-180891
 
 _Texto não identificado na captura._
+
+# Referências de outros posts
+
+## 13/08/2009 10:35 - [[Posts/4724 - Adílio e Julio Cesar Uri Geller no Jô|Adílio e Julio Cesar Uri Geller no Jô]] - #36660 ^comentario-36660
+
+\[…\] entender o que é ser Flamengo, pode-se tentar digerir o texto insuportável do Artur da Távola. Missão \[…\]

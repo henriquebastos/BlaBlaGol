@@ -25,10 +25,6 @@ Gigantes possuem as taças relevantes
 
 # Comentários
 
-## 15/04/2010 11:45 - [[Pessoas/Fábulas Modernas do Futebol꞉ O Flamengo e a Taça de Bolinhas|Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas]] - #55014 ^comentario-55014
-
-\[...\] A Fábula contada aqui \[...\]
-
 ## 15/04/2010 19:37 - [[Pessoas/Igor|Igor]] - #55083 ^comentario-55083
 
 Pequeno Sport ? Pequeno Só se for no poder financeiro do time e na capacidade de ganhar um jogo no grito ou no apito…
@@ -160,3 +156,9 @@ O Flamengo é o clube mais ridículo do futebol brasileiro. Só paga mico ! Pens
 
 Vale pelas imagens  
   [http://www.youtube.com/watch?v=CPU7Wg65ig0&feature=related](<https://web.archive.org/web/*/http://www.youtube.com/watch?v=CPU7Wg65ig0&feature=related> "Captura ainda não verificada. Endereço original: http://www.youtube.com/watch?v=CPU7Wg65ig0&feature=related")
+
+# Referências de outros posts
+
+## 15/04/2010 11:45 - [[Posts/8201 - Fábulas Modernas do Futebol O Flamengo e a Taça de Bolinhas|Fábulas Modernas do Futebol: O Flamengo e a Taça de Bolinhas]] - #55014 ^comentario-55014
+
+\[...\] A Fábula contada aqui \[...\]

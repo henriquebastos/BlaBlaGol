@@ -297,6 +297,8 @@ Não faço idéia do que seja pulha de dez.
 
 Sutileza Saulística
 
-## 5/11/2010 8:55 - [[Pessoas/Bolão BBG BR2010 – 34ª Rodada|Bolão BBG BR2010 – 34ª Rodada]] - #74121 ^comentario-74121
+# Referências de outros posts
+
+## 5/11/2010 8:55 - [[Posts/11480 - Bolão BBG BR2010 – 34ª Rodada|Bolão BBG BR2010 – 34ª Rodada]] - #74121 ^comentario-74121
 
 \[...\] sonha em não trocar o avião de viagem pela América pelo Busão do Brasil enquanto o Cruzmaltino aliviado encara sem pressão o Tricolor carioca sem atacantes segurando-se na liderança deste campeonato \[...\]

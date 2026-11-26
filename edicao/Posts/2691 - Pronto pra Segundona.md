@@ -353,10 +353,12 @@ hehe… salve Hollywood.
 
 mto massa a camisaa!!
 
-## 17/06/2009 2:35 - [[Pessoas/Querida Penalty…|Querida Penalty…]] - #34537 ^comentario-34537
-
-\[...\] licença aos amigos aqui do site mas, diante desta notícia, ainda abalado por traumas recentes, não resisto em usar o Blá Blá Gol para uma causa pessoal, e fazer um \[...\]
-
 ## 26/01/2010 20:27 - [[Pessoas/adrinei valente|adrinei valente]] - #48063 ^comentario-48063
 
 eu nao quero saber o sentimento nao pode parar porra
+
+# Referências de outros posts
+
+## 17/06/2009 2:35 - [[Posts/4182 - Querida Penalty…|Querida Penalty…]] - #34537 ^comentario-34537
+
+\[...\] licença aos amigos aqui do site mas, diante desta notícia, ainda abalado por traumas recentes, não resisto em usar o Blá Blá Gol para uma causa pessoal, e fazer um \[...\]

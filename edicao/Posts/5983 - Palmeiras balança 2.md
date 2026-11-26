@@ -110,6 +110,8 @@ Grande abraço,
 Leonardo Resende  
  Rio Futebol
 
-## 20/11/2009 22:19 - [[Pessoas/Palmeiras balança 3|Palmeiras balança 3]] - #43150 ^comentario-43150
+# Referências de outros posts
+
+## 20/11/2009 22:19 - [[Posts/6005 - Palmeiras balança 3|Palmeiras balança 3]] - #43150 ^comentario-43150
 
 \[...\] causar tanta estranheza no mundo do futebol. Aliás, no Mundo Corporativo em geral. E por mais que denote problemas que já acontecem no Palestra, há o atenuante que foi feito de cabeça quente, algo de momento e que no fim das contas, Obina e \[...\]

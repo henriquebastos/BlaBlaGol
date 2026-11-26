@@ -240,6 +240,8 @@ E então joga no seu campo, cobra R$50 no ingresso, gasta menos do que jogando e
 
 [http://www.orkut.com.br/Main#CommMsgs?cmm=5374085&tid=5517126688910184009&start=1](<https://web.archive.org/web/*/http://www.orkut.com.br/Main%23CommMsgs?cmm=5374085&tid=5517126688910184009&start=1> "Captura ainda não verificada. Endereço original: http://www.orkut.com.br/Main#CommMsgs?cmm=5374085&tid=5517126688910184009&start=1")
 
-## 17/09/2010 11:24 - [[Pessoas/Erros e mais erros|Erros e mais erros]] - #70484 ^comentario-70484
+# Referências de outros posts
+
+## 17/09/2010 11:24 - [[Posts/10884 - Erros e mais erros|Erros e mais erros]] - #70484 ^comentario-70484
 
 \[...\] Graças a “brilhante” diretoria cruzmaltina o Vasco agora faz três partidas fora de casa. E quando voltar a jogar em São Januário será contra o Santos. Tem gente que reclama agora (eu mesmo), mas vai sentir saudade dos empates. Adeus invencibilidade, e adeus Libertadores. \[...\]

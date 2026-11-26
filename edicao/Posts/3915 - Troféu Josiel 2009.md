@@ -94,22 +94,24 @@ OBINA NELES!
 
 Infelizmente tenho que concordar, Josiel eh ruim demais.
 
-## 15/07/2009 3:27 - [[Pessoas/Vila Nova 0 x 2 Vasco|Vila Nova 0 x 2 Vasco]] - #35445 ^comentario-35445
-
-\[...\] achei. Não foi gol porque o Vila Nova como todos os outros time da série B é ridiculamente ruim. PRÊMIO JOSIEL pro \[...\]
-
 ## 7/08/2009 2:39 - [[Pessoas/Roni matou o Sport|Roni matou o Sport]] - #36479 ^comentario-36479
 
 \[...\] Neste lance, Roni conseguiu até me criar um problema teórico. Sua furada antes do passe para Kieza entra para o Troféu Josiel? \[...\]
 
-## 9/08/2009 23:27 - [[Pessoas/O Fluminense tem um time|O Fluminense tem um time]] - #36535 ^comentario-36535
+# Referências de outros posts
+
+## 15/07/2009 3:27 - [[Posts/4425 - Vila Nova 0 x 2 Vasco|Vila Nova 0 x 2 Vasco]] - #35445 ^comentario-35445
+
+\[...\] achei. Não foi gol porque o Vila Nova como todos os outros time da série B é ridiculamente ruim. PRÊMIO JOSIEL pro \[...\]
+
+## 9/08/2009 23:27 - [[Posts/4684 - O Fluminense tem um time|O Fluminense tem um time]] - #36535 ^comentario-36535
 
 \[...\] o protagonista-mor do Flu 2009 conseguiu mais um feito na temporada. Edcarlos entrou na disputa do troféu Josiel. Para receber os novos artigos inscreva seu e-mail pela caixa abaixo e faça a \[...\]
 
-## 15/11/2009 22:22 - [[Pessoas/Cadê o CT da soneca？|Cadê o CT da soneca?]] - #42843 ^comentario-42843
+## 15/11/2009 22:22 - [[Posts/5874 - Cadê o CT da soneca|Cadê o CT da soneca?]] - #42843 ^comentario-42843
 
 \[...\] Boteco está fininho. Tudo bem que deu o passe para o 2º gol, mas entrou para a disputa do Troféu Josiel com um gol perdido \[...\]
 
-## 9/11/2010 9:54 - [[Pessoas/Washington carregado no colo|Washington carregado no colo]] - #74296 ^comentario-74296
+## 9/11/2010 9:54 - [[Posts/11507 - Washington carregado no colo|Washington carregado no colo]] - #74296 ^comentario-74296
 
 \[...\] O Coração Valente anda caricato. Não só pelo jejum, mas com gols perdidos fazem corar Josiel. \[...\]

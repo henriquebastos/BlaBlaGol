@@ -428,6 +428,8 @@ Aê Serginho! Essa é sua
 Eu achei o que fizeram na tabela da Copa uma cagada gigantesca. Negócio sem sentido.  
  Mas não por isso. Acho que não dá pra dizer que na Copa o desgaste da viagem será tão grande. O **torneio é curto**, o hotel 5 estrelas, o voo fretado, 1ª classe, prioridade em aeroportos, estradas, etc…
 
-## 26/10/2011 12:04 - [[Pessoas/Menos Um Aspecto|Menos Um Aspecto]] - #110106 ^comentario-110106
+# Referências de outros posts
+
+## 26/10/2011 12:04 - [[Posts/15522 - Menos Um Aspecto|Menos Um Aspecto]] - #110106 ^comentario-110106
 
 \[…\] Se antes eu concordava com o goleiro Marcos, uma simples análise me fez mudar de opinião. Vivendo e aprendendo. Analisei os campeonatos de 2008 a 2010 e cheguei a conclusão que a geografia não tem influência no desempenho dos times, ao contrário do que eu pensava, e como boa parte do pessoal dizia. \[…\]

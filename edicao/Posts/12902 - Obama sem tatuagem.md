@@ -205,10 +205,6 @@ Lamento por quem ainda quer se apegar a essa *freguesia*.
 
 _Texto não identificado na captura._
 
-## 21/03/2011 6:51 - [[Pessoas/Vasco 2X0 Botafogo – Obama é bacalhau|Vasco 2X0 Botafogo – Obama é bacalhau]] - #89762 ^comentario-89762
-
-\[...\] precisava de toda a papagaiada em torno da entrega dos abadás ao presidente estadunidense – onde mais alguém conseguiria driblar esquema de segurança, senão na Gávea? O vascaíno Obama \[...\]
-
 ## 21/03/2011 8:01 - [[Pessoas/André Bona|André Bona]] - #89765 ^comentario-89765
 
 “Vou torcer pro Vasco ser campeão…
@@ -240,3 +236,9 @@ Mas entendo que seja mais uma forma de vc minorar um destaque vascaino. E a prop
 “Presented to CLUBE DE REGATAS DO FLAMENGO, In apreciation for your loyal and dedicated support to Marine Helicopter squadron On. March 19th—21st, 2011″  
   **Barack Obama**  
   [http://www.flamengo.com.br/site/noticia/detalhe/12356](<https://web.archive.org/web/*/http://www.flamengo.com.br/site/noticia/detalhe/12356> "Captura ainda não verificada. Endereço original: http://www.flamengo.com.br/site/noticia/detalhe/12356")
+
+# Referências de outros posts
+
+## 21/03/2011 6:51 - [[Posts/12918 - Vasco 2X0 Botafogo – Obama é bacalhau|Vasco 2X0 Botafogo – Obama é bacalhau]] - #89762 ^comentario-89762
+
+\[...\] precisava de toda a papagaiada em torno da entrega dos abadás ao presidente estadunidense – onde mais alguém conseguiria driblar esquema de segurança, senão na Gávea? O vascaíno Obama \[...\]

@@ -9,8 +9,6 @@ temas: ["[[Temas/Tema d3f6b4d86997|Botafogo]]","[[Temas/Tema 0c729c440a19|Copa S
 
 # Trailer – Tropa de Sofredores – Breve em um camelô do Grupo General Severiano Ribeiro
 
-
-
 # Comentários
 
 ## 1/10/2007 16:52 - [[Pessoas/Serginho Valente|Serginho Valente]] - #5239 ^comentario-5239
@@ -104,14 +102,16 @@ ai galera muito show este video
 
 ai galera que esculaxoooooooooooooo né botafogo é uma merda mesmo , muito show
 
-## 30/12/2007 9:05 - [[Pessoas/2007 - Quem subiu, quem desceu ꞉ Blá blá Gol|2007 - Quem subiu, quem desceu : Blá blá Gol]] - #8545 ^comentario-8545
+# Referências de outros posts
+
+## 30/12/2007 9:05 - [[Posts/1128 - 2007 – Quem subiu, quem desceu|2007 – Quem subiu, quem desceu]] - #8545 ^comentario-8545
 
 \[...\] 2007. Resta ao Botafogo manter o foco no que de bom aconteceu no ano que passou e não adotar o Tropa de Sofredores como o resumo de seu \[...\]
 
-## 8/05/2008 2:21 - [[Pessoas/Que frieza, América (Maracanazzo) at Blá blá Gol|Que frieza, América (Maracanazzo) at Blá blá Gol]] - #17730 ^comentario-17730
+## 8/05/2008 2:21 - [[Posts/1462 - Que frieza, América (Maracanazo)|Que frieza, América (Maracanazo)]] - #17730 ^comentario-17730
 
 \[...\] Definitivamente, o Maracanazzo Rubro-Negro superou estes 5×2, a derrota do mesmo Flamengo para o Santo André no Maracanã na final da Copa do Brasil, e inclusive o Tropa de Sofredores. \[...\]
 
-## 1/10/2009 9:39 - [[Pessoas/Existe meia vergonha, Arnaldo？|Existe meia vergonha, Arnaldo?]] - #39310 ^comentario-39310
+## 1/10/2009 9:39 - [[Posts/5315 - Existe meia vergonha, Arnaldo|Existe meia vergonha, Arnaldo?]] - #39310 ^comentario-39310
 
 \[...\] equipe do Botafogo que entrou em campo. Quando fizeram o primeiro gol, imediatamente pensei: “River Plate outra vez…“. Veio o segundo gol e a certeza crescia (Jefferson de olhos fechados murmurando “Não, \[...\]

@@ -1655,10 +1655,6 @@ América é melhor que muito time da Libertadores que deu tunda no Flamengo.
 
 Espero que a diretoria atenda seus apelos e traga Joel Santana a Toca da Raposa.
 
-## 19/04/2012 14:16 - [[Pessoas/Enfim começa a Copa do Brasil|Enfim começa a Copa do Brasil]] - #124726 ^comentario-124726
-
-\[...\] do Brasil April 19th, 2012 por Matheus \| Categorias: Futebol. Tweet This PostAproveitando o gancho do meu bom amigo Gaburah, entrei na onda da Copa do Brasil, ainda que movido por motivações \[...\]
-
 ## 2/05/2012 10:47 - [[Pessoas/Gaburah|Gaburah]] - #126008 ^comentario-126008
 
 02/05/2012 – **Vitória 1X1 Botafogo** – Oitavas de Final
@@ -1857,3 +1853,9 @@ psssssssssssssssssssssssssssssssssss
 ## 3/05/2012 22:31 - [[Pessoas/Decoração para Casamento|Decoração para Casamento]] - #126263 ^comentario-126263
 
 O Vasco começa com lances polêmicos hsahusauh, o esquema da bandeirinha aquele foi tenso.
+
+# Referências de outros posts
+
+## 19/04/2012 14:16 - [[Posts/16769 - Enfim começa a Copa do Brasil|Enfim começa a Copa do Brasil]] - #124726 ^comentario-124726
+
+\[...\] do Brasil April 19th, 2012 por Matheus \| Categorias: Futebol. Tweet This PostAproveitando o gancho do meu bom amigo Gaburah, entrei na onda da Copa do Brasil, ainda que movido por motivações \[...\]

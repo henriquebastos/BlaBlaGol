@@ -256,10 +256,12 @@ E vc tb errou. Os posts da [Sharapova](<http://www.blablagol.com.br/tag/sharapov
 
 Mas geram esporrada… (que grosseria, mas foi inevitável)
 
-## Pingback on Feb 11th, 2008 at 9:04 - [[Pessoas/Campanha Gatti no Fogão at Blá blá Gol|Campanha Gatti no Fogão at Blá blá Gol]] - #10012 ^comentario-10012
+# Referências de outros posts
+
+## Pingback on Feb 11th, 2008 at 9:04 - [[Posts/1208 - Campanha Gatti no Fogão|Campanha Gatti no Fogão]] - #10012 ^comentario-10012
 
 _Texto não identificado na captura._
 
-## Pingback on Feb 18th, 2008 at 23:53 - [[Pessoas/Perdidinho da Silva (Gênio) at Blá blá Gol|Perdidinho da Silva (Gênio) at Blá blá Gol]] - #10390 ^comentario-10390
+## Pingback on Feb 18th, 2008 at 23:53 - [[Posts/1226 - Perdidinho da Silva (Gênio)|Perdidinho da Silva (Gênio)]] - #10390 ^comentario-10390
 
 _Texto não identificado na captura._

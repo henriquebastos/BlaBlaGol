@@ -217,10 +217,6 @@ Botafogo 8
 
 CAMPEÃO DE TUDO!
 
-## 8/05/2013 16:27 - [[Pessoas/RJ13꞉ Momentos de definição do Ranking BBG Eugenia|RJ13: Momentos de definição do Ranking BBG Eugenia]] - #159092 ^comentario-159092
-
-\[…\] gostaria de começar a completar minha tabela do Ranking Eugenia, mas ainda segue indefinida a ordem dos Eugenistas no Campeonato \[…\]
-
 ## 18/07/2013 13:48 - [[Pessoas/Victor|Victor]] - #164013 ^comentario-164013
 
 Estaduais e Recopa terminados
@@ -623,3 +619,9 @@ Venci a preguiça e atualizei o ranking referente ao final de 2015.
 
 [![[Anexos/883cc772b4ca741dd1fe.jpg]]
 [Imagem (original)](<http://www.blablagol.com.br/wp-content/uploads/2012/12/Ranking-BBG-Eugenia-2015.jpg>)](<http://www.blablagol.com.br/wp-content/uploads/2012/12/Ranking-BBG-Eugenia-2015.jpg>)
+
+# Referências de outros posts
+
+## 8/05/2013 16:27 - [[Posts/19654 - RJ13 Momentos de definição do Ranking BBG Eugenia|RJ13: Momentos de definição do Ranking BBG Eugenia]] - #159092 ^comentario-159092
+
+\[…\] gostaria de começar a completar minha tabela do Ranking Eugenia, mas ainda segue indefinida a ordem dos Eugenistas no Campeonato \[…\]

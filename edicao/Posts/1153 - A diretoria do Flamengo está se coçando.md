@@ -189,6 +189,8 @@ abração…
 
 Eu acho o Souza o melhor centro-avante do Flamengo. Dos que você citou, apenas o Tardelly é atacante de ofício e é muito irregular.
 
-## 12/03/2010 12:47 - [[Pessoas/Fair-Play no dos outros é refresco|Fair-Play no dos outros é refresco]] - #52506 ^comentario-52506
+# Referências de outros posts
+
+## 12/03/2010 12:47 - [[Posts/7751 - Fair-Play no dos outros é refresco|Fair-Play no dos outros é refresco]] - #52506 ^comentario-52506
 
 \[…\] de dirigentes do Fla nesse sentido), ou Marcos Braz apenas descartou o chororô típico da gestão anterior e tocou para a frente com uma frase simples representando que não há que se dar murro em ponta de \[…\]

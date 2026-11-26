@@ -182,6 +182,8 @@ E digo mais:
 
 Pé-frio dos infernos!
 
-## 9/11/2010 9:57 - [[Pessoas/Washington carregado no colo|Washington carregado no colo]] - #74298 ^comentario-74298
+# Referências de outros posts
+
+## 9/11/2010 9:57 - [[Posts/11507 - Washington carregado no colo|Washington carregado no colo]] - #74298 ^comentario-74298
 
 \[...\] que sente Washington, algo que transparece em atitudes marcantes nas partidas como no jogo em que Conca teve de tirar a bola de suas mãos para cobrar o penalty ou em seu desalento ao ver o mesmo argentino refernciá-lo em seu segundo gol contra o Grêmio. \[...\]

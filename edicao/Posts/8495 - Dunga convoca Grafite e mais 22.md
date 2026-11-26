@@ -601,10 +601,6 @@ Grafite?
  Puff…  
  Cade o Neymar? ¬¬
 
-## 12/05/2010 9:32 - [[Pessoas/Highlights da convocação|Highlights da convocação]] - #56856 ^comentario-56856
-
-\[…\] Dunga convocou 23 jogadores para a Copa (não a mesma que estará Ronaldo). Todo mundo emitiu parecer. Os titulares foram pouco questionados e as implicâncias ficaram por conta de reservas, o que denota implicitamente que o treinador acertou a mão, se não hoje, em três anos e meio convencendo público e crítica que a nata do futebol brasileiro veste a amarelinha. \[…\]
-
 ## 12/05/2010 16:58 - [[Pessoas/Tacio|Tacio]] - #56923 ^comentario-56923
 
 O grafite foi artilheiro no campeonato alemão do ano passado e  
@@ -618,3 +614,9 @@ O grafite foi artilheiro no campeonato alemão do ano passado e
 ## 29/05/2010 22:31 - [[Pessoas/henrique|henrique]] - #58008 ^comentario-58008
 
 essa seleçao esta um amerda geral tinha q levar o ronaldinho,e o ganso esse dunga e muito burro!!!ei dunga vai toma no seu cu!!!
+
+# Referências de outros posts
+
+## 12/05/2010 9:32 - [[Posts/8513 - Highlights da convocação|Highlights da convocação]] - #56856 ^comentario-56856
+
+\[…\] Dunga convocou 23 jogadores para a Copa (não a mesma que estará Ronaldo). Todo mundo emitiu parecer. Os titulares foram pouco questionados e as implicâncias ficaram por conta de reservas, o que denota implicitamente que o treinador acertou a mão, se não hoje, em três anos e meio convencendo público e crítica que a nata do futebol brasileiro veste a amarelinha. \[…\]

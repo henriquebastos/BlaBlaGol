@@ -80,6 +80,8 @@ Quanto à volúpia ofensiva que não põe medalhas no peito de ninguém, te dou 
 
 Victor, pode mandar pro meu e-mail minha senha e login no Blablagol? Quero voltar a postar asneiras. Abraços.
 
-## 10/09/2010 10:42 - [[Pessoas/Fred x Michel Simoni|Fred x Michel Simoni]] - #69570 ^comentario-69570
+# Referências de outros posts
+
+## 10/09/2010 10:42 - [[Posts/10741 - Fred x Michel Simoni|Fred x Michel Simoni]] - #69570 ^comentario-69570
 
 \[...\] volta ou não volta?“, até porque ele deve estar ansioso para substituir Washington e ter a tão desejada posse de bola no ataque, impossível com o atual camisa 9 ainda que este esteja cumprindo com esmero seu papel na \[...\]

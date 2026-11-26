@@ -45,10 +45,6 @@ Eu sabia, a Chiva avisou. Quem parar o Boca é campeão.
 
 \[...\] Bla Bla gol: Uma pena, Cruzeiro \[...\]
 
-## 8/05/2008 1:20 - [[Pessoas/Que frieza, América (Maracanazzo) at Blá blá Gol|Que frieza, América (Maracanazzo) at Blá blá Gol]] - #17720 ^comentario-17720
-
-\[...\] Uma pena, Cruzeiro \[...\]
-
 ## 8/05/2008 1:43 - [[Pessoas/Anna Flávia|Anna Flávia]] - #17724 ^comentario-17724
 
 Pena mesmo. Jogar contra o Boca não é moleza.  
@@ -61,3 +57,9 @@ boca es y sera el mejor equipo del mundo
 cruzeiro es un grande al igual que sao paulo  
  peñarol nacional y olimpia  
  pero el peor equipo son las gallinas de river
+
+# Referências de outros posts
+
+## 8/05/2008 1:20 - [[Posts/1462 - Que frieza, América (Maracanazo)|Que frieza, América (Maracanazo)]] - #17720 ^comentario-17720
+
+\[...\] Uma pena, Cruzeiro \[...\]

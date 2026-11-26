@@ -1220,10 +1220,12 @@ Acabo de ver no SporTV uma reportagem sobre a Argentina e sobre diversos torcedo
 
 Tem gente que deve se ofender com isso.
 
-## 3/07/2010 10:47 - [[Pessoas/Torço para quem eu quiser|Torço para quem eu quiser]] - #61841 ^comentario-61841
-
-\[...\] mulambada PROPOSITALMENTE faz confusão entre PATRIOTADA e PATRIOTISMO. O PATRIOTISMO exulta a DIGNIDADE com que a seleção brasileira representou o PAÍS nesta Copa, \[...\]
-
 ## 6/07/2010 7:39 - [[Pessoas/Copa do Mundo 2010 – Semifinais 1|Copa do Mundo 2010 – Semifinais 1]] - #62256 ^comentario-62256
 
 \[...\] (duas vezes Olímpico, duas vezes na Copa) tem um baita desafio pela frente. Exausto após a Batalha de Soccer City, sem Suarez, sem Lugano, sem Fucile e sem Lodeiro, o Uruguai volta ao 4-4-2, com Forlan e Cavani \[...\]
+
+# Referências de outros posts
+
+## 3/07/2010 10:47 - [[Posts/9618 - Torço para quem eu quiser|Torço para quem eu quiser]] - #61841 ^comentario-61841
+
+\[...\] mulambada PROPOSITALMENTE faz confusão entre PATRIOTADA e PATRIOTISMO. O PATRIOTISMO exulta a DIGNIDADE com que a seleção brasileira representou o PAÍS nesta Copa, \[...\]

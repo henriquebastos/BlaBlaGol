@@ -35,10 +35,6 @@ Tudo muito bem, tudo muito bom, mas esse William bater o penalty daquele jeito n
 
 O Flamengo tem o pior ataque do campeonato e os artilheiros só tem 10 gols em 23 rodadas, porque Obina é reserva.Deus perdôa, Obina não.
 
-## 14/12/2009 15:11 - [[Pessoas/Santos 2009꞉ O medo da figuração|Santos 2009: O medo da figuração]] - #45434 ^comentario-45434
-
-\[…\] rival. Luxemburgo fez o de sempre, mandou e desmandou, fez contratações de gosto duvidoso como a do incasável Jean, patinou, falou mal do ex-clube e praticamente decretou a derrota de Marcelo Teixeira, o Eterno, \[…\]
-
 ## 13/09/2010 10:45 - [[Pessoas/milena|milena]] - #69901 ^comentario-69901
 
 vaii o bender toma no seu cúuúú´ to nem aii pra vcs vcs são tudo bandeirinha si vc toce ou pro corinthais ou pro santos palmeira bata fogo não é porisso que vc tem que singar o time do outro nois samos amaior torcida do mundo derrr
@@ -54,3 +50,9 @@ nada dinada
 ## 5/09/2011 22:18 - [[Pessoas/ynara|ynara]] - #105732 ^comentario-105732
 
 voceis parabeas
+
+# Referências de outros posts
+
+## 14/12/2009 15:11 - [[Posts/6358 - Santos 2009 O medo da figuração|Santos 2009: O medo da figuração]] - #45434 ^comentario-45434
+
+\[…\] rival. Luxemburgo fez o de sempre, mandou e desmandou, fez contratações de gosto duvidoso como a do incasável Jean, patinou, falou mal do ex-clube e praticamente decretou a derrota de Marcelo Teixeira, o Eterno, \[…\]

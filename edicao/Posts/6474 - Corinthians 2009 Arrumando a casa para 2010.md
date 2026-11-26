@@ -173,10 +173,6 @@ André, o pessoal já rebateu bastante seu delírio sobre os tamanhos das torcid
  Sobre o elenco e o ROberto Carlos já falei minha opinião no post, mas tem uma galera corintiana dizendo que vai ser um time de velho e isso é cagada. Ora, primeiro tem que lembrar que os contratados veteranos não vêm necessariamente para o time titular, mas pra dar opções de elenco.  
  Agora falando de coisa séria, a Siara é impressionante mesmo!
 
-## 24/12/2009 7:54 - [[Pessoas/2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46206 ^comentario-46206
-
-\[...\] Corinthians: Fechou de forma magistral com a Copa do Brasil o ciclo iniciado em 2007. Dormiu no Brasileirão e inicia o ciclo da Libertadores. \[...\]
-
 ## 30/12/2009 11:04 - [[Pessoas/Saulo|saulo]] - #46578 ^comentario-46578
 
 [http://br.noticias.yahoo.com/s/30122009/82/n-sports-tecnico-cerro-ironiza-velhinhos-roberto.html](<https://web.archive.org/web/*/http://br.noticias.yahoo.com/s/30122009/82/n-sports-tecnico-cerro-ironiza-velhinhos-roberto.html> "Captura ainda não verificada. Endereço original: http://br.noticias.yahoo.com/s/30122009/82/n-sports-tecnico-cerro-ironiza-velhinhos-roberto.html")
@@ -196,3 +192,9 @@ Já a torcida do Flamengo e do Vasco são muito, mas muito maiores que a do Cori
 Façam a comparação, e vocês entenderão porque o Corinthians tem o maior patrocinio e ibope TV do Brasil.
 
 Contra fatos não há argumento!
+
+# Referências de outros posts
+
+## 24/12/2009 7:54 - [[Posts/6511 - 2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46206 ^comentario-46206
+
+\[...\] Corinthians: Fechou de forma magistral com a Copa do Brasil o ciclo iniciado em 2007. Dormiu no Brasileirão e inicia o ciclo da Libertadores. \[...\]

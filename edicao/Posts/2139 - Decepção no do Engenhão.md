@@ -764,6 +764,8 @@ Triste. Lamentável. Deprimente.
 
 Digno de Montenegro.
 
-## 1/06/2010 20:37 - [[Pessoas/A Copa não começou|A Copa não começou]] - #58211 ^comentario-58211
+# Referências de outros posts
+
+## 1/06/2010 20:37 - [[Posts/8887 - A Copa não começou|A Copa não começou]] - #58211 ^comentario-58211
 
 \[...\] com aquele que seria o substituto que traria talento para o time na eventual falta do camisa 10. Eis como Bender resumiu aquela nada talentosa partida: Ah sim… Futebol ontem? Diego e Juan correram, tentaram, mas o Brasil de Dunga só jogou bem nos \[...\]

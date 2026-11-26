@@ -271,6 +271,8 @@ De nada.
 
 Viu só?
 
-## 6/02/2011 22:19 - [[Pessoas/Fluminense 2X3 Botafogo – Cajá maduro|Fluminense 2X3 Botafogo – Cajá maduro]] - #84292 ^comentario-84292
+# Referências de outros posts
+
+## 6/02/2011 22:19 - [[Posts/12551 - Fluminense 2X3 Botafogo – Cajá maduro|Fluminense 2X3 Botafogo – Cajá maduro]] - #84292 ^comentario-84292
 
 \[...\] Botafogo diferente daquele que fez a torcida sofrer contra o Bangu. Na teoria, o mesmo 3-5-2. Na prática, com a saída de Somália e com um Alessandro com liberdade \[...\]

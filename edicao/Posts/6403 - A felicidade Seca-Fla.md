@@ -90,10 +90,12 @@ Temos que focar na Liberta, sim, mas não fazendo como o Inter, que vai mandar o
 
 \[...\] \*\*\*\* Creio que o Flamengo anda perdendo um tempo que será difícil de recuperar depois… \[...\]
 
-## 23/04/2010 16:51 - [[Pessoas/Andrade demitido evidencia estragos no Flamengo|Andrade demitido evidencia estragos no Flamengo]] - #55671 ^comentario-55671
+# Referências de outros posts
+
+## 23/04/2010 16:51 - [[Posts/8288 - Andrade demitido evidencia estragos no Flamengo|Andrade demitido evidencia estragos no Flamengo]] - #55671 ^comentario-55671
 
 \[...\] rodou, e rodou tarde. Pelos meros resultados em campo é complicado mensurar os efeitos destes 4 meses de desperdício \[...\]
 
-## 17/07/2010 12:53 - [[Pessoas/Processem Patricia Amorim|Processem Patricia Amorim]] - #64087 ^comentario-64087
+## 17/07/2010 12:53 - [[Posts/9895 - Processem Patricia Amorim|Processem Patricia Amorim]] - #64087 ^comentario-64087
 
 \[...\] Não renovação do contrato de Andrade. Nem desgaste político haveria, pois a oportunidade foi dada ainda em Dezembro de 2009. \[...\]

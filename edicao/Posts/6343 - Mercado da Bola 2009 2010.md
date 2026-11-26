@@ -825,10 +825,6 @@ MEU DEUS!!! Não desejo isso nem para o Vasco!!!!! É verdade, Gaburah. Vou reve
 
 **Catarinão 2010**: [Brusque contrata veterano Viola](<https://web.archive.org/web/*/http://globoesporte.globo.com/Esportes/Noticias/Futebol/Campeonato_Catarinense/0,,MUL1435030-16387,00-BRUSQUE+CONTRATA+VETERANO+VIOLA.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/Esportes/Noticias/Futebol/Campeonato_Catarinense/0,,MUL1435030-16387,00-BRUSQUE+CONTRATA+VETERANO+VIOLA.html")
 
-## 6/01/2010 2:05 - [[Pessoas/“Apenas” o Pet é pouco|“Apenas” o Pet é pouco]] - #46981 ^comentario-46981
-
-\[…\] é novidade que sou pouco afeito ao mercado da bola. Não consigo me ater ao papo de “fulaninho que ir para o Arimatéia” ou “seiláquemzinho é \[…\]
-
 ## 6/01/2010 7:03 - [[Pessoas/Gaburah|Gaburah]] - #46983 ^comentario-46983
 
 [E o dia já começa com má notícia](<https://web.archive.org/web/*/http://globoesporte.globo.com/Esportes/Noticias/Futebol/0,,MUL1436194-9825,00.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/Esportes/Noticias/Futebol/0,,MUL1436194-9825,00.html").
@@ -978,6 +974,12 @@ Agora, de graça? Hahaha… conta outra.
 
 Pelo fato de faltar poucos mêses da copa, ter a exposição garantida na Libertadores e jogar ao lado do Adriano, Vágner Love ficou no lucro.
 
-## 5/02/2010 1:54 - [[Pessoas/Luiz Alberto no Boca Juniors|Luiz Alberto no Boca Juniors]] - #49062 ^comentario-49062
+# Referências de outros posts
+
+## 6/01/2010 2:05 - [[Posts/6649 - “Apenas” o Pet é pouco|“Apenas” o Pet é pouco]] - #46981 ^comentario-46981
+
+\[…\] é novidade que sou pouco afeito ao mercado da bola. Não consigo me ater ao papo de “fulaninho que ir para o Arimatéia” ou “seiláquemzinho é \[…\]
+
+## 5/02/2010 1:54 - [[Posts/7145 - Luiz Alberto no Boca Juniors|Luiz Alberto no Boca Juniors]] - #49062 ^comentario-49062
 
 \[…\] notícias foram saindo homeopaticamente, conforme íamos acompanhando, e sendo bem digeridas pela crítica tricolor, que exultante com o arcadismo, aplaudia a queda de \[…\]

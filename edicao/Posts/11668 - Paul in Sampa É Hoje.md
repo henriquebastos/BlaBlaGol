@@ -39,10 +39,6 @@ Sem desmerecer a carreira brilhante do velho Jobs…( tentativa de gerar polêmi
 
 E não esqueçam que o Ringo vem em 2011!
 
-## 21/11/2010 18:40 - [[Pessoas/Botafogo 1×2 Internacional – a Sulamericana 2011 é nossa!|Botafogo 1×2 Internacional – a Sulamericana 2011 é nossa!]] - #75399 ^comentario-75399
-
-\[...\] Em dia de showzaço do Beatle Paul McCartney no Brasil, o sonho da Libertadores 2011 acabou para o Botafogo (entenderam o trocadilho?). \[...\]
-
 ## 22/11/2010 7:10 - [[Pessoas/Urubu Cretino|Urubu Cretino]] - #75421 ^comentario-75421
 
 Já vi na vez que veio ao Rio, com direito a Linda. Depois “posta” as fotos!
@@ -163,3 +159,9 @@ Primes,
 ## 19/12/2010 18:29 - Nome não exibido - #78427
 
 [http://gaburah.com/2010/11/30/paul-in-sampa-o-maior-show-de-coverdose-do-mundo/](<https://web.archive.org/web/*/http://gaburah.com/2010/11/30/paul-in-sampa-o-maior-show-de-coverdose-do-mundo/> "Captura ainda não verificada. Endereço original: http://gaburah.com/2010/11/30/paul-in-sampa-o-maior-show-de-coverdose-do-mundo/")
+
+# Referências de outros posts
+
+## 21/11/2010 18:40 - [[Posts/11673 - Botafogo 1×2 Internacional – a Sulamericana 2011 é nossa!|Botafogo 1×2 Internacional – a Sulamericana 2011 é nossa!]] - #75399 ^comentario-75399
+
+\[...\] Em dia de showzaço do Beatle Paul McCartney no Brasil, o sonho da Libertadores 2011 acabou para o Botafogo (entenderam o trocadilho?). \[...\]

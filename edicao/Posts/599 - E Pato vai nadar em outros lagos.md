@@ -126,6 +126,8 @@ Vitor,
 
 hauhauhauahuahua com certeza!!! STJD TE DÁ ASAS!!!
 
-## [[Pessoas/Já está jogando ꞉ Blá blá Gol|Já está jogando : Blá blá Gol]] - #9062 ^comentario-9062
+# Referências de outros posts
+
+## [[Posts/1140 - Já está jogando|Já está jogando]] - #9062 ^comentario-9062
 
 \[...\] a categoria para dominar a bola na hora do gol, pelo visto este comentário será recorrente. Kleber Leite começa 2008 \[...\]

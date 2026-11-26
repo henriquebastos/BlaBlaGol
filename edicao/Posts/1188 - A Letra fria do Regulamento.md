@@ -109,10 +109,12 @@ Vou copiar o Art. 20 aqui então:
 
 Eu sei que estamos na semana de carnaval, mas hoje ainda é quinta. Já tá todo mundo bêbado?
 
-## Pingback on Jan 31st, 2008 at 15:13 - [[Pessoas/A Letra quente de Marcio Braga at Blá blá Gol|A Letra quente de Marcio Braga at Blá blá Gol]] - #9815 ^comentario-9815
+# Referências de outros posts
+
+## Pingback on Jan 31st, 2008 at 15:13 - [[Posts/1189 - A Letra quente de Marcio Braga|A Letra quente de Marcio Braga]] - #9815 ^comentario-9815
 
 _Texto não identificado na captura._
 
-## Pingback on Feb 8th, 2008 at 10:58 - [[Pessoas/Fla no Engenhão at Blá blá Gol|Fla no Engenhão at Blá blá Gol]] - #9954 ^comentario-9954
+## Pingback on Feb 8th, 2008 at 10:58 - [[Posts/1203 - Fla no Engenhão|Fla no Engenhão]] - #9954 ^comentario-9954
 
 _Texto não identificado na captura._

@@ -25,10 +25,6 @@ Desfrutem.
 
 # Comentários
 
-## 25/11/2009 10:45 - [[Pessoas/18 anos sem Freddie Mercury|18 anos sem Freddie Mercury]] - #43539 ^comentario-43539
-
-\[...\] Craque como Tostão. \[...\]
-
 ## 25/11/2009 12:32 - [[Pessoas/Matheus|Matheus]] - #43553 ^comentario-43553
 
 Assim como Zico é ídolo flamenguista.
@@ -121,3 +117,9 @@ Coluna muito foda. Tostao e foda mesmo.
 ## 27/11/2009 16:16 - Nome não exibido - #43763
 
 Hehe… até Tostão tem laivos na carreira.
+
+# Referências de outros posts
+
+## 25/11/2009 10:45 - [[Posts/6106 - 18 anos sem Freddie Mercury|18 anos sem Freddie Mercury]] - #43539 ^comentario-43539
+
+\[...\] Craque como Tostão. \[...\]

@@ -170,14 +170,6 @@ Ri pra caramba.
 
 [http://www.lancenet.com.br/sao-paulo/noticias/10-07-15/790923.stm?futebol-forlan-sobre-o-sao-paulo-seria-um-sonho](<https://web.archive.org/web/*/http://www.lancenet.com.br/sao-paulo/noticias/10-07-15/790923.stm?futebol-forlan-sobre-o-sao-paulo-seria-um-sonho> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/sao-paulo/noticias/10-07-15/790923.stm?futebol-forlan-sobre-o-sao-paulo-seria-um-sonho")
 
-## 16/07/2010 23:00 - [[Pessoas/Lúcio Flávio não é Diego Forlán|Lúcio Flávio não é Diego Forlán]] - #64068 ^comentario-64068
-
-\[...\] LF tem um estilo mais cadenciado, não é e nunca será um jogador que corra o campo todo, arme, conclua e carregue o time nas costas – por mais que até ele mesmo tente se convencer do contrário - à exemplo do camisa 10 da Celeste. \[...\]
-
-## 19/07/2010 0:44 - [[Pessoas/A Copa vista pelo retrovisor|A Copa vista pelo retrovisor]] - #64213 ^comentario-64213
-
-\[...\] de ser um grande jogador, ninguém apostaria um tostão que ele jogaria o tanto que jogou – do bravo guerreiro Forlán. Outro sul-americano a reescrever sua história foi o Paraguai. Se não foi dessa vez que a Copa do \[...\]
-
 ## 17/09/2010 13:10 - [[Pessoas/Gaburah|Gaburah]] - #70506 ^comentario-70506
 
 Video-cassetada do **GRANDE** Diego Forlan, quem diria (em 2’50″):
@@ -192,3 +184,13 @@ Loco Abreu e Forlán estão perto de recorde na Celeste \> [http://siga.st/d21o]
 
 Gaburah chora. Mas fica feliz, em parte:  
   [**Diego Forlán pode realizar sonho do pai e vestir a camisa do São Paulo**](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/times/sao-paulo/noticia/2011/04/diego-forlan-pode-realizar-sonho-do-pai-e-vestir-camisa-do-sao-paulo.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/times/sao-paulo/noticia/2011/04/diego-forlan-pode-realizar-sonho-do-pai-e-vestir-camisa-do-sao-paulo.html")
+
+# Referências de outros posts
+
+## 16/07/2010 23:00 - [[Posts/9884 - Lúcio Flávio não é Diego Forlán|Lúcio Flávio não é Diego Forlán]] - #64068 ^comentario-64068
+
+\[...\] LF tem um estilo mais cadenciado, não é e nunca será um jogador que corra o campo todo, arme, conclua e carregue o time nas costas – por mais que até ele mesmo tente se convencer do contrário - à exemplo do camisa 10 da Celeste. \[...\]
+
+## 19/07/2010 0:44 - [[Posts/9930 - A Copa vista pelo retrovisor|A Copa vista pelo retrovisor]] - #64213 ^comentario-64213
+
+\[...\] de ser um grande jogador, ninguém apostaria um tostão que ele jogaria o tanto que jogou – do bravo guerreiro Forlán. Outro sul-americano a reescrever sua história foi o Paraguai. Se não foi dessa vez que a Copa do \[...\]

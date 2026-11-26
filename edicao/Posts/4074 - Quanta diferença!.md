@@ -177,6 +177,8 @@ Hahahahahahaha…excelente!
 
 Nada me surpreende. Será mesmo que o Adriano terá alguma punição com essa diretoria???? Duvido muito.
 
-## 16/06/2009 11:44 - [[Pessoas/Virou circo？|Virou circo?]] - #34501 ^comentario-34501
+# Referências de outros posts
+
+## 16/06/2009 11:44 - [[Posts/4170 - Virou circo|Virou circo?]] - #34501 ^comentario-34501
 
 \[...\] – Se jogar pelo menos com vontade, vai. Mas gordo, fora de forma, não aparecendo aos treinos, tendo regalias… só vai \[...\]

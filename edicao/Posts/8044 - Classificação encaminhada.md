@@ -96,6 +96,8 @@ Não acredito que o Cruzeiro tenha problemas com Desportivo Itália.Se trata de 
 
 O Cruzeiro jogará contra o Colo Colo. Quem enfrenta o Dep Itália é o Velez
 
-## 16/04/2010 11:48 - [[Pessoas/“Daquele Jeito”|“Daquele Jeito”]] - #55131 ^comentario-55131
+# Referências de outros posts
+
+## 16/04/2010 11:48 - [[Posts/8212 - “Daquele Jeito”|“Daquele Jeito”]] - #55131 ^comentario-55131
 
 \[...\] No que seria “o grupo mais difícil”, os mineiros só se complicaram com o Dep. Italia na Venezuela. Um jogo que poderia ser facilmente vencido, acabou atrapalhando a busca do time pela 1ª colocação do Grupo 7 que ficou com o Vélez. Os jogos fora de casa contra os argentinos do Velez e os caciques chilenos eram pedreiras e, em casa, o Cruzeiro fez sua parte de forma bastante eficaz. \[...\]

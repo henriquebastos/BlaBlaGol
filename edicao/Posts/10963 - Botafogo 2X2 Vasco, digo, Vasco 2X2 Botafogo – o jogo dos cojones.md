@@ -758,6 +758,8 @@ O Vasco não estava desfalcado. O Botafogo está desfigurado!
 
 ## 23/09/2010 19:53 - Nome não exibido - #71228
 
-## 24/09/2010 0:18 - [[Pessoas/Mea Culpa|Mea Culpa]] - #71245 ^comentario-71245
+# Referências de outros posts
+
+## 24/09/2010 0:18 - [[Posts/10999 - Mea Culpa|Mea Culpa]] - #71245 ^comentario-71245
 
 \[...\] Aliás, sobre Botafogo x Vasco \[2\], queria deixar claro por aqui, complementando o post já publicado: \[...\]

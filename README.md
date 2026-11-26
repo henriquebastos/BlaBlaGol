@@ -6,7 +6,7 @@ O blog e o cofre do Obsidian vivem neste repositório. O Astro lê os mesmos pos
 
 ## Abrir no Obsidian
 
-Clone o repositório. No Obsidian, escolha **Abrir pasta como cofre** e abra `edicao/`. As pastas **Posts**, **Pessoas**, **Cronologia** e **Temas** levam ao conteúdo. **Anexos** guarda os arquivos exibidos nos posts e comentários.
+Clone o repositório. No Obsidian, escolha **Abrir pasta como cofre** e abra `edicao/`. As pastas **Posts**, **Pessoas**, **Cronologia** e **Temas** levam ao conteúdo. **Anexos** guarda os arquivos exibidos nos posts e comentários. Pingbacks confirmados ficam em **Referências de outros posts**, com link para o artigo que fez a citação.
 
 ## Abrir no navegador
 

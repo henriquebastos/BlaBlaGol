@@ -89,6 +89,8 @@ torcida do flamengo é retardada. mto mais botafoguenses,cantando o jogo inteiro
 
 agora é ter que aguentar a mulambadinha comemorando como título mais uma cagada sobre o glorioso. achei que 2010 seria diferente.
 
-## 16/07/2010 2:18 - [[Pessoas/Acabou-se o que era doce. Brasileirão está de volta|Acabou-se o que era doce. Brasileirão está de volta]] - #63913 ^comentario-63913
+# Referências de outros posts
+
+## 16/07/2010 2:18 - [[Posts/9819 - Acabou-se o que era doce. Brasileirão está de volta|Acabou-se o que era doce. Brasileirão está de volta]] - #63913 ^comentario-63913
 
 \[…\] Flamengo 1×0 Botafogo – Pet faz o que Jobson não sabe fazer \[…\]

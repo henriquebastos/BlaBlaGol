@@ -34,6 +34,8 @@ Na verdade, [já devem estar pedindo…](<https://web.archive.org/web/*/http://g
 
 golaço 100 palavras seleção é pouco para ele
 
-## 3/03/2010 0:09 - [[Pessoas/Robinho fracassou na Europa. E daí？|Robinho fracassou na Europa. E daí?]] - #51550 ^comentario-51550
+# Referências de outros posts
+
+## 3/03/2010 0:09 - [[Posts/7048 - Robinho fracassou na Europa. E daí|Robinho fracassou na Europa. E daí?]] - #51550 ^comentario-51550
 
 \[...\] bom jogador tem todo o direito de preferir outro atacante em seu lugar sem ser chamado de louco. Nilmar, Pato, Neymar e cia estão aí para \[...\]

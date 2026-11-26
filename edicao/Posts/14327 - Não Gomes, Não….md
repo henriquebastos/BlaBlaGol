@@ -580,10 +580,6 @@ Só tem uma coisa: esse esporte que o Corinthians joga nao é futebol nao. é at
 
 Tenho a impressão que qualquer time vai parecer muito rápido contra o Vasco.
 
-## 6/07/2011 22:08 - [[Pessoas/Ao ataque e avante|Ao ataque e avante]] - #100255 ^comentario-100255
-
-\[...\] princípio quero ressaltar que as idéias que desenvolvi aqui são consequência da intimação do Victor que decorreu de uma resposta minha a um comentário do André Bona. (conferir link para maiores \[...\]
-
 ## 6/07/2011 23:50 - [[Pessoas/Serginho Valente|Serginho Valente]] - #100272 ^comentario-100272
 
 Procura-se urgentemente: Goleador e Treinador. Tratar em São Januário.
@@ -670,3 +666,9 @@ Botafogo x Corinthians jogarão em S. Januário…
 Mas o Botafogo nao joga contra em S. Januario quando é contra o Vasco…
 
 Que sentido isso faz?
+
+# Referências de outros posts
+
+## 6/07/2011 22:08 - [[Posts/14342 - Ao ataque e avante|Ao ataque e avante]] - #100255 ^comentario-100255
+
+\[...\] princípio quero ressaltar que as idéias que desenvolvi aqui são consequência da intimação do Victor que decorreu de uma resposta minha a um comentário do André Bona. (conferir link para maiores \[...\]

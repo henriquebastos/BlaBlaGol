@@ -182,10 +182,6 @@ Mesmo resolvido o problema, continuo com a recomendação que o consumidor seja 
 
 O Botafogo ganhou a licitação do Engenhão e não precisou embolsar um único centavo para a construção. Melhorou sua sede com ajuda de um benemérito, mas continua com quase todos os mesmos problemas. As divisões de base estão praticamente abandonadas e nenhuma perspectiva de mudar esse quadro. Marechal Hermes continua em frangalhos com o campo praticamente duro e mais careca que o Kojack. Esse é um dos motivos de o Botafogo praticamente não revelar mais jogadores. A direção do clube ainda não entendeu a importância de investir na base para ter um alto retorno futuro nas transferências internacionais para o clube formador. Um bom exemplo é o Juan: Ele foi negociado recentemente do Bayer para o Roma. O Flamengo por ser o formador, teve direito a 5% do valor da negociação. Correspondeu a 800 mil reais aos cofres do clube.
 
-## 13/05/2008 19:55 - [[Pessoas/Botafogo sai na frente. De novo. at Blá blá Gol|Botafogo sai na frente. De novo. at Blá blá Gol]] - #18123 ^comentario-18123
-
-\[...\] organizadas foi a pior possível, culminando com agressão à dirigente dentro da sede do clube. Bebeto de Freitas se mostra firme dentro do planejamento de recursos do clube, e o fato de acabar com a moleza da \[...\]
-
 ## 30/05/2008 12:57 - [[Pessoas/Gaburah|Gaburah]] - #19377 ^comentario-19377
 
 **Parte 1**
@@ -223,3 +219,9 @@ Era bom esclarecer, o presidente Maurício Assumpção foi praticamente a se des
 ## 19/12/2009 20:23 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #45904 ^comentario-45904
 
 VOLTA CARLITO ROCHA !!!!!!!!!!!!!!
+
+# Referências de outros posts
+
+## 13/05/2008 19:55 - [[Posts/1477 - Botafogo sai na frente. De novo|Botafogo sai na frente. De novo.]] - #18123 ^comentario-18123
+
+\[...\] organizadas foi a pior possível, culminando com agressão à dirigente dentro da sede do clube. Bebeto de Freitas se mostra firme dentro do planejamento de recursos do clube, e o fato de acabar com a moleza da \[...\]

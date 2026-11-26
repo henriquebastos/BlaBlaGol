@@ -122,6 +122,8 @@ Comissão técnica do Duque de Caxias Futebol Clube 2010.
 
 Tá lá o herói:
 
-## 20/05/2011 14:08 - [[Pessoas/1° Congresso Mundial Blablagoliano|1° Congresso Mundial Blablagoliano]] - #95524 ^comentario-95524
+# Referências de outros posts
+
+## 20/05/2011 14:08 - [[Posts/13649 - 1° Congresso Mundial Blablagoliano|1° Congresso Mundial Blablagoliano]] - #95524 ^comentario-95524
 
 \[…\] Noite de autógrafos com o Dr. Bruno Pinheiro; \[…\]

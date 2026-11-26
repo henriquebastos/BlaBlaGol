@@ -53,10 +53,6 @@ Minha matemática rasteira deu conta que de milhões de torcedores palestrinos, 
 
 # Comentários
 
-## 28/11/2010 18:34 - [[Pessoas/Bolão BBG BR2010 – 37ª Rodada꞉ A Véspera|Bolão BBG BR2010 – 37ª Rodada: A Véspera]] - #76079 ^comentario-76079
-
-\[...\] Palmeiras 1×2 Fluminense: Palmeiras deve tirar a palavra “Esportiva” do nome. \[...\]
-
 ## 28/11/2010 18:56 - [[Pessoas/Matheus|Matheus]] - #76086 ^comentario-76086
 
 Esqui**Z**ofrênico.
@@ -151,3 +147,9 @@ O fato é esse mesmo. O Vasco de 92 não entregou mesmo com os pedidos da torcid
 ## 1/12/2010 20:24 - Nome não exibido - #76494
 
 \[2\]
+
+# Referências de outros posts
+
+## 28/11/2010 18:34 - [[Posts/11720 - Bolão BBG BR2010 – 37ª Rodada A Véspera|Bolão BBG BR2010 – 37ª Rodada: A Véspera]] - #76079 ^comentario-76079
+
+\[...\] Palmeiras 1×2 Fluminense: Palmeiras deve tirar a palavra “Esportiva” do nome. \[...\]

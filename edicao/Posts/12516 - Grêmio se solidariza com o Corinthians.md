@@ -204,6 +204,8 @@ Grande é o Tolima.
 
 Djair(8): Botafogo,Flu,Fla,Inter,SPFC,Galo doido,Cruzeiro,Corinthians
 
-## 28/04/2011 20:14 - [[Pessoas/De volta pra casa! ⧵［2⧵］|De volta pra casa! ［2］]] - #93208 ^comentario-93208
+# Referências de outros posts
+
+## 28/04/2011 20:14 - [[Posts/13411 - De volta pra casa! 2|De volta pra casa! \2\]] - #93208 ^comentario-93208
 
 \[...\] Demorou MUITO mas voltou!!! \[...\]

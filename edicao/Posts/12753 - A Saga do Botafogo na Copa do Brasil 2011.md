@@ -1886,6 +1886,8 @@ Culpa os próprios dirigentes em esticar esse “me engana que eu gosto” até 
 
 20/04/2011 – [**Avaí 1X1 Botafogo – Eliminado, de cabeça erguida**](<http://www.blablagol.com.br/avai-1x1-botafogo-eliminado-de-cabeca-erguida-13267>) [[Posts/13267 - Avaí 1X1 Botafogo – eliminado, de cabeça erguida|no acervo]]
 
-## 21/04/2011 9:14 - [[Pessoas/Avaí 1X1 Botafogo – eliminado, de cabeça erguida|Avaí 1X1 Botafogo – eliminado, de cabeça erguida]] - #92115 ^comentario-92115
+# Referências de outros posts
+
+## 21/04/2011 9:14 - [[Posts/13267 - Avaí 1X1 Botafogo – eliminado, de cabeça erguida|Avaí 1X1 Botafogo – eliminado, de cabeça erguida]] - #92115 ^comentario-92115
 
 \[...\] E corroborando a máxima, quis o destino que o Botafogo fosse eliminado da Copa do Brasil 2011 justamente naquela que foi (ao … \[...\]

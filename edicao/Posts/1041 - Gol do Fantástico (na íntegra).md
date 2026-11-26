@@ -124,10 +124,6 @@ o autor do mesmo
 
 Rá!
 
-## 27/04/2010 22:55 - [[Pessoas/Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55899 ^comentario-55899
-
-\[…\] que a Globo cortou a comemoração do gol do Victor? Porque não pode privilegiar nenhuma vídeo em detrimento dos \[…\]
-
 ## 5/07/2011 22:04 - [[Pessoas/Jorge Caldas|Jorge Caldas]] - #100183 ^comentario-100183
 
 É impressão minha ou quem levou esse gol foi o cabelereca?
@@ -137,3 +133,9 @@ Rá!
 0:43
 
 valendo 1 milhão… que estado brasileiro tem como sigla o DR?
+
+# Referências de outros posts
+
+## 27/04/2010 22:55 - [[Posts/8333 - Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55899 ^comentario-55899
+
+\[…\] que a Globo cortou a comemoração do gol do Victor? Porque não pode privilegiar nenhuma vídeo em detrimento dos \[…\]

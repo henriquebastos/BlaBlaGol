@@ -120,6 +120,8 @@ Mas é importante fazer um paralelo que explica, em parte, o porque dessa difere
 
 São dois fatos que dão muita tranquilidade ao São Paulo no momento de administrar.
 
-## 14/09/2009 0:41 - [[Pessoas/Um time Safado – Parte 2|Um time Safado – Parte 2]] - #38285 ^comentario-38285
+# Referências de outros posts
+
+## 14/09/2009 0:41 - [[Posts/5047 - Um time Safado – Parte 2|Um time Safado – Parte 2]] - #38285 ^comentario-38285
 
 \[...\] a bola no único lugar que ela cabia. 2×2 eu já pensava comigo mesmo que “se fosse pra dar esperança e perder depois, melhor tomar de 8 e não ter esperança nenhuma.” E 1 minuto depois aparece ELE, o \[...\]

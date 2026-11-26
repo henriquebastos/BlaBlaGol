@@ -322,6 +322,8 @@ Bernadinho: grande estrategista!
 Espero que não venha com papo de “traí meus princípios”.  
  Assume a merda (na visão de quem classifica o fato como tal) diz que se arrepende e ponto. Sem muito drama.
 
-## 14/11/2010 12:53 - [[Pessoas/O estranho mundo do voleibol|O estranho mundo do voleibol]] - #74869 ^comentario-74869
+# Referências de outros posts
+
+## 14/11/2010 12:53 - [[Posts/11587 - O estranho mundo do voleibol|O estranho mundo do voleibol]] - #74869 ^comentario-74869
 
 \[...\] masculino é jogo de comadres. Campeã \[...\]

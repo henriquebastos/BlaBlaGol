@@ -170,6 +170,8 @@ Um dos melhores times do Brasil por 3 anos ganhou apenas um campeonato estadual 
 
 mais isso e relativo diz ai quem acreditava q o paysandu ia vence o boca na labombonera coisa que o sao paulo nao consegui a muito tempo
 
-## 24/12/2009 7:58 - [[Pessoas/2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46209 ^comentario-46209
+# Referências de outros posts
+
+## 24/12/2009 7:58 - [[Posts/6511 - 2009 – Quem subiu, quem desceu|2009 – Quem subiu, quem desceu]] - #46209 ^comentario-46209
 
 \[...\] Fechou de forma magistral com a Copa do Brasil o ciclo iniciado em 2007. Dormiu no Brasileirão e inicia o ciclo da \[...\]

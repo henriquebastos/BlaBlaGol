@@ -101,6 +101,8 @@ Ou a gente pode marcar pra Conferência Nacional de Editores do Blá Blá Gol a�
 
 Bar, bebendo cerveja. Só assim pra aturar SerJuca.
 
-## 4/02/2010 15:47 - [[Pessoas/“Entrevista” para o Meu Time de Botão|“Entrevista” para o Meu Time de Botão]] - #48987 ^comentario-48987
+# Referências de outros posts
+
+## 4/02/2010 15:47 - [[Posts/7136 - “Entrevista” para o Meu Time de Botão|“Entrevista” para o Meu Time de Botão]] - #48987 ^comentario-48987
 
 \[...\] A proposta inicial seria reunirmos em um bar com cerveja para a entrevista mas a turma da sucursal Minas Gerais melou a ideia. \[...\]

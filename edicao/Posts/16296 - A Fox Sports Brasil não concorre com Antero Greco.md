@@ -1253,6 +1253,8 @@ eu quero o canal fox sport,para ficar vendo eportv mostrando campeonato paulista
  e melhor cancelar a asinatura, e ficar vendo os campeonatos, alemão que e show.ingles que e o melhor do mundo italiano espanhõl,nos canais espn,show.  
  a sky e a net fracaçaram,derrubarão os gigantes,davi nocaltiou os dois kkkkkkkkkkkkkkkkkkk
 
-## 19/03/2012 22:35 - [[Pessoas/Telecine ou HBO？|Telecine ou HBO?]] - #121152 ^comentario-121152
+# Referências de outros posts
+
+## 19/03/2012 22:35 - [[Posts/16536 - Telecine ou HBO|Telecine ou HBO?]] - #121152 ^comentario-121152
 
 \[...\] Fox Sports Brasil. Espero que JAMAIS entre na grade da ClaroTV. Futebol passa no bar aqui \[...\]

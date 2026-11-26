@@ -1,3 +1,0 @@
-# Quem contratar com a grana da Adidas？
-
-- [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN|#19282]] - PAULISTÃO 2013: NO STATE FOR OLD MEN · [[Posts/19282 - PAULISTÃO 2013 NO STATE FOR OLD MEN#^comentario-159091|#159091]]

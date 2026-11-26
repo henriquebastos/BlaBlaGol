@@ -303,10 +303,12 @@ Robinson,
 \*\*\*\*  
  Não sei porque alguns ainda se espantam com a torcida dos outros. Na frieza vc até pensa que o título do Fluminense é bom para o RJ e blablablá. Na hora do jogo fudeu. É **“vai Guarani”** e vc fica puto com os gols do Goiás e Palmeiras.
 
-## 6/12/2010 10:06 - [[Pessoas/Essa é muito boa|Essa é muito boa]] - #76995 ^comentario-76995
-
-\[...\] De fato o framengo não tem nada com isso, já que não pagou pelos serviços do goleiro nem deu mala branca. O DEMÉRITO é todo do time do rancoroso YURI, partidário da RIVALIDADE EXTREMA E IRRESTRITA. \[...\]
-
 ## 6/12/2010 10:59 - [[Pessoas/Matheus|Matheus]] - #77031 ^comentario-77031
 
 Torci demais pelo Bugre ontem. Meu Deus!
+
+# Referências de outros posts
+
+## 6/12/2010 10:06 - [[Posts/11950 - Essa é muito boa|Essa é muito boa]] - #76995 ^comentario-76995
+
+\[...\] De fato o framengo não tem nada com isso, já que não pagou pelos serviços do goleiro nem deu mala branca. O DEMÉRITO é todo do time do rancoroso YURI, partidário da RIVALIDADE EXTREMA E IRRESTRITA. \[...\]

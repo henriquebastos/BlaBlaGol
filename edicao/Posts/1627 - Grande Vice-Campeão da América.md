@@ -234,14 +234,16 @@ Os caras para não meter o palavrão traduzem para um jeito que fica mais bizarr
 
 Não tem como passar fome nesse país mesmo. Quem sabe ler, escrever e fazer conta já é mais qualificado que 95% da população.
 
-## [[Pessoas/Obrigado, Parreira|Obrigado, Parreira]] - #32387 ^comentario-32387
+# Referências de outros posts
+
+## [[Posts/3825 - Obrigado, Parreira|Obrigado, Parreira]] - #32387 ^comentario-32387
 
 \[...\] Consegui ficar nervoso com o Fluminense, o que não acontecia desde quando …bem… passemos adiante. \[...\]
 
-## [[Pessoas/Um jogo sulamericano de um time copeiro|Um jogo sulamericano de um time copeiro]] - #43034 ^comentario-43034
+## [[Posts/5942 - Um jogo sulamericano de um time copeiro|Um jogo sulamericano de um time copeiro]] - #43034 ^comentario-43034
 
 \[...\] Finalista da Libertadores 2008 \[...\]
 
-## 21/07/2010 22:35 - [[Pessoas/25 anos em 108 de Fluminense|25 anos em 108 de Fluminense]] - #64551 ^comentario-64551
+## 21/07/2010 22:35 - [[Posts/9992 - 25 anos em 108 de Fluminense|25 anos em 108 de Fluminense]] - #64551 ^comentario-64551
 
 \[...\] Três gols de Thiago Neves contra a LDU na final da Libertadores 2008 \[...\]

@@ -403,10 +403,6 @@ O Botafogo-DF segue vencendo o Ceilandense por 2 a 0, no quadrangular final do E
 
 Em tempo: o Maravilha já soma **912 gols**.
 
-## 12/08/2010 10:19 - [[Pessoas/W. S. ‘El Loco’ Abreu G|W. S. ‘El Loco’ Abreu G.]] - #66804 ^comentario-66804
-
-\[...\] encontra enfim uma grande referência para ocupar a lacuna deixada em aberto desde que o eterno Túlio Maravilha saiu do \[...\]
-
 ## 11/11/2010 18:12 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #74612 ^comentario-74612
 
 mto bizarro esse túlio hauahuaauauahu
@@ -607,10 +603,6 @@ A proporção é de 1:4 (um imbecil para 4 mil histórias, com as mais diversas 
 Figuraça…  
   [**Túlio planeja filme sobre sua carreira e quer ‘cena romântica’ com a mulher**](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/noticia/2011/02/tulio-planeja-filme-sobre-sua-carreira-e-quer-cena-romantica-com-mulher.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/noticia/2011/02/tulio-planeja-filme-sobre-sua-carreira-e-quer-cena-romantica-com-mulher.html")
 
-## 15/03/2011 12:38 - [[Pessoas/Caio Martins, o que fazer？|Caio Martins, o que fazer?]] - #89269 ^comentario-89269
-
-\[...\] passei grandes momentos no Caio Martins, intimamente ligados à Era Túlio Maravilha. Vivi emoções inesquecíveis com o Botafogo por lá. E hoje reconheço a evolução que foi o \[...\]
-
 ## 21/03/2011 13:57 - [[Pessoas/Gaburah|Gaburah]] - #89777 ^comentario-89777
 
 \[Via @tmaravilha1000\]  
@@ -648,10 +640,6 @@ Parabéns RB.
 ## 2/06/2011 21:12 - Nome não exibido - #96568
 
 *Deixa eu falar, Presidente* + Geral manguaçado = EPIC WIN!
-
-## 4/06/2011 21:02 - [[Pessoas/Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo？’ ⧵［Junior, Jota. 2011⧵］|Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo?’ ［Junior, Jota. 2011］]] - #96737 ^comentario-96737
-
-\[...\] com a torcida. Resta agora saber duas coisas: primeiro, se esse Adaílton é bom mesmo (apesar do bom retrospecto envolvendo negociação de jogadores entre Sion e Botafogo); e segundo, quando estreia. É urgente, ainda mais com o Fogão jogando ofensivamente como está. \[...\]
 
 ## 18/06/2011 20:00 - [[Pessoas/Gaburah|Gaburah]] - #98256 ^comentario-98256
 
@@ -1086,3 +1074,17 @@ Pelo ÍMPAR RB: [**Túlio maior que Zico e Dinamite!**](<http://www.blablagol.co
 **990 GOLS!!** – [**Túlio marca mais três pelo Tanabi e diz que está a dez do milésimo gol**](<https://web.archive.org/web/*/http://globoesporte.globo.com/sp/sorocaba/noticia/2012/05/tulio-marca-mais-tres-pelo-tanabi-e-diz-que-esta-dez-do-milesimo-gol.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/sp/sorocaba/noticia/2012/05/tulio-marca-mais-tres-pelo-tanabi-e-diz-que-esta-dez-do-milesimo-gol.html")  
  RT @tmaravilha1000  
  Hoje fiz mais 3 gols pelo Tanabi SP.agora faltam 10 gols p o Milésimo…
+
+# Referências de outros posts
+
+## 12/08/2010 10:19 - [[Posts/10278 - W. S. ‘El Loco’ Abreu G|W. S. ‘El Loco’ Abreu G.]] - #66804 ^comentario-66804
+
+\[...\] encontra enfim uma grande referência para ocupar a lacuna deixada em aberto desde que o eterno Túlio Maravilha saiu do \[...\]
+
+## 15/03/2011 12:38 - [[Posts/12876 - Caio Martins, o que fazer|Caio Martins, o que fazer?]] - #89269 ^comentario-89269
+
+\[...\] passei grandes momentos no Caio Martins, intimamente ligados à Era Túlio Maravilha. Vivi emoções inesquecíveis com o Botafogo por lá. E hoje reconheço a evolução que foi o \[...\]
+
+## 4/06/2011 21:02 - [[Posts/13798 - Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo ’ Junior, Jota. 2011|Ceará 2X2 Botafogo – ‘E cadê a zaga do Botafogo?’ \Junior, Jota. 2011\]] - #96737 ^comentario-96737
+
+\[...\] com a torcida. Resta agora saber duas coisas: primeiro, se esse Adaílton é bom mesmo (apesar do bom retrospecto envolvendo negociação de jogadores entre Sion e Botafogo); e segundo, quando estreia. É urgente, ainda mais com o Fogão jogando ofensivamente como está. \[...\]

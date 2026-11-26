@@ -242,6 +242,8 @@ Eu queria ver os madrilenhos deixarem seus filhos de 8, 9 anos irem à uma excur
 
 Por que botafoguense tem tanto prazer em dizer que fez Faculdade, Mestrado, que é PhD…??? Me parece um natural sentimento de inferioridade… sei lá…
 
-## Pingback on Apr 3rd, 2008 at 3:14 - [[Pessoas/O porquê não comprei a camisa do Thiago Silva at Blá blá Gol|O porquê não comprei a camisa do Thiago Silva at Blá blá Gol]] - #13633 ^comentario-13633
+# Referências de outros posts
+
+## Pingback on Apr 3rd, 2008 at 3:14 - [[Posts/1353 - O porquê não comprei a camisa do Thiago Silva|O porquê não comprei a camisa do Thiago Silva]] - #13633 ^comentario-13633
 
 _Texto não identificado na captura._

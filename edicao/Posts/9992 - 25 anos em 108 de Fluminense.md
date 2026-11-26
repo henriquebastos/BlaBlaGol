@@ -272,6 +272,8 @@ Já está subindo para post
 
 Nada para deixar de humor pior do que saber que o técnico que colocou esse time para andar está indo embora.
 
-## 15/11/2010 22:39 - [[Pessoas/Flamengo 115 anos|Flamengo 115 anos]] - #74982 ^comentario-74982
+# Referências de outros posts
+
+## 15/11/2010 22:39 - [[Posts/11601 - Flamengo 115 anos|Flamengo 115 anos]] - #74982 ^comentario-74982
 
 \[…\] o Flamengo há 25 dos seus 115 anos de existência. Como prometido (nada se cria, tudo se copia) vou aqui hoje tecer 25 lembranças pessoais de conquistas do time da \[…\]

@@ -942,10 +942,6 @@ HAUhuahuhaUhuahuHAUhUHAuhuahUHAuhAUHuha…
 
 Bons tempos.
 
-## 29/08/2010 23:11 - [[Pessoas/Zico, o Ombudsman|Zico, o Ombudsman]] - #68689 ^comentario-68689
-
-\[…\] Sabedora de não entender do riscado, Patrícia Amorim tomou a sábia decisão de colocar o futebol rubro-negro em outras mãos. O escolhido para a função foi ninguém menos que Zico, com a tripla função de colocar ordem na casa, ao mesmo tempo emprestar sua imagem de ídolo ao combalido Clube de Regatas Flamengo e se possível, gerenciar o futebol do clube. \[…\]
-
 ## 20/09/2010 10:21 - [[Pessoas/Serginho Valente|Serginho Valente]] - #70724 ^comentario-70724
 
 “- Teve um dia no hotel que o Andrade veio me perguntar se escalava o Pet ou não. Meu Deus do céu! Fiquei muito assustada. ”
@@ -965,3 +961,9 @@ A única consideração que faço, é que raramente vi alguém passar um atestad
 Grande verdade do dia até agora…
 
 Em comparação com ela, o Horcades é um grande dirigente. (não acredito que eu disse isso…)
+
+# Referências de outros posts
+
+## 29/08/2010 23:11 - [[Posts/10612 - Zico, o Ombudsman|Zico, o Ombudsman]] - #68689 ^comentario-68689
+
+\[…\] Sabedora de não entender do riscado, Patrícia Amorim tomou a sábia decisão de colocar o futebol rubro-negro em outras mãos. O escolhido para a função foi ninguém menos que Zico, com a tripla função de colocar ordem na casa, ao mesmo tempo emprestar sua imagem de ídolo ao combalido Clube de Regatas Flamengo e se possível, gerenciar o futebol do clube. \[…\]

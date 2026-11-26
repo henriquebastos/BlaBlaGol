@@ -208,12 +208,14 @@ Maldito profissionalismo.
 
 Eu acho pior: que isso é um meio termo entre profissionalismo e amadorismo. é o meio termo, o que é muito pior…
 
-## 20/06/2011 20:40 - [[Pessoas/Bolão Chefsfischer BBG BR2011꞉ Antes tarde do que nunca|Bolão Chefsfischer BBG BR2011: Antes tarde do que nunca]] - #98529 ^comentario-98529
-
-\[...\] Demorou mas saiu. Da 6ª rodada do Brasileirão da CBF em diante teremos nosso Bolão, dessa vez com direito a Naming Rights (gostamos do uniforme do Peñarol mas adotamos o do Santos). \[...\]
-
 ## 20/06/2011 23:07 - [[Pessoas/Bender|Bender]] - #98567 ^comentario-98567
 
 [http://esporte.ig.com.br/futebol/salario+de+neymar+e+o+dobro+de+toda+a+folha+salarial+do+penarol/n1597035464545.html](<https://web.archive.org/web/*/http://esporte.ig.com.br/futebol/salario+de+neymar+e+o+dobro+de+toda+a+folha+salarial+do+penarol/n1597035464545.html> "Captura ainda não verificada. Endereço original: http://esporte.ig.com.br/futebol/salario+de+neymar+e+o+dobro+de+toda+a+folha+salarial+do+penarol/n1597035464545.html")
 
 Salário do Neymar ser o dobro da folha do Peñarol tá valendo. Foda é o Deivid tb ser.
+
+# Referências de outros posts
+
+## 20/06/2011 20:40 - [[Posts/13983 - Bolão Chefsfischer BBG BR2011 Antes tarde do que nunca|Bolão Chefsfischer BBG BR2011: Antes tarde do que nunca]] - #98529 ^comentario-98529
+
+\[...\] Demorou mas saiu. Da 6ª rodada do Brasileirão da CBF em diante teremos nosso Bolão, dessa vez com direito a Naming Rights (gostamos do uniforme do Peñarol mas adotamos o do Santos). \[...\]

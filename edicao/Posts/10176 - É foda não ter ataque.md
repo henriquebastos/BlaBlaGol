@@ -548,6 +548,8 @@ Duelo de titãs!
 
 Nem culpo o Val Baiano: a bola simplesmente não chegava ao ataque. Pet e Juan lutavam sozinhos na criação das jogadas. Léo Moura se preocupava com as subidas do Roberto Carlos. E o Klébersotan… sumia em campo. Será que o Camacho não tem vaga neste time?????
 
-## 8/08/2010 21:48 - [[Pessoas/O Vasco não é Carlos Alberto|O Vasco não é Carlos Alberto]] - #66415 ^comentario-66415
+# Referências de outros posts
+
+## 8/08/2010 21:48 - [[Posts/10259 - O Vasco não é Carlos Alberto|O Vasco não é Carlos Alberto]] - #66415 ^comentario-66415
 
 \[...\] sobre quantos jogos por rodada no Brasileirão são bons, respondi sem titubear: 10 (aproveitei para espezinhar a fórmula do campeonato, que não condeno, mas busco entendê-la). 10. \[...\]

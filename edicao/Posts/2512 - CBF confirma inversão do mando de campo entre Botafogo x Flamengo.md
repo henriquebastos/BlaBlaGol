@@ -553,6 +553,8 @@ Acho que [esse comentário](<http://www.blablagol.com.br/inedito-e-sensacional/#
 
 [Já vi esse filme parte 2](<https://web.archive.org/web/*/http://www.lancenet.com.br/flamengo/noticias/09-10-18/637711.stm?futebol-flamengo-quer-classico-contra-botafogo-no-maracana> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/flamengo/noticias/09-10-18/637711.stm?futebol-flamengo-quer-classico-contra-botafogo-no-maracana")
 
-## 21/10/2010 11:42 - [[Pessoas/Segurança no Engenhão꞉ O que mudou de lá para cá？|Segurança no Engenhão: O que mudou de lá para cá?]] - #73288 ^comentario-73288
+# Referências de outros posts
+
+## 21/10/2010 11:42 - [[Posts/11334 - Segurança no Engenhão O que mudou de lá para cá|Segurança no Engenhão: O que mudou de lá para cá?]] - #73288 ^comentario-73288
 
 \[...\] Em Outubro de 2008 a CBF confirmou a inversão de um Botafogo x Flamengo do Engenhão para o Maracanã, seguindo as recomendações da Polícia Militar quanto à falta de segurança do estádio, conforme registramos neste post. \[...\]

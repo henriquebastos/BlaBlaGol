@@ -235,10 +235,6 @@ No Vasco, quando o ditador de lá não gosta de algum jornalista proíbe seu ace
 
 Agora, quero ver algum clube processar, ou mandar a FIFA pro inferno.
 
-## 30/04/2008 1:18 - [[Pessoas/Créu at Blá blá Gol|Créu at Blá blá Gol]] - #16709 ^comentario-16709
-
-\[…\] é só no Maracanã que tem Créu. Enviar por e-mail ‘ ‘Assine o Bla bla Gol OUTROS \[…\]
-
 ## 2/05/2008 10:46 - [[Pessoas/nany|nany]] - #17052 ^comentario-17052
 
 E ninguém!!!!  
@@ -259,3 +255,9 @@ Essa é pra torcida do flamengo
 02/05/08
 
 bjsssssss a nação rubro-negra
+
+# Referências de outros posts
+
+## 30/04/2008 1:18 - [[Posts/1437 - Créu|Créu]] - #16709 ^comentario-16709
+
+\[…\] é só no Maracanã que tem Créu. Enviar por e-mail ‘ ‘Assine o Bla bla Gol OUTROS \[…\]

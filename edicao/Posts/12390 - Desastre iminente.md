@@ -203,6 +203,8 @@ Time was on my side, yes it was.
 
 Desastre iminente foi o André Lima perder o gol que perdeu, e o Grêmio sair tomando 1-0…
 
-## 3/02/2011 0:37 - [[Pessoas/O ano não terminou para o Corinthians|O ano não terminou para o Corinthians]] - #83781 ^comentario-83781
+# Referências de outros posts
+
+## 3/02/2011 0:37 - [[Posts/12488 - O ano não terminou para o Corinthians|O ano não terminou para o Corinthians]] - #83781 ^comentario-83781
 
 \[...\] Time was on my side, yes it was. \[...\]

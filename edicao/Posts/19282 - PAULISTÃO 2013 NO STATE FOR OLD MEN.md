@@ -2646,10 +2646,6 @@ Ah, entendi. Zico foi fazer um favor a seleção… claro. E foi obrigado, amarr
 
 Esse cracaço foi jogar onde mesmo na europa? Real Madrid? Barça? Manchester? Inter? Milan?
 
-## 8/05/2013 16:27 - [[Pessoas/Quem contratar com a grana da Adidas？|Quem contratar com a grana da Adidas?]] - #159091 ^comentario-159091
-
-\[…\] Flamengo de Bap e sua turma que não entra para perder vai colocar a mão na bufunfa da Adidas e SAULOS já querem torrá-la, mas sem a falta de responsabilidade das gestões \[…\]
-
 ## 12/05/2013 14:13 - [[Pessoas/André|André]] - #159527 ^comentario-159527
 
 Acho que vou sair pra almoçar. Ja já começa a final do brasileirão. E depois, férias o ano todo.
@@ -3119,3 +3115,9 @@ Esse levaria uma menção do Chaves:[http://blogdojuca.uol.com.br/2013/05/timao-
 ## 20/05/2013 0:36 - [[Pessoas/Saulo|saulo]] - #160130 ^comentario-160130
 
 [http://esporte.uol.com.br/belas-da-torcida/2013/sao-paulo/perfil/aline-rodrigues/](<https://web.archive.org/web/*/http://esporte.uol.com.br/belas-da-torcida/2013/sao-paulo/perfil/aline-rodrigues/> "Captura ainda não verificada. Endereço original: http://esporte.uol.com.br/belas-da-torcida/2013/sao-paulo/perfil/aline-rodrigues/")
+
+# Referências de outros posts
+
+## 8/05/2013 16:27 - [[Posts/19618 - Quem contratar com a grana da Adidas|Quem contratar com a grana da Adidas?]] - #159091 ^comentario-159091
+
+\[…\] Flamengo de Bap e sua turma que não entra para perder vai colocar a mão na bufunfa da Adidas e SAULOS já querem torrá-la, mas sem a falta de responsabilidade das gestões \[…\]

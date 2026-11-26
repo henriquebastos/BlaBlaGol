@@ -151,10 +151,6 @@ Não há como Joel mudar o esquema de três zagueiros porque a zaga do Botafogo 
 
 Reza a lenda que o Natalino já entregou uma lista de reforços pretendidos para o Brasileiro. Espero qe tenha pedido uns dois zagueiros **de verdade**.
 
-## 23/03/2010 9:41 - [[Pessoas/A Fotografia do Botafogo|A Fotografia do Botafogo]] - #53233 ^comentario-53233
-
-\[...\] time joga de maneira distintas tendo Caio ou o Loco em campo. Como disse o Rafael Botafoguense, isso é ótimo pro(s) campeonato(s), pois o time jogaria de maneir…, o que é excelente se considerarmos a dinâmica diferente em caso de necessidade de mudanças no \[...\]
-
 ## 23/03/2010 10:14 - [[Pessoas/Bender|Bender]] - #53236 ^comentario-53236
 
 Quando Lúcio Flávio surgiu lembro que gostei de algumas de suas apresentações. Até pensei: “porra, o Botafogo tem uma cara com qualidade no passe”. Mas o tempo vai passando e o jogador não desenvolveu mais na minha visão. Penso que se estivesse no meu time hoje, Lúcio Flávio me irritaria bastante.  
@@ -178,3 +174,9 @@ Existe isso Galvão?
 ## 24/03/2010 20:53 - Nome não exibido - #53400
 
 ironia,oi.
+
+# Referências de outros posts
+
+## 23/03/2010 9:41 - [[Posts/7917 - A Fotografia do Botafogo|A Fotografia do Botafogo]] - #53233 ^comentario-53233
+
+\[...\] time joga de maneira distintas tendo Caio ou o Loco em campo. Como disse o Rafael Botafoguense, isso é ótimo pro(s) campeonato(s), pois o time jogaria de maneir…, o que é excelente se considerarmos a dinâmica diferente em caso de necessidade de mudanças no \[...\]

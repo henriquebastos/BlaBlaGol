@@ -41,10 +41,6 @@ Acho que não teve nenhum mesmo…
 
 Bom, teve esse aqui, que acabou favorecendo mais ao framengo:
 
-## 19/06/2011 18:48 - [[Pessoas/Vaias para Ronaldinho Gaúcho|Vaias para Ronaldinho Gaúcho]] - #98313 ^comentario-98313
-
-\[...\] torcida do Flamengo ficou escolada e ao ver Ronaldinho ser substituído junto com Thiago Neves no clássico contra o Botafogo abriu o berreiro e vaiou forte, sem deixar de seguidamente exaltar nominalmente o brioso camisa \[...\]
-
 ## 19/06/2011 18:53 - [[Pessoas/Victor|Victor]] - #98314 ^comentario-98314
 
 Passei o 2º tempo escancaradamente torcendo pelo Flamengo. Seria um enorme castigo se o Botafogo vencesse a partida.
@@ -178,10 +174,6 @@ O Alessandro passou a errar absolutamente tudo, ataque e defesa, até que o time
 Herrera sabe fazer aquele jogo nas laterais e, cruza muito bem.  
  Alex crescendo muito, o garoto vai longe.
 
-## 20/06/2011 11:49 - [[Pessoas/O fim da era “Vai vendo…”|O fim da era “Vai vendo…”]] - #98446 ^comentario-98446
-
-\[...\] vem? Papai Joel! Segundo Gaburah, o melhor antídoto para o pós-Cuca. O que eu posso dizer? Preferia Ney Franco, mas é o que temos para hoje. Desejo sorte ao novo \[...\]
-
 ## 20/06/2011 12:53 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #98459 ^comentario-98459
 
 ‘O Botafogo foi superior na primeira etapa’
@@ -201,3 +193,13 @@ Porque tem coisas…
 ## 20/06/2011 23:24 - Nome não exibido - #98575
 
 (mas dos males, o menor)
+
+# Referências de outros posts
+
+## 19/06/2011 18:48 - [[Posts/14018 - Vaias para Ronaldinho Gaúcho|Vaias para Ronaldinho Gaúcho]] - #98313 ^comentario-98313
+
+\[...\] torcida do Flamengo ficou escolada e ao ver Ronaldinho ser substituído junto com Thiago Neves no clássico contra o Botafogo abriu o berreiro e vaiou forte, sem deixar de seguidamente exaltar nominalmente o brioso camisa \[...\]
+
+## 20/06/2011 11:49 - [[Posts/14043 - O fim da era “Vai vendo…”|O fim da era “Vai vendo…”]] - #98446 ^comentario-98446
+
+\[...\] vem? Papai Joel! Segundo Gaburah, o melhor antídoto para o pós-Cuca. O que eu posso dizer? Preferia Ney Franco, mas é o que temos para hoje. Desejo sorte ao novo \[...\]

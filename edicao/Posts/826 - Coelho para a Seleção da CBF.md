@@ -154,6 +154,8 @@ O comentário gaúcho não merece nem 1 linha de resposta.
 O DUNGA É UM BOSSAL. NÃO MERECE NEM RESPOSTA..QUER DIZER QUE FAZER APOLOGIA À VIOLÊNCIA PODE? E EXALTAR O FUTEBOL-ARTE NÃO? ELE SÓ SE ESQUECEU QUE, AO FALAR QUE O PELE JÁ DEU UMA COTOVELADA, DE FALAR TAMBÉM QUE O PELÉ “HUMILHAVA” TAMBÉM OS ADVERSÁRIOS COM SEUS DRIBLES DESCONSERTANTES. E AGORA, DUNGA?  
  SALVEM AS FOCAS…SALVE O CRUZEIRO…É DO BRASIL-SIL-SIL..!!!
 
-## 30/01/2008 23:43 - [[Pessoas/Cruzeiro 3×1 Cerro Porteño at Blá blá Gol|Cruzeiro 3×1 Cerro Porteño at Blá blá Gol]] - #9766 ^comentario-9766
+# Referências de outros posts
+
+## 30/01/2008 23:43 - [[Posts/1180 - Cruzeiro 3×1 Cerro Porteño|Cruzeiro 3×1 Cerro Porteño]] - #9766 ^comentario-9766
 
 \[...\] tenho antipatia gratuita por Kerlon (nada a ver com o lance do Coelho, quando aliás, reprovei o lateral) e ele nada fez para diminuir essa antipatia. No pouco tempo que \[...\]

@@ -8,6 +8,7 @@ const {post} = Astro.props;
 const base = import.meta.env.BASE_URL;
 const body = renderMarkdown(post.body, base);
 const total = commentEntries(post.comments).length;
+const references = renderMarkdown(post.references, base, {comments:true,postId:post.id});
 const comments = renderMarkdown(post.comments, base, {comments:true,postId:post.id});
 ---
 <Arquivo title={post.title}>
@@ -19,5 +20,6 @@ const comments = renderMarkdown(post.comments, base, {comments:true,postId:post.
     <p class="minor"><a href="#comentarios">{total === 1 ? '1 comentário' : total + ' comentários'}</a></p>
     {post.catalogOnly ? <p>Esta página registra o título e a data da publicação original. O texto e os comentários ainda não fazem parte da edição web.</p> : <div class="prosa" set:html={body} />}
     <section class="comentarios" id="comentarios"><h2>Comentários</h2>{comments ? <div class="prosa" set:html={comments} /> : <p>Nenhum comentário foi recuperado para este post.</p>}</section>
+    {references && <section class="comentarios" id="referencias"><h2>Referências de outros posts</h2><div class="prosa" set:html={references} /></section>}
   </article>
 </Arquivo>

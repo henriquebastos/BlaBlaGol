@@ -1019,10 +1019,6 @@ Famosa “Xi, MERDEI”.
 
 Hahaha…
 
-## 17/10/2010 12:51 - [[Pessoas/Rubronegros de soslaio|Rubronegros de soslaio]] - #73082 ^comentario-73082
-
-\[...\] rubronegros acompanhavam o Ressacão 2010 na espreita aguardando pelo pior. À partir da chegada do vencedor Luxemburgo, os flamenguistas agora pensando 2011 como time de 1ª se dão ao luxo de ver os jogos de soslaio e \[...\]
-
 ## 6/02/2011 10:57 - [[Pessoas/Victor|Victor]] - #84223 ^comentario-84223
 
 [http://www.lancenet.com.br/flamengo/Luxemburgo-pra-cacete-incomoda\_0\_422357768.html](<https://web.archive.org/web/*/http://www.lancenet.com.br/flamengo/Luxemburgo-pra-cacete-incomoda_0_422357768.html> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/flamengo/Luxemburgo-pra-cacete-incomoda_0_422357768.html")
@@ -1034,3 +1030,9 @@ Hahaha…
 > *É cultura do futebol. Jornalista nenhum fica decadente, fica? Armando Nogueira até morrer era ícone e continua sendo. Jornalista adquire experiência, fica melhor. E o técnico é decadente? O cara ganha Prêmio Esso toda hora? Por que estou em decadência? Foi ruim pra cacete ano passado, **só ganhei um campeonato**. Pô, tem treinador que passa a vida toda e não ganha um campeonato. Meu ano passado foi ruim e estou em decadência. Sabe por quê? Porque eu sou bom pra cacete. Isso incomoda. **Foram 23 anos como top**. Quem você conhece assim? Aí começam a dizer que estou em decadência porque não ganhei o Brasileiro. Isso é criado por meia-dúzia. Não consigo mais dar treino de entrar em campo e chutar bola porque tenho 58 anos. Até gosto de fazer. Mas avancei com a minha qualidade. **Para que vou dar treinamento de mini-jogo, de chute a gol, de cruzamento se você tem assistentes que dão?** Antigamente o técnico fazia tudo. Aí arranjaram preparador físico, de goleiro, massagista. Tudo foi chegando. **É você ter uma comissão técnica inteligente, de qualidade.** Eu descobri isso e é a “patota do Luxemburgo”. **São profissionais de excelência que vêm para cá para melhorar a nossa qualidade. Então você tem um fisiologista, um fisioterapeuta, um psicólogo. É um que cuida da zaga, outro do meio de campo. São atribuições definidas em reuniões.** Mas é a “patota do Luxemburgo”.*
 
 (\*)Na transcrição original do Lancenet havia um ponto de interrogação. Acredito ter sido um erro de digitação uma vez que a frase é tudo menos uma pergunta.
+
+# Referências de outros posts
+
+## 17/10/2010 12:51 - [[Posts/11289 - Rubronegros de soslaio|Rubronegros de soslaio]] - #73082 ^comentario-73082
+
+\[...\] rubronegros acompanhavam o Ressacão 2010 na espreita aguardando pelo pior. À partir da chegada do vencedor Luxemburgo, os flamenguistas agora pensando 2011 como time de 1ª se dão ao luxo de ver os jogos de soslaio e \[...\]

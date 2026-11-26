@@ -327,13 +327,15 @@ Tiraria os extremos (nos sentidos denotativo e conotativo). Ou seja, eliminaria 
 
 Ficaria só com a meiuca contrapondo esse post daqui (com link inclusive).
 
-## 5/08/2010 17:11 - [[Pessoas/Cumpra-se|Cumpra-se]] - #65967 ^comentario-65967
-
-\[...\] Mundial Interclubes pode contar com um time que não seja campeão do torneio que dá acesso a ele…E \[...\]
-
 ## 5/08/2010 22:30 - [[Pessoas/Victor|Victor]] - #66056 ^comentario-66056
 
 Pato Abbondanzieri, louco, condição *sine qua non* para vencer Libertadores, era o titular.  
  Chegou Celso Roth e efetivou Renan como titular.
 
 **Isso** explica muita coisa.
+
+# Referências de outros posts
+
+## 5/08/2010 17:11 - [[Posts/10220 - Cumpra-se|Cumpra-se]] - #65967 ^comentario-65967
+
+\[...\] Mundial Interclubes pode contar com um time que não seja campeão do torneio que dá acesso a ele…E \[...\]

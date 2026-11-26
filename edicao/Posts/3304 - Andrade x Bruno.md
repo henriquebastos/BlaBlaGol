@@ -212,6 +212,8 @@ Aposto cerveja no Élton. E o dobro que o Josiel não vai ser.
 
 Pode crer. Apesar das confusões, é o jogador mais constante do elenco e sempre em ótimo nível.
 
-## 2/08/2009 14:43 - [[Pessoas/Andrade é treinador？|Andrade é treinador?]] - #36238 ^comentario-36238
+# Referências de outros posts
+
+## 2/08/2009 14:43 - [[Posts/4609 - Andrade é treinador|Andrade é treinador?]] - #36238 ^comentario-36238
 
 \[...\] Sei lá. Mas agora ele é ao menos chefe do Bruno. \[...\]

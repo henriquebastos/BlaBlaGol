@@ -316,10 +316,6 @@ hauhuauhauhauhauhuhahua
  nem tinha me ligado nessa!  
  auhahuhuahuauhauhauhhua
 
-## 25/01/2010 15:38 - [[Pessoas/HUMILHAÇÃO! E fora Estevam!|HUMILHAÇÃO! E fora Estevam!]] - #47868 ^comentario-47868
-
-\[...\] ao Vasco por uma vitória INCONTESTÁVEL. Esse vexame foi surpresa pra \[...\]
-
 ## 25/01/2010 16:20 - [[Pessoas/Marcos Vascão|Marcos Vascão]] - #47883 ^comentario-47883
 
 Meu Deus… A torcida do Botafogo só tem chorão mesmo… Pena que com esse saco que vocês levaram, tão tendo que engolir esse choro-rô! Parem de chorar!! Perder pro time do Vascão, do jeito que jogou, acho até que ficou de pouco!! Agora é dar uma sapecada dessas na mulambada!!!
@@ -415,10 +411,6 @@ O Fla teve um ano foda e reforçou com jogadores reconhecidamente bons.
 
 Dá pra ver que coisa boa não sairia.
 
-## 26/01/2010 2:02 - [[Pessoas/Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47938 ^comentario-47938
-
-\[...\] Soares caiu após a surra cruzmaltina sobre O Vergonhoso. Joel foi cogitado e posteriormente \[...\]
-
 ## 26/01/2010 14:05 - [[Pessoas/Flávio|Flávio]] - #48002 ^comentario-48002
 
 Rafael,  
@@ -475,6 +467,16 @@ Pois é.. A Fúria é uma vergonha pra qualquer organizada!
 
 Estava na Loucos domingo, sim. Infelizmente, com aquele vexame, não tinha condições de fazer o Black Hell. Uma pena, porque provavelmente seria o melhor dos 3. O pessoal teve muuito mais tempo pra organizar e arrecadar dinheiro.
 
-## 15/03/2010 11:41 - [[Pessoas/Ainda bem que não fui|Ainda bem que não fui]] - #52673 ^comentario-52673
+# Referências de outros posts
+
+## 25/01/2010 15:38 - [[Posts/6926 - HUMILHAÇÃO! E fora Estevam!|HUMILHAÇÃO! E fora Estevam!]] - #47868 ^comentario-47868
+
+\[...\] ao Vasco por uma vitória INCONTESTÁVEL. Esse vexame foi surpresa pra \[...\]
+
+## 26/01/2010 2:02 - [[Posts/6951 - Joel no Botafogo – A malandragem está de volta|Joel no Botafogo – A malandragem está de volta]] - #47938 ^comentario-47938
+
+\[...\] Soares caiu após a surra cruzmaltina sobre O Vergonhoso. Joel foi cogitado e posteriormente \[...\]
+
+## 15/03/2010 11:41 - [[Posts/7781 - Ainda bem que não fui|Ainda bem que não fui]] - #52673 ^comentario-52673
 
 \[...\] que Lincoln escrevesse sobre o jogo, para falar sobre o seu ídolo máximo, mas como ele não viu a partida, vou falar sobre a \[...\]

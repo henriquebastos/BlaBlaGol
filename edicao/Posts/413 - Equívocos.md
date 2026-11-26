@@ -110,10 +110,6 @@ Tchaããã
 
 Agora tem até Argentino pra encher o saco aqui? Argentino é fogo..ganha a Libertadores e já fica todo bobo. O argentino.. vai dançar tango hijo de uma rapariga!
 
-## 27/06/2007 0:21 - [[Pessoas/Juca Kfouri discorda de Bender at Blá blá Gol|Juca Kfouri discorda de Bender at Blá blá Gol]] - #1963 ^comentario-1963
-
-\[...\] Lincoln on EquívocosVictor Pimentel on EquívocosGaburah on BolãoSerginho Valente on EquívocosLincoln on BolãoLincoln \[...\]
-
 ## 27/06/2007 5:40 - [[Pessoas/Esteban Crustille|Esteban Crustille]] - #1966 ^comentario-1966
 
 no soy racista, acá nosotro no somos racistas, apenas hablamos la verdad quando en fato nuestra superioridad es gran en relación usted brazucas.
@@ -302,3 +298,9 @@ argentina por pouco no vas al mundial
 ## 25/11/2009 14:03 - [[Pessoas/Bender|Bender]] - #43564 ^comentario-43564
 
 **Ô Adriano, tá me ouvindo?**
+
+# Referências de outros posts
+
+## 27/06/2007 0:21 - [[Posts/415 - Juca Kfouri discorda de Bender|Juca Kfouri discorda de Bender]] - #1963 ^comentario-1963
+
+\[...\] Lincoln on EquívocosVictor Pimentel on EquívocosGaburah on BolãoSerginho Valente on EquívocosLincoln on BolãoLincoln \[...\]

@@ -377,10 +377,6 @@ ANDRADE E MARCUS BRAZ NA SELEÇÃO!
 
 O CURINTHIS ZEFUDEUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 
-## 24/07/2010 15:40 - [[Pessoas/Agora é Mano|Agora é Mano]] - #64782 ^comentario-64782
-
-\[…\] Em um Mundo sem maiores implicações, o Timão se fudeu como o Timinho teria caso perdesse Muricy como esteve perto de acontecer. \[…\]
-
 ## 24/07/2010 18:31 - [[Pessoas/anonimo|anonimo]] - #64793 ^comentario-64793
 
 Em resposta ao amigo douglas que fez um comentário infeliz que o futebol gaúcho é feio, saiba que aqui no sul temos dois times que já foram campeãs do mundo sendo que são as mesmas que se encontram no brasileirão as quais revelaram craques como Ronaldinho gaúcho, pato entre outros.  
@@ -416,6 +412,12 @@ Pano rápido.
 
 Chupem babacas -\> [**Após atritos, Felipão quebra silêncio: ‘Não sou obrigado a dar entrevistas’**](<https://web.archive.org/web/*/http://globoesporte.globo.com/futebol/times/palmeiras/noticia/2010/11/apos-atritos-felipao-quebra-silencio-nao-sou-obrigado-dar-entrevistas.html> "Captura ainda não verificada. Endereço original: http://globoesporte.globo.com/futebol/times/palmeiras/noticia/2010/11/apos-atritos-felipao-quebra-silencio-nao-sou-obrigado-dar-entrevistas.html")
 
-## 26/11/2011 11:29 - [[Pessoas/Andrés Sánchez do Brasil-sil-sil|Andrés Sánchez do Brasil-sil-sil]] - #113026 ^comentario-113026
+# Referências de outros posts
+
+## 24/07/2010 15:40 - [[Posts/10025 - Agora é Mano|Agora é Mano]] - #64782 ^comentario-64782
+
+\[…\] Em um Mundo sem maiores implicações, o Timão se fudeu como o Timinho teria caso perdesse Muricy como esteve perto de acontecer. \[…\]
+
+## 26/11/2011 11:29 - [[Posts/15820 - Andrés Sánchez do Brasil-sil-sil|Andrés Sánchez do Brasil-sil-sil]] - #113026 ^comentario-113026
 
 \[…\] Constata-se igualmente, que mesmo entre os ferrenhos perseguidores, não há registro ou insinuação em mais de 20 anos de qualquer interferência do mandatário campeoníssimo em qualquer evento clubístico, qualquer alusão à manipulação alguma em jogos de clubes ou pelo menos, manipulação diretamente relacionada com qualquer causa de Ricard0 Teixeira. Qualquer torcedor do Fluminense pode assegurar. \[…\]

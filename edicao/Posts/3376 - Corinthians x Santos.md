@@ -200,6 +200,8 @@ Fora o André Dias e o menino do Cruzeiro que veio do Vitória, Leonardo Silva, 
 
 Ronaldo x Neymar:
 
-## 27/04/2010 22:52 - [[Pessoas/Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55895 ^comentario-55895
+# Referências de outros posts
+
+## 27/04/2010 22:52 - [[Posts/8333 - Saulo Responde – Volume 3|Saulo Responde – Volume 3]] - #55895 ^comentario-55895
 
 \[...\] acha que O maior problema do Neymar seja falta de uma estrutura física para dar suporte as divididas e ao ch…? Esse comentário foi postado a um ano. Neymar evoluiu muito tecnicamente e está mais adaptado ao \[...\]

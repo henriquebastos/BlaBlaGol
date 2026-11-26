@@ -463,6 +463,8 @@ Time desfalcado de Triguinho e Castillo, apresentando moles na defesa (inclusive
 
 Amanhã tem post sobre isso, e com fotos.
 
-## 28/04/2008 1:30 - [[Pessoas/Derrota merecida at Blá blá Gol|Derrota merecida at Blá blá Gol]] - #16557 ^comentario-16557
+# Referências de outros posts
+
+## 28/04/2008 1:30 - [[Posts/1428 - Derrota merecida|Derrota merecida]] - #16557 ^comentario-16557
 
 \[...\] Passou o Fogão \[...\]

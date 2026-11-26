@@ -284,6 +284,8 @@ Registrando:
 
 Acredito que no Carioca sim.
 
-## 17/04/2008 16:18 - [[Pessoas/Campanha por um apelido menos ridículo at Blá blá Gol|Campanha por um apelido menos ridículo at Blá blá Gol]] - #15310 ^comentario-15310
+# Referências de outros posts
+
+## 17/04/2008 16:18 - [[Posts/1401 - Campanha por um apelido menos ridículo|Campanha por um apelido menos ridículo]] - #15310 ^comentario-15310
 
 \[...\] Já falei isso aqui. E não é nem questão de bairrismo. \[...\]

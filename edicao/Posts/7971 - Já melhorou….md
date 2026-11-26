@@ -115,10 +115,12 @@ Vai ter muita gente surpresa com o time do Vasco. \[2\]
 
 \\o/
 
-## 28/03/2010 13:14 - [[Pessoas/Vasco x Fluminense terá ingressos vendidos hoje no Maracanã|Vasco x Fluminense terá ingressos vendidos hoje no Maracanã]] - #53665 ^comentario-53665
+# Referências de outros posts
+
+## 28/03/2010 13:14 - [[Posts/7975 - Vasco x Fluminense terá ingressos vendidos hoje no Maracanã|Vasco x Fluminense terá ingressos vendidos hoje no Maracanã]] - #53665 ^comentario-53665
 
 \[...\] maiores interesses na partida em relação ao Fluminense. Todas as atenções vem da expectativa do Vasco pós-Mancini que corre sérios riscos de ficar de fora do campeonato em caso de \[...\]
 
-## 29/03/2010 9:51 - [[Pessoas/Como dizem os Saulos…|Como dizem os Saulos…]] - #53689 ^comentario-53689
+## 29/03/2010 9:51 - [[Posts/7978 - Como dizem os Saulos…|Como dizem os Saulos…]] - #53689 ^comentario-53689
 
 \[...\] “Em relação ao Mancini, reintero minha posição, não vai resolver o problema técnico em c… \[...\]

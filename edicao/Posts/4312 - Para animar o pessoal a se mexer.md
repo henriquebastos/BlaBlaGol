@@ -119,6 +119,8 @@ HAUhuaHAUHUauHAHAUuahuha… Gaburah VICE DE NOVO!!! \[2\]
 
 Esse homem aranha é o maior abeiro, ja que ele so apareceu pra correr os ultimos 20 metros podia pelo menos chegar em primeiro, mas nem isso ele conseguiu. Loser total
 
-## 25/07/2009 20:56 - [[Pessoas/Desafio ao Boca de Aratéia|Desafio ao Boca de Aratéia]] - #35855 ^comentario-35855
+# Referências de outros posts
+
+## 25/07/2009 20:56 - [[Posts/4504 - Desafio ao Boca de Aratéia|Desafio ao Boca de Aratéia]] - #35855 ^comentario-35855
 
 \[…\] na véspera da etapa, na Redação do Blá blá Gol a atleta Marianna Fiorentino que falou brevemente sobre a prova e suas \[…\]

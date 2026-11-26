@@ -175,6 +175,8 @@ Voces que sabem colocar video aqui:
 
 [http://charges.uol.com.br/2009/09/11/maradona-canta-nao-se-reprima/](<https://web.archive.org/web/*/http://charges.uol.com.br/2009/09/11/maradona-canta-nao-se-reprima/> "Captura ainda não verificada. Endereço original: http://charges.uol.com.br/2009/09/11/maradona-canta-nao-se-reprima/")
 
-## 1/06/2010 20:19 - [[Pessoas/A Copa não começou|A Copa não começou]] - #58209 ^comentario-58209
+# Referências de outros posts
+
+## 1/06/2010 20:19 - [[Posts/8887 - A Copa não começou|A Copa não começou]] - #58209 ^comentario-58209
 
 \[...\] esse que modificou-se na goleada contra o Uruguai em Montevidéu, Copa das Confederações e baile na Argentina em Rosário novamente com perfeito comentário de Saulo que não sentiu falta de Ronaldinho: A seleção foi \[...\]

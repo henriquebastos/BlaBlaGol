@@ -111,6 +111,8 @@ Então pede tb Dida, Cafú, Vampeta…
 
 Aos torcedores botafoguenses: Ney Franco tem a menor parcela de culpa da campanha alvinegra. O elenco é fraco e o Reinaldo não tem reserva a altura. Coitado de qualquer treinador do qual precisa escolher entre Laio ou Tonie. Fica difícil cobrar alguma coisa. Um dos maiores culpado pela atual situação tem um nome: Bebeto de Freitas. Largou e abandonou as divisões de base do clube. Se a sua política fosse voltada a base, estaria o time profissional colhendo os frutos.
 
-## 26/07/2010 17:33 - [[Pessoas/A primeira convocação de Mano|A primeira convocação de Mano]] - #64956 ^comentario-64956
+# Referências de outros posts
+
+## 26/07/2010 17:33 - [[Posts/10061 - A primeira convocação de Mano|A primeira convocação de Mano]] - #64956 ^comentario-64956
 
 \[...\] Carlos Eduardo (Hoffenheim) Éderson (Lyon) Hernanes (São Paulo) Jucilei (Corinthians) – Eu já sabia Lucas (Liverpool) Paulo Henrique Ganso (Santos) Ramires (Benfica) Sandro \[...\]

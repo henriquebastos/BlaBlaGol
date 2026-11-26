@@ -298,14 +298,6 @@ Jandir (FLU) – quebrou Mauricinho
  Gottardo (BOTAFOGO)  
  Breno Reeve (INGÁ)
 
-## 27/08/2009 3:12 - [[Pessoas/Fluminense passa por Flamengo com dois empates(？) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37463 ^comentario-37463
-
-\[…\] O gol cagado de Dênis Marques ficou de bom tamanho para compensar as cagadas de Rafael no primeiro jogo. \[…\]
-
-## 25/09/2009 13:16 - [[Pessoas/Fluminense limpando o lixo|Fluminense limpando o lixo]] - #38773 ^comentario-38773
-
-\[…\] praga, enquanto no Fluminense foi citada aqui no Blá blá Gol em sua brilhante passagem pelo \[…\]
-
 ## 5/10/2009 0:25 - [[Pessoas/fabio sobreira dos santos|fabio sobreira dos santos]] - #39634 ^comentario-39634
 
 O FLAMENGO E BOM
@@ -326,3 +318,13 @@ dia 08/10/2011
  16:00
 
 quem sube aviza aii
+
+# Referências de outros posts
+
+## 27/08/2009 3:12 - [[Posts/4858 - Fluminense passa por Flamengo com dois empates( ) no Maracanã|Fluminense passa por Flamengo com dois empates(?) no Maracanã]] - #37463 ^comentario-37463
+
+\[…\] O gol cagado de Dênis Marques ficou de bom tamanho para compensar as cagadas de Rafael no primeiro jogo. \[…\]
+
+## 25/09/2009 13:16 - [[Posts/5194 - Fluminense limpando o lixo|Fluminense limpando o lixo]] - #38773 ^comentario-38773
+
+\[…\] praga, enquanto no Fluminense foi citada aqui no Blá blá Gol em sua brilhante passagem pelo \[…\]

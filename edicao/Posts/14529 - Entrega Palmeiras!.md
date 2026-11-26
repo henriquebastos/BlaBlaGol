@@ -586,6 +586,8 @@ Achei engraçadão. É o fim da picada neguinho fazer cera e ainda querer a bola
 Cera é opinião sua.  
  Quando o jogo foi interrompido para o atendimento a posse era do Flamengo.
 
-## 10/08/2011 13:25 - [[Pessoas/Horário Padrão|Horário Padrão]] - #103687 ^comentario-103687
+# Referências de outros posts
+
+## 10/08/2011 13:25 - [[Posts/14812 - Horário Padrão|Horário Padrão]] - #103687 ^comentario-103687
 
 \[...\] diferentes atrapalhava o consumidor, e diminuía o valor do produto. Agora poderemos acompanhar as “novelas” das 16h, das 18h, das 20h e das \[...\]

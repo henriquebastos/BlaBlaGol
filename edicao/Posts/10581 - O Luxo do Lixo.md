@@ -184,6 +184,8 @@ Liberta??? HAUhuAHuAHuhAUhUAHUAHuHAuHAUhAUh…
 
 O interinho se fizer isso, começa muito mal: [http://www.lancenet.com.br/flamengo/noticias/10-08-28/816661.stm?futebol-toro-e-val-baiano-disputam-uma-vaga-no-fla](<https://web.archive.org/web/*/http://www.lancenet.com.br/flamengo/noticias/10-08-28/816661.stm?futebol-toro-e-val-baiano-disputam-uma-vaga-no-fla> "Captura ainda não verificada. Endereço original: http://www.lancenet.com.br/flamengo/noticias/10-08-28/816661.stm?futebol-toro-e-val-baiano-disputam-uma-vaga-no-fla")
 
-## 29/08/2010 15:47 - [[Pessoas/Zico, o Ombudsman|Zico, o Ombudsman]] - #68671 ^comentario-68671
+# Referências de outros posts
+
+## 29/08/2010 15:47 - [[Posts/10612 - Zico, o Ombudsman|Zico, o Ombudsman]] - #68671 ^comentario-68671
 
 \[…\] definida por outro agente rubronegro, a torcida: O maior patrimônio do Flamengo é a sua torcida. Quando ela se manifesta da forma como foi ontem, é preciso fazer uma reflexão. Saí do Maracanã com a convicção de que precisava mudar. A \[…\]

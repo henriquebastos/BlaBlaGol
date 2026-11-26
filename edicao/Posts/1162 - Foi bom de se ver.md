@@ -123,10 +123,12 @@ Pelo contrário. Eu sou pessimista. Acho que os dois tem tudo para dar com os bu
  Mas que os times são bons, isso são.  
  É só ver os zagueiros, os meio-campistas e os atacantes do Fluminense.
 
-## [[Pessoas/Botafogo pode surpreender at Blá blá Gol|Botafogo pode surpreender at Blá blá Gol]] - #9530 ^comentario-9530
+# Referências de outros posts
+
+## [[Posts/1166 - Botafogo pode surpreender|Botafogo pode surpreender]] - #9530 ^comentario-9530
 
 \[...\] Foi bom de se ver \[...\]
 
-## [[Pessoas/Impressões do amistoso at Blá blá Gol|Impressões do amistoso at Blá blá Gol]] - #9998 ^comentario-9998
+## [[Posts/1207 - Impressões do amistoso|Impressões do amistoso]] - #9998 ^comentario-9998
 
 \[...\] tem jeito de falar do Fla x Flu sem começar por Thiago Neves. Já escrevi no Blá blá Gol e repito, Thiago Neves não dosa seu futebol em função da partida. Ele entra para jogar bola em qualquer condição. Possivelmente era o único à vera em campo no \[...\]

@@ -1681,10 +1681,6 @@ Bender, qual o maior artilheiro do urubu de todos os tempos?
 
 [http://www.flamengo.com.br/flapedia/Artilheiros](<https://web.archive.org/web/*/http://www.flamengo.com.br/flapedia/Artilheiros> "Captura ainda não verificada. Endereço original: http://www.flamengo.com.br/flapedia/Artilheiros")
 
-## 24/06/2012 23:53 - [[Pessoas/E de onde tiraram que o Telecoteco é animador de auditório？|E de onde tiraram que o Telecoteco é animador de auditório?]] - #131698 ^comentario-131698
-
-\[...\] eu que sou HATER do Telecoteco defendo veementemente a opção espanhola. Um jogo da Espanha ou Barcelona sempre será bonito de \[...\]
-
 ## 27/10/2012 15:23 - [[Pessoas/rafael botafoguense|rafael botafoguense]] - #143343 ^comentario-143343
 
 O MITO LÊ BBG!
@@ -1784,3 +1780,9 @@ Mas a parada curiosa disso aí tudo é que jogo do Ibiraporinha pela 2ª divisã
 \*\*\*\*  
  Só depois que vi que já havia colocado essa lista aqui nesse post  
   [http://www.blablagol.com.br/tulio-maior-que-zico-e-dinamite-16738#comment-124095](<http://www.blablagol.com.br/tulio-maior-que-zico-e-dinamite-16738#comment-124095>) [[Posts/16738 - Túlio maior que Zico e Dinamite!|no acervo]]
+
+# Referências de outros posts
+
+## 24/06/2012 23:53 - [[Posts/17455 - E de onde tiraram que o Telecoteco é animador de auditório|E de onde tiraram que o Telecoteco é animador de auditório?]] - #131698 ^comentario-131698
+
+\[...\] eu que sou HATER do Telecoteco defendo veementemente a opção espanhola. Um jogo da Espanha ou Barcelona sempre será bonito de \[...\]

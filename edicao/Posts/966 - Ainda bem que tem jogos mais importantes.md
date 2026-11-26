@@ -29,8 +29,8 @@ Sorte que deve vir título do São Paulo por aí, tem Flamengo x Corinthians, qu
 [![[Anexos/d13b4c15aef7e70a7a94.jpg]]
 [Xerém (original)](<http://www.blablagol.com.br/wp-content/uploads/2007/10/xerem.jpg>)](<http://www.blablagol.com.br/wp-content/uploads/2007/10/xerem.jpg>)
 
-# Comentários
+# Referências de outros posts
 
-## 14/01/2010 13:33 - [[Pessoas/O Mistério de Xerém|O Mistério de Xerém]] - #47382 ^comentario-47382
+## 14/01/2010 13:33 - [[Posts/6687 - O Mistério de Xerém|O Mistério de Xerém]] - #47382 ^comentario-47382
 
 \[...\] Tartá surgiu no time principal do Fluminense ao fim de 2007 com bastante potencial. Aliás, o próprio clube deu tratamento de jóia a ele. Tanto que o nome foi rapidamente assimilado pela torcida. \[...\]

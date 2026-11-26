@@ -390,10 +390,6 @@ O ingresso dele da final de 1984 estava esperando companhia, mas vai ter que fic
 
 Para de chorar e liga para o Fabinho.
 
-## 2/12/2010 9:17 - [[Pessoas/Oferta do Dia꞉ Ingressos para Fluminense x Guarani|Oferta do Dia: Ingressos para Fluminense x Guarani]] - #76539 ^comentario-76539
-
-\[...\] a final que todos podem verGaburah on Goiás x Independiente: a final que todos podem verVictor on Quer ver o jogo decisivo do Fluminense? Boa sorte!Lincoln on Open-BarRobinson on 10 Razões para assistir Senna no CinemaSancho on Goiás x \[...\]
-
 ## 3/12/2010 12:09 - [[Pessoas/Gaburah|Gaburah]] - #76709 ^comentario-76709
 
 \[Via @pvcespn\]  
@@ -411,3 +407,9 @@ Essa foi **A** grande escrotice.
 ## 3/12/2010 13:38 - Nome não exibido - #76741
 
 Quando o Botafogo tentou vender pela internet, também deu merda e derrubou o site.
+
+# Referências de outros posts
+
+## 2/12/2010 9:17 - [[Posts/11856 - Oferta do Dia Ingressos para Fluminense x Guarani|Oferta do Dia: Ingressos para Fluminense x Guarani]] - #76539 ^comentario-76539
+
+\[...\] a final que todos podem verGaburah on Goiás x Independiente: a final que todos podem verVictor on Quer ver o jogo decisivo do Fluminense? Boa sorte!Lincoln on Open-BarRobinson on 10 Razões para assistir Senna no CinemaSancho on Goiás x \[...\]

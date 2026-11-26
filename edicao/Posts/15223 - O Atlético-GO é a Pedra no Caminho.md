@@ -104,14 +104,16 @@ O Fluminense ganhou, muito mais por sorte do que por juízo.
 
 Esse rubronegro aí tá danado.
 
-## 26/09/2011 10:30 - [[Pessoas/Bendito Diego Souza|Bendito Diego Souza]] - #107040 ^comentario-107040
+# Referências de outros posts
+
+## 26/09/2011 10:30 - [[Posts/15243 - Bendito Diego Souza|Bendito Diego Souza]] - #107040 ^comentario-107040
 
 \[...\] uma vez a Pedra aprontou. Com dois a menos, buscou o empate contra o Palmeiras. O Botafogo que se \[...\]
 
-## 2/10/2011 19:20 - [[Pessoas/Cristóvão em Dia de Ricardo|Cristóvão em Dia de Ricardo]] - #107630 ^comentario-107630
+## 2/10/2011 19:20 - [[Posts/15296 - Cristóvão em Dia de Ricardo|Cristóvão em Dia de Ricardo]] - #107630 ^comentario-107630
 
 \[...\] resultado, mais uma vez pelas circunstâncias do jogo, acabou sendo bom. Mesmo sendo um empate dentro de casa. O Vasco \[...\]
 
-## 2/10/2011 21:57 - [[Pessoas/Atlético-GO 2X0 Botafogo – Harry Potter e a Pedra Filosofada|Atlético-GO 2X0 Botafogo – Harry Potter e a Pedra Filosofada]] - #107655 ^comentario-107655
+## 2/10/2011 21:57 - [[Posts/15301 - Atlético-GO 2X0 Botafogo – Harry Potter e a Pedra Filosofada|Atlético-GO 2X0 Botafogo – Harry Potter e a Pedra Filosofada]] - #107655 ^comentario-107655
 
 \[...\] tanto me preocupa o resultado já que A Pedra, como filosofada em verso e prosa pela Voz da Experiência deste blog, vem tirando pontos de muita gente que está na briga lá na ponta superior da tabela. Aliado ao \[...\]

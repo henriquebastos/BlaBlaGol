@@ -78,10 +78,6 @@ Um dos direitos do torcedor (se não o maior) é a vaia. É sua crítica. E espo
 
 Toda torcida tem esses mongolóides. Mas, particularmente, não tenho que reclamar muito da torcida do Flamengo nesse aspecto. Geralmente concordo com as vaias. Que são constantes em alguns casos (Maurinho, Jamir, Jailton, Rodrigo Alvim), e em específicos momentos (Ronaldinho no último jogo que este atuou).
 
-## 5/05/2011 1:12 - [[Pessoas/Flu sem técnico alcança objetivo almejado|Flu sem técnico alcança objetivo almejado]] - #94022 ^comentario-94022
-
-\[...\] sorte não iria bater nas portas tricolores todas as partidas como fez no Engenhão quando o Libertad fora de casa mandou na partida e saiu com placar adverso por muita cagada tricolor. Como aviso ao time deliberadamente sem \[...\]
-
 ## 5/05/2011 20:57 - [[Pessoas/DANILO|Danilo]] - #94141 ^comentario-94141
 
 Caros tricolores, vamos por os pingos nos Is  
@@ -92,3 +88,9 @@ Caros tricolores, vamos por os pingos nos Is
  5) Se pudermos economizar, bem como foi feito com a rescisão de Muricy e Emerson, pode dar adeus aos insatisfeitos Souza e Araujo!  
  6) E pelo amor de Deus! Se contrataram o Tiago Sales (ex-fla) põe o cara pra jogar! Não vamos nos enganar mais ainda com L.Euzebio e Digão!  
  7) Se temos divisão de base, testa os “Torres Gemeas”. A garotada tem potencial: Maicon, Tartá e Fernando Bob, lógico q em proporções distintas.
+
+# Referências de outros posts
+
+## 5/05/2011 1:12 - [[Posts/13483 - Flu sem técnico alcança objetivo almejado|Flu sem técnico alcança objetivo almejado]] - #94022 ^comentario-94022
+
+\[...\] sorte não iria bater nas portas tricolores todas as partidas como fez no Engenhão quando o Libertad fora de casa mandou na partida e saiu com placar adverso por muita cagada tricolor. Como aviso ao time deliberadamente sem \[...\]

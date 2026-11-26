@@ -104,6 +104,8 @@ Alguém tem o telefone do Autuori aí?
 
 Qualquer clube do Brasil pode esquecer Autuori. Ele está muito bem no Catar e ninguém por aqui tem condições de pagar a milionária multa rescisória.
 
-## 3/02/2011 11:30 - [[Pessoas/Bangu 1X1 Botafogo – Bangu é pra jacu|Bangu 1X1 Botafogo – Bangu é pra jacu]] - #83883 ^comentario-83883
+# Referências de outros posts
+
+## 3/02/2011 11:30 - [[Posts/12496 - Bangu 1X1 Botafogo – Bangu é pra jacu|Bangu 1X1 Botafogo – Bangu é pra jacu]] - #83883 ^comentario-83883
 
 \[...\] assim dando sopa no mercado pra que a torcida do Botafogo acredite que a roda vai ser reinventada?? Que Joel é mercenário todo mundo sabe. Que sonha em voltar ao clube de SP onde fracassou, também. Mas, mais uma vez, o maior prejudicado \[...\]

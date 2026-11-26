@@ -215,14 +215,6 @@ HUAhuHAUHuaHAUHUAHAHUAHUAHUAUHAUhaHAau…
 
 MUITO BOM!!!
 
-## 2/07/2009 23:05 - [[Pessoas/Cantilena gremista|Cantilena gremista]] - #35073 ^comentario-35073
-
-\[...\] o 1º gol de Wellington (Paulista NÃO) e pronto. Achei que acabaria. Nada. Nem mesmo na hora do gol. Essa cantoria chata não sai da \[...\]
-
-## 3/07/2009 0:57 - [[Pessoas/À FINAL!!!|À FINAL!!!]] - #35078 ^comentario-35078
-
-\[...\] de quem escorou pra dentro? Wellington Parede. O apelido Paulista acabou, pra tranquilidade do Gaburah. Poucos minutos \[...\]
-
 ## 27/12/2009 17:21 - [[Pessoas/brenda|brenda]] - #46275 ^comentario-46275
 
 zoio de gato é o melhor apelido que já existiu esse apilido e muito maneiro kkkkkkkkkkkkkkkkkkkkkkk
@@ -230,3 +222,13 @@ zoio de gato é o melhor apelido que já existiu esse apilido e muito maneiro kk
 ## 17/03/2010 19:28 - [[Pessoas/wallison|wallison]] - #52903 ^comentario-52903
 
 narix de bistecaa
+
+# Referências de outros posts
+
+## 2/07/2009 23:05 - [[Posts/4336 - Cantilena gremista|Cantilena gremista]] - #35073 ^comentario-35073
+
+\[...\] o 1º gol de Wellington (Paulista NÃO) e pronto. Achei que acabaria. Nada. Nem mesmo na hora do gol. Essa cantoria chata não sai da \[...\]
+
+## 3/07/2009 0:57 - [[Posts/4338 - À FINAL!!!|À FINAL!!!]] - #35078 ^comentario-35078
+
+\[...\] de quem escorou pra dentro? Wellington Parede. O apelido Paulista acabou, pra tranquilidade do Gaburah. Poucos minutos \[...\]

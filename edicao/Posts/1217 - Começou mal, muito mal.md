@@ -135,10 +135,12 @@ Eu tb.
 
 Eu ia escrever um post “Blá blá Política”, sobre os cartões corporativos, mas tive náuseas.
 
-## Pingback on Feb 18th, 2008 at 23:58 - [[Pessoas/Perdidinho da Silva (Gênio) at Blá blá Gol|Perdidinho da Silva (Gênio) at Blá blá Gol]] - #10392 ^comentario-10392
+# Referências de outros posts
+
+## Pingback on Feb 18th, 2008 at 23:58 - [[Posts/1226 - Perdidinho da Silva (Gênio)|Perdidinho da Silva (Gênio)]] - #10392 ^comentario-10392
 
 _Texto não identificado na captura._
 
-## Pingback on Mar 18th, 2008 at 12:25 - [[Pessoas/Flamengo x Nacional. Por que o medo？ at Blá blá Gol|Flamengo x Nacional. Por que o medo? at Blá blá Gol]] - #12541 ^comentario-12541
+## Pingback on Mar 18th, 2008 at 12:25 - [[Posts/1325 - Flamengo x Nacional. Por que o medo|Flamengo x Nacional. Por que o medo?]] - #12541 ^comentario-12541
 
 _Texto não identificado na captura._

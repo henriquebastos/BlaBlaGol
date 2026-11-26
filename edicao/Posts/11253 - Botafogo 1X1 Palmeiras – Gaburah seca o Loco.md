@@ -274,6 +274,8 @@ Uma pena não ter podido compensar essa urucubaca gaburina e o seca pimente(l)ir
 
 ## 14/10/2010 12:00 - [[Pessoas/Thiago|thiago]] - #72982 ^comentario-72982
 
-## 24/10/2010 8:01 - [[Pessoas/Botafogo 1X0 Vitória – invicto há nove rodadas|Botafogo 1X0 Vitória – invicto há nove rodadas]] - #73443 ^comentario-73443
+# Referências de outros posts
+
+## 24/10/2010 8:01 - [[Posts/11344 - Botafogo 1X0 Vitória – invicto há nove rodadas|Botafogo 1X0 Vitória – invicto há nove rodadas]] - #73443 ^comentario-73443
 
 \[...\] à altura de outras (onde jogou bem melhor mas só conseguiu empatar – por uma razão ou por outra), o Botafogo quebrou ontem o jejum de vitórias contra o Vitória (hahaha, sem trocadilho) e deu o \[...\]

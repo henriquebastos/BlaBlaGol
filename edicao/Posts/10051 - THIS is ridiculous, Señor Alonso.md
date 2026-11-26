@@ -209,22 +209,24 @@ Também acho…
 
 Saulo comemora o fim da concorrência.
 
-## 6/08/2010 21:05 - [[Pessoas/Se não fosse a bandeira amarela…|Se não fosse a bandeira amarela…]] - #66264 ^comentario-66264
+# Referências de outros posts
+
+## 6/08/2010 21:05 - [[Posts/10208 - Se não fosse a bandeira amarela…|Se não fosse a bandeira amarela…]] - #66264 ^comentario-66264
 
 \[...\] 1 foi tão intensamente disputado. Por tudo que ocorreu no passado, fossem nos papos de alcova da equipe mais escrota da F1 ou nas declarações de parte a parte nos últimos tempos, nenhum dos dois pilotos queriam perder \[...\]
 
-## 2/09/2010 2:07 - [[Pessoas/300 vezes Barrichello|300 vezes Barrichello]] - #69057 ^comentario-69057
+## 2/09/2010 2:07 - [[Posts/10600 - 300 vezes Barrichello|300 vezes Barrichello]] - #69057 ^comentario-69057
 
 \[...\] aquela equipe, continuamos sem comentários até que saia alguma conclusão do julgamento. Só para lembrar que o \[...\]
 
-## 17/11/2010 15:13 - [[Pessoas/O título para o verdadeiro campeão⧵∗|O título para o verdadeiro campeão*]] - #75158 ^comentario-75158
+## 17/11/2010 15:13 - [[Posts/11608 - O título para o verdadeiro campeão|O título para o verdadeiro campeão\*]] - #75158 ^comentario-75158
 
 \[...\] Para dar algum tempero mais sofisticado na corrida, a atuação da McLaren foi fundamental para manter Alonso longe do pódio. Lewis Hamilton, o francoatirador, bem que tentou acompanhar Vettel na espera por um milagre. Jenson Button, já de olho em 2011, foi malandro o suficiente para pular na frente de Alonso logo na largada e dessa forma decretou que o dia estava nublado em Maranello. Castigo merecido, praga rogada por um mundo inteiro que ficou estupefato com o ridículo episódio “Fernando is faster than you“. \[...\]
 
-## 31/03/2011 15:28 - [[Pessoas/Sai ano, entra ano, e Vettel continua na cabeça|Sai ano, entra ano, e Vettel continua na cabeça]] - #90579 ^comentario-90579
+## 31/03/2011 15:28 - [[Posts/13039 - Sai ano, entra ano, e Vettel continua na cabeça|Sai ano, entra ano, e Vettel continua na cabeça]] - #90579 ^comentario-90579
 
 \[...\] com uma nova e lustrosa pintura no casco, não consegue mais brilhar como antes do episódio FIFTY. Um sombrio prognóstico de involução na carreira paira sobre o brasileiro. Ele até conseguiu se \[...\]
 
-## 28/03/2012 11:31 - [[Pessoas/Alonso em dia de super-herói|Alonso em dia de super-herói]] - #121988 ^comentario-121988
+## 28/03/2012 11:31 - [[Posts/16584 - Alonso em dia de super-herói|Alonso em dia de super-herói]] - #121988 ^comentario-121988
 
 \[...\] de equipes”. O suspeitíssimo be careful… we need this position lembrou muito aquele Fernando is faster than you, e de qualquer forma, sendo ou não por influência ou ordem do pitwall vermelho, o fato é que \[...\]
